@@ -1,0 +1,52 @@
+{
+  "scheme_id": "68271136f2de71e7817c1519",
+  "slug": "pmpy",
+  "scheme_name": "Palak Mata-Pita Yojana",
+  "scheme_short_title": "PMPY",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Empowerment Department",
+  "dbt_scheme": true,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Foster Parent",
+    "Orphan",
+    "Child Welfare",
+    "Financial Assistance"
+  ],
+  "brief_description": "The \"Palak Mata-Pita Yojana\" introduced on 29th August, 2009 by the Social Justice and Empowerment Department, Gujarat, provides a monthly assistance of \u20b93000 to foster parents raising orphaned children or children whose mother has remarried after the father's death.",
+  "detailed_description": "The &amp;quot;Palak Mata-Pita Yojana&amp;quot; introduced on 29th August, 2009 by the Social Justice and Empowerment Department, Gujarat, aims to provide monthly assistance of Rs. 3000/- is paid to the close relative, guardian or relative who is taking care of the orphaned children who are studying and whose mother and father are both deceased or whose father is deceased and the mother has remarried. This assistance is paid through DBT.",
+  "benefits": [
+    "Financial Assistance: \u20b93,000/- per month."
+  ],
+  "eligibility_criteria": "The applicant must be a close relative, guardian, or foster parent taking care of the child. The applicant must be caring for a child aged between 0 to 18 years. The applicant must be taking care of a child whose both parents are deceased, or whose father is deceased and mother has remarried. The applicant must ensure that the child between 3 to 6 years is enrolled in an Anganwadi center. The applicant must ensure that the child above 6 years is enrolled in a school for compulsory education. The applicant must submit a certificate from the school or institution every year confirming the child's ongoing education. The applicant must have an annual family income not exceeding \u20b927,000/- in rural areas. The applicant must have an annual family income not exceeding \u20b936,000/- in urban areas.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Go to the   eSamajKalyan portal and Register/Login.",
+        "Step 2: Fill in the online application form under \"Palak Mata-Pita Yojana\".",
+        "Step 3: Upload the required documents and Submit the application."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Scheme No. 406)",
+      "url": "https://mariyojana.gujarat.gov.in/MoreDetails.aspx"
+    },
+    {
+      "title": "Guidelines 2",
+      "url": "https://sje.gujarat.gov.in/dsd/scheme/palak-mata-sccheme"
+    }
+  ],
+  "documents_required": "Aadhaar Card. Age Proof. Bank Pass Book/Cancelled Cheque. Birth Certificate. Children's Aadhar Card. Death Certificate. Income Certificate. Ration Card. School Leaving Certificate. Self Declaration (in Original)."
+}

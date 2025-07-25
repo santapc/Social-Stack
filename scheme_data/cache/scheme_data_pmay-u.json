@@ -1,0 +1,64 @@
+{
+  "scheme_id": "62a198e0b53f102de0e5a396",
+  "slug": "pmay-u",
+  "scheme_name": "Pradhan Mantri Awas Yojana - Urban",
+  "scheme_short_title": "PMAY - U",
+  "level": "Central",
+  "dbt_scheme": true,
+  "categories": [
+    "Housing & Shelter",
+    "Utility & Sanitation"
+  ],
+  "sub_categories": [
+    "Slum Rehabilitation/Redevelopment",
+    "Electricity",
+    "Water supply",
+    "Sanitation / Sewage",
+    "Housing",
+    "Solid waste management",
+    "Loan"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Housing",
+    "Urban",
+    "Rehabilitation",
+    "Loan",
+    "Sanitation"
+  ],
+  "brief_description": "A flagship mission implemented by MoHUA, addressing urban housing shortage. The beneficiaries include Economically Weaker Section (EWS) / Low Income Group (LIG) and Middle Income Group (MIG) categories, including slum dwellers, by ensuring a pucca house to all eligible urban households by 2022.",
+  "detailed_description": "A flagship mission implemented by MoHUA, addressing urban housing shortage. The beneficiaries include Economically Weaker Section (EWS) / Low Income Group (LIG) and Middle Income Group (MIG) categories, including slum dwellers, by ensuring a pucca house to all eligible urban households by 2022. All eligible beneficiaries under all components of the scheme should have an Aadhaar/ Aadhaar Virtual ID. The Mission, as per Census 2011, covers the entire urban area consisting of Statutory Towns, Notified Planning Areas, Development Authorities, Special Area Development Authorities, Industrial Development Authorities or any such authority under State legislation which is entrusted with the functions of urban planning &amp; regulations. <br> The objective of the scheme is to improve the affordability of land and property amidst the continuous surge in prices. PMAY promotes and encourages sustainable and affordable housing. PMAY is a Credit Linked Subsidy Scheme (CLSS) and is also known by the name &quot;Housing for All by 2022&quot;. Individuals availing loans to buy residential property or land or to construct homes would be eligible for interest subsidies on the said credit.",
+  "benefits": [
+    "Slum rehabilitation of eligible Slum Dwellers with participation of private developers using land as a resource. Promotion of Affordable Housing through Credit Linked Subsidy Scheme (CLSS). EWS: Annual Household Income up to Rs.3,00,000; house sizes upto 30 sq.m; LIG: Annual Household Income from Rs.3,00,001 to Rs.6,00,000; house sizes upto 60 sq.m; MIG I: Annual Household Income from Rs. 6,00,001 to Rs. 12,00,000; house sizes upto 160 sq.m; MIG II: Annual Household Income from Rs.12,00,001 and 18,00,000; house sizes upto 200 sq.m Affordable Housing in Partnership with Public & Private sectors: Central Assistance per EWS house in projects where 35% of houses are for EWSs Subsidy for Beneficiary-Led individual house construction /enhancement: For individuals of EWS category requiring individual house (separate project for such beneficiaries)"
+  ],
+  "eligibility_criteria": "1. The family identifies as one of the following -\na) Economically Weaker Section (EWS): households with annual income up to \u20b9 3,00,000.\nb) Low Income Group (LIG): households with annual income between \u20b9 3,00,001 and \u20b9 6,00,000.\nc) Middle Income Group-1 (MIG-1): households with annual income between \u20b9 6,00,001 and \u20b9 12,00,000.\nd) Middle Income Group-2 (MIG-2): households with annual income between \u20b9 12,00,001 and \u20b9 18,00,000.\n2. The applicant or his/her family members must not be owning a pucca house in any part of the country.\n3. The family must comprise of husband/wife and unmarried children.\n4. The town/city in which the family resides must be covered under the scheme.\n5. The family MUST NOT have previously availed the benefits of any housing-related schemes set up by the Government of India.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Visit the Official Website of PMAY-Urban .",
+        "Step 2: Select the \u2018Citizen Assessment' option and click on the applicable choice: \"For Slum Dwellers\" or \"Benefits under other three components\".",
+        "Step 3: Enter your Aadhaar Card details. This will redirect you to the online application form. In the form, fill in all the mandatory details, and upload the required documents. The details to be filled include name, contact number, other personal details, bank account and income details, among others.",
+        "Step 4: At the bottom of the form, click \u2018Save' and enter the Captcha code. The application is now complete and a print can be taken at this stage for future reference."
+      ]
+    },
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: Visit a Common Service Centre (CSC) near you .",
+        "Step 2: Purchase the application form by paying \u20b9 25 (plus GST) at the counter.",
+        "Step 3: In the form, fill in all the mandatory details, and attach copies of the required documents. The details to be filled include name, contact number, other personal details, bank account and income details, among others.",
+        "Step 3: Submit the duly filled and signed application form at the CSC."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://pmay-urban.gov.in/uploads/guidelines/62381c744c188-Updated-guidelines-of-PMAY-U.pdf"
+    }
+  ],
+  "documents_required": "Aadhaar Number (or Aadhaar/ Aadhaar Enrolment ID) Self-Certificate / Affidavit as Proof of Income. Identity and Residential Proof (PAN card, Voter ID, Driving License) Proof of Minority Community (if the applicant belongs to a Minority Community) Proof of Nationality EWS Certificate / LIG Certificate / MIG Certificate (as applicable) Salary Slips IT Return Statements Property Valuation Certificate Bank Details and Account Statement Affidavit / Proof that the applicant does not own a \u2018pucca' house Affidavit / Proof that the applicant is constructing a home under the scheme"
+}

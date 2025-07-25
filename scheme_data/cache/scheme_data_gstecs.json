@@ -1,0 +1,90 @@
+{
+  "scheme_id": "652d2e682a298fe1b4855eda",
+  "slug": "gstecs",
+  "scheme_name": "GST Exemption Certificate Scheme",
+  "scheme_short_title": "GSTECS",
+  "level": "Central",
+  "nodal_department": "Department Of Heavy Industry",
+  "dbt_scheme": false,
+  "categories": [
+    "Transport & Infrastructure",
+    "Social welfare & Empowerment",
+    "Utility & Sanitation"
+  ],
+  "sub_categories": [
+    "Public transport and private vehicles",
+    "Registration and licenses",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "GST",
+    "Person With Disability",
+    "PwD",
+    "Concession",
+    "Certificate",
+    "Car"
+  ],
+  "brief_description": "\"GST Exemption Certificate Scheme\" has been introduced by the Dept. of Heavy Industries, for issuing certificates to Persons with Disabilities (PwDs) having a disability percentage equal to or greater than 40%. The scheme provides GSC Concession to orthopedically disabled persons on purchase of car.",
+  "detailed_description": "The &quot;GST Exemption Certificate Scheme&quot; has been introduced by the Department of Heavy Industries, Ministry of Heavy Industries for issuing certificates to Persons with Disabilities (PwDs) having a disability percentage equal to or greater than 40%. The scheme provides GSC Concession to orthopedically disabled persons on purchase of a car.",
+  "benefits": [
+    "A concession of 10% on GST can be availed through this certificate and zero cess would be applicable. A person availing of this certificate will have to pay 18% GST & no cess instead of 28% GST & applicable cess on the purchase of a car. The certificate is issued within a month of receipt of the application complete in all respects. The certificate is valid for a period of 6 months from the date of issuance."
+  ],
+  "eligibility_criteria": "Any Orthopedic Physically handicapped person having a permanent disability of 40% & above can apply for the benefit under the scheme, irrespective of whether the applicant drives the vehicle himself or otherwise. Cars (automatic or manual) having a length less than or equal to 4m and engine capacity of not more than 1200 cc (petrol, Liquefied Petroleum Gases (LPG) or compressed natural gas (CNG) or 1500 cc (diesel) qualify for purchase under this scheme. The said Certificate for availing the GST concession would be valid for a period of three months from the date of issue of the certificate and the vehicle would have to be purchased by the applicant within this three-month period to avail the concession.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Interested and eligible applicants may send their applications in the prescribed format along with all required documents to the following address: The Under Secretary (AEI Section), Department of Heavy Industry, Udyog Bhavan, Room No 428, New Delhi 110011, Tel: 011-23061490 The applicant would inform DHI about the purchase of the vehicle and the Registration number of the vehicle to the Department of Heavy Industry within a period of 30 days from the date of registration of the vehicle."
+      ]
+    },
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Home Page",
+        "Visit the official website at https://dhigecs.heavyindustry.gov.in/ using any web browser or device.",
+        "Step 2: Login and Registration",
+        "If you are not registered, click the \"REGISTER\" button on the home page. Follow the registration process, which includes providing your full name, valid email ID, mobile number, and Aadhar number. An OTP will be sent to your registered mobile number for verification. You will also need to specify if you have a UDID number. If you do, provide the UDID number and validate it.",
+        "Step 3: Create Password",
+        "Create a password that meets the specified criteria (at least one lowercase letter, one uppercase letter, one number, one special character, and a minimum length of 8 characters). Confirm your password and enter the captcha code. Agree to the terms and conditions, and click \"REGISTER.\"",
+        "Step 4: Activate Your Account",
+        "Check your registered email for a 4-digit OTP and click the provided activation link. Enter the OTP to activate your account.",
+        "Step 5: User Dashboard",
+        "After successful registration and activation, log in to the site using your email ID and the password you created. You'll be directed to the User Dashboard, where you can fill in your information. Save your filled information by clicking the \"Draft\" button and proceed to the next steps.",
+        "Step 6: Application Submission",
+        "Complete all mandatory fields marked with an asterisk (*) in the User Dashboard. Click \"Next\" to proceed and continue to fill in additional mandatory fields on the subsequent page (SCR-11). Once all information is filled, click \"Final Submit.\"",
+        "Step 7: Check Application Status",
+        "Visit the Application Status page (SCR-12) to track the progress of your GST Exemption Certificate application. When your status shows \"Approved,\" you can click \"Download Certificate\" to access your certificate.",
+        "Step 8: Update Vehicle Details",
+        "After purchasing a vehicle, it's mandatory to update your vehicle details. Click on \"Update Vehicle Details\" as displayed in SCR-14. Provide your vehicle number and the date of purchase.",
+        "Step 9: Request Form for OEM/Company",
+        "If the OEM/Company or model of your vehicle is not listed, you can request to add new entries. Click \"Add New OEM/Company Request\" and provide the relevant information as shown in SCR-15."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://gecs.heavyindustries.gov.in/assets/site/main/DHIGECS_procedure_(Revised).pdf"
+    },
+    {
+      "title": "User Manual - Application Process",
+      "url": "https://gecs.heavyindustries.gov.in/assets/site/main/User_Manual_New.pdf"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://gecs.heavyindustries.gov.in/assets/site/main/FAQS.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://gecs.heavyindustries.gov.in/home/contactUs"
+    },
+    {
+      "title": "Approved Applications",
+      "url": "https://gecs.heavyindustries.gov.in/home/allOnlineGSTConcessionApprovedApplicant"
+    }
+  ],
+  "documents_required": "Aadhar Card PAN Card Unique Disability ID card (UDID) (issued by the Ministry of Social Justice and Empowerment, Govt. of India) or Disability certificate (issued by Central Govt./State Govt./District Govt. bearing the proper signature and seal of the issuing authority wherein their name and registration no. should be mentioned) Income Tax Return filed for the last three years. Self-Declaration stating that he has not availed this concession in the last five years and he will not dispose of the vehicle after availing the GST concession for a period of 5 years from the date of purchase in the prescribed format placed in Annexure C. Details of the Vehicle Model they intend to purchase along with the name of the dealer from whom the vehicle will be purchased and the name of RTO, where the vehicle will be registered.\nNOTE: If a person does not have either of the medical certificates as referred above, then duly-filled annexure B is required with the signature and countersignature of orthopaedic doctor and civil surgeon rank officers respectively with their seal indicating their name and registration number."
+}

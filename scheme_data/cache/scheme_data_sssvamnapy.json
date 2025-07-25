@@ -1,0 +1,67 @@
+{
+  "scheme_id": "65ccf736cd96dc5e07534ae4",
+  "slug": "sssvamnapy",
+  "scheme_name": "Samagra Samajik Suraksha Vridh Ashram Mai Nivaasarat Ant-vasi Pension Yojana",
+  "scheme_short_title": "SSSVAMNAPY",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Department of Social Justice and Empowerment of Persons with Disabilities",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Pension",
+    "Financial assistance",
+    "Citizen empowerment"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Empowerment",
+    "Pension",
+    "Vridvashram",
+    "Financial"
+  ],
+  "brief_description": "Under this scheme, the Madhya Pradesh government provides financial support to the citizens who live in old age homes recognized by the Department of Social Justice.",
+  "detailed_description": "Samagra Samajik Suraksha Vridh Ashram Mai Nivastan Athavasi Pension Yojana under the Department of Social Justice government of Madhya Pradesh provides financial support to the citizens of Madhya Pradesh who live in old age homes recognized by the Department of Social Justice.",
+  "benefits": [
+    "Pension amount: \u20b9 600/- per month."
+  ],
+  "eligibility_criteria": "The applicant is a native of Madhya Pradesh. The applicant Resident above 60 years of age residing in Vridvashram. The applicant's name is marked on the Samagra portal.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: Applicants can apply for the scheme using the prescribed format and submitting the necessary documents either to the designated officer's office, the Gram Panchayat, or a Public Service Center.",
+        "Step 2: Upon submitting a complete application, the applicant will receive a mandatory acknowledgment from the office.",
+        "Step 3 : The District Panchayat/Gram Panchayat/Urban Body/Ward Office will scrutinize the documents submitted with the application.",
+        "Step 4 : If, after investigation, the documents are found to be incorrect according to the rules, the application will be rejected with written explanation.",
+        "Step 5 : If, after investigation, the documents are found to be correct, the pension case will be approved according to the rules.",
+        "Step 6: Once the pension is approved, the beneficiary's name will be added to the pension proposal for the current month by the District Panchayat/Gram Panchayat/Urban Body/Ward Office. The approved order will be maintained on record.",
+        "Step 7 : The Directorate will deposit the monthly pension amount directly into the beneficiary's bank savings account through a single click, starting from the same month the approval is granted."
+      ]
+    },
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1 Go to the Samajik Suraksha portal. ",
+        "Step 2 : Click on Samajik Suraksha pension avm arthik sahayata yojanaen. ",
+        "Step 3: Now click on the left on your screen Pension Yojana hetu online aavedan.",
+        "Step 4: Fill in the required details and submit."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://socialsecurity.mp.gov.in/Scheme/SSPOAH.aspx"
+    },
+    {
+      "title": "Apply Portal",
+      "url": "https://socialsecurity.mp.gov.in/Home.aspx"
+    }
+  ],
+  "documents_required": "Three photos. Certificate for proof of age."
+}

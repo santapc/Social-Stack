@@ -1,0 +1,45 @@
+{
+  "scheme_id": "67e2900d0aa19c6dc28b34c6",
+  "slug": "dvrsf",
+  "scheme_name": "Diesel VAT Relief Scheme for Fishermen",
+  "scheme_short_title": "DVRSF",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Agriculture, Farmers Welfare and Cooperation Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Fishing and hunting"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Agriculture",
+    "Fishing Activities",
+    "Fishermen"
+  ],
+  "brief_description": "The \"Diesel VAT Relief Scheme for Fishermen\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to provide financial assistance by subsidizing the VAT levied on high-speed diesel used in fishing boats.",
+  "detailed_description": "The &amp;quot;Diesel VAT Relief Scheme for Fishermen&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to support fishermen by subsidizing the VAT on diesel, making fuel more affordable for their mechanized boats. This helps reduce the operational cost of fishermen using mechanized boats.",
+  "benefits": [
+    "Name of Component | Standard of Assistance | Minimum Time Limit (in Years) for Reclaiming Benefits\nDiesel VAT assistance | Per litre maximum assistance up to \u20b915/- | Assistance is available as per fixed diesel quota throughout the year"
+  ],
+  "eligibility_criteria": "The applicant must be a registered diesel cardholder. The applicant must own a mechanized fishing boat. The boat should be less than 20 meters in length.\n\n",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Fishermen must obtain a token number from https://fisheries.gujarat.gov.in/Registration.aspx using their personal details.  Step 2: Diesel cardholder fishermen must purchase fuel from government-approved diesel pumps. Step 3: The VAT relief is credited automatically via an online system."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=v4lc2tu73R/9lWYKO76SRg==&domain=qO9v1Yt1qFTmoiKMRXBpiA=="
+    }
+  ],
+  "documents_required": "Valid Diesel Card issued by the government. Boat registration certificate. Identification proof (Aadhaar Card, Fishermen ID, etc.). Any other documents as required."
+}

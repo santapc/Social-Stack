@@ -1,0 +1,67 @@
+{
+  "scheme_id": "6787e59fd667626b5f0a093f",
+  "slug": "glpsc",
+  "scheme_name": "Civil Service Incentive (De-Notified, Nomadic and Semi-nomadic communities )",
+  "scheme_short_title": "CSIDNNASNC",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Department of De-notified, Nomadic and Semi-nomadic Welfare Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Student",
+    "Education",
+    "Financial Assistance",
+    "Civil",
+    "Nomadic"
+  ],
+  "brief_description": "The \"Civil Service Incentive\" by the Department of De-notified, Nomadic, and Semi-Nomadic Welfare, Government of Madhya Pradesh, offers an incentive of \u20b920,000 to \u20b950,000 for successful candidates from these communities in MPPSC and UPSC civil service exams.",
+  "detailed_description": "The &quot;Civil service incentive&quot; by the Department of De-notified, Nomadic, and Semi-Nomadic Welfare, Government of Madhya Pradesh, provides an incentive amount ranging from \u20b920,000/- to \u20b950,000/- to qualified candidates from De-notified, Nomadic, and Semi-Nomadic communities for their success in various levels of civil service examinations conducted by the Madhya Pradesh Public Service Commission (MPPSC) and the Union Public Service Commission (UPSC).",
+  "benefits": [
+    "On Passing the Preliminary Examination:",
+    "\u20b920,000/- (Madhya Pradesh Public Service Commission) \u20b940,000/- (Union Public Service Commission)",
+    "On Passing the Main Examination:",
+    "\u20b930,000/- (Madhya Pradesh Public Service Commission) \u20b960,000/- (Union Public Service Commission)",
+    "On Passing the Interview:",
+    "\u20b925,000/- (Madhya Pradesh Public Service Commission) \u20b950,000/- (Union Public Service Commission)"
+  ],
+  "eligibility_criteria": "The applicant should be from De-notified, Nomadic, or Semi-Nomadic communities. The applicant should have passed one of the following stages of the MPPSC or UPSC Examination: Preliminary Exam, Main Exam, or Interview.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration",
+        "Step 1: Visit the \" Samarth Portal \".",
+        "Step 2: Navigate to the top right corner of the homepage and click \" Registration\". ",
+        "Step 3: On the registration page, provide the mandatory details. (the fields marked with * are mandatory). If required, verify your Mobile Number and/or Email ID via OTP. Finally, click \"Register\".",
+        "Application",
+        "Step 1: Visit the \" Samarth Portal \".  ",
+        "Step 2:  Use the credentials you created during registration to log in.",
+        "Step 3:  Navigate to the online application form of the scheme you intend to apply for.",
+        "Step 4:  In the application form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size.",
+        "Step 5:  Carefully review all the information provided. Make any necessary corrections.",
+        "Step 6:  Acknowledge and agree to the terms and conditions, declaration, and privacy policy (if any).",
+        "Step 7:  Click the \"Submit\" to submit your application."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://samarth.mp.gov.in/Public/Pages/SchemeDetail?ID=1"
+    },
+    {
+      "title": "Registration",
+      "url": "https://samarth.mp.gov.in/Registration/Default.aspx"
+    }
+  ],
+  "documents_required": "Passport-size Photograph Aadhaar Card Domicile Certificate Caste Certificate Samagra ID Bank account Details Proof of Having Passed one of the following stages of the MPPSC or UPSC Examination: Preliminary Exam, Main Exam, or Interview."
+}

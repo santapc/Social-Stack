@@ -1,0 +1,70 @@
+{
+  "scheme_id": "65cb397fcd96dc5e07519cb6",
+  "slug": "rrcgcdb",
+  "scheme_name": "Replanting & Rejuvenation of Coconut Garden\" by the Coconut Development Board",
+  "scheme_short_title": "RRCGCDB",
+  "state": "Puducherry",
+  "level": "State/ UT",
+  "nodal_department": "Agriculture Department, Puducherry",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Wildlife and biodiversity",
+    "Environmental management and protection",
+    "Financial assistance",
+    "Land and water resources"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Plant",
+    "Garden",
+    "Coconut",
+    "Seed",
+    "Financial Assistance",
+    "Farmer"
+  ],
+  "brief_description": "Through the scheme \"Replanting & Rejuvenation of Coconut Garden (R&R)\" by the Coconut Development Board, the coconut farmers are provided financial assistance through DBT (Direct Benefit Transfer) mode for the cutting & removal, replanting, and for integrated management practices.",
+  "detailed_description": "The scheme \"Replanting &amp; Rejuvenation of Coconut Garden (R&amp;R)&quot; by the Coconut Development Board was launched by the Department of Agriculture and Farmer&#39;s Welfare, Union Territory of Puducherry. Through this scheme, the coconut farmers are provided financial assistance through DBT (Direct Benefit Transfer) mode for the cutting &amp; removal, replanting, and for integrated management practices.",
+  "benefits": [
+    "Cutting & Removal @ \u20b9 1,000/\u2010 per palm subject to a maximum of \u20b9 32,000/ per hectare. Assistance for Replanting @ \u20b9 40 per seedling subject to a maximum of \u20b9 4,000. Integrated Management Practices @ \u20b9 17,500/\u2010 per hectare in two annual installments, for upto 4 hectares per farmer. Seasonality: Annually."
+  ],
+  "eligibility_criteria": "All categories of coconut farmers with farmer's identity cards/ authenticated land records/documents are eligible.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the Uzhavar Udhaviyagam (Farmers' Help Centres) or the Office of the Additional Director of Agriculture (Horticulture) and request a hard copy of the prescribed format of the application form from the Agricultural Officer.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form and the documents to the concerned authority.",
+        "Step 4: On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Standard Operating Procedure",
+      "url": "https://agri.py.gov.in/sites/default/files/schemes/Horticulture%20SOP.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://agri.py.gov.in/sites/default/files/pdf/Horti_Application_Coconut.pdf"
+    },
+    {
+      "title": "Citizen's Charter",
+      "url": "https://agri.py.gov.in/sites/default/files/citchart/subsch.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://agri.py.gov.in/emailcontact.html"
+    },
+    {
+      "title": "Grievance Redressal",
+      "url": "https://agri.py.gov.in/sites/default/files/citchart/grievance.pdf"
+    }
+  ],
+  "documents_required": "In the case of land owners cultivating their land, a copy of the farmer identity card containing the details of survey numbers and the extent of land holding needs to be submitted along with the application form. If no identity card is issued to the farmer to date a copy of the land document (sale deed/ partition deed/ gift deed or will) needs to be submitted. The tenants cultivating lands owned by religious Institutions/Wakfs/Mutts/Trusts/ Municipalities shall produce a letter of consent from the authority of the institutions concerned as prescribed by the Department. Further, tenants shall produce a cultivation certificate from the land owner or Agriculture Department / Revenue Department who carried out joint verification for the purpose."
+}

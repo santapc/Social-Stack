@@ -1,0 +1,47 @@
+{
+  "scheme_id": "678fbb22a9fcbe16393dcf4e",
+  "slug": "jsfss",
+  "scheme_name": "Jharkhand State Food Security Scheme",
+  "scheme_short_title": "JSFSS",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Food, Public Distribution and Consumer affairs Department",
+  "implementing_agency": "Directorate Of Food And Consumer Affairs, Ranchi",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Food Security / Public Distribution System"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Subsidized Rate",
+    "JSFSS",
+    "Food Grain"
+  ],
+  "brief_description": "The \"Jharkhand State Food Security Scheme (JSFSS)\" by the Department of Food, Public Distribution and Consumer Affairs, Government of Jharkhand, aims to ensure food security by providing subsidized/free rice to eligible Green Card holders.",
+  "detailed_description": "The &quot;Jharkhand State Food Security Scheme (JSFSS)&quot; by the Department of Food, Public Distribution and Consumer Affairs, Government of Jharkhand, aims to provide subsidized/free food grains to eligible beneficiaries. Through this scheme, food grain, primarily rice, is provided at a subsidized rate or free of cost to individuals holding a Green Card. The scheme is implemented by the Directorate of Food and Consumer Affairs, Ranchi.",
+  "benefits": [
+    "Subsidized/free rice is provided to Green Card holders beneficiaries under JSFSS. Benefits are delivered directly through the Directorate of Food and Consumer Affairs.",
+    "NOTE : Priority is given to individuals from economically weaker sections."
+  ],
+  "eligibility_criteria": "The applicant must be a resident of Jharkhand. The applicant must possess a Green Card issued under JSFSS.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Visit the nearest ration shop or designated enrollment center with the required documents. If an Aadhaar is not available, apply for Aadhaar enrollment at an authorized center. Submit the Aadhaar number or Aadhaar Enrolment Identification Slip during registration. Verify the eligibility and documents with the designated officer. Collect the food grains from the distribution center as per the monthly schedule."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.jharkhand.gov.in/PDepartment/ViewDoc?id=D009DO003SD00625102023010457574"
+    }
+  ],
+  "documents_required": "Aadhaar Card or Aadhaar Enrolment Identification Slip. Bank or Post Office Passbook with Photo. Permanent Account Number (PAN) Card. Passport (if available). Ration Card. Voter Identity Card. MGNREGA Card. Kisan Photo Passbook. Driving License issued under the Motor Vehicles Act, 1988. Certificate of Identity with a photo issued by a Gazetted Officer or Tehsildar on official letterhead."
+}

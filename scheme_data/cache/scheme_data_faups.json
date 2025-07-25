@@ -1,0 +1,57 @@
+{
+  "scheme_id": "67ae46d2250aabd48cbf6932",
+  "slug": "faups",
+  "scheme_name": "Financial Assistance to Widower and Unmarried Persons Scheme : For Unmarried",
+  "scheme_short_title": "FAWUPSU",
+  "state": "Haryana",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Empowerment Department",
+  "implementing_agency": "Social Justice, Empowerment, Welfare Of Scheduled Castes And Backward Classes And Antyodaya (SEWA) Department, Haryana",
+  "dbt_scheme": true,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Unmarried",
+    "Financial Assistance",
+    "Social Security",
+    "Empowerment"
+  ],
+  "brief_description": "The aim of the scheme is to provide Social Security to Unmarried Persons who are unable to sustain themselves from their own sources and are in need of financial assistance from the State.",
+  "detailed_description": "The scheme &amp;quot;Financial Assistance to Widower and Unmarried Persons Scheme: For Unmarried&amp;quot; is implemented by the Social Justice, Empowerment, Welfare of Scheduled Castes and Backward Classes and Antyodaya (SEWA) Department, Government of Haryana. The scheme came into effect on 1st July, 2023, with the aim of providing Social Security to Unmarried Persons who are unable to sustain themselves from their own sources and are in need of financial assistance from the State. Under this scheme, a monthly financial assistance of \u20b92750/- is provided to an unmarried person, male as well as female, who has attained the age of 45 years and belongs to a family whose verified annual family income is upto \u20b91,80,000/-.",
+  "benefits": [
+    "The scheme provides monthly financial assistance of \u20b92750/- to eligible beneficiaries. The financial assistance will continue until the beneficiary turns 60 years old. Mode of Disbursement: The financial assistance is disbursed through the Public Finance Management System (PFMS) directly into the beneficiary's bank account. Note: The Bank will not permit the beneficiary to withdraw the benefits from outside the district in which he/she is registered. Frequency of Disbursement: The assistance is provided on a monthly basis. Expected Time of Disbursement: The beneficiary list is updated monthly, and payments are processed accordingly. Validity: The assistance continues until the beneficiary turns 60 years old, after which they may transition to the Old Age Samman Allowance Scheme."
+  ],
+  "eligibility_criteria": "The applicant should be a domicile of Haryana or have been residing in the state for at least the last 15 years. The applicant should be unmarried, whether male or female. The applicant should have attained the age of 45 years. The applicant should belong to a family with a verified annual income of up to \u20b91.80 lakh. The applicant should possess a Family ID, as verification is based on data from the Haryana Parivar Pehchan Authority (HPPA).\nOther terms and Conditions:\nAny benefits received under the Scheme, by suppressing true information or making wrong claim or the condition for which the pension was granted no longer exists or the beneficiary got married after the grant of benefit, would be recovered as arrears of land revenue with @12% interest per annum. Financial Assistance shall cease to be payable on the death of a beneficiary. However, the amount of assistance will be paid for full month in which death of the beneficiary occurs (any date of the month) to the nominee. Financial Assistance under this scheme shall not be liable to attachment under any court of law. If a person is detected of having more than one bank account under the PFMS, all his bank accounts will be terminated. He/she would become ineligible to receive benefits under any Social Security Scheme of the State in future.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Apply for Scheme: Registration Process on Antyodaya-SARAL Portal: Step 01: To avail of the benefits of the scheme, the applicant needs to visit the Official Portal - Antyodaya-SARAL Portal  Step 02: If the applicant is not registered on the portal, then he/she gets registered on the portal. Step 03: For registration, click on \"New User/Register Here\" and fill in all the mandatory details i.e. Name, Email ID, Mobile Number & password. Click on \u2018Submit'. Step 04: Applicants will receive the login ID on their mobile number. Login to Apply for the Scheme: Step 01: Visit the Official Portal - Antyodaya-SARAL Portal  Step 02: The \"Sign in here\" option is available on the right side of the screen. Applicant needs to fill in their credentials and click on the \u2018Login' button. Step 03: In the opened window, click on \"Scheme/Services list\" and a list of schemes will appear on the screen. Step 04: Now, select the scheme and click on \"Apply for Service/Scheme\". Step 05: Fill in all the details asked in the online application form and submit the application form.  HBOCW Registration User Manual ",
+        "Change of address: It shall be obligatory for a beneficiary to intimate any change of address to the District Social Welfare Officer. A beneficiary shifting to a place outside Haryana State for a period exceeding three months shall not be ordinarily eligible for payment of Financial Assistance during the period of his/her stay outside Haryana State. However, in a case involving real hardship, the District Social Welfare Officer may permit payment of Financial Assistance to such a person for a period of absence up to one year, if he is satisfied that the shifting of residence was absolutely essential for the beneficiary.  "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://socialjusticehry.gov.in/financial-assistance-to-widower-and-unmarried-persons-scheme-2023/"
+    },
+    {
+      "title": "Official Guideline",
+      "url": "https://cdnbbsr.s3waas.gov.in/s392bbd31f8e0e43a7da8a6295b251725f/uploads/2023/07/2023072199.pdf"
+    },
+    {
+      "title": "Notification",
+      "url": "https://cdnbbsr.s3waas.gov.in/s392bbd31f8e0e43a7da8a6295b251725f/uploads/2023/09/202309011037430800.pdf"
+    }
+  ],
+  "exclusions": "The beneficiary shall not be allowed to draw the financial Assistance in case he/she is already drawing any other pension/financial assistance/annuity from any Government/ Autonomous body.",
+  "documents_required": "Identity proof Domicile Proof: Proof of Haryana residency for at least 15 years Income Proof: Verified annual income document Family ID: Must be obtained through the Haryana Parivar Pehchaan Act, 2021 Age Proof: Valid proof of age Bank Account Details Any other documents as required"
+}

@@ -1,0 +1,49 @@
+{
+  "scheme_id": "67ece076936574af7fb89a9c",
+  "slug": "cmbccay",
+  "scheme_name": "Chief Minister BC & EBC Chhatravas Anudan Yojana",
+  "scheme_short_title": "CMBCCAY",
+  "state": "Bihar",
+  "level": "State/ UT",
+  "nodal_department": "BC & EBC Welfare Department",
+  "dbt_scheme": true,
+  "categories": [
+    "Education & Learning",
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Backward Classes",
+    "Extremely Backward Classes",
+    "Hostel Grant",
+    "Student Accommodation"
+  ],
+  "brief_description": "The \"Chief Minister BC & EBC Chhatravas Anudan Yojana\", implemented by the Backward Classes and Extremely Backward Classes Welfare Department, provides financial assistance to students from Backward Classes (BC) and Extremely Backward Classes (EBC) residing in government hostels.",
+  "detailed_description": "The &amp;quot;Chief Minister BC &amp;amp; EBC Chhatravas Anudan Yojana&amp;quot;, implemented by the Backward Classes and Extremely Backward Classes Welfare Department, aims to support students belonging to Backward Classes (BC) and Extremely Backward Classes (EBC) residing in government hostels by providing them a financial grant to cover their essential needs.",
+  "benefits": [
+    "Financial Assistance: \u20b91,000/- per month for students residing in government hostels."
+  ],
+  "eligibility_criteria": "The applicant must belong to the BC or EBC category. The annual family income should be less than \u20b93,00,000/-. The student must be residing in a government hostel.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: The applicant must first register on the e-Kalyan portal .",
+        "Step 2: To complete the registration, the applicant must fill in the following details: Personal details & Contact details Step 3: After registration, the applicant must log in using the provided User ID and Password. Step 4: Once logged in, the applicant must carefully fill out the application form. Step 5: All required documents must be uploaded to the portal. Step 6: The application form, along with the uploaded documents, will be verified by the concerned authorities."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://state.bihar.gov.in/bcebcwelfare/Content.html?links&page=Schemes"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Caste Certificate. Income Certificate. Residence Certificate. Any other documents as required."
+}

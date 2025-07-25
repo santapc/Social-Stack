@@ -1,0 +1,58 @@
+{
+  "scheme_id": "65eb10adda55878ebe185c2a",
+  "slug": "fasgbocwwb",
+  "scheme_name": "Funeral Assistance Scheme (GBOCWWB)",
+  "scheme_short_title": "FAS(GBOCWWB)",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Labour and Employment Department",
+  "implementing_agency": "Gujarat Building And Other Construction Worker's Welfare Board",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Crisis/Disaster/Accident",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Family"
+  ],
+  "tags": [
+    "Funeral",
+    "Building Worker",
+    "Construction Worker",
+    "Labour",
+    "Financial Assistance",
+    "Death"
+  ],
+  "brief_description": "The objective of this scheme is to provide financial assistance to the heir of a deceased construction worker registered with the Gujarat Building and Other Construction Worker's Welfare Board in case of death during the ongoing membership.",
+  "detailed_description": "The \"Funeral Assistance Scheme\" is implemented by the Gujarat Building and Other Construction Worker's Welfare Board (GBOCWWB), Labour, Skill Development &amp;amp; Employment Department, Government of Gujarat. The main objective of this scheme is to provide financial assistance to the heir of a deceased construction worker registered with the Gujarat Building and Other Construction Worker's Welfare Board in case of death during the ongoing membership.",
+  "benefits": [
+    "Under the scheme, financial assistance of \u20b910,000/- shall be given to the legal heirs of the deceased construction workers."
+  ],
+  "eligibility_criteria": "The applicant should be a legal heir of the deceased worker. The deceased worker should have been engaged in any building or other construction work. The deceased worker should have been registered with the Gujarat Building and Other Construction Worker's Welfare Board. Financial assistance is provided to the legal heir of the deceased worker in the event of their death during the ongoing membership.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 01: The applicant may visit the Sanman Portal: https://sanman.gujarat.gov.in/  Step 02: On the home page, under the tab \u2018Citizen Login', click on \u2018 Please Register Here '. Step 03: Enter the Aadhaar Card Number of Shram Yogi and select the user type. Step 04: Now, fill in the heir's details & click on \u2018Create'. Step 05: After successful registration, the applicants can login through their User ID and Password. Step 06: Now, select the scheme and read the instructions carefully for the selected scheme. Step 07: Fill out the application form and upload all the relevant documents. Step 08: Agree with the Rules & Regulations and submit the application form. A confirmation email with the application Number will be sent to the registered email ID."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://sanman.gujarat.gov.in/Home/BOCWScheme#"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://bocwwb.gujarat.gov.in/Portal/Document/10_406_1_Funeral_Assistance_Scheme_27102023.pdf"
+    },
+    {
+      "title": "Sanman Portal",
+      "url": "https://sanman.gujarat.gov.in/"
+    }
+  ],
+  "documents_required": "Identity proof of deceased worker Identity proof of heir Copy of death certificate Self-Declaration Certificate ( Affidavit ) Self-Declaration of Inheritance Certificate Copy of bank passbook of heir Copy of ration card  Self Declaration Form as per Resolution dated 20/09/2022 of Revenue Department Any other documents as required"
+}

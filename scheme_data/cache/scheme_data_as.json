@@ -1,0 +1,57 @@
+{
+  "scheme_id": "6740bb29a207123b9e15db42",
+  "slug": "as",
+  "scheme_name": "Aawaas Sahayata",
+  "scheme_short_title": "AS",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Tribal Welfare and Scheduled Caste (SC) Department",
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Citizen empowerment"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Student",
+    "Study",
+    "Housing Assistance",
+    "Scheduled Tribes"
+  ],
+  "brief_description": "Launched in 2016, the \"Aawaas Sahayata\" scheme by the Department of Tribal Affairs, Madhya Pradesh, The scheme provides housing assistance to tribal students pursuing higher education outside their hometowns where hostels are unavailable.",
+  "detailed_description": "Launched in 2016, the &quot;Aawaas Sahayata&quot; scheme is a welfare initiative by the Department of Tribal Affairs, Government of Madhya Pradesh. The scheme provides housing assistance to tribal boys and girls pursuing higher education outside their hometowns, who have passed 12th grade from a government or non-government college, or are regularly admitted to graduate, graduate diploma, or technical paramedical courses, and have not secured admission in a government hostel.",
+  "benefits": [
+    "The scheme offers housing assistance to tribal students pursuing higher education outside their hometowns where hostels are unavailable."
+  ],
+  "eligibility_criteria": "The applicant should be a native of Madhya Pradesh. The applicant should be a student. The student should have passed 12th grade from a Government or Non-Government college. The student should be enrolled in a Graduate or Graduate Diploma course. The student should be regularly admitted to a Technical or Paramedical course. The student should not have secured admission to a Government hostel. The student should be a tribal student pursuing higher education outside their hometown.\n\n\n",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration",
+        "Step 1: The applicant should visit the Madhya Pradesh Tribal Affairs & Scheduled Caste Welfare Automation System MPTAAS portal. ",
+        "Step 2: Click on \"New Beneficiary Profile Registration .\"",
+        "Step 3: Fill in all the required details. Fields marked with * are mandatory. Complete the form by entering all necessary information.",
+        "Step 4: Upload all required documents, such as ID proof and other relevant certificates.",
+        "Step 5: After completing the form and uploading the documents, click \"Submit\".",
+        "Step 6: After successful payment and submission, you will receive a registration number.",
+        "Application",
+        "Step 1: The applicant should visit the Madhya Pradesh Tribal Affairs & Scheduled Caste Welfare Automation System MPTAAS portal. ",
+        "Step 2: Enter your user ID, password, and captcha code, then click \"Login.\"",
+        "Step 3: Choose the scheme you wish to apply for to avail the benefits.",
+        "Step 4: Enter all required information and upload the necessary documents as prompted.",
+        "Step 5: Finally, click on \"Submit Application\" to complete the process."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=812"
+    }
+  ],
+  "documents_required": "Passport-size Photograph Aadhaar card Domicile certificate of Madhya Pradesh Caste certificate Previous class passing certificate/marksheet Samagra ID Bank account details/Bank Passbook Other necessary documents if required"
+}

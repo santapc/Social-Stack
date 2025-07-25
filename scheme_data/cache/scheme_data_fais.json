@@ -1,0 +1,50 @@
+{
+  "scheme_id": "67d9553aa08d25998e5e3ed3",
+  "slug": "fais",
+  "scheme_name": "Farmers Accidental Insurance Scheme",
+  "scheme_short_title": "FAIS",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Agriculture, Farmers Welfare and Cooperation Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment",
+    "Banking,Financial Services and Insurance"
+  ],
+  "sub_categories": [
+    "Insurance",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Agriculture",
+    "Farmer",
+    "Accidental Insurance"
+  ],
+  "brief_description": "This scheme has been introduced by the Agriculture, Farmers Welfare and Cooperation Dept., Gujarat. It aims to provide financial assistance to the families of registered farmers in the event of accidental death or disability.",
+  "detailed_description": "The &quot;Farmers Accidental Insurance Scheme&quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to provide financial aid to the successors of registered farmers in case of accidental death or disability. The scheme does not cover natural or suicidal deaths.",
+  "benefits": [
+    "Particular | Benefit (\u20b9)\n1. Accidental death/ 100% permanent Disability | \u20b92,00,000/-\n2. In case of Accidently Loss of two eyes or two limbs or Hand and leg | \u20b92,00,000/-\n3. In case of Accidently Loss of one eye and one limb | \u20b92,00,000/-\n4. In case of Accidently Loss of one eye or one limb | \u20b92,00,000/-"
+  ],
+  "eligibility_criteria": "The applicant or their parent must have a registered land record before the date of the accident. The death or disability must be caused by an accident. The deceased/disabled person must be the registered farmer, their spouse, or any legal heir (son/daughter). The applicant must possess a valid driving license in case of death/injury (For vehicular accident). The beneficiary must be between 5 to 70 years of age (For accidental death or permanent disability). Application should be made in the office of the concerned District Agriculture Officer within 150 days.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: The successor of the deceased or disabled farmer must submit an application within 150 days of the accident.",
+        "Step 2: The application must be submitted to the concerned District Agriculture Officer .",
+        "Contact Us:  Click here ."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://dag.gujarat.gov.in/Home/SchemesDetailsPage/Bu2wc90IXRdJKrcfHJ%E2%9C%A49ew%E2%99%AC%E2%99%AC"
+    }
+  ],
+  "exclusions": "Incidence of Natural & suicidal death are excluded.\n",
+  "documents_required": "Application in prescribed form Annexure -1, 2,3, 3(A),4,5 Copy of 7/12, 8-A & hack Patrak (Form no: 6). Copy of Post Mortem report I.R & spot Panchami Police Inquest Report or Court Order Proof of death (Death Certificate) & age from competent authority as the case may be. Disability certificate form competent authority, in the case of disablement. Sub Divisional Magistrate report and Police tapas report Baydhari patrak in prescribe Performa. Valid driving licence (in case deceaseddrive the vehicle) In case of first legal heir (son/daughter) Death or disability produce Registered farmer's (his father or mother) Pedhinamu or successive generations proof."
+}

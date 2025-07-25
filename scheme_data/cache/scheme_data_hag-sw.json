@@ -1,0 +1,72 @@
+{
+  "scheme_id": "660396da858d63936101d846",
+  "slug": "hag-sw",
+  "scheme_name": "Hearing Aid Grant (Sainik Welfare)",
+  "scheme_short_title": "HAG-SW",
+  "state": "Puducherry",
+  "level": "State/ UT",
+  "nodal_department": "Sainik Welfare Department, Puducherry",
+  "implementing_agency": "Rajya Sainik Board, Puducherry",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Aids/Appliances",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Aid",
+    "Hearing",
+    "Ex-Serviceman",
+    "Widow",
+    "Financial Assistance"
+  ],
+  "brief_description": "\"Hearing Aid Grant\" scheme by the Armed Forces Flag Day Fund of the Dept of Sainik Welfare, Puducherry, provides \u20b98,000/- for the purchase of Hearing Aid to the ESM/Widows of ESM registered with the Dept. The members of the Ex-Servicemen Contributory Health Scheme (ECHS) are not eligible.",
+  "detailed_description": "&quot;Hearing Aid Grant&quot; is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. Through this scheme, \u20b98,000/- is provided for the purchase of Hearing Aid to the Ex-servicemen/Widows of Ex-servicemen registered with the Department. The members of the Ex-Servicemen Contributory Health Scheme (ECHS) are not eligible. The applications are accepted offline.",
+  "benefits": [
+    "Financial Assistance of \u20b98,000/-, for the purchase of Hearing Aid. The amount is credited to the beneficiary's Bank Account through RTGS/ NEFT."
+  ],
+  "eligibility_criteria": "The applicant should be an Ex-serviceman /Widow of an Ex-serviceman. The applicant should be registered with the Department of Sainik Welfare, Puducherry.\nThe applicant should not be a member of the Ex-Servicemen Contributory Health Scheme (ECHS).",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should take print of the prescribed format of the application form for the scheme from the Official Website of the Department of Sainik Welfare.",
+        "OR",
+        "The interested applicant should visit (on a working day, and during working hours) the Rajya Sainik Board, Jawan Bhawan, Department of Sainik Welfare, Government of Puducherry, 261, Lawspet Main Road, Pakkamudianpet, Puducherry Road, Lawspet, Puducherry - 605013, India, and request a hard copy of the prescribed format of the application form from the concerned authority.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: The interested applicant should submit the duly filled and signed application form and the documents to the concerned authority at the Rajya Sainik Board.",
+        "Step 4: A receipt of the application will be assigned to the applicant by the concerned authority.",
+        "Queries/Complaints/Suggestions/Grievances",
+        "Address: 261, Lawspet Main Road, Pakkamudianpet, Puducherry Rd, Lawspet, Puducherry - 605013, India",
+        "Phone Number: (+91)(0413) 2253107",
+        "Email: dirdsw.pon@nic.in",
+        "Hours: Monday - Friday, 2:30 pm to 5:00 pm"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sainik.py.gov.in/assistance-affd-fund"
+    },
+    {
+      "title": "Government Order",
+      "url": "https://sainik.py.gov.in/sites/default/files/g.o.ms.22-dated-24-feb-2020.pdf"
+    },
+    {
+      "title": "Application Form And Documents Required",
+      "url": "https://sainik.py.gov.in/sites/default/files/spectacles_grant.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://sainik.py.gov.in/contact-us"
+    }
+  ],
+  "exclusions": "The scope of this scheme will not apply to those ESM / living spouse/widows who are re-employed as regular / deemed to be regular in Government/Public Sector Undertakings/Private Organizations and self-employed IT assesses.",
+  "documents_required": "Identity Card of the ESM/ Widow of ESM. Discharge Certificate of Ex-Serviceman. Prescription of Doctor (Original). Bill of the Purchase (Original). Declaration by the ESM/ Widow of ESM."
+}

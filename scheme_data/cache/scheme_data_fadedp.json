@@ -1,0 +1,47 @@
+{
+  "scheme_id": "6825ca242b2d9b51aa012daf",
+  "slug": "fadedp",
+  "scheme_name": "Financial Assistance to Destitute Elderly and Disabled Person",
+  "scheme_short_title": "FADEDP",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Empowerment Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Elderly Pension",
+    "Senior Citizen",
+    "Disabled Person",
+    "Social Welfare"
+  ],
+  "brief_description": "The scheme \"Financial Assistance to Destitute Elderly and Disabled Person\" provides monthly financial aid to elderly individuals (60+) and severely disabled persons who meet specific income and dependency criteria.",
+  "detailed_description": "The &amp;quot;Financial Assistance to Destitute Elderly and Disabled Person&amp;quot; is a welfare scheme by the Social Justice and Empowerment Department of Gujarat. The scheme aims to support economically vulnerable elderly individuals and persons with severe disabilities. Elderly individuals aged 60 years or more who do not have an adult son (21 years or older), and persons with more than 75% disability aged 45 or more, are eligible under this scheme. <br>",
+  "benefits": [
+    "For beneficiaries aged 60 to 79 years: \u20b91,000/- per month For beneficiaries aged 80 years or more: \u20b91,250/- per month"
+  ],
+  "eligibility_criteria": "Applicant must be a resident of Gujarat. Applicant must be:\nAged 60 years or more and does not have a son aged 21 years or above. OR, aged 45 years or more and has a disability of more than 75%. OR, listed in the BPL category (Score 0\u201320) in rural areas or included in the urban BPL list.\nAnnual Family Income must be:\n\u20b91,20,000 or less for rural residents. \u20b91,50,000 or less for urban residents.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit the Mamlatdar office and request a hard copy of the prescribed format of the application form. Step 2: In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required). Step 3: Submit the duly filled and signed application form along with the supporting documents to the Mamlatdar office. Step 4: Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Scheme No. 187)",
+      "url": "https://mariyojana.gujarat.gov.in/MoreDetails.aspx"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Aadhaar Card. Age Proof. Bank Pass Book/Cancelled Cheque. Birth Certificate. Identity Card. Income Certificate. Passport Size Photos. PH Certificate from Civil Surgeon. Ration Card."
+}

@@ -1,0 +1,55 @@
+{
+  "scheme_id": "6763f1cbf41779c1f975ad92",
+  "slug": "vsbgks",
+  "scheme_name": "Vadh Se Bachaye Govansh Ko Sahayata Yojana",
+  "scheme_short_title": "VSBGKS",
+  "state": "Rajasthan",
+  "level": "State/ UT",
+  "nodal_department": "Animal Husbandry Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Housing & Shelter"
+  ],
+  "sub_categories": [
+    "Shelter, integrated support and assistance"
+  ],
+  "target_beneficiaries": [
+    "Government Organisation",
+    "Joint Liability Groups (JLGS)",
+    "Registered Societies",
+    "NGO"
+  ],
+  "tags": [
+    "Animal Shelter",
+    "Cattle Welfare Scheme",
+    "Cow Protection",
+    "Animal Husbandry"
+  ],
+  "brief_description": "The \"Vadh Se Bachaye Govansh Ko Sahayata Yojana\" scheme, initiated by the Directorate of Gopalan on 02/07/2015, provides financial assistance for the care and maintenance of cattle rescued from illegal slaughter or smuggling.",
+  "detailed_description": "The &amp;quot;Vadh Se Bachaye Govansh Ko Sahayata Yojana&amp;quot; scheme, by the Animal Husbandry Department, Rajasthan, aims to ensure the welfare of cattle saved from illegal slaughter or smuggling. Registered cow shelters (gaushalas), municipal bodies, Panchayati Raj institutions, or other approved organizations are entrusted with the custody of such cattle. Financial assistance is provided for their fodder and care for the duration of custody or up to one year, whichever is shorter.",
+  "benefits": [
+    "Financial assistance of \u20b940/day for large cattle and \u20b920/day for small cattle. Support is provided for a maximum of one (1) year or the custody period, whichever is shorter."
+  ],
+  "eligibility_criteria": "Registered Gaushalas/ Nandi Shalas/ Kanj Houses/ Local bodies/ Panchayati Raj institutions/Other approved institutions which are taking care of cows rescued from cow smuggling/ slaughter.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: Collect the application form from the office of the District Joint Director, Department of Animal Husbandry.",
+        "Step 2: Fill in the details and attach the required documents (FIR copy and approval).",
+        "Step 3: Submit the application to the office of the District Joint Director, Department of Animal Husbandry.",
+        "Step 4: The application will be reviewed and approved by the District-level Gopalan Committee.",
+        "Step 5: Upon approval, funds will be disbursed to the organization.",
+        "Scheme Contact Details: Nodal Officer Name & Designation: Dr Kaushal Kumar Verma; Joint Director Phone Number: 9414207430 Email: dir.dgs@rajasthan.gov.in"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://gopalan.rajasthan.gov.in/scheme/detail/578"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Copy of the FIR related to cattle rescue. Approval copy from a competent authority."
+}

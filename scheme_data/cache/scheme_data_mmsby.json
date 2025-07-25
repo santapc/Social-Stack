@@ -1,0 +1,47 @@
+{
+  "scheme_id": "64ec18f4031061909aee859f",
+  "slug": "mmsby",
+  "scheme_name": "Mukhmantri Sehat Bima Yojana",
+  "scheme_short_title": "MMSBY",
+  "state": "Punjab",
+  "level": "State",
+  "nodal_department": "Department of Health & Family Welfare",
+  "dbt_scheme": false,
+  "categories": [
+    "Health & Wellness"
+  ],
+  "sub_categories": [
+    "Health Insurance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Insurance",
+    "Health",
+    "Welfare",
+    "Medical"
+  ],
+  "brief_description": "\"AYUSHMAN BHARAT PM-JAY MUKH MANTRI SEHAT BIMA YOJNA\" is a flagship State Health Insurance Program of the Government of Punjab.",
+  "detailed_description": "Ayushman Bharat PM-JAY Mukhmantri Sehat Bima Yojana (AB PM-JAY MMSBY), was launched on 20 August 2019 this is a flagship State Health Insurance Scheme for the beneficiaires of State of Punjab. AB PM-JAY MMSBY will provide financial protection to 65% population of state of Punjab. It is entitlement based cashless Health Insurance cover. Under this scheme cashless and paperless treatment is available at Government and empaneled Private hospitals. &lt;br&gt;",
+  "benefits": [
+    "A cashless health insurance cover of \u20b95,00,000/- rupees per family per year for secondary and tertiary care hospitalization (in-patient services) for treatment of listed diseases and medical conditions."
+  ],
+  "eligibility_criteria": "Residents of Punjab. Applicants should be from the following categories SECC 2011 data families, Smart Ration Card holder families, J-Form holder farmers, Small traders registered with Excise & Taxation Department, Small & Marginal Farmers, Accredited & Yellow Card Journalist and Construction workers registered with Punjab Building & Other Construction Workers Welfare Board.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "REGISTRATION PROCESS FOR E-CARD GENERATION",
+        "Now generate e-card from home without visiting anywhere: Download 'Ayushman App' on mobile or visit https://beneficiary.nha.gov.in/ to self-register. Please visit any empaneled private or public hospital, lists available under ' Hospitals ' on SHA website for getting e-card generation. "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Official Portal",
+      "url": "https://sha.punjab.gov.in/shapunjab/index.php"
+    }
+  ],
+  "documents_required": "Aadhaar Card. Ration Card. Family Declaration. (If no Ration Card). Income Certificate. Construction Worker Card. (If belong to that Category). "
+}

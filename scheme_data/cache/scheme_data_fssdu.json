@@ -1,0 +1,61 @@
+{
+  "scheme_id": "6645feb002cfbde31640e9ff",
+  "slug": "fssdu",
+  "scheme_name": "Financial Support Scheme",
+  "scheme_short_title": "FSSDU",
+  "level": "Central",
+  "nodal_department": "Department Of Higher Education",
+  "implementing_agency": "Delhi University",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance",
+    "Education and training grants, fellowship, stipend"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Fee Waiver",
+    "Financial Assistance",
+    "Delhi University",
+    "EWS",
+    "OBC"
+  ],
+  "brief_description": "With a view to extend the benefits of equity and access to quality education to the economically weak students, the University has introduced a financial support scheme for such students which will include fee waiver of all components of fee paid by students (except examination fee & hostel fee).",
+  "detailed_description": "\"Financial Support Scheme\" implemented by the Delhi University aims to provide equity and access to quality education to the economically weak students. This scheme also provides financial support for such students which will include fee waiver of all components of fee paid by students (except examination fee &amp;amp; hostel fee). <br>",
+  "benefits": [
+    "S. No. | Family income (in \u20b9) per annum | Fee waiver (percentage) | Remarks\nCategory 1 | Less than or equal to \u20b9 4,00,000/ | Up to 100% | Actual fee or up to a maximum of \u20b9 10,000/-\nCategory 2 | Between \u20b9 4,00,000/- and \u20b9 8,00,000/- | Up to 50% | Actual fee or up to a maximum of \u20b9 8,000/-"
+  ],
+  "eligibility_criteria": "Should be a bonafide student. The student should be studying in any UG/ PG Degree program at a Department/ Institution/Centre of University of Delhi. Family income of the student's should be less than \u20b9 8,00,000/-.\n",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Eligible students can fill in the online Application Form available on the website of the Dean Students' Welfare Office. Step 2: Students must submit a copy of their Application Form and all documents after due attestation and recommendation from the Head/ Director of the concerned Department/ Centre/ Institute at DSW office. Step 3: The Schedule for the submission of the hard/ printed copy of the application form will be declared in the DSW website . Helpdesk: For any queries kindly contact: fss@dsw.du.ac.in Office Address: Dean Students' Welfare, Conference Centre (Gate No. 4), Opposite Botany Department, University of Delhi, Delhi \u2013 110007"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://dsw.du.ac.in/?page_id=2219"
+    },
+    {
+      "title": "DU Notification For FSS 2023-24",
+      "url": "https://dsw.du.ac.in/wp-content/uploads/2023/12/DU-Notification-FSS-2023-24.pdf"
+    },
+    {
+      "title": "Notice On Document Submission For FSS-2023-24",
+      "url": "https://dsw.du.ac.in/wp-content/uploads/2024/01/Notice-on-Document-Submission-for-FSS-2023-24.pdf"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://dsw.du.ac.in/wp-content/uploads/2024/01/Updated_FAQs-on-FSS-2023-24.pdf"
+    }
+  ],
+  "exclusions": "Students with Essential Repeat papers are not eligible for the fee waiver. Students who have availed fee waiver during admission 2023-24 (B.Tech/Five-Year Integrated Law Programs) will not be eligible for this scheme.\n",
+  "documents_required": "Copy of EWS/OBC-NCL Certificate or Annual Family Income Certificate issued by competent authority. (Income Certificate signed by a notary will not be accepted). Self-attested copies of latest income Tax Returns (2022-23) of the following family members: Father, Mother, Sister(s)(Unmarried), Brother(s) (Unmarried and below 25 years of age), Copy of PAN card(s) of all the above. Signed copy of the Undertaking Form. Copy of Bonafide Certificate signed by the Head/Director of the Centre/Department/ Institute. Copy of the mark sheet of the last exam passed. Copy of the latest Fee Receipt. Copy of Bank Pass Book showing the student's name, Account number and IFSC code or a cancelled cheque. "
+}

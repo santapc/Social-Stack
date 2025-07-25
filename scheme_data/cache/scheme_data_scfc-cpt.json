@@ -1,0 +1,65 @@
+{
+  "scheme_id": "65cddbfeed4030e118da6e07",
+  "slug": "scfc-cpt",
+  "scheme_name": "\"Subsidy for Cultivation of Fodder Crops\" Component of the \"Crop Production Technology\" Scheme",
+  "scheme_short_title": "SCFC-CPT",
+  "state": "Puducherry",
+  "level": "State/ UT",
+  "nodal_department": "Agriculture Department, Puducherry",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Subsidy",
+    "Cultivation",
+    "Fodder",
+    "Farmer",
+    "Agriculture"
+  ],
+  "brief_description": "The \"Subsidy for Cultivation of Fodder Crops\" scheme was introduced by the Department of Agriculture and Farmer's Welfare, Union Territory of Puducherry. Through this scheme, cash incentives are distributed to Farmers and Self Help Groups for undertaking fodder cultivation in the Puducherry region.",
+  "detailed_description": "The &quot;Subsidy for Cultivation of Fodder Crops&quot; component of the &quot;Crop Production Technology&quot; scheme was introduced by the Department of Agriculture and Farmer&#39;s Welfare, Union Territory of Puducherry. Through this scheme, cash incentives are distributed to Farmers and Self Help Groups for undertaking fodder cultivation in the Puducherry region.",
+  "benefits": [
+    "Cash Incentives @ \u20b912,500/hectare."
+  ],
+  "eligibility_criteria": "The applicant should be a resident/native of Puducherry. The applicant should be residing in the Puducherry region. The applicant should be a Farmer. The applicant should be cultivating fodder in the Puducherry region. ",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) one of the offices given below, and request the hard copy of the prescribed format of the application form from the concerned authority.",
+        "Agricultural Officers ( Uzhavar Udhaviyagam ).  Office of the Deputy Director of Agriculture (Inputs), Thattanchavady.  Office of the Deputy Director of Agriculture (T&V), Bahour, Villianur, Madagadipet.  Office of the Joint Director of Agriculture (T&V), Bahour, Villianur.",
+        "OR",
+        "The interested applicant should take print of the prescribed format   of the application form.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form and the documents to the concerned authority.",
+        "Step 4: On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Citizen's Charter",
+      "url": "https://agri.py.gov.in/sites/default/files/citchart/subsch.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://agri.py.gov.in/sites/default/files/forms/Fodder.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://agri.py.gov.in/emailcontact.html"
+    },
+    {
+      "title": "Grievance Redressal",
+      "url": "https://agri.py.gov.in/sites/default/files/citchart/grievance.pdf"
+    }
+  ],
+  "documents_required": "Aadhaar Card. Ration Card. Applicant's Photo. Farmer's Identity Card. Bank Passbook. FMB (Field Measurement Book). Residence-cum-Nativity Certificate, issued by the competent authority."
+}

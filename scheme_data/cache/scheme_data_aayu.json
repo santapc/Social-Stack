@@ -1,0 +1,51 @@
+{
+  "scheme_id": "682f0a646e107e22ce6b2b50",
+  "slug": "aayu",
+  "scheme_name": "Atal Awas Yojana - Uttarakhand",
+  "scheme_short_title": "AAYU",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "Department Of Social Welfare",
+  "categories": [
+    "Housing & Shelter"
+  ],
+  "sub_categories": [
+    "Shelter, integrated support and assistance",
+    "Housing"
+  ],
+  "target_beneficiaries": [
+    "Family"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "BPL",
+    "Scheduled Caste",
+    "House",
+    "Atal",
+    "Homeless Family"
+  ],
+  "brief_description": "Under this scheme, financial assistance of \u20b91,30,000 is provided for constructing houses in hilly areas and \u20b91,20,000 for plain areas to homeless Scheduled Caste families who are below the poverty line (BPL) or fall within a defined income limit.",
+  "detailed_description": "The scheme &amp;#39;Atal Awas Yojana&amp;#39; is implemented by the Social Welfare Department, Government of Uttarakhand, to provide financial assistance for the construction of houses in both hilly and plain areas of the state. Under this scheme, financial assistance is provided to homeless Scheduled Caste families who are below the poverty line (BPL) or fall within a defined income limit for constructing a house. The beneficiaries should not own any house and should possess their own land within the state.",
+  "benefits": [
+    "Financial Assistance",
+    "\u20b91,30,000/- for hilly areas \u20b91,20,000/- for plain areas",
+    "Note: The amount is disbursed in 3 installments to construct a house."
+  ],
+  "eligibility_criteria": "The applicant should be a native of Uttarakhand. The applicant should belong to a Scheduled Caste family. The applicant should belong to the Below Poverty Line (BPL) category or have an annual income not exceeding \u20b948,000/-. The applicant should not have their own house. The applicant should have their own land for constructing a house.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Application Process:",
+        "Step 1: The interested applicant should visit (during office hours) the Block Development Office (Vikas Khand) and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications. Step 2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attested, if required). Step 3: Submit the duly filled and signed application form along with the documents to the Block Development Office (Vikas Khand). Post-application Process: Step 1: The application forms are verified by the Village Development Officer / Gram Panchayat Development Officer. Step 2: Verified applications are sent to the Block Development Office, a priority list is prepared at the block development level. Step 3: Selection is done by a district-level committee comprising the Chief Development Officer, Block Development Officer, and District Social Welfare Officer. Step 4: Based on the recommendation, fund allocation is done by the District Social Welfare Officer."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Page No. 2)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    }
+  ],
+  "documents_required": "Passport-size Photograph Caste Certificate Income Certificate Aadhaar Card CBS-Linked Bank Passbook Copy Land Ownership Documents Any other documents as required"
+}

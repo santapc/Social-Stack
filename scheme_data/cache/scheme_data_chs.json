@@ -1,0 +1,64 @@
+{
+  "scheme_id": "67c6e273594b8962c718cea2",
+  "slug": "chs",
+  "scheme_name": "Coaching Help Scheme",
+  "scheme_short_title": "CHS",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Empowerment Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning",
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Tuition Fee Assistance",
+    "Education"
+  ],
+  "brief_description": "The \"Coaching Help Scheme\" provides financial support to non-reserved category students pursuing science in Standard-11 and Standard-12 by covering additional tuition costs.",
+  "detailed_description": "The &amp;quot;Coaching Help Scheme&amp;quot; introduced by the Social Justice and Empowerment Department, Gujarat, offers an annual incentive to eligible students for tuition classes outside their school/college. The aim is to help academically bright students continue their studies without financial constraints. <br> <br>",
+  "benefits": [
+    "Financial Assistance: \u20b915,000/- per year for coaching expenses outside the school/college."
+  ],
+  "eligibility_criteria": "The applicant must belong to a non-reserved category. The applicant must have scored 70% or more in Standard 10th. The applicant must be currently studying in the science stream in Standard 11th or Standard 12th. The applicant's annual family income should not exceed \u20b94,50,000/-. \ufeff Note: The applicant can avail of the assistance only once per academic year.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process:",
+        "Step 1: Go to the Corporation's official website and navigate to the \"Gujarat Unreserved Education and Economical Development Corporation\" section under the Corporation menu.",
+        "Step 2: Click on \"Coaching Help Scheme\" and then Apply Now.",
+        "Step 3: Click on \"New User? Please Register Here\".",
+        "Step 4: Enter the required details and click Register.",
+        "Application Process:",
+        "Step 1: Enter your User ID, Password, and Captcha Code, then click \"Login\".",
+        "Step 2: Read the scheme details carefully and click OK.",
+        "Step 3: If your permanent address is correct, confirm it. Otherwise, enter your correct address.",
+        "Step 4: Click Save & Next to proceed. Upload the relevant documents.",
+        "Step 5: If you need to make changes, click \"No, Cancel\". If all details are correct, click \"Yes, Submit\".",
+        "Step 6: Click Save Application. Note down your Application Number for future reference. You can also take a printout by clicking Print Application.",
+        "Check Application Status:  Click here .",
+        "Post Online Application Procedure: After submitting the online application, the applicant must take a printout of the application, sign it, and submit it along with all uploaded documents (certificates, mark sheets, etc.) to the concerned Deputy Director (Non-Reserved Category) or the District Social Welfare Officer through courier, post, or by visiting in person.",
+        "Contact Us:  Click here ."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://gueedc.gujarat.gov.in/Tution-Help-Scheme.html"
+    },
+    {
+      "title": "User Manual",
+      "url": "https://esamajkalyan.gujarat.gov.in/ApplicationDocuments/GUEEDC/HowtoApplyGUEEDC.pdf"
+    }
+  ],
+  "exclusions": "Education or tuition fees paid in school/college are not eligible for the scheme.",
+  "documents_required": "Application form in the prescribed format. Marriage certificate (if applicable). Non-Reserved Category Certificate. Income Certificate. Proof of Residence. Copy of Aadhaar Card. Letter of Admission to School/College (Bona Fide). Admission Letter. Copy of LC (Leaving Certificate). Copy of Std-10 Marksheet. Receipt of Tuition Fee. Copy of Bank Passbook."
+}

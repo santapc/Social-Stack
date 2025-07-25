@@ -1,0 +1,56 @@
+{
+  "scheme_id": "6729c3a307ebeb8df56d993b",
+  "slug": "tcfsap",
+  "scheme_name": "Training Centre for Specially-Abled Persons",
+  "scheme_short_title": "TCFSAP",
+  "state": "Mizoram",
+  "level": "State/ UT",
+  "nodal_department": "Social Welfare Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Skills & Employment"
+  ],
+  "sub_categories": [
+    "Training and Skill Up-gradation",
+    "Financial assistance",
+    "Voctional education"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Vocational Training",
+    "Specially-Abled Person",
+    "Student",
+    "Stipend"
+  ],
+  "brief_description": "The Training Centre for Specially-Abled Persons scheme offers vocational courses for specially-abled individuals, funded by the Government of Mizoram. The centers provide courses in tailoring for females and tailoring/shoemaking for males, with a monthly stipend of \u20b9250 for the training period.",
+  "detailed_description": "The Training Centre for Specially-Abled Persons scheme was launched by the Social Welfare &amp; Tribal Affairs Department, Government of Mizoram. Under this scheme, provide vocational courses for specially-abled individuals, funded by the Government of Mizoram. The centers provide courses in tailoring for females and tailoring/shoemaking for males, with a monthly stipend of \u20b9250 for the training period. <br> **Training Centers:** There are three training centers, including residential centers in Aizawl for both genders and a non-residential center in Lunglei.",
+  "benefits": [
+    "One year of vocational training in tailoring and shoemaking. A monthly stipend of \u20b9250/- is given to the trainees. Hand sewing machine/Treadle sewing machine/Cobbler tools are given to them upon completion of the course. "
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Mizoram. The applicant should be a person with a disability. The applicant should be from the Below Poverty Line (BPL) family. \n",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The applicant writes the application on plain paper.",
+        "Step 2: In the application form attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application along with the documents to the District Social Welfare Office",
+        "Step 4: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://socialwelfare.mizoram.gov.in/page/training-centre-for-specially-abled-persons"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://socialwelfare.mizoram.gov.in/page/welcome-to-directorate-of-social-welfare"
+    }
+  ],
+  "documents_required": "Passport-size Photograph UDID/Disability Certificate Proof of BPL Status (Family Ration Card) Photocopy of Bank Passbook (first page showing account holder's name and account number)"
+}

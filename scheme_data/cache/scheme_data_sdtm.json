@@ -1,0 +1,50 @@
+{
+  "scheme_id": "66fbca51fd847b0c11f805d2",
+  "slug": "sdtm",
+  "scheme_name": "Skill Development Training Manipur",
+  "scheme_short_title": "SDTM",
+  "state": "Manipur",
+  "level": "State/ UT",
+  "nodal_department": "Labour and Employment Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Skills & Employment"
+  ],
+  "sub_categories": [
+    "Training and Skill Up-gradation"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Skill Development",
+    "Construction Worker",
+    "Training"
+  ],
+  "brief_description": "The Manipur Building and Other Construction Workers' Welfare Board offers \"Skill Development Training\" to registered building workers, their spouse, dependent siblings, and children. The training includes vocational and skill development courses from recognized government and private providers.",
+  "detailed_description": "The &quot;Skill Development Training&quot; scheme was implemented by the Manipur Building and Other Construction Workers&#39; Welfare Board. The scheme offers skill development training to registered building workers, their spouse, dependent siblings, and children. The training includes vocational and skill development courses from recognized government and private providers, aiming to enhance the employability of beneficiaries.",
+  "benefits": [
+    "Financial assistance covering course training fees. The financial assistance for boarding and lodging upto \u20b9150/- per day. Stipends or compensation for loss of daily wages during the training period. Training courses leading to certifications or degrees recognized by the government. Upgradation of training infrastructure through grants for eligible training providers."
+  ],
+  "eligibility_criteria": "For Construction Worker:\nThe applicant should be registered construction worker under the Manipur Building and Other Construction Workers' Welfare Board \n\nFor Dependent:\nThe applicant should be a spouse, dependent siblings, and children of the registered construction worker.\n",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step-1: The interested applicant should visit (during office hours) the Manipur Building and Other Construction Workers Welfare Board and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "OR",
+        "The interested applicant visits the official website and downloads the application form .",
+        "Step-2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3: Submit the duly filled and signed application form along with the documents to the Labour Board Inspector",
+        "Step-4: Request a receipt or acknowledgement from the Labour Board Inspector to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "http://manipurbcwb.in/SchemeDetails?title=skill+development+training"
+    }
+  ],
+  "documents_required": "Certificate of Registration of Construction Worker. Payment Receipt of the Last Contribution. Aadhaar Card. First Page of Bank Passbook."
+}

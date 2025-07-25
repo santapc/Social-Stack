@@ -1,0 +1,75 @@
+{
+  "scheme_id": "65dc5d68cd96dc5e07657c2e",
+  "slug": "nsklvrpbkpy",
+  "scheme_name": "Nirman Shramikon ke Liye Vyavsayik Rin Par Byaj ki Punarbharan Yojana",
+  "scheme_short_title": "NSVRP",
+  "state": "Rajasthan",
+  "level": "State/ UT",
+  "nodal_department": "Labour Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Banking,Financial Services and Insurance"
+  ],
+  "sub_categories": [
+    "Personal finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Loan",
+    "Construction Worker",
+    "Financial Support"
+  ],
+  "brief_description": "The \"Nirman Shramik Rin Punarbharan Yojana\" helps construction workers by reimbursing interest on their business loans. This program aims to ease the financial burden of construction workers by reducing their loan interest payments.",
+  "detailed_description": "The &quot;Nirman Shramikon ke Liye Vyavsayik Rin Par Byaj ki Punarbharan Yojana&quot; is a scheme designed to alleviate financial burdens for construction workers by assisting in the repayment of interest on commercial loans. Recognizing the challenges faced by individuals in the construction sector, especially during economic downturns, the scheme aims to ease the burden of high-interest rates, which often weigh heavily on the shoulders of laborers. By providing support with interest repayments, the government not only relieves immediate financial pressure but also fosters an environment conducive to entrepreneurship and economic stability among the construction workforce. This initiative underscores the government&#39;s commitment to the welfare and prosperity of construction workers, recognizing their invaluable contributions to the nation&#39;s infrastructure and development. Through this scheme, the government aims to enhance the financial resilience of construction laborers, enabling them to pursue their entrepreneurial aspirations and secure a brighter future for themselves and their families.",
+  "benefits": [
+    "The board will reimburse the interest payable on business loans up to \u20b95,00,000/-"
+  ],
+  "eligibility_criteria": "Applicant must be construction worker and registered with the board are regularly depositing contributions. Applicant can utilities the loan amount only for own business work. Application can not use loan amount for purchase of shop/plot/vehicle or household goods. Applicant have to submit a certificate of intention to repay interest to the financial institution every year. This scheme will be applicable only on the loan taken by one of the registered beneficiary's wife/husband at a time. If any information provided in the application for assistance under the scheme by the beneficiary is found to be false, the responsibility of depositing the entire sanctioned assistance amount along with interest in lump sum will be of the concerned beneficiary.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration",
+        "Step-1: Applicant have to visit the official portal .",
+        "Step-2: Click on the option \" Register \".",
+        "Step-3: Then you will be redirected to the SSO registration page. The registration page will appear with the following options.",
+        "Citizen",
+        "Step-4: Choose the either one option from the Jan Aadhaar Or Google to process further.",
+        "Jan Aadhaar : Enter the Jan Aadhaar number, click on the \u2018Next' button, Select your name, the name of the head of the family and all the other members and Click on the \u2018Send OTP' button. Enter the \u2018OTP' and Click on the \u2018Verify OTP' button to Complete the registration.",
+        "Google : Enter the Gmail ID, click on the \u2018Next' button, Enter the password. A new link appear on screen, now click on the new SSO link. SSO id will appear on the screen, now create the password. Enter Mobile number, click on registration.",
+        "Step-5 : Submit.",
+        "Apply",
+        "Step-1: Applicant have to visit the official portal .",
+        "Step-2: After login, dashboard will open.",
+        "Step-3: Click on \"LDMS\" option.",
+        "Step-4: In LDMS, select \"Welfare Schemes\" from the side menu and select BOCW Welfare Board.",
+        "Step-5: Now click on \"Apply for Scheme\" on screen.",
+        "Step-6: In this new page, will get a list of names of all the schemes of Rajasthan Shramik Card, out of which click on the name of \"Yojana\"",
+        "Step-7: Fill out the all relevant detail.",
+        "Step-8: Submit."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/LAB_/IRSBC/DOC_818_c4aede25-82a2-42dc-b0d1-489d29f2d5d3.pdf"
+    },
+    {
+      "title": "Details",
+      "url": "https://schemes.rajasthan.gov.in/scheme/detail/818"
+    },
+    {
+      "title": "Registration",
+      "url": "https://sso.rajasthan.gov.in/register"
+    },
+    {
+      "title": "Login",
+      "url": "https://sso.rajasthan.gov.in/signin"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Copy of the duly filled and complete application form along with self-attested certificates of beneficiary and his/her spouse. Certificate of loan sanction from Financial Institution/Bank. Proof of interest paid on loan during the year. Copy of Aadhar Card and Jan Aadhar Card of the beneficiary. Copy of the first page of the beneficiary's saving bank account passbook (showing beneficiary's name, bank account number and IFSC code). Self-declaration certificate by spouse of the beneficiary stating that no loan is outstanding from any other institution at present."
+}

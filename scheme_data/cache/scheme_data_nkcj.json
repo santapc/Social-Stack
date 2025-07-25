@@ -1,0 +1,62 @@
+{
+  "scheme_id": "679b3db3c4ea5da14d02914d",
+  "slug": "nkcj",
+  "scheme_name": "Nursing Kaushal College Jharkhand",
+  "scheme_short_title": "NKCJ",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Department of Scheduled Tribe, Scheduled Caste, Minority and Backward Class Welfare",
+  "implementing_agency": "PREJHA Foundation",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning",
+    "Skills & Employment"
+  ],
+  "sub_categories": [
+    "Apprenticeships and training",
+    "Coaching",
+    "Placement assistance",
+    "Training and Skill Up-gradation"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Women",
+    "Nursing Course",
+    "Training",
+    "Placement"
+  ],
+  "brief_description": "The \"Nursing Skill College\" scheme provides skill-based nursing education and employment opportunities to young women, especially from disadvantaged backgrounds. The scheme offers free residential training, modern learning facilities, and placement support.",
+  "detailed_description": "The &quot;Nursing Skill College&quot; scheme by the Welfare Department, Government of Jharkhand, aims to provide skill-based nursing education and employment opportunities for young women in Jharkhand, especially from Scheduled Tribes, Scheduled Castes, Minorities, and Other Backward Classes. Under this scheme, candidates receive free residential training, including advanced nursing education and hands-on practice in modern simulation labs. <br> ***Course Duration:*** The ANM course duration is two years. <br> ***JCECEB Exam:*** - Candidates preparing for the JCECEB nursing entrance exam are offered 15 days of free coaching, ensuring better success rates and access to quality education.",
+  "benefits": [
+    "Free residential training in nursing for two years (ANM course) 100% campus placement assistance after course completion Safe and modern campus with advanced simulation labs Free 15-day residential coaching for JCECEB nursing entrance exam Practical training in ICU simulation labs, geriatric care, and home nursing"
+  ],
+  "eligibility_criteria": "The applicant must be a resident of Jharkhand. The applicant must be between 18-30 years of age. The applicant must have passed the 12th grade in any stream.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Apply for ANM at Nursing Kaushal College (via PREJHA Foundation):",
+        "Go to the official PREJHA Foundation application portal: https://app.prejha.org/anm-home.php  Click on the \"Apply\" button. Fill out the first form with the personal details, including Full Name, Mobile Number, Aadhar Number, Date of Birth, etc. Select \"Nursing Kaushal College (ANM) Entrance Exam\" as your desired course and answer the questions regarding the course. Click on the \"Next\" button to move to the second part of the application. Fill in any remaining required details on the second form and upload the necessary documents Photograph and Aadhaar Card. Click the \"Submit\" button to finalize your application. Upon successful submission, the applicant should receive the JCECEB Registration number. Keep this number safe for future reference.",
+        "NOTE:",
+        "Candidates must clear the JCECEB entrance exam and attend a personal counseling session.  "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://app.prejha.org/webadmin/uploads/pdf/Nursing%20Handbill%20JCECB%20EXAM.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://app.prejha.org/anm-home.php"
+    },
+    {
+      "title": "Department Website",
+      "url": "https://www.jharkhand.gov.in/welfare"
+    }
+  ],
+  "documents_required": "Passport-sized Photograph Aadhaar Card"
+}

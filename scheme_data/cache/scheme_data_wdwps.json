@@ -1,0 +1,68 @@
+{
+  "scheme_id": "64eb757e031061909aee3b5c",
+  "slug": "wdwps",
+  "scheme_name": "Widow / Destitute Women Pension Scheme - Punjab",
+  "scheme_short_title": "Wdwps",
+  "state": "Punjab",
+  "level": "State",
+  "nodal_department": "Department of Social Security and Development of Women and Children",
+  "dbt_scheme": true,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Pension"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Pension",
+    "Welfare",
+    "Financial Assistance"
+  ],
+  "brief_description": "Punjab State Government started a pension for widow and destitute women.",
+  "detailed_description": "This is the major social welfare scheme of Punjab Government. The main objective behind launching this scheme is to provide monthly pension to those women who don&#39;t have any sustainable income source. This Scheme is implemented by Social Security and Women &amp; Child Development Department of Punjab Government.",
+  "benefits": [
+    "Amount : \u20b9 1,500/- per month"
+  ],
+  "eligibility_criteria": "Beneficiary should be a Permanent Resident of Punjab . The Annual Income of Beneficiary should not be more than Rs. 60,000/-per year . The below mentioned women are eligible for monthly pension :- Widow Women. Destitute Women. Unmarried Women. The Age of the beneficiary should be :- Widow or Destitute Women: Below 58 Years. Unmarried Women: Above 30 Years.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step-1: Applicants have to visit the official website .",
+        "Step-2 : Click on the \"Click to apply services\".",
+        "Step-3 : Now login on Digital Punjab portal with Email/Phone number and password. If does have any account then register here ",
+        "Step-4: Fill out the application form.",
+        "Step-5 : Attach the required documents",
+        "Step-6 : Submit."
+      ]
+    },
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step-1 : Applicants have to visit the official website and download the application form. ",
+        "Step-2 : Fill out the application form.",
+        "Step-3 : Attach required documents.",
+        "Step-4 : Submit the Application Form along with all the documents in the same office or centre from where it was collected."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://upload.indiacode.nic.in/showfile?actid=AC_PB_82_985_00002_00002_1553492693909&type=rule&filename=notification_pdf_13.6.2017_in_eng.pdf"
+    },
+    {
+      "title": "Portal",
+      "url": "https://connect.punjab.gov.in/service/citizenservice/112"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://punjab.gov.in/wp-content/uploads/2023/08/Widow-Destitute-pension-1.pdf"
+    }
+  ],
+  "documents_required": "Judgement of court or panchayat / Divorce Deed Only In case applied by Divorced Destitute Women. Date of Birth Proof of Widow/Destitute Women (Voter Card / Voter List / Matriculation certificate / Certificate from Registrar Birth & Death / Aadhaar Card) First page of Passbook. Copy of UDID Card/ Disability Certificate and Self Declaration. Death Certificate of Husband. Self-Declaration."
+}

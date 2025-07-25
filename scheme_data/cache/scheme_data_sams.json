@@ -1,0 +1,53 @@
+{
+  "scheme_id": "65cdf785ed4030e118da90d8",
+  "slug": "sams",
+  "scheme_name": "Supply of Agriculture Machineries Scheme",
+  "scheme_short_title": "SAMS",
+  "state": "Meghalaya",
+  "level": "State/ UT",
+  "nodal_department": "Agriculture Department",
+  "implementing_agency": "Department Of Agriculture & Farmers' Welfare, Government Of Meghalaya",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Farmer",
+    "Agriculture Machineries",
+    "Subsidy"
+  ],
+  "brief_description": "The objective of the scheme is to distribute and sale of agricultural machinery such as Power Tillers, etc. to farmers at subsidized rates.",
+  "detailed_description": "The \"Supply of Agriculture Machineries Scheme\" was launched by the Department of Agriculture &amp;amp; Farmers' Welfare, Government of Meghalaya for the distribution and sale of Agriculture Machineries such as Power Tillers, etc. to farmers at a subsidized rate.",
+  "benefits": [
+    "Pattern of Assistance:",
+    "Subsidy on Power tillers, Reapers, Harvesters, etc.",
+    "Type of Assistance and Entitlement (If Any):",
+    "50% subsidy sale."
+  ],
+  "eligibility_criteria": "The applicant should be a permanent resident of Meghalaya. The applicant should be a bonafide farmer engaged in agriculture.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Application Process:",
+        "Step 01: The eligible bonafide farmer can apply/write an application on plain paper.",
+        "Step 02: Along with the application, attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 03: Submit the duly filled and signed application along with the documents at the nearest office of the Agriculture Development Officer of a CD Block/Agriculture Circle.",
+        "Mode of Selection of Beneficiary(s):",
+        "The bonafide farmers shall be selected on a first come first serve basis.",
+        "Whom to Contact:",
+        "District Agriculture Officers of the concerned districts Sub-divisional Officers of the concerned sub-divisions Agriculture Development Officers of the concerned Community and Rural Development Blocks Assistant Agriculture Engineer (Mechanical) of the concerned districts"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesA.aspx?schid=80"
+    }
+  ],
+  "documents_required": "Passport-size photograph Identity Proof Bank passbook/account details Documents proof of being a farmer Any other document as required"
+}

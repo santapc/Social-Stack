@@ -1,0 +1,66 @@
+{
+  "scheme_id": "672cf98dcef677932c62dfe6",
+  "slug": "ngndpsmp",
+  "scheme_name": "Indira Gandhi National Disabled Pension Scheme (Madhya Pradesh)",
+  "scheme_short_title": "NGNDPSMP",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Department of Social Justice and Empowerment of Persons with Disabilities",
+  "dbt_scheme": true,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Pension",
+    "Financial assistance",
+    "Citizen empowerment"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Disabled",
+    "Below Poverty Line",
+    "BPL",
+    "Pension",
+    "Differently Abled",
+    "PwD",
+    "Person With Disabilty"
+  ],
+  "brief_description": "Launched on 1st April 2009, the scheme \"Indira Gandhi National Disabled Pension Scheme\" is a pension scheme by the Department of Social Welfare, Govt of Madhya Pradesh. In this scheme, a pension of \u20b9600/- is provided to differently-abled individuals from 'Below Poverty Line'.",
+  "detailed_description": "Launched on 1st April 2009, the scheme &quot;Indira Gandhi National Disabled Pension Scheme&quot; is a welfare scheme by the Department of Social Justice and Empowerment of Persons with Disabilities, Government of Madhya Pradesh. The scheme aims to provide financial assistance to disabled individuals living below the poverty line, with pension amounts funded by the Government of India through the National Social Assistance Program (NSAP).",
+  "benefits": [
+    "The beneficiary will receive a monthly pension of \u20b9600/-."
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Madhya Pradesh. The applicant should be a person with disability. The applicant should have a disability of 80% or more. The applicant's age should be between 18 and 79 years. The applicant should belong to a Below Poverty Line (BPL) family. The applicant should not be receiving pension benefits under any other social security scheme.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The applicant should visit the Gram Panchayat or Public Service Center during office hours and request a hard copy of the prescribed application form from the concerned authority.",
+        "Step 2: Fill in all the mandatory fields in the application form. Paste a passport-sized photograph (signed across, if required), and attach copies of all necessary documents (self-attested, if required).",
+        "Step 3: After applying, the applicant will receive an acknowledgement receipt from the office, confirming that the application has been received.",
+        "Step 4: The submitted documents will be verified by the District Panchayat/ Gram Panchayat/ Urban Body or Ward Office depending on to whom the application was submitted.",
+        "Step 5: Upon submission of the completed application form and the necessary documents, make sure to take a photocopy of the filled application form and the acknowledgement receipt for your future reference.",
+        "Post Application Processes",
+        "Once the documents are verified and found to be correct, the application will be approved, and the applicant's name will be added to the pension proposal for that month.",
+        "NOTE: If any discrepancies or missing information are found, the application will be rejected. In such cases, the applicant will receive a written notice specifying the reason for rejection, and the rejection will be duly recorded in the system."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://socialjustice.mp.gov.in/uploads/files/Pension_Sanctioned_ORder_11.pdf"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://socialjustice.mp.gov.in/schemes/view/MlJwREl3b1A5U2VwVEcvRDRRNnJOdz09"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://socialjustice.mp.gov.in/uploads/schemes/nsap_application_form_11.pdf"
+    }
+  ],
+  "documents_required": "Aadhaar Card Passport-size Photograph Identity Proof i.e. Voter ID Card or Driving License Disability Certificate Proof of Age Below Poverty Line (BPL) Card/ Ration Card Caste Certificate (if applicable) Address Proof Bank Passbook/Bank Account Details Any other documents as required"
+}

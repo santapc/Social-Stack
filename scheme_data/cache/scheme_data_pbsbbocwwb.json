@@ -1,0 +1,56 @@
+{
+  "scheme_id": "67ad7144250aabd48cbe3e02",
+  "slug": "pbsbbocwwb",
+  "scheme_name": "Paternity Benefit Scheme (BBOCWWB)",
+  "scheme_short_title": "PBSBBOCWWB",
+  "state": "Bihar",
+  "level": "State/ UT",
+  "nodal_department": "Building Construction Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Construction",
+    "Building",
+    "Labour",
+    "Financial Assistance",
+    "Worker",
+    "Father"
+  ],
+  "brief_description": "The \"Paternity Benefit Scheme\" by the Bihar Building & Other Construction Workers' Welfare Board, Labour Resources Department, Government of Bihar, provides \u20b96,000/- per childbirth to the male workers, provided that their wife is not registered with the Board.",
+  "detailed_description": "The &quot;Paternity Benefit Scheme&quot; by the Bihar Building &amp; Other Construction Workers&#39; Welfare Board, Labour Resources Department, Government of Bihar, provides \u20b96,000/- per childbirth to the male workers, provided that their wife is not registered with the Board.",
+  "benefits": [
+    "Financial Assistance of \u20b96,000/- per childbirth for upto two childbirths."
+  ],
+  "eligibility_criteria": "The applicant should be a worker. The applicant should be a male.\nThe applicant should be engaged in building or construction work. The applicant should be registered with the \"Bihar Building & Other Construction Workers Welfare Board\". The applicant's membership with the Welfare Board must be active at the time of application. The applicant should have at least one year of membership with the Board. The wife of the applicant should not be registered with the Board. The benefits will be applicable for the first two childbirths.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration of a Construction Worker under BBOCWWB: Step 1: Visit the Official Website of the Bihar Building and Other Construction Workers Welfare Board. Step 2: On the homepage, click on \" Labour Registration \". Step 3: Enter your Aadhar card number and name, then click \"Authenticate\". Step 4: A dashboard will appear. Enter all required details, ensuring that all fields marked with an asterisk (*) are filled in correctly. Step 5: Click on \"Submit\" and proceed to pay the application fee online. Step 6: You will receive your construction worker registration number upon successful registration. Apply for Scheme Benefits: Step 1: Visit the Official Website of the Bihar Building and Other Construction Workers Welfare Board. Step 2: Click on \"Login\" and select \"Labour\". Step 3: Enter your registration number & year of Birth, click \"Show\" to view your details. Step 4: Select the scheme you wish to apply for to avail the benefits. Step 5: Enter all required information and upload the necessary documents. Step 6: Click on \"Submit Application\" to complete the process. Application Tracking: Applicant can track their application status online through the official website of the Bihar Building and Other Construction Workers Welfare Board. Relevant updates will be sent to the registered mobile number."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://bocwscheme.bihar.gov.in/bihar/assets/images/scheme.pdf"
+    },
+    {
+      "title": "Website",
+      "url": "https://bocwscheme.bihar.gov.in/home"
+    },
+    {
+      "title": "Online Application",
+      "url": "https://bocwscheme.bihar.gov.in/worker_reg"
+    }
+  ],
+  "documents_required": "Identity Card of the Registered Worker Bank Account Details Birth Certificate Proof of Membership Proof of Age at the Time of Registration Any Other Documents as Required"
+}

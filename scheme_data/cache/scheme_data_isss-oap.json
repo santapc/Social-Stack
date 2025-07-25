@@ -1,0 +1,56 @@
+{
+  "scheme_id": "63eb1ab4a861cf592efe44a3",
+  "slug": "isss-oap",
+  "scheme_name": "Integrated Social Security Scheme - Old Age Pension",
+  "scheme_short_title": "ISSS-OAP",
+  "state": "Jammu and Kashmir",
+  "level": "State",
+  "nodal_department": "Department Of Social Welfare J and K",
+  "implementing_agency": "Tehsil Social Welfare Department",
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Pension",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Pension",
+    "Senior Citizen",
+    "Social Welfare"
+  ],
+  "brief_description": "ISSS-OAP is a State Sponsored Scheme by the Social Welfare Dept. of the Govt. of Jammu and Kashmir wherein financial assistance is provided to Old Age Persons who have meager support or no source of livelihood. A pension of \u20b91000 per pensioner per month is deposited directly into their Bank Account.",
+  "detailed_description": "ISSS (Integrated Social Security Scheme) is a State Sponsored Scheme by the Social Welfare Department of the Govt. of Jammu and Kashmir where financial assistance is provided to Old Age Persons, Widows, Divorcees, Women in Distress, Transgenders, and Physically Handicapped Persons. The scheme is funded through Plan and Non-Plan on the basis of a 50:50 sharing pattern. <br> The scheme has the following components - a) Pension for Old Age Person b) Pension for Women in Distress c) Pension for Physically Challenged Person d) Pension to Transgenders <br> Under the &quot;Pension for Old Age Person&quot; component of ISSS, a pension of \u20b91000 per pensioner per month is deposited directly into their Bank Account through DBT mode. The aim of the scheme is to provide monthly financial assistance to Old Age Pensioners who have meager support or no source of livelihood.",
+  "benefits": [
+    "A pension of \u20b91000 per pensioner per month is deposited directly into their Bank Account through DBT mode."
+  ],
+  "eligibility_criteria": "The age of the applicant should be at least 60 Years for Men and at least 55 Years for Women. The income of the applicant should be less than \u20b9 75,000/- per annum or the applicant should be from the \"Below Poverty Line (BPL)\" Category.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The application forms are available with DSWO/TSWO free of cost. The applicant shall submit the duly filled and signed application form ( https://jkdswdj.jk.gov.in/pdf/FORMISSS1.pdf ).along with the required documents reg. the age, income, status, and address, to the concerned Tehsil Social Welfare Officer against proper receipt.",
+        "Step 2: The concerned Tehsil Social Welfare Officer (TSWO) consolidates the list of eligible applicants under the scheme and forwards it to the concerned District Social Welfare Officer for the arrangement of funds and accord of sanction by a designated District level Sanctioning Committee headed by the Director General, Social welfare Department, Kashmir.",
+        "Step 3: The amount is disbursed to the beneficiaries through bank advice/money orders."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (PDF)",
+      "url": "https://jkdswdj.jk.gov.in/welfareSchemes/PensionSchemes.pdf"
+    },
+    {
+      "title": "Official Portal",
+      "url": "https://jkdswdj.jk.gov.in/index.html"
+    },
+    {
+      "title": "Application Form And Documents Required",
+      "url": "https://jkdswdj.jk.gov.in/pdf/FORMISSS1.pdf"
+    }
+  ],
+  "documents_required": "Proof of Residence (Ration Card / Voter Card, etc.) Proof of Age (Birth Certificate / Medical Certificate / Aadhaar Card / Voter Card) Income Certificate (of less than \u20b9 75,000/- per annum or BPL Category) Copy of Aadhaar Card Copy of Bank Passbook Passport Sized Photograph Personal Declaration"
+}

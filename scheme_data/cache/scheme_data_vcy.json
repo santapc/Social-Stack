@@ -1,0 +1,54 @@
+{
+  "scheme_id": "6797933ddf7f9829793f03be",
+  "slug": "vcy",
+  "scheme_name": "Valmiki Chhatravritti Yojana",
+  "scheme_short_title": "VCY",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Higher and Techical Education Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance",
+    "Education and training grants, fellowship, stipend",
+    "Coaching"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Free Coaching",
+    "Differently-abled Person",
+    "Orphan Student"
+  ],
+  "brief_description": "The \"Valmiki Chhatravritti Yojana\" by the Department of Higher and Technical Education, Government of Jharkhand, aims to provide financial assistance and encouragement to orphaned and differently-abled students to pursue higher education and benefits include full tuition fee reimbursement.",
+  "detailed_description": "The &quot;Valmiki Chhatravritti Yojana&quot; by the Department of Higher and Technical Education, Government of Jharkhand, aims to provide financial assistance and encouragement to orphaned and differently-abled students to pursue higher education. Under this scheme, students receive full tuition fee reimbursement up to \u20b910,00,000 annually and a monthly sustenance allowance of \u20b94,000/- for daily needs and study materials.",
+  "benefits": [
+    "\u20b94,000/- per month for daily needs and study materials."
+  ],
+  "eligibility_criteria": "General Criteria:\nThe applicant must be a resident of Jharkhand state or must have passed class 10 th from a recognized school in Jharkhand for diploma courses or should have passed classes 10 th and 12 th from recognized schools/colleges in Jharkhand for degree or higher-level courses. The applicant should be an orphaned/differently abled student. The applicant's age should not exceed 40 years as of the application deadline. \nInstitutional Criteria:\nStudent enrolled in a recognized higher education institution in Jharkhand state or institutions ranked in the top 200 (overall category) or top 100 in discipline-specific categories in NIRF rankings or institutions with NAAC accreditation of 'A' grade or above or Institutes of National Importance or Institutions of Eminence. The applicant is not enrolled under the AICTE tuition fee waiver and is not a current beneficiary of similar central/state/institution schemes. Existing tuition fee waiver/assistance recipients can only receive benefits from one source.\n\nSpecific Criteria:\nFor Orphan Students:\nDefined under Section 2(42) of the Juvenile Justice (Care and Protection of Children) Act, 2015. Valid death certificates of parents and relationship proof verified by the District Social Welfare Officer (DSWO).\n\nFor Differently-Abled Students:\nBenchmark disability as per the Rights of Persons with Disabilities Act, 2016. Valid Unique Disability ID (UDID) card verified by the DSWO in coordination with the Chief Medical Officer.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Online Application:",
+        "Visit the official portal managed by Jharkhand Space Applications Center . Click on \"Register\" to fill mobile number, email ID, and generate a password. Get the activation link to your registered email ID and click on the link to get confirmation \"Account has been activated successfully\". Fill out the application form and upload the required documents. Submit the application for verification by the District Social Welfare Officer. Track the application status through the portal. ",
+        "Approval and Disbursement:",
+        "Tuition fees are transferred directly to the institution. Monthly sustenance allowance transferred to student bank account.",
+        "Renewal:",
+        "Submit annual renewal requests through the portal with the previous year's mark sheet. Applicants must be promoted to the next academic year to remain eligible."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.jharkhand.gov.in/PDepartment/ViewDoc?id=D013DO0058SD0013823102024054020877"
+    }
+  ],
+  "exclusions": "The applicant already benefiting from tuition fee waivers under AICTE schemes or other central/state government scholarships. The applicant receiving sustenance allowance from any other scheme must choose a single source of benefit.",
+  "documents_required": "General Document:\nLocal Resident Certificate. Class 10 th and 12 th Mark Sheets. Diploma/Degree Certificate.\nDocument for Orphan Student:\nValid Death Certificates of Parents. Relationship Document between Parents and Children. Permanent Account Number (PAN) Card. Valid Birth Certificate (issued by the competent authority). Aadhaar Card. Class 10 th Certificate. Ration Card. Family Membership Certificate. Any other valid document issued by the State/Central Government.\nDocument for Disabled Student:\nDisability Certificate or Unique Disability ID Card (for differently-abled applicants)"
+}

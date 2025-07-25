@@ -1,0 +1,52 @@
+{
+  "scheme_id": "65fbb77247c0daa74e38d369",
+  "slug": "mmpyu",
+  "scheme_name": "Mukhyamantri Mahila Poshan Yojana",
+  "scheme_short_title": "MMPYU",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "Department Of Woman Empowerment & Child Development",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Women and Child",
+    "Health & Wellness"
+  ],
+  "sub_categories": [
+    "Pregnancy care"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Pregnant Women",
+    "Lactating Women",
+    "Nutrition",
+    "Health"
+  ],
+  "brief_description": "\"Mukhyamantri Mahila Poshan Yojana\" is a social security scheme by the Department of Women Empowerment and Child Development, Government of Uttarakhand, that aims to reduce malnutrition among the pregnant/lactating women of the state through providing nutritional food.",
+  "detailed_description": "The Government of Uttarakhand, recognizing the critical role of maternal health in child development, has implemented the &amp;quot;Mukhyamantri Mahila Poshan Yojana&amp;quot; program under the Department of Women Empowerment and Child Development. This social security scheme specifically targets pregnant and lactating women in the state. By providing them with nutritious food supplements, the program aims to combat malnutrition among these mothers. This focus on proper maternal nutrition during pregnancy and breastfeeding is crucial, as it directly impacts the health and well-being of both the mother and the developing child. By ensuring that expecting and new mothers have access to essential nutrients, the &amp;quot;Mukhyamantri Mahila Poshan Yojana&amp;quot; strives to create a healthier generation for Uttarakhand.",
+  "benefits": [
+    "Egg (2 Days/Week). Dates(2 Days/Week).",
+    "Note : Dates are provided to those registered pregnant/lactating women who do not take eggs."
+  ],
+  "eligibility_criteria": "Beneficiary should be a permanent resident of Uttarakhand. Beneficiary should be pregnant/lactating women.\n",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step-1: Concerned women should visit their nearest Anganwadi Centre.",
+        "Step-2: Provide all the necessary documents as directed (attested, if required).",
+        "Step-3: After the completion of the procedure benefits can be availed from the Anganwadi Centre."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://agriculture.uk.gov.in/files/MERI_YOJANA_book_pdf__04-12-23.pdf"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Aadhar card. Proof of Pregnancy (Medical Report). Any other document (as requested)."
+}

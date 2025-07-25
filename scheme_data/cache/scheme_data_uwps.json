@@ -1,0 +1,67 @@
+{
+  "scheme_id": "642ab69df1a4e351b530a6d7",
+  "slug": "uwps",
+  "scheme_name": "Uttarakhand Widow Pension Scheme",
+  "scheme_short_title": "UWPS",
+  "state": "Uttarakhand",
+  "level": "State",
+  "nodal_department": "Department Of Social Welfare",
+  "categories": [
+    "Social welfare & Empowerment",
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Pension"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Uttarakhand",
+    "Widow",
+    "Financial Assistance",
+    "Pension"
+  ],
+  "brief_description": "The Department of Social Welfare of Uttarakhand provides a monthly pension to widows belonging to the BPL category.",
+  "detailed_description": "The Widow Pension Scheme, implemented by the Department of Social Welfare of Uttarakhand, provides a crucial lifeline by offering a monthly pension to widows from the BPL category or those with a monthly income of up to \u20b94,000. This initiative not only supports financial stability but also empowers vulnerable women aged 18 to 60, helping to improve their quality of life and ensure dignified living standards despite challenging circumstances.",
+  "benefits": [
+    "Monthly pension of \u20b91,500/- (one thousand five hundred)."
+  ],
+  "eligibility_criteria": "The applicant should be a widow. The applicant's age should be between 18 to 60 years. The applicant should be in the BPL category. The applicant's monthly income should be up to \u20b9 4,000/-. The applicant has no son/grandson above the age of 20 years.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Apply for Scheme:",
+        "Step-1 : Visit the Official Website of the Department Of Social Welfare.",
+        "Step-2 : Click on \" New Online Application \" in the menu item for Online Application.",
+        "Step-3: The registration form will be displayed.",
+        "Step-4: Select the scheme in the registration form and fill in the required information.",
+        "Step-5: After saving the application form, the applicant will receive the password of the applicant login by SMS at the address given by the applicant.",
+        "Step-6: Click on the \"Applicant Login\" under the menu item to apply online using these login IDs and passwords.",
+        "Step-7: Once you have successfully logged in , the information on your registered application form will be updated as needed.",
+        "Step-8: Upload the documents required for the scheme (as indicated in the required document menu item) by clicking the Upload documents menu item (File type: pdf; file size: 1 MB).",
+        "Step-9: After uploading all the required documents, the applicant will be able to take a printout of the application form by clicking on the Print Application Form menu item.",
+        "Step-10 : After uploading all the required documents, the applicant will be able to take a printout of the application form by clicking on the Print Application Form menu item.",
+        "Track Application:",
+        "Step-1: Visit the Official Website of the Department Of Social Welfare.",
+        "Step-2: Click on Check your pension status in the menu item.",
+        "Step-3: Enter your Enter application number/ Mobile number/ Aadhaar number",
+        "Step-4: Then click on the \"Search\" button to see the application status.",
+        "Note: Once your application is under process or processed, you cannot update."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://socialwelfare.uk.gov.in/pages/display/95-widow-pension"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://socialwelfare.uk.gov.in/files/b-Widow_pension.pdf"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "1. Aadhaar card.\n2. Husband's Death Certificate.\n3. Below Poverty Line (BPL) ration card or Income Certificate.\n4. Bank account details.\n5. Passport size photos.\n6. Voter ID card."
+}

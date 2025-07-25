@@ -1,0 +1,69 @@
+{
+  "scheme_id": "65dddbf8da55878ebe0584bb",
+  "slug": "maanbocwwb",
+  "scheme_name": "Medical Assistance (ANBOCWWB)",
+  "scheme_short_title": "MA(ANBOCWWB)",
+  "state": "Andaman and Nicobar Islands",
+  "level": "State/ UT",
+  "nodal_department": "Labour, Employment & Training Department",
+  "implementing_agency": "Andaman & Nicobar Islands Building And Other Construction Workers Welfare Board",
+  "dbt_scheme": false,
+  "categories": [
+    "Health & Wellness",
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance",
+    "Emergency medical assistance"
+  ],
+  "target_beneficiaries": [
+    "Family",
+    "Individual"
+  ],
+  "tags": [
+    "Medical Assistance",
+    "Building Worker",
+    "Construction Worker",
+    "Labour",
+    "Hospital"
+  ],
+  "brief_description": "The scheme provides medical assistance to the Building & Other Construction Workers, who are registered under the A&N Islands Building and Other Construction Workers Welfare Board, and his/her dependents' family members during hospitalization due to accident or illness.",
+  "detailed_description": "The scheme \"Medical Assistance\" was started by the Andaman &amp;amp; Nicobar Islands Building and Other Construction Workers Welfare Board (ANBOCWWB), Department of Labour, Employment &amp;amp; Training, Andaman &amp;amp; Nicobar Administration. Under this scheme, medical assistance shall be provided to the Building &amp;amp; Other Construction Workers, who are registered under the A&amp;amp;N Islands Building and Other Construction Workers Welfare Board, and his/her dependents&amp;#39; family members during hospitalization because of an accident or illness.",
+  "benefits": [
+    "Medical assistance will be provided to the beneficiaries @ \u20b9200/- per day for the first 5 days of hospitalization and \u20b9100 per day for the remaining days subject to a maximum of \u20b95,000/-. The beneficiary shall be entitled to \u20b91,00,000/- in the event of medical referred cases to the Mainland of the beneficiary or his/her dependents to the Mainland by the Govt. Medical Authorities for treatment. Subject to production of a referral letter from competent authority \u20b91,000/- for Beneficiary or their \"Family\" in case of emergency treatment in a hospital operating in Andaman & Nicobar Islands (once in a year). Subject to the production of referral remarks by Govt. Hospital/PHC in outer Islands \u20b9600/- per day for the period of their stay in Port Blair subject to a maximum of \u20b915,000/- (Medical referral cases from outer Islands of Andaman & Nicobar Islands to Port Blair)."
+  ],
+  "eligibility_criteria": "The beneficiary should be a resident of the Union territory of Andaman & Nicobar Islands. The beneficiary should be engaged in a building or other construction work. The beneficiary should be registered under the A&N Islands Building and Other Construction Workers Welfare Board. The beneficiary should have an active membership of the Board. To avail medical assistance under the scheme, either the beneficiary or their dependent should be hospitalized due to an accident or illness. Note 01: The beneficiaries are required to produce a medical certificate Note 02: The beneficiaries are required to produce a referral letter from the competent authority.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Portal Registration Process: Step 01: Visit online Portal: https://serviceonline.gov.in/login.do  Step 02: On the home page, click on \u2018 Register ' and fill in all the mandatory details. Step 03: Click on the \u2018Submit' button and validate your Email ID & Mobile Number using OTP received. Step 04: After successful validation, the applicant will be registered. Registration Process of Construction Workers under A&N Islands Building & Other Construction Workers Welfare Board: Step 01: Applicant can login through their email ID that is used while registering Step 02: Enter Password & Captcha Step 03: Click on \u2018 Login ' Step 04: After successful login, click on \u2018Apply for Services' and then \u2018View all Available Services' Step 05: Now, search for the \"Registration of Construction Workers in AN BOCWWB\" and then click to proceed registration process. Step 06: Fill in all the mandatory details and upload all the relevant documents. Step 07: Preview the form and click on \u2018Submit'. Step 08: After successful registration, the applicant will receive a registration ID. Application Process for Medical Financial Assistance: Step 01: Now, to avail the benefits of the scheme, the applicants can login through their email ID that is used while registering Step 02: Enter Password & Captcha Step 03: Click on \u2018Login' Step 04: After successful login, click on \u2018Apply for Services' and then \u2018View all Available Services' Step 05: Now, search for the \u2018Medical Financial Assistance' and click on the scheme to proceed to fill out the application form. Step 06: Fill in all the mandatory details and upload all the mandatory documents. Step 07: Preview the application form and click on \u2018Submit'. Application Tracking: Step 01: To track the application status, the applicant can visit the online Portal and login through their \u2018User ID' & \u2018Password'. Step 02: On the home page, click on \"View Application Status' and then click on \u2018Track Application Status'. Step 03: Enter the Application Reference Number and click on \u2018Get Data' to know the status of your application."
+      ]
+    },
+    {
+      "mode": "Offline",
+      "steps": [
+        "The beneficiary may submit the application form himself/herself or through a contractor to the concerned Beneficiary Registration Officer along with all the relevant documents.  Application Form for Registration as a Beneficiary  Application Form for Medical Assistance"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://labour.and.nic.in/webPages/welfareboard.html"
+    },
+    {
+      "title": "Application Portal",
+      "url": "https://serviceonline.gov.in/citizenRegistration.html"
+    },
+    {
+      "title": "Application Form For Medical Assistance",
+      "url": "https://labour.and.nic.in/webPages/forms/med.pdf"
+    },
+    {
+      "title": "Application Form For Registration As A Beneficiary",
+      "url": "https://labour.and.nic.in/webPages/forms/welfareboard.pdf"
+    }
+  ],
+  "documents_required": "Documents required for registration under A&N Islands Building & Other Construction Workers Welfare Board: Passport size photograph Proof of age Identity proof Details of EPF, if any Proof of address 90 Days Work Duration Certificate issued by the competent authority Bank account details Any other document as required Documents required for Welfare Scheme: Registration ID Card Medical certificate Referral letter from the competent authority, if any Treatment Bills (Originals) Latest Subscription Receipt Bank account details/Copy of passbook Any other document as required"
+}

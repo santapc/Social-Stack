@@ -1,0 +1,58 @@
+{
+  "scheme_id": "65cf141ced4030e118db9526",
+  "slug": "pscp",
+  "scheme_name": "Pension Scheme for Cancer Patients",
+  "scheme_short_title": "PSCP",
+  "state": "Tripura",
+  "level": "State/ UT",
+  "nodal_department": "Directorate Of Social Welfare & Social Education",
+  "dbt_scheme": false,
+  "categories": [
+    "Health & Wellness",
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Disease and conditions",
+    "Financial assistance",
+    "Pension"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Cancer",
+    "Patient",
+    "Pension",
+    "Medical",
+    "Financial Assistance"
+  ],
+  "brief_description": "The scheme \"Pension Scheme for Cancer Patients\" was launched by the Directorate of Social Welfare and Social Education, Government of Tripura. The scheme aims to provide a monthly pension of \u20b92,000/- to the person suffering from cancer.",
+  "detailed_description": "The scheme \"Pension Scheme for Cancer Patients&quot; was launched by the Directorate of Social Welfare and Social Education, Government of Tripura. The scheme aims to provide a monthly pension of \u20b92,000/- to persons suffering from cancer.",
+  "benefits": [
+    "\u20b92,000/- per month."
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Tripura. The income of the applicant should not exceed \u20b91,50,000/- per annum. No member of the family (father, mother, son(s), or unmarried daughter(s)) of the applicant should be in government service. The applicant should be suffering from cancer.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Applications would be invited in the prescribed form by giving wide publicity through print and electronic media.",
+        "Step 01: The applicant should take print of the prescribed format of the application form.",
+        "Step 02: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 03: Application should be submitted to the Office of the Child Development Project Officer (CDPO) of the concerned area.",
+        "Step 04: Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://socialwelfare.tripura.gov.in/sites/default/files/Notification%20of%20Scheme%20for%20providing%20pension%20to%20the%20Cancer%20Patients_0.pdf"
+    },
+    {
+      "title": "Revised Rate Of Pension",
+      "url": "https://socialwelfare.tripura.gov.in/sites/default/files/Monthly%20revised%20rate%20of%20following%20Social%20Security%20Pension%20Schemes%20including%20NSAP%20%26%20State%20Social%20Pension%20Schemes%20%281%29.pdf"
+    }
+  ],
+  "documents_required": "Passport-size Photograph. Bank Passbook. Aadhaar Card. Income Certificate (issued by the DCM/ Sub Divisional Magistrate). Certificate From a Gazetted Government Officer That No Person in His/her Family is a Government Servant. Medical Certificate from Regional Cancer Center, Agartala, or a Govt. Hospital or Any Recognized Hospital. Proof of Residence (Ration Card, Permanent Resident of Tripura Certificate (PRTC), Voter ID, Driving License, or Passport)."
+}

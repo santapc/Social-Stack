@@ -1,0 +1,50 @@
+{
+  "scheme_id": "663ca34910adb172eb5f3179",
+  "slug": "eicftvi",
+  "scheme_name": "Early Intervention Centre for the Visually Impaired",
+  "scheme_short_title": "EICFTVI",
+  "state": "Tamil Nadu",
+  "level": "State/ UT",
+  "nodal_department": "Welfare of Differently Abled Persons Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Coaching"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Differently Abled Person",
+    "Visually Impaired",
+    "Social Welfare",
+    "Education"
+  ],
+  "brief_description": "The \"Early Intervention Centre for the Visually Impaired\" was launched by the Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu. Under this scheme, visually impaired children are identified, assessed and prepared to join main stream education in 6 districts.",
+  "detailed_description": "The &quot;Early Intervention Centre for the Visually Impaired&quot; was launched by the Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu. Under this scheme, visually impaired children are identified, assessed and prepared to join main stream education. Early intervention centre for the visually impaired has been established in 6 Districts Chennai, Coimbatore, Cuddalore, Thiruchirapalli, Thiruvannamalai and Vellore.",
+  "benefits": [
+    "Early Intervention Centre identified the visually impaired children to join main stream education."
+  ],
+  "eligibility_criteria": "The beneficiary child should be visually impaired. The beneficiary child's age should be 6 years or below.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The parents/guardian should visit (during office hours) the District Differently Abled Welfare Officer and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents to the District Differently Abled Welfare Officer.",
+        "Step 4: Request a receipt or acknowledgment from the District Differently Abled Welfare Officer to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Citizen's Charter (2022)",
+      "url": "https://cms.tn.gov.in/sites/default/files/documents/wda_e_cc_2022_23.pdf"
+    }
+  ],
+  "documents_required": "National Identity Card of the Differently Abled. Birth Certificate. Any Other Document If Required."
+}

@@ -1,0 +1,56 @@
+{
+  "scheme_id": "6459d7a3ee656f6b1ad529d4",
+  "slug": "mmky",
+  "scheme_name": "Mukhya Mantri Kanyadaan Yojana",
+  "scheme_short_title": "MMKY",
+  "state": "Himachal Pradesh",
+  "level": "State",
+  "nodal_department": "Health and Family Welfare Department, Himachal Pradesh",
+  "dbt_scheme": true,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Kanyadan Yojana",
+    "Female Scheme",
+    "Widow Scheme",
+    "Financial Assistance",
+    "Marriage"
+  ],
+  "brief_description": "Under Mukhyamantri Kanyadaan Yojana, the daughters of below poverty line families or widows or destitute or family earning less than Rs. 35000-/ year are given finacial help for their marriage by Government of Himachal Pradesh.",
+  "detailed_description": "The Mukhya Mantri Kanyadan Yojana in Himachal Pradesh is a welfare scheme aimed at providing financial assistance for the marriage of daughters from economically weaker sections of society. Under this scheme, daughters of families below the poverty line, widows, destitute women, and families with an annual income of less than Rs. 35,000 are eligible for financial assistance from the government for their marriage. The scheme aims to reduce the financial burden on families during the marriage of their daughters and promote gender equality. The scheme has been successful in providing financial support to many families, particularly those from underprivileged backgrounds, and helping them to celebrate the marriage of their daughters with dignity and joy.",
+  "benefits": [
+    "1. The marriage grant at \u20b940,000/- in each cases shall be admissible to the parents/guardians of the destitute girl/women for their marriage.",
+    "2. In case of the inmates of Nari Sewa Sadan/ Nari Niketan, Marriage grant of \u20b951,000/-, shall be admissible to the girl/women for their marriage."
+  ],
+  "eligibility_criteria": "Girl whose father is not alive and whose guardian's total income does not exceed \u20b935,000/- per annum (excluding MNREGA income). Girl whose father is incapacitated or bedridden due to physical or mental disability, including prolonged illness, and whose family income does not exceed \u20b935,000 /- per annum (excluding MNREGA income). Orphan girls/neglected girls and women, including inmates of Nari Niketan and former inmates of Balika Ashrams, with no regular source of income. Deserted/divorced women whose income does not exceed \u20b935,000/- per annum (excluding MNREGA income). Girls/women in moral danger or rescued from immoral trafficking. Destitute women/girls released after imprisonment under any law. Daughters of divorced/deserted women whose annual income does not exceed \u20b935,000/- per annum (excluding MNREGA income).",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration (Sign-up)",
+        "User need to visit the official website portal . First user complete the sign-up procedure using Aadhaar and mobile authentication.",
+        "Apply Online (Sign-in)",
+        "User need to visit the official website portal . Now user need to click on \"Login to Apply\" Fill the online application form. Upload the necessary documents. Submit."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://himachal.nic.in/WriteReadData/l892s/176_l892s/Mukhya%20Mantri%20Kanyadan%20Yojna%20(B%20)-78665675.pdf"
+    },
+    {
+      "title": "Govt Portal",
+      "url": "https://edistrict.hp.gov.in/pages/services/designForm/InfoPages/CM_Bestowing_Plan_(Mukhya_Mantri_Kanyadaan_Yojana).xhtml"
+    }
+  ],
+  "documents_required": "Proof of Age (Men and Women) Bonafide Himachali Certificate Proof of Annual Family Income of the applicant Proof of the Date of Marriage BPL Certificate "
+}

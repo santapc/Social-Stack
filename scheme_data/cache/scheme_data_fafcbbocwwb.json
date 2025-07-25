@@ -1,0 +1,48 @@
+{
+  "scheme_id": "67a49b0d1269f7da410bc510",
+  "slug": "fafcbbocwwb",
+  "scheme_name": "Financial Assistance for Cremation (BBOCWWB)",
+  "scheme_short_title": "FAFCBBOCWWB",
+  "state": "Bihar",
+  "level": "State/ UT",
+  "nodal_department": "Building Construction Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Construction",
+    "Building",
+    "Labour",
+    "Financial Assistance",
+    "Worker",
+    "Death"
+  ],
+  "brief_description": "The scheme \"Financial Assistance for Cremation\" by the Bihar Building & Other Construction Workers Welfare Board, Labour Resources Department, Government of Bihar, provides financial assistance of \u20b95,000/-to the dependents of the deceased worker for performing cremation.",
+  "detailed_description": "The scheme &quot;Financial Assistance for Cremation&quot; by the Bihar Building &amp; Other Construction Workers Welfare Board, Labour Resources Department, Government of Bihar, provides financial assistance of \u20b95,000/-to the dependents of the deceased worker for performing cremation.",
+  "benefits": [
+    "Financial Assistance of \u20b95,000/- is provided for the cremation of the deceased construction worker."
+  ],
+  "eligibility_criteria": "The applicant should be a dependent of the deceased construction worker. The deceased, in his/her lifetime, should have been registered with the Bihar Building & Other Construction Workers Welfare Board. The deceased, in his/her lifetime, should have maintained regular membership with the Board.\n",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Application Step 1:  Visit the Official Website of the Bihar Building and Other Construction Workers Welfare Board. Step 2: Click on \" Scheme Application \" and select \" Apply for Scheme \". Step 3:  Enter your registration number and click \"Show\" to view your details. Step 4:  Select the scheme you intend to apply for, enter all mandatory information and upload the necessary documents in the specified format and size. Step 6:  Click on \"Submit Application\" to complete the process. Application Tracking Applicants can track their application status online on the official website of the Board by providing their registration number."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://bocw.bihar.gov.in/Website/pdf/Brochure.pdf"
+    }
+  ],
+  "documents_required": "Identity Card of the Registered Worker Aadhaar Card Death Certificate of the Worker Proof Establishing Relationship between the Deceased and the Applicant Proof of Membership Proof of Age"
+}

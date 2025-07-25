@@ -1,0 +1,56 @@
+{
+  "scheme_id": "66ffb493aa7fbefbf2f8fe0b",
+  "slug": "metmab",
+  "scheme_name": "Medical Expenses for Treatment of Major Ailments of a Beneficiary",
+  "scheme_short_title": "METMAB",
+  "state": "Manipur",
+  "level": "State/ UT",
+  "nodal_department": "Labour and Employment Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Health & Wellness"
+  ],
+  "sub_categories": [
+    "Disease and conditions",
+    "Financial assistance",
+    "Emergency medical assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual",
+    "Family"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Medical Treatment",
+    "Construction Worker",
+    "Disease"
+  ],
+  "brief_description": "The Manipur Building and Other Construction Workers' Welfare Board provides financial support for the treatment of serious illnesses such as Tuberculosis, Cancer, Heart Disease, Kidney Disease, and more, for building workers and their family members.",
+  "detailed_description": "The Manipur Building and Other Construction Workers&#39; Welfare Board launched a scheme &quot;Medical Expenses for Treatment of Major Ailments of a Beneficiary&quot;. The scheme aims to provide financial support for the treatment of serious illnesses such as Tuberculosis, Cancer, Heart Disease, Kidney Disease, and more, for building workers and their family members. <br> ***Major Ailment Cover:*** - Tuberculosis (T.B.) - Cancer. - Heart Disease. - Kidney Disease. - Eye Disease. - Leprosy. - HIV Disease. - Nerve Disease.",
+  "benefits": [
+    "Financial Assistance:",
+    "\u20b92,000/- per year for minor treatments.",
+    "Up to \u20b945,000/- (each operation) for major surgeries."
+  ],
+  "eligibility_criteria": "The construction worker should be registered under the Manipur Building and Other Construction Workers' Welfare Board. The construction worker's family members (spouse and children) are eligible for financial assistance under this scheme. The construction worker or family members should suffer from T.B., Cancer, Heart Disease, Kidney Disease, Eye Disease, Leprosy, HIV Disease and Nerve Disease.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step-1: The interested applicant should visit (during office hours) the Manipur Building and Other Construction Workers Welfare Board and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "OR",
+        "The interested applicant visits the official website and downloads the application form .",
+        "Step-2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3: Submit the duly filled and signed application form along with the documents to the Labour Board Inspector",
+        "Step-4: Request a receipt or acknowledgement from the Labour Board Inspector to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "http://manipurbcwb.in/SchemeDetails?title=medical+expenses+for+treatment+of+major+ailments+of+a+beneficiary"
+    }
+  ],
+  "documents_required": "Certificate of Registration. Payment Receipt of the Last Contribution. Calculation Sheet for the medical expenses for ailment. Medical Certificate. Aadhaar Card of the Beneficiary. First Page of Bank Passbook."
+}

@@ -1,0 +1,61 @@
+{
+  "scheme_id": "67d15bb1777a17dd53dfc2d5",
+  "slug": "fatssfshsa",
+  "scheme_name": "Financial Assistance to SC Students for Pursuing Higher Studies Abroad",
+  "scheme_short_title": "FATSSFSHSA",
+  "state": "Delhi",
+  "level": "State/ UT",
+  "nodal_department": "Welfare of SC/ST/OBC/Minorities Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "International education",
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "College",
+    "Scheduled Caste",
+    "Student",
+    "Scholarship",
+    "Abroad",
+    "Foreign",
+    "Education"
+  ],
+  "brief_description": "The scheme aims to support SC students for higher education abroad in fields like Engineering, Sciences, and Humanities. Benefits include up to \u20b920,00,000/- for Ph.D. and \u20b910,00,000 for Masters, with eligibility criteria including residency and income below \u20b98,00,000/-.",
+  "detailed_description": "Launched in 2020, the scheme &quot;Financial Assistance To SC Students For Pursuing Higher Studies Abroad&quot; by the Department for the Welfare of SC/ST/OBC/Minorities, Government of NCT of Delhi aims to provide financial support to 100 selected Scheduled Caste (SC) students for pursuing Masters and Ph.D. programs abroad in specified fields such as Engineering, Pure Sciences, and Humanities. The scheme offers up to \u20b920,00,000/- for Ph.D. and \u20b910,00,000/- for Masters, disbursed in installments. Eligible candidates must be below 30 years, have a family income under \u20b98,00,000 annually, and be bonafide residents of Delhi for at least five years. The scheme is implemented by the Department for the Welfare of SC/ST/OBC, Government of NCT of Delhi.",
+  "benefits": [
+    "Financial assistance of \u20b95,00,000/- per annum, up to a maximum of \u20b920,00,000/- for Ph.D. (4 years) and \u20b910,00,000/- for Masters (2 years).",
+    "Funds are Disbursed in Installments",
+    "First installment after admission confirmation. Subsequent installments every six months/one year based on progress reports.",
+    "Covers tuition and living expenses at accredited foreign universities.",
+    "Conditions",
+    "Recipients must return to India after completion and stay for at least 5 years. Violations may require refund of the entire amount with 15% compound interest."
+  ],
+  "eligibility_criteria": "The applicant should be a citizen of India. The applicant should be a domicile of Delhi or a bonafide resident of Delhi for at least 5 years. The applicant should be the only child eligible under this scheme. Employed applicant should submit their application through their employer with a No Objection Certificate (NOC). The applicant should not have already completed the same level of education (Master's/Ph.D.) in India or abroad. Applicants for the Ph.D. Course should have secured at least 55% marks or equivalent grade in relevant Master's Degree. Applicants for the Master's Degree Course should have secured at least 55% marks or an equivalent grade in a relevant Bachelor's Degree. The applicant should be below 30 years old as of the cutoff date. The applicant's total family income should not exceed \u20b98,00,000/- per annum.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should take print of the prescribed format of the application form.",
+        "Step 2: In the application form, fill in all the mandatory fields in English/Hindi (block letters). Paste the passport-sized photograph (signed across, if required) and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Send the hard copy of the duly filled and signed application form along with the copies of the required documents to the Department for Welfare of SC/ST/OBC, Vikas Bhavan, New Delhi.",
+        "Post-Application Processes",
+        "Step 1: The applications received within the deadline will be reviewed for eligibility and placed before the Selection Committee. The shortlisted candidates may be called for a personal interview. In case of a tie, preference will be given to the older candidate (as per the date of birth in the Secondary School Certificate).",
+        "Step 2: Upon selection, the first installment is released after admission confirmation. Subsequent installments require progress reports."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://scstwelfare.delhi.gov.in/sites/default/files/scstwelfare/circulars-orders/abroad.pdf"
+    }
+  ],
+  "exclusions": "Candidates already studying abroad before the advertisement date. Those who have already acquired the same qualification (Masters/Ph.D.) in India or abroad.",
+  "documents_required": "Matriculation Certificate. Degree/Diploma Mark Sheets and Certificates. Income Certificate. Caste Certificate. Offer Letter From Accredited Foreign University. Admission Details (University, Course, Expenses). Aadhaar Card. Undertaking/Self-Declaration (Annexure-I). For Employed Candidates: No Objection Certificate (NOC) from Employer."
+}

@@ -1,0 +1,54 @@
+{
+  "scheme_id": "67e28eb80aa19c6dc28b32df",
+  "slug": "fsotb",
+  "scheme_name": "Free Supply of Text Books",
+  "scheme_short_title": "FSOTB",
+  "state": "Delhi",
+  "level": "State/ UT",
+  "nodal_department": "Education Department",
+  "dbt_scheme": true,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Resources for schools",
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Student",
+    "Education",
+    "School",
+    "Book",
+    "Financial Assistance"
+  ],
+  "brief_description": "The scheme provides textbooks or cash subsidies for textbooks and writing materials to students of Government and Aided Schools. Benefits include financial assistance ranging from \u20b9550/- to \u20b9830/- per annum, with additional support for geometry boxes. All students from Nursery to 12th are eligible.",
+  "detailed_description": "The scheme &quot;Free Supply of Text Book&quot; by the Department of Education (DoE), Government of NCT of Delhi, aims to provide textbooks or cash in lieu of textbooks and writing material to students of Government and Aided Schools, ensuring equitable access to educational resources. The scheme offers financial assistance for purchasing textbooks and geometry boxes, with varying amounts based on class levels. Eligible beneficiaries include all students from Nursery to XII in Government and Aided Schools, irrespective of gender or income. The scheme is implemented by the Department of Education, GNCT of Delhi.",
+  "benefits": [
+    "Cash Subsidy for Textbooks and Writing Materials",
+    "Class 1st to 5th: \u20b9550/- per annum. Class 6th, 7th, 11th, and 12th (Without Math): \u20b9800/- per annum. Class 8th, 11th, and 12th (With Math): \u20b9830/- per annum. Class 5th: \u20b9630/- per annum. Class 10th: \u20b9730/- per annum.",
+    "Additional Support",
+    "Cash subsidy of \u20b930/- per student for classes VIII, IX, and X, and for students of classes XI and XII who opt for Mathematics, for purchasing a Geometry Box.",
+    "Mode of Disbursement",
+    "For Cash Subsidies: The amount is transferred directly to the student's/parent's bank account. For Textbooks: The school distributes the books to eligible students."
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Delhi. The applicant should be a student from Nursery to Class 12th. The applicant should be enrolled in a Government or Aided School in Delhi. The applicant should be attending classes regularly according to school norms.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "The scheme \"Free Supply of Textbooks\" does not require any formal application from students, as the process is managed by the school authorities. The school verifies the students' enrollment and class details, compiles a list of eligible students, and submits it to the Department of Education."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://lancersconvent.ac.in/pdf/scholarship/Welfare%20Schemes%20Of%20DoE.2.pdf"
+    }
+  ],
+  "exclusions": "Students of private unaided schools are not eligible.",
+  "documents_required": "Admission Proof (Fee Receipt or School ID Card) Class-wise Enrollment Details Bank Account Details"
+}

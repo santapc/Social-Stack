@@ -1,0 +1,66 @@
+{
+  "scheme_id": "67c6ee7f1dc65aa2df3de5f9",
+  "slug": "fbs",
+  "scheme_name": "Food Bill Assistance",
+  "scheme_short_title": "FBS",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Empowerment Department",
+  "implementing_agency": "Gujarat Unreserved Education And Economical Development Corporation",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning",
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Education",
+    "Student",
+    "Financal Assistance"
+  ],
+  "brief_description": "The \"Food Bill Assistance\" scheme provides financial support to non-reserved category students pursuing graduate-level medical, dental, technical, and para-medical courses.",
+  "detailed_description": "The &quot;Food Bill Assistance&quot; introduced by the Social Justice and Empowerment Department, Gujarat, aims to support students who are required to live away from their families due to the unavailability of educational facilities in their home taluka. The scheme is being implemented by the Gujarat Unreserved Education and Economical Development Corporation.",
+  "benefits": [
+    "Financial Assistance: \u20b91,500/- per month for 10 months."
+  ],
+  "eligibility_criteria": "The applicant must belong to a non-reserved category. The applicant must be pursuing a graduate-level course in Medical, Dental, Technical, or Para-Technical fields. The applicant must be staying in a government/non-aided hostel outside their home taluka. If the applicant is a girl studying in Std. 9 to 12, she must be staying in a hostel run by a society, trust, or institution. The applicant's annual family income must be \u20b94,50,000/- or less.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process:",
+        "Step 1: Go to the Corporation's official website and navigate to the \"Gujarat Unreserved Education and Economical Development Corporation\" section under the Corporation menu.",
+        "Step 2: Click on \"Food Bill Assistance\" and then Apply Now.",
+        "Step 3: Click on \"New User? Please Register Here\".",
+        "Step 4: Enter the required details and click Register.",
+        "Application Process:",
+        "Step 1: Enter your User ID, Password, and Captcha Code, then click \"Login\".",
+        "Step 2: Read the scheme details carefully and click OK.",
+        "Step 3: If your permanent address is correct, confirm it. Otherwise, enter your correct address.",
+        "Step 4: Click Save & Next to proceed. Upload the relevant documents.",
+        "Step 5: If you need to make changes, click \"No, Cancel\". If all details are correct, click \"Yes, Submit\".",
+        "Step 6: Click Save Application. Note down your Application Number for future reference. You can also take a printout by clicking Print Application.",
+        "Check Application Status:  Click here .",
+        "Post Online Application Procedure: After submitting the online application, the applicant must take a printout of the application, sign it, and submit it along with all uploaded documents (certificates, mark sheets, etc.) to the concerned Deputy Director (Non-Reserved Category) or the District Social Welfare Officer through courier, post, or by visiting in person.",
+        "Contact Us:  Click here ."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://gueedc.gujarat.gov.in/food-bill-scheme.html"
+    },
+    {
+      "title": "User Manual",
+      "url": "https://esamajkalyan.gujarat.gov.in/ApplicationDocuments/GUEEDC/HowtoApplyGUEEDC.pdf"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Application form in the prescribed format. Marriage certificate (if applicable). Non-Reserved Category Certificate. Income Certificate. Proof of Residence. Copy of Aadhaar Card. Letter of Admission to School/College (Bona Fide). Admission Letter. Copy of LC (Leaving Certificate). Copy of Std-10 Marksheet. Receipt of Tuition Fee. Copy of Bank Passbook. Any other documents if required."
+}

@@ -1,0 +1,49 @@
+{
+  "scheme_id": "642170470912d761b99e8a1d",
+  "slug": "asfcw",
+  "scheme_name": "Assistance Scheme For Construction Worker In Case Of General Or Accidental Death Or Injury",
+  "scheme_short_title": "ASFCW",
+  "state": "Rajasthan",
+  "level": "State",
+  "nodal_department": "Labour Department",
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Crisis/Disaster/Accident",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Construction Worker",
+    "Death",
+    "Accident",
+    "Injury",
+    "Labour Scheme"
+  ],
+  "brief_description": "This scheme will be called \"Assistance Scheme for Beneficiary in Normal Death or Accident (in case of death or injury)\" registered in Rajasthan Building and Other Construction Workers Welfare Board. This scheme will be effective in entire Rajasthan.",
+  "detailed_description": "The Assistance to Construction workers in case of injury or death or accident is a scheme implemented in the state of Rajasthan to provide financial assistance to construction workers and their families in case of an accident resulting in injury or death. Under this scheme, a compensation of up to Rs. 3 lakhs is provided in case of permanent disability or accidental death of a registered construction worker. Additionally, medical expenses are covered for the treatment of injuries sustained during an accident at the construction site. <br> To be eligible for this scheme, the construction worker must be registered with the Construction Workers Welfare Board in Rajasthan. The scheme aims to provide financial assistance and support to construction workers and their families during times of distress and help them cope with the financial burden of medical expenses and loss of income due to the accident. <br>",
+  "benefits": [
+    "In case of normal death or accident (death or injury) of the beneficiary construction worker assistance amount will be given as follows :-",
+    "Rs. 5,00,000/- in case of death due to accident Rs.3,00,000/- in case of permanent total disability due to accident Rs 1,00,000/- for partial permanent disability due to an accident. Up to Rs.20,000/- in case of serious injury in an accident Up to Rs.5000/- for minor injuries in an accident 75,000/- in case of normal death of construction worker "
+  ],
+  "eligibility_criteria": "1. Applicant should be a Resident of Rajasthan State.\n2. Construction workers in the age group of 18 to 60 years will be eligible for this scheme.\n3. Applicant should be registered as Construction Worker under labor laws.\nNo assistance shall be payable in the event of death or injury caused by suicide or by consumption of drugs or substances or in case of death or injury caused by assault on one another in contravention of law for the purpose of committing an offence.\n",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "In case of death of the beneficiary construction worker, his nominee/successor and in case of injury, the beneficiary himself will apply to the concerned district labor office. In case of death, the dependent / nominee to whom the assistance amount is payable, will have to submit an affidavit to the effect that the amount received will be used for all the dependents of the deceased beneficiary. In case of death of the beneficiary, applications for getting assistance will be acceptable within a maximum period of one year from the date of death In the event of the beneficiary being injured in an accident, the application for getting assistance can be made within a maximum of 6 months from the date of the accident or the date of discharge from the hospital."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Labour Department Website",
+      "url": "https://labour.rajasthan.gov.in/Schemes.aspx"
+    }
+  ],
+  "exclusions": "No assistance shall be payable in the event of death or injury caused by suicide or by consumption of drugs or substances or in case of death or injury caused by assault on one another in contravention of law for the purpose of committing an offence.",
+  "documents_required": "1. Aadhaar Card and Jan Aadhaar Card.\n2. Labor Card.\n3. Death Certificate (in case of death by accident).\n4. Medical examination report and police report (in case of disability due to accident).\n5. Bank details."
+}

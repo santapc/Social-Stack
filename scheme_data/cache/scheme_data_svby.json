@@ -1,0 +1,55 @@
+{
+  "scheme_id": "64350f1bca99235bd0ee01a9",
+  "slug": "svby",
+  "scheme_name": "Shri Vajpayee Bankable Yojana",
+  "scheme_short_title": "SVBY",
+  "state": "Gujarat",
+  "level": "State",
+  "nodal_department": "Finance Department",
+  "categories": [
+    "Banking,Financial Services and Insurance"
+  ],
+  "sub_categories": [
+    "Banking and money"
+  ],
+  "tags": [
+    "Vajpayee",
+    "Bankable"
+  ],
+  "brief_description": "A scheme for providing financial assistance to the craftsmen of Cottage Industries through Nationalised Banks, Cooperative banks, Public sector Banks or Private Banks.",
+  "detailed_description": "**Details** This scheme aims to supply self-employment to unemployed persons in urban and rural areas. Disabled and blind persons are also eligible to take benefits under this scheme",
+  "benefits": [
+    "Benefits",
+    "Maximum Limit for Bank Loan",
+    "\u20b9.8.00 lakh for the Industries sector. \u20b9.8.00 lakh for the Service sector. \u20b9.8.00 lakh for the Business sector.",
+    "Rate of subsidy on the loan amount : Subsidy will be available as mentioned below for the Industries, Service & Business sectors.",
+    "Area | General Category | Scheduled Castes/ Scheduled Tribes / Ex-serviceman/Women/ blind or handicapped having 40% or more disability\nRural | 25% | 40%\nUrban | 20% | 30%",
+    "Maximum Limit of Subsidy",
+    "S No. | Sector | Limit of Subsidy Amount\n1 | Industries | Rs. 1,25,000/-\n2 | Service | Rs. 1,00,00/-\n3 | Business | General Category: Urban- Rs. 60,000/- Rural Rs. Rs. 75,000/-\n4 | Business | Reserve Category: Urban/ Rural Rs. 80,000/-",
+    "Note: The maximum limit of subsidy per beneficiary in any sector will be \u20b9.1,25,000/- for a blind or handicapped person"
+  ],
+  "eligibility_criteria": "Eligibility Age: 18 to 65 years. Qualification: The applicant should have passed the minimum standard fourth OR, Training/ Experience: Should have undergone training for a minimum of three months from the private establishment or a minimum of one month from Government recognized Institutes, in the area of the proposed business or should have experience of minimum 1 year in the same activity or should be a hereditary craftsperson. No Income criteria",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Application Process",
+        "Visit the official website https://blp.gujarat.gov.in/header_home.php or click here . Do the registration process with the mobile OTP authentication process. Provide the details in Citizen Register by entering name, email, password and captcha code, the login process has to be completed by clicking on Register Provide applicant details (Aadhar Number, Address, Enter all details based on other documents). Other information related to Project Details & Business Details, Finance Required / Project Cost and Detail Of Experience /Training will also have to be filled and click on Save & Next. Upload the necessary documents."
+      ]
+    },
+    {
+      "mode": "Offline",
+      "steps": [
+        "Application Process",
+        "Applicants need to download the application form. To download the form click here . Fill out the application form. Enclose the required documents. And contact the nearest District Industries Center. To check the nearest District Industries Center click here. "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "http://www.cottage.gujarat.gov.in/Home-5E25726C3B65-214079-282472242566-5E2572"
+    }
+  ],
+  "documents_required": "List of the required documents\nAadhar card copy. Vocational Training Certificate. Educational qualification certificate. Caste certificate. Address proof. Passport-size photocopy. Proof of details of the applicant. Bank account passbook. School or college identity card. Place of business."
+}

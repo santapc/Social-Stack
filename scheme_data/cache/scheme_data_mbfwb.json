@@ -1,0 +1,55 @@
+{
+  "scheme_id": "670169b1338425904c34ee3d",
+  "slug": "mbfwb",
+  "scheme_name": "Maternity Benefit for Women Beneficiaries",
+  "scheme_short_title": "MBFWB",
+  "state": "Nagaland",
+  "level": "State/ UT",
+  "nodal_department": "Labour and Employment Department, Nagaland",
+  "dbt_scheme": false,
+  "categories": [
+    "Women and Child",
+    "Health & Wellness"
+  ],
+  "sub_categories": [
+    "Pregnancy Care",
+    "Financial Assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Women",
+    "Pregnancy",
+    "Construction Worker"
+  ],
+  "brief_description": "The \"Maternity Benefit for Women Beneficiaries\" scheme under the Nagaland Building and Other Construction Workers' Welfare Board provides financial assistance to pregnant women registered as beneficiaries and wives of registered beneficiaries. The assistance can be availed up to two times.",
+  "detailed_description": "The &quot;Maternity Benefit for Women Beneficiaries&quot; scheme launched by the Nagaland Building and Other Construction Workers&#39; Welfare Board provides financial assistance of \u20b96,000/- per pregnancy to women registered as beneficiaries and wives of registered beneficiaries. The assistance can be availed up to two times.",
+  "benefits": [
+    "Financial assistance of \u20b96,000/- per pregnancy (up to two times)."
+  ],
+  "eligibility_criteria": "The applicant should be a registered women construction worker under the Nagaland Building and Other Construction Workers' Welfare Board or the wife of a registered male worker. The applicant should be Pregnant. Benefit is available for the first two live births.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step-1: The interested applicant should visit (during office hours) the Nagaland Building and Other Construction Workers' Welfare Board and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step-2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3: Submit the duly filled and signed application form along with the documents to the Assistant Labour Commissioner.",
+        "Step-4: Request a receipt or acknowledgement from the Assistant Labour Commissioner to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://nbocw.nagaland.gov.in/schemes"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://nbocw.nagaland.gov.in/home"
+    }
+  ],
+  "documents_required": "Aadhaar Card of the Applicant and Registered Worker. Admission and Discharge Summary (issued by the Medical Officer of the Hospital where the baby was delivered). Combined Certificate (issued from the Chairperson of the Village Health Committee and VCC for home delivery cases) Birth Certificate of the Child. Bank Account Passbook. Any Other Documents if required."
+}

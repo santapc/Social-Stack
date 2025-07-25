@@ -1,0 +1,60 @@
+{
+  "scheme_id": "628620db006d968be8d60866",
+  "slug": "nssw",
+  "scheme_name": "New Swarnima Scheme For Women",
+  "scheme_short_title": "NSSW",
+  "level": "Central",
+  "implementing_agency": "State Channelising Agencies (SCAs) Of National Backward Classes Finance & Development Corporation (NBCFDC)",
+  "dbt_scheme": false,
+  "categories": [
+    "Banking,Financial Services and Insurance",
+    "Business & Entrepreneurship",
+    "Social welfare & Empowerment",
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Loan",
+    "Setting up / start-up / entrepreneurship",
+    "Micro finance",
+    "Financial assistance",
+    "Citizen empowerment"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Entrepreneur",
+    "Women",
+    "Business",
+    "Empowerment",
+    "Backward Class",
+    "Financial Assistance"
+  ],
+  "brief_description": "A term loan scheme by the Ministry of Social Justice and Empowerment for women entrepreneurs from backward classes to obtain a loan of up to \u20b92,00,000/- @ 5% per annum, thereby providing them social & financial security.",
+  "detailed_description": "##### A term loan scheme by the Ministry of Social Justice and Empowerment for women entrepreneurs from backward classes to obtain a loan of up to \u20b92,00,000/- @ 5% per annum, thereby providing them social &amp; financial security. The scheme is introduced by National Backward Classes Finance and Development Corporation (NBCFDC) and implemented by State Channelising Agencies (SCAs) which act as the nodal agency.",
+  "benefits": [
+    "A subsidy amount of \u20b92,00,000/- @ 5% per annum, for self-employment. (The remaining amount has to be self-owned by the beneficiary.) The beneficiary woman is not required to invest any amount of her own on the projects upto cost of Rs.2,00,000/-."
+  ],
+  "eligibility_criteria": "The applicant must be a FEMALE . The age of the applicant must be between 18 and 55 years . The applicant must be an Entrepreneur The Total Annual Family Income of the Applicant must be Less than \u20b9 3 Lakh per Annum",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: Eligible applicant needs to visit nearest SCA office, apply on prescribed form for Swarnima Scheme for Women. You can find your nearest SCA office at this link - https://nsfdc.nic.in/channel-patrners/scas",
+        "Step 2: Enter the necessary details in the application form and mention the needs and choice of vocation and training requirements, if any.",
+        "Step 3: Submit your application form and the required documents to the same SCA office. After reviewing the application, the loan will be sanctioned by SCA."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Entrepreneurial Schemes Of NBCFDC",
+      "url": "https://socialjustice.gov.in/schemes/13"
+    },
+    {
+      "title": "Scheme Guidelines By NBCFDC",
+      "url": "https://nbcfdc.gov.in/loan-scheme-description/2/en#:~:text=The%20target%20group%20of%20the,3.00%20Lakh"
+    }
+  ],
+  "documents_required": "Proof of Identity (Aadhaar card) Ration Card Domicile Certificate Caste Certificate (for reserved category) Passport size Photograph of the applicant"
+}

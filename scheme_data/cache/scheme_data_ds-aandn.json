@@ -1,0 +1,56 @@
+{
+  "scheme_id": "65dd8741938a0b13cc977ef9",
+  "slug": "ds-aandn",
+  "scheme_name": "Dulari Scheme",
+  "scheme_short_title": "DS-A&N",
+  "state": "Andaman and Nicobar Islands",
+  "level": "State/ UT",
+  "nodal_department": "Health Department",
+  "implementing_agency": "Directorate Of Health Services, Andaman & Nicobar Island",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning",
+    "Health & Wellness",
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance",
+    "Pregnancy care"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Girl Child",
+    "New Born",
+    "Woman",
+    "Scholarship",
+    "Financial Assistance"
+  ],
+  "brief_description": "The DULARI Scheme was implemented by the Directorate of Health Services in the Andaman and Nicobar Islands to provide incentives for newborn baby girls and to the girl children who pass Classes VIII, X, and XII.",
+  "detailed_description": "The \"Dulari Scheme\" was launched by the Health Department, Union Territory of Andaman and Nicobar Islands on 26th January, 2013 to give incentives to newborn baby girls and girl children on passing VIII, X &amp;amp; XII standards. As per the present scheme, the girl child born on or after 26.01.2013 will be eligible to get the benefit under the scheme for birth incentives and the girl children who are below 13 years of age not registered under the Planned family scheme (old scheme) will also get the benefit of this scheme.",
+  "benefits": [
+    "As per the scheme, the following benefits are given to the girl child whose parents are domicile of Andaman & Nicobar Islands:  Sl. No. | Descriptions | Amount of Assistance\n1 | Benefits at Birth- Institution deliver | \u20b98,000/-\n2 | Benefits at Birth- Home delivery | \u20b95,000/-\n3 | Benefits on passing VIII Standard | \u20b95,000/-\n4 | Benefits on passing X Standard | \u20b910,000/-\n5 | Benefits on passing XII Standard | \u20b910,000/-\n6 | Benefits on getting married at the age of 21 years | \u20b95,000/-\n7 | Benefits on getting married after age of 25 years | \u20b910,000/-  Note - The incentive amount will be fixed in a bank account and must not be withdrawn before the girl attains 18 years of age, unless permitted by the A&N Administration. "
+  ],
+  "eligibility_criteria": "The applicant must be a domicile of the Union Territory of Andaman & Nicobar Islands. The applicant must be a woman or a girl child to avail benefits under the scheme. The applicant must be born on or after 01.10.2013 to receive full benefits. Girl children between 0\u201313 years, born before 01.10.2013 and not covered under the Planned Family Scheme, should be eligible only for educational incentives after passing Class VIII.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration on Portal: Step 01: Visit official Portal  .  Step 02: On the home page, click on \u2018Register' and fill in all the mandatory details. Step 03: Click on the \u2018Submit' button and validate your Email ID & Mobile Number using OTP received. Step 04: After successful validation, the applicant will be registered.  Registration for Dulari: Step 01: Applicant can login on official portal through their email ID that is used while registering Step 02: Enter Password & Captcha Step 03: Click on \u2018Login' Step 04: After successful login, click on \u2018Apply for Services' and then \u2018View all Available Services' Step 05: Now, search for \u2018Dulari' and click on \u2018Dulari Registration'. Step 06: Fill in all the mandatory details, preview the form, and click on \u2018Submit'. Step 07: After successful registration, the applicant will receive a registration ID."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://anieseva.andaman.gov.in/services_list_depart.php?cateid=MQ%3D%3D&id=MTE%3D&utm_source=chatgpt.com"
+    },
+    {
+      "title": "Application Portal",
+      "url": "https://serviceonline.gov.in/"
+    }
+  ],
+  "exclusions": "Benefits will cease if:\nThe applicant or her parents provide false or concealed information. The girl gets married before attaining 21 years of age. The girl drops out of school (as further education-based incentives will not be granted). In case of the girl's death before reaching the eligible disbursal age, the Directorate of Health Services may permit premature closure of the deposit, and the applicable amount may be released to the parents.",
+  "documents_required": "Identity proof of parent (s) i.e. Aadhaar Card Passport-size photograph of parent (s) Birth Certificate of child Local certificate/domicile certificate/permanent resident certificate Ration Card of Family Address proof of the parent(s) Mark sheet of Class XIII/X/XII, if applicable Bonafide certificate from the school or school leaving certificate, if applicable Marriage registration certificate, if applicable Bank account details/Copy of passbook Any other document as required"
+}

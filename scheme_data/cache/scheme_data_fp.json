@@ -1,0 +1,53 @@
+{
+  "scheme_id": "666bde8febb262eb5dc18570",
+  "slug": "fp",
+  "scheme_name": "Fasal Pradarshan",
+  "scheme_short_title": "FP",
+  "state": "Rajasthan",
+  "level": "State/ UT",
+  "nodal_department": "Agriculture Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Agriculture",
+    "Financial Support",
+    "Crop Display",
+    "Farmer"
+  ],
+  "brief_description": "Under this scheme, the Agriculture Department organizes field and crop demonstrations to showcase advanced crop production methods and the latest technologies to farmers.",
+  "detailed_description": "The \"Fasal Pradarshan\" scheme under the Agriculture Department of the Rajasthan Government allocates grants to organize field and crop demonstrations on farmers&#39; fields. These demonstrations aim to disseminate advanced crop production methods and the latest agricultural technology, educating farmers about innovative techniques such as precision farming and crop management practices to enhance their understanding and adoption of modern agricultural practices. <br> > **Note:** - The demonstration will be organized in a dense area. - In the demonstration, nutrients will have to be used necessarily on the basis of seed treatment and soil testing.",
+  "benefits": [
+    "Demonstration program | Grant on performance\nOilseed crops (Kharif season) | 50 percent or maximum of actual expenditure on inputs\n1. Peanuts | \u20b910,000/-\n2. Soybean | \u20b960,00/-\n3. Sesame seeds | \u20b918,000/-\n4. Castor seeds | \u20b93,000/-\n5. Rabi season: Mustard and flaxseed | \u20b93,000/-\n6. Taramira | \u20b92,090/-\n7. Mustard and beekeeping | \u20b9500/-",
+    "100 percent or maximum of actual expenditure on inputs",
+    "1. Wheat | \u20b97,500/-\n2. Kharif pulses | \u20b97,500/-\n3. Gram | \u20b99,000/-\n4. Maize | \u20b95,000/-\n5. Barley | \u20b96,000/-\n6. Jowar | \u20b93,670/-\n7. Millet | \u20b93,600/-\n8. Non BT cotton | \u20b97,000/-\n9. BT cotton | \u20b93,800/-\n10. Guar | \u20b96,110/-"
+  ],
+  "eligibility_criteria": "Farmers who can bear the additional cost as per departmental recommendations and need, along with the assistance provided under the scheme. The selected demonstration area must have irrigation facilities apart from dryland farming. Only one member from a farmer's family will be given the opportunity for demonstration. The demonstration will be organized at the block level. The selected seeds, fertilizers, and other inputs must be used as per the guidelines. A farmer can set up a demonstration plot on a maximum of 1 hectare, but it can also be on less than 1 hectare on a pro-rata basis. In the National Food Security Mission, the farmer's plot must be at least 0.4 hectares. Farmers who have not benefited from crop demonstration programs in the past three years are eligible.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The applicant has to visit the Sarpanch of Gram Panchayat and other elected public representatives to collect the application forms for crop demonstration participation.",
+        "Step 2: Complete the application forms with accurate details about your farming experience, land size, crops grown, and willingness to adopt new techniques.",
+        "Step 3: Submit the filled-out application forms to the Agriculture Supervisor at the designated office or during the scheduled meeting with the Sarpanch and other public representatives.",
+        "Step 4: After submitting your application, await the selection process. The Agriculture Supervisor will compile a list of eligible farmers, ensuring it is three times more than the target.",
+        "Step 5: Once the list is prepared, eligible farmers will participate in a lottery selection process, conducted in the presence of relevant officials. If chosen, you will be notified of your selection for the crop demonstration."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Identity proof i.e. Aadhaar Card, Voter ID Card Passport Size Photograph Residence proof mobile number Land Document"
+}

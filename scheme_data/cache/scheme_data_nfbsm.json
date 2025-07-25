@@ -1,0 +1,52 @@
+{
+  "scheme_id": "671a1d4c4d83876c61b9cbff",
+  "slug": "nfbsm",
+  "scheme_name": "National Family Benefit Scheme (Maharashtra)",
+  "scheme_short_title": "NFBSM",
+  "state": "Maharashtra",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Special Assistance Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Pension",
+    "Citizen empowerment"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Pension",
+    "Family",
+    "BPL",
+    "Death",
+    "Below Poverty Line"
+  ],
+  "brief_description": "The scheme \"National Family Benefit Scheme (Maharashtra)\" is a social welfare scheme by the Social Justice & Special Assistance Department, Government of Maharashtra. Under this scheme, \u20b920,000/-. is provided to the family in the event of the death of their primary breadwinner.",
+  "detailed_description": "The scheme &amp;quot;National Family Benefit Scheme (Maharashtra)&amp;quot; is a social welfare scheme by the Social Justice &amp;amp; Special Assistance Department, Government of Maharashtra. Under this scheme, in the event of the death of the primary breadwinner of a BPL family, the family is provided with a one-time lump sum financial assistance of \u20b920,000/-.",
+  "benefits": [
+    "Financial assistance of \u20b920,000/-."
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Maharashtra. The applicant should be a family member or dependent of the deceased breadwinner (an earning member of the family on whom the family primarily depended for income). The family should be living Below the Poverty Line (BPL). The deceased should have been between 18 and 59 years old.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the Collector Office/Tahsildar/Talathi of your district, and request the hard copy of the prescribed format of the application form from the concerned authority.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the concerned authority.",
+        "Step 4: Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE: Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sjsa.maharashtra.gov.in/scheme/national-family-benefit-scheme/"
+    }
+  ],
+  "documents_required": "Identity Proof of the Applicant I.e. Aadhaar Card, Voter ID Card Identity Proof of the Deceased Person i.e. Aadhaar Card Death Certificate of the Deceased Person FIR Copy Proof of Age of the Deceased Person Below Poverty Line (BPL) Card/ Ration Card Caste Certificate (if Applicable) Address Proof Bank Passbook/Bank Account Details Any Other Documents as Required"
+}

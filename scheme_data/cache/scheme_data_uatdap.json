@@ -1,0 +1,49 @@
+{
+  "scheme_id": "6618cbafd7abbe47ee29178c",
+  "slug": "uatdap",
+  "scheme_name": "Unemployment Allowance to Differently Abled Persons",
+  "scheme_short_title": "UATDAP",
+  "state": "Tamil Nadu",
+  "level": "State/ UT",
+  "nodal_department": "Welfare of Differently Abled Persons Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Differently Abled Person",
+    "Social Welfare",
+    "Unemployment"
+  ],
+  "brief_description": "The scheme \"Unemployment Allowance to Differently Abled Persons\" was launched by the Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu. The scheme aims to provide unemployment allowance to differently-abled persons.",
+  "detailed_description": "The Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu, has implemented the &quot;Unemployment Allowance Scheme for Differently Abled Persons.&quot; This initiative aims to provide targeted financial support to registered job seekers with disabilities who have been actively seeking employment through the employment exchange for a minimum of one year. Recognizing the distinct challenges faced by this population group in securing suitable employment, the program seeks to alleviate the economic burdens associated with unemployment and foster self-sufficiency during their job search. This intervention ultimately contributes to a more inclusive workforce by empowering differently-abled individuals to actively pursue their career goals.",
+  "benefits": [
+    "For SSLC (Secondary School Leaving Certificate) and below: \u20b9600/- per month. For Higher Secondary Course: \u20b9750/- per month. For Degree and above: \u20b91,000/- per month."
+  ],
+  "eligibility_criteria": "The applicant should be differently abled. The applicant should be unemployed. The applicant should have an education certificate, diploma, or degree. The applicant must be registered with the employment exchange for more than one year. The status of the registered applicant should be shown live in the employment exchange.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the employment exchange and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents to the Respective District Employment Officer.",
+        "Step 4: Request a receipt or acknowledgment from the Respective District Employment Officer to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Citizen's Charter (2022)",
+      "url": "https://cms.tn.gov.in/sites/default/files/documents/wda_e_cc_2022_23.pdf"
+    }
+  ],
+  "documents_required": "Employment Registration Card. National Identity Card of the Differently-Abled."
+}

@@ -1,0 +1,69 @@
+{
+  "scheme_id": "680087feb8a72f8aa4d01f4b",
+  "slug": "gswjws",
+  "scheme_name": "Goa State Working Journalists Welfare Scheme",
+  "scheme_short_title": "GSWJWS",
+  "state": "Goa",
+  "level": "State/ UT",
+  "nodal_department": "Information and Publicity Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Science, IT & Communications"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Journalist",
+    "Welfare",
+    "Family",
+    "Media",
+    "Newspaper"
+  ],
+  "brief_description": "\"Goa State Working Journalists Welfare Scheme\" aims to improve the welfare of working journalists retired from service in Goa and their families. It provides a monthly welfare fund of \u20b9 7,500/- and family pension benefits for eligible journalists and their dependents.",
+  "detailed_description": "Launched in 1st February 2002, the scheme &quot;Goa State Working Journalists Welfare Scheme&quot; by the Department of Information and Publicity, Government of Goa, aims to improve the welfare of working journalists, who are working in Goa, after retirement, and their families. The two significant benefits include a monthly welfare fund of \u20b9 7,500/- and family welfare providing 50% of the pension in the event of the journalist&#39;s death. The two significant eligibility criteria are working as a journalist in Goa under the definition of the Working Journalists and Newspaper Employees Service Conditions and Miscellaneous Conditions Act, 1955, and having retired after fifteen years of service, being not below 50 years of age in Goa, with continuous or interval service.",
+  "benefits": [
+    "MONTHLY WELFARE FUND",
+    "Amount & Intended Use: \u20b9 7,500/- per month, for the welfare of eligible working journalists retired after working in Goa. Disbursement Frequency & Mode: By cheque by the Director of Information and Publicity, after the sixth of every month. Generally, from the succeeding month of retirement. Expected Time of Disbursement: From the first day of the month following retirement. Conditions: Consideration and order by the Governing Body or authorised Sub Committee, satisfaction of the convener (for temporary welfare subject to ratification), and verification of the passbook by the Director of Information and Publicity.",
+    "FAMILY WELFARE",
+    "Amount & Intended Use: 50% of the journalist's pension, for the spouse, unmarried children below 21 years, and dependent parents of a deceased working journalist who was a member of the scheme. Disbursement Frequency & Mode: Monthly, likely after the sixth of every month, by cheque by the Director of Information and Publicity. Conditions: Submission of an application by family members and based on the nomination by the deceased member.",
+    "RETURN OF CONTRIBUTION",
+    "Amount & Intended Use: The member's contribution towards the fund, to be returned to members who lose membership due to not working as a journalist for one continuous year or defaulting on contributions for six continuous months. Expected Time of Disbursement: Within one year of losing membership."
+  ],
+  "eligibility_criteria": "All working journalists who fall under the categories mentioned below will be eligible for welfare under the scheme -\nThose who retire after fifteen years of service, not below 50 years of age in Goa, continuous or with intervals, and who have contributed for a period of 180 months under this scheme only after attaining the age of 58 or after he or she retire from service. Those who register under the Scheme within 6 months of the implementation and whose contribution falls less than 180 months, they will be governed by the Registration clause . However, a relaxation could be granted if the working journalist concerned is afflicted and is undergoing treatment for any serious ailment. Such a relaxation could be granted only after the governing body ratifies such a request from the working journalist concerned. Any member who attains 58 years of age, or completes 50 years after becoming a member of the scheme, whichever is earlier, will be entitled to welfare under the scheme. Any journalist who is covered under the Working Journalists Act will be eligible under the Scheme for welfare. Any journalist who has retired after continuous service for 15 years or with intervals and who is a member of the welfare scheme.\n*A relaxation could be granted to working journalists registering within six months of implementation with less than 180 months of contribution, if afflicted with a serious ailment and undergoing treatment, subject to Governing Body ratification.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "For Registration as Member",
+        "Step 1: The interested applicant should take a printout of the prescribed format of the registration form (Annexure-I).",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attested, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the convener of the governing body. Receive entry in the register maintained by the convener or authorised officer.",
+        "For Application for Welfare",
+        "Step 1: The interested applicant should take a printout of the prescribed format of the application form (Annexure-II).",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attested, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the convener of the governing body.",
+        "Post-Application Processes",
+        "Step 1: The Governing Body or authorised Sub Committee considers the application within one month. If eligible, an order is issued to the convener.",
+        "Step 2: The convener may issue temporary welfare upon satisfaction, subject to Governing Body ratification. Final welfare is sanctioned.",
+        "Step 3: The Director of Information and Publicity disburses the welfare by cheque after the sixth of each month, following verification of the passbook, generally from the month after retirement.",
+        "For Application for Family Welfare",
+        "Step 1: Family members submit an application in the event of the member's death.",
+        "Step 2: The application is processed based on the nomination made by the deceased member.",
+        "Step 3: Family welfare (50% of pension) is disbursed, likely following a similar procedure to the regular welfare fund."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://dip.goa.gov.in/wp-content/uploads/2021/03/Jour-wel-fund.pdf"
+    }
+  ],
+  "exclusions": "No working journalist will be entitled to join the scheme for the second time after surrendering membership, cancellation of membership, or once availing benefits. Membership is automatically lost if a member remains without working as a journalist continuously for one year. Membership is automatically lost for continuous default in contribution payment for six months, although the Governing Body can restore it under specific unforeseen circumstances, but not more than three times.",
+  "documents_required": "Statement Issued By The Newspaper Concerned (Annexure \u2013III) showing name of the establishment, work of the applicant, date of joining service, and date of birth as per official records (required for registration). Attested Copy To Prove The Date Of Birth. Employment Certificate From The Newspaper Establishment with which the applicant is working, OR Employment Certificate From The President Or Secretary of the Goa Union of Working Journalists of the State (for welfare application). Passbook with the member's photograph and contribution details (as evidence for granting welfare)."
+}

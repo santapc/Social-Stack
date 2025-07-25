@@ -1,0 +1,53 @@
+{
+  "scheme_id": "647ef1ee481f59106a676603",
+  "slug": "lbsspy",
+  "scheme_name": "Lakshmi Bai Samajik Suraksha Pension Yojana",
+  "scheme_short_title": "LBSSPY",
+  "state": "Bihar",
+  "level": "State",
+  "nodal_department": "Social Welfare Department",
+  "categories": [
+    "Social welfare & Empowerment",
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assitance",
+    "Women Welfare",
+    "Empowerment",
+    "Widow Pension"
+  ],
+  "brief_description": "Lakshmi Bai Social Security Scheme has been launched by the Bihar government for the widow women of the state.",
+  "detailed_description": "It has been started with the aim of improving the citizens living below the poverty line. Through this scheme, the state government will provide assistance to old women living below the economic poverty line. Recently, a scheme was started by the Government of Bihar, whose name is Laxmi Bai Social Security Pension Scheme.",
+  "benefits": [
+    "Financial Assistance of Rs. 300/- per month."
+  ],
+  "eligibility_criteria": "Widow woman must be a resident of Bihar. The woman should be a widow. The woman should be living below the poverty line. The annual income of the woman's family should be Rs. 60,000/- or less. The age of the woman should be 18 years or more.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Applicants have to visit the official website . On this home page, click on Apply for \" Social Security Pension Schemes\".  On the new page, select the scheme Name. Fill out the Applicant's Details, Complete Address of Residence, Bank Details, and accept the Self Declaration and Consent. Click on the submit button."
+      ]
+    },
+    {
+      "mode": "Offline",
+      "steps": [
+        "Download the application form.  Fill out the application form. Enclose required documents ( three photographs, Age Certificate, Address Proof, B.P.L. Card, and Husband's Death Certificate). Submit these to District Director or District Social Security cell."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Details",
+      "url": "https://cdn.s3waas.gov.in/s30d0fd7c6e093f7b804fa0150b875b868/uploads/2018/03/2018031763.pdf"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Female Aadhaar card. Address proof. BPL ration card. Age certificate. Income certificate. Husband's death certificate. Identity card. Bank account statement. Mobile number. Email id. Passport-size photo."
+}

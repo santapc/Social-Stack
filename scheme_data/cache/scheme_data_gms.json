@@ -1,0 +1,53 @@
+{
+  "scheme_id": "67ade16ba3b9d20958c14422",
+  "slug": "gms",
+  "scheme_name": "Goa Mediclaim Scheme",
+  "scheme_short_title": "GMS",
+  "state": "Goa",
+  "level": "State/ UT",
+  "nodal_department": "Health Services Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Health & Wellness"
+  ],
+  "sub_categories": [
+    "Disease and conditions",
+    "Health care providers and access"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Medicine",
+    "Hospital",
+    "Health",
+    "Patient",
+    "Mediclaim"
+  ],
+  "brief_description": "\"Goa Mediclaim Scheme\" provides financial assistance to avail super-speciality treatments that are not available in the Government Hospitals of Goa, such as dialysis, plastic surgery, ICU care, angiography and angioplasty, open-heart surgery, kidney transplantation, neurosurgery, etc.",
+  "detailed_description": "\"Goa Mediclaim Scheme\" was launched by the Health Services Department, Government of Goa. The scheme applies to every permanent resident residing in Goa for 15 years. The objective of this scheme is to provide financial assistance to avail super-speciality treatments that are not available in the Government Hospitals of Goa, such as dialysis, plastic surgery, ICU care, angiography and angioplasty, open-heart surgery, kidney transplantation, neurosurgery, radiotherapy and chemotherapy for cancer, cochlear implants, and bone marrow transplants.",
+  "benefits": [
+    "The Nature of Sickness along with its Permitted Ceiling Limit for the Super-Specialty Treatment is given below -",
+    "Continuous Ambulatory Peritoneal Dialysis (CAPD) Treatment: \u20b915,000/- per month Dialysis: \u20b915,600/- per month @ \u20b91,300/- per dialysis for 12 dialysis Plastic Surgery: \u20b91,50,000/- Intensive Care Unit (ICU), Neonatal Intensive Care Unit (NICU), Pediatric Intensive Care Unit (PICU), Trauma Care: \u20b91,50,000/- Coronary Artery Bypass Grafting (CABG) / Percutaneous Transluminal Coronary Angioplasty (PTCA) (Angiography & Angioplasty) : \u20b91,50,000/- Open Heart Surgery (Valve replacement, Mitral Valve Replacement (MVR), Ventricular Septal Defect (VSD), Atrial Septal Defect (ASD): \u20b93,00,000/- Kidney Transplantation: \u20b93,00,000/- Neuro Surgery: \u20b93,00,000/- Radiotherapy / Chemotherapy (Cancer): \u20b95,00,000/- Cochlear Implant: \u20b91,50,000/- Spastic Child, Cerebral Palsy, Skeletal Deformities: \u20b91,50,000/- Bone Marrow Transplant: \u20b98,00,000/-",
+    "*The list of the hospitals recognized under this scheme, and the medical treatment covered under each hospital are provided in the scheme guidelines.",
+    "*Either the Permitted Ceiling Limit Treatment or the Actual Expense of Treatment, whichever is the least will be considered."
+  ],
+  "eligibility_criteria": "The applicant should be a permanent resident of Goa. The applicant should be residing in Goa for 15 years, figuring in the voters' list and holding a permanent ration card. The income of the applicant should be less than \u20b91,50,000/- per annum. However, retired state government employees are eligible irrespective of their income. The applicant should require a facility that is not available in a Government Hospital of Goa (including Goa Medical College, Bambolim and District Hospitals). However, for NICU, Ventilatory Support and Kidney Dialysis, the patient may opt for any empanelled hospital even if the facilities are available in a Government hospital. The applicant should be suffering from a sickness/ailment that requires one of the following treatments - Continuous Ambulatory Peritoneal Dialysis (CAPD), Dialysis, Plastic Surgery, Intensive Care Unit (ICU), Neonatal Intensive Care Unit (NICU), Pediatric Intensive Care Unit (PICU), Trauma Care, Coronary Artery Bypass Grafting (CABG) / Percutaneous Transluminal Coronary Angioplasty (PTCA) (Angiography & Angioplasty), Open Heart Surgery (Valve Replacement, Mitral Valve Replacement (MVR), Ventricular Septal Defect (VSD), Atrial Septal Defect (ASD)), Kidney Transplantation, Neuro Surgery, Radiotherapy / Chemotherapy (Cancer), Cochlear Implant, Spastic Child, Cerebral Palsy, Skeletal Deformities, and Bone Marrow Transplant.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "The interested individual should apply to the Director of Health Services, Panaji, Goa in the prescribed form , along with the required documents.",
+        "Officer to Be Contacted: Joint Director of Accounts (Health), Directorate of Health Services, Campal, Panaji, Goa; Ph. No. 0832-2225646, Ext-214.",
+        "Detail of Office Where the Application to Be Submitted: Mediclaim Cell, S-37, Second Floor, Directorate of Health Services, Campal, Panaji-Goa."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Goa",
+      "url": "https://www.goa.gov.in/wp-content/uploads/2022/05/Goa-Mediclaim-Scheme.pdf"
+    }
+  ],
+  "documents_required": "Medical Certificate From a Treating Doctor Either From the Goa Medical College, Bambolim, or Hospicio Hospital, Margao, or Asilo Hospital, Mapusa. Either the Income Certificate in the Prescribed Form \u2018B' From the Concerned Mamlatdar in the Original or Certified Copy of the Pension Payment Order (PPO) (in case the applicant is a Retired State Government Employee) Residence Certificate Mediclaim Certificate From the Medical Superintendent, Goa Medical College, Bambolim Along With Photocopy. Passport Size Recent Photograph of the Patient  Declaration Form  Photocopy of the Election Card / Ration Card of the Patient. if the Patient is a Minor, a Photocopy of the Election Card of Either Parent. Deen Dayal Swasthya Seva Yojana (DDSSY) Aadhaar Card"
+}

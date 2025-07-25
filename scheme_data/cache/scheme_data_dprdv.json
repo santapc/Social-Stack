@@ -1,0 +1,57 @@
+{
+  "scheme_id": "685811795e0f4cb6efc74eb2",
+  "slug": "dprdv",
+  "scheme_name": "Deployment of Prantiya Rakshak Dal (PRD) Volunteers",
+  "scheme_short_title": "DPRDV",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "Department of Youth Welfare and Provincial Protection Corps",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance",
+    "Crisis/Disaster/Accident"
+  ],
+  "target_beneficiaries": [
+    "Individual",
+    "Family"
+  ],
+  "tags": [
+    "PRD Volunteers",
+    "Rakshak Dal",
+    "Youth",
+    "Police Assistance"
+  ],
+  "brief_description": "Under this scheme, PRD volunteers deployed to assist the police and serve in various government offices receive a daily honorarium. In cases of death, disability, or injury occurring during duty, financial assistance is provided to their legal dependents based on the nature and severity of incident.",
+  "detailed_description": "The &amp;quot;Deployment of Prantiya Rakshak Dal (PRD) Volunteers&amp;quot; scheme was launched by the Department of Youth Welfare and Provincial Protection Corps. The scheme aims to provide financial security to PRD volunteers or their dependents in the event of death, disability, or injury sustained during duty. Under this scheme, PRD volunteers deployed to assist the police and serve in various government offices receive a daily honorarium. In cases of death, disability, or injury occurring during duty, financial assistance is provided to their legal dependents based on the nature and severity of the incident. &lt;br&gt; &lt;br&gt;",
+  "benefits": [
+    "1. PRD volunteers deployed for duty in police assistance and various government offices are paid an honorarium of \u20b9570/- per day. 2. In different situations such as: Death during communal riots: \u20b92,00,000/- Death during high-risk duties: \u20b91,50,000/- Death during normal duties: \u20b91,00,000/- Note 1: In case of permanent disability during duty, financial assistance is provided as per medical certification. Note 2: In case of temporary disability, an amount is provided as per the recommendation."
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Uttarakhand. The applicant should be a trained Prantiya Rakshak Dal (PRD) volunteer or the legal dependent of a PRD volunteer (in case of the volunteer's death). The PRD volunteer should be between 18 and 42 years of age. The volunteer should die, be disabled, or have an accident during the duty.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Process of Deployment of PRD Volunteers:",
+        "Step 1: Requests for PRD (Prantiya Rakshak Dal) volunteers are sent by various departments to the Department of Youth Welfare and PRD as per requirement. Step 2: In response, the department issues a public advertisement inviting applications from eligible candidates. Step 3: Applicants are required to undergo a physical fitness test and medical examination. The dates for these assessments are set at the district level. Step 4: Selection is based on physical fitness and merit. A district-level committee chaired by the District Magistrate is responsible for selecting suitable candidates. Step 5: Selected PRD volunteers (trainees) undergo a 22-day basic training followed by a 15-day refresher training. Step 6: After completing training, volunteers are deployed on duty as required. They receive a daily honorarium, which is paid through the DBT.",
+        "Application Process (in case of death or disability of PRD volunteer):",
+        "Step 1: In the event of the death or disability of a PRD volunteer, their dependent or nominee must submit the relevant documents to the District Youth Welfare and Prantiya Rakshak Dal Office. Or,",
+        "In case of the dependent being a minor or legal heir, the relevant documents must also be provided.",
+        "Step 2: After verifying and assessing the situation, the department processes and releases the financial assistance to the eligible PRD volunteer or their legal dependent.",
+        "Post-Application Process:",
+        "Step 1: The department will assess the case (especially to confirm if the incident occurred in adverse circumstances during duty).",
+        "Step 2: Post verification, the approved compensation amount will be credited to the applicant's bank account."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Page No. 103)",
+      "url": "https://cdnbbsr.s3waas.gov.in/s339e6f67916920d9419b3d92cf1e9a958/uploads/2025/03/202503051772421971.pdf"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "In Case of Death\nDeath Certificate PRD Training Certificate Survivor Certificate Dependent's Birth Certificate Bank Account Details Copy of Ration Card/Family Register\nIn Case of Disability/Injury:\nMedical Certificate confirming nature and severity of disability PRD Training Certificate Identity Proof Bank Account Details"
+}

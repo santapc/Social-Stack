@@ -1,0 +1,72 @@
+{
+  "scheme_id": "62a0702feaca073ef50831fe",
+  "slug": "ab-pmjay",
+  "scheme_name": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana",
+  "scheme_short_title": "AB-PMJAY",
+  "level": "Central",
+  "nodal_department": "Department of Health and Family Welfare",
+  "implementing_agency": "National Health Authority (NHA)",
+  "dbt_scheme": true,
+  "categories": [
+    "Health & Wellness"
+  ],
+  "sub_categories": [
+    "Health promotion",
+    "Financial assistance",
+    "Health Insurance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Health",
+    "Insurance"
+  ],
+  "brief_description": "AB PM-JAY is a health insurance scheme for low-income families in rural and urban areas. The scheme aims to provide affordable healthcare facilities to the Poor. It is the largest health assurance scheme in the world which aims at providing a health cover of \u20b95,00,000/- per family per year.",
+  "detailed_description": "Ayushman Bharat, a flagship scheme of the Government of India, was launched as recommended by the National Health Policy 2017, to achieve the vision of Universal Health Coverage (UHC). This initiative has been designed to meet Sustainable Development Goals (SDGs) and its underlining commitment, which is to &quot;leave no one behind.&quot; <br> Ayushman Bharat is an attempt to move from a sectoral and segmented approach to health service delivery to a comprehensive need-based health care service. This scheme aims to undertake path-breaking interventions to holistically address the healthcare system (covering prevention, promotion, and ambulatory care) at the primary, secondary, and tertiary levels. Ayushman Bharat adopts a continuum of care approach, comprising two inter-related components, which are - <br> 1. Health and Wellness Centres (HWCs) 2. Pradhan Mantri Jan Arogya Yojana (PM-JAY) <br> Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (AB PM-JAY) was launched on 23rd September 2018 in Ranchi, Jharkhand by the Hon'ble Prime Minister of India, Shri Narendra Modi. <br> AB PM-JAY is the largest health assurance scheme in the world which aims at providing a health cover of \u20b9 5,00,000 per family per year for secondary and tertiary care hospitalization to over 10.74 crores poor and vulnerable families (approximately 50 crore beneficiaries) that form bottom 40% of the Indian population. The households included is based on the deprivation and occupational criteria of the Socio-Economic Caste Census 2011 (SECC 2011) for rural and urban areas respectively. PM-JAY is fully funded by the Government and the cost of implementation is shared between the Central and State Governments.",
+  "benefits": [
+    "AB PM-JAY provides cashless cover of up to \u20b9 5,00,000/- to each eligible family per annum for listed secondary and tertiary care conditions. The cover under the scheme includes all expenses incurred on the following components of the treatment:",
+    "Medical examination, treatment, and consultation Pre-hospitalization Medicine and medical consumables Non-intensive and intensive care services Diagnostic and laboratory investigations Medical implantation services (where necessary) Accommodation benefits Food services Complications arising during treatment Post-hospitalization follow-up care up to 15 days",
+    "The benefits of \u20b9 5,00,000/- are on a family floater basis which means that it can be used by one or all members of the family. Under AB PM-JAY, there is no cap on family size or the age of members. In addition, pre-existing diseases are covered from the very first day. Any eligible person suffering from any medical condition before being covered by PM-JAY will now be able to get treatment for all those medical conditions as well under this scheme right from the day they are enrolled."
+  ],
+  "eligibility_criteria": "Rural Beneficiaries\nOut of the total seven deprivation criteria for rural areas, PM-JAY covered all such families who fall into at least one of the following six deprivation criteria and automatic inclusion(Destitute/ living on alms, manual scavenger households, primitive tribal group, legally released bonded labour) criteria:\n\nOnly one room with kucha walls and kucha roof No adult member between ages 16 to 59 Households with no adult male member between ages 16 to 59 Disabled member and no able-bodied adult member SC/ST households Landless households deriving a major part of their income from manual casual labour\n\nUrban Beneficiaries\nFor urban areas, the following 11 occupational categories of workers are eligible for the scheme:\n\nRagpicker Beggar Domestic worker Street vendor/ Cobbler/hawker / other service provider working on streets Construction worker/ Plumber/ Mason/ Labour/ Painter/ Welder/ Security guard/ Coolie and other head-load worker Sweeper/ Sanitation worker/ Mali Home-based worker/ Artisan/ Handicrafts worker/ Tailor Transport worker/ Driver/ Conductor/ Helper to drivers and conductors/ Cart puller/ Rickshaw puller Shop worker/ Assistant/ Peon in small establishment/ Helper/Delivery assistant / Attendant/ Waiter Electrician/ Mechanic/ Assembler/ Repair worker Washer-man/ Chowkidar",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "The Arogya Mitra searches the available list of beneficiaries using details such as name, location, ration card number, mobile number, or the RSBY URN of the beneficiary. After this, the beneficiary is searched for in the BIS. The individual is identified and the scanned valid ID documents are then uploaded.",
+        "To get a PMJAY e-card for themselves and their family, a potential beneficiary needs to visit either a hospital or a Community Service Centre (CSC) for identification and follow the steps mentioned below:",
+        "Step 1: Potential AB-PMJAY beneficiaries are to submit the PM letter/ RSBY URN/ RC Number/ Mobile Number - The operator (commonly known as the Arogya Mitra) searches the available list of beneficiaries. The operator does this by entering details such as name, location, Ration Card number, mobile number, or even RSBY URN of the beneficiary.",
+        "Step 2: Search in the BIS Application - The operator searches for the potential beneficiary in the entitled SECC, RSBY, State Health Scheme, Additional Data Collection Drive databases.",
+        "Step 3: Individual Identification - The identification process is carried out if the name is found in the list. For this, documents like Aadhaar or any government ID and a Ration Card or an alternative family ID are required to validate against the details available in the system. Scanned documents are then uploaded.",
+        "Step 4: Family Identification - The Arogya Mitra then identifies the family records through the ration card and the scanned documents are then uploaded. The Arogya Mitra then submits the individual and family records to the trust/insurance company for approval.",
+        "Step 5: Approval or Rejection - The Health insurance company or trust may then approve or recommend rejection for the submitted beneficiaries. The cases that are recommended for rejection will be finally verified for approval or rejection by the State Health Agency (SHA).",
+        "Step 6: E-card Issuance - On approval by SHA/insurance company/trust, an e-card will be issued to the beneficiary.  "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.pmjay.gov.in/about/pmjay"
+    },
+    {
+      "title": "Guidelines For Beneficiary Identification",
+      "url": "https://sha.uk.gov.in//ScannedDocs/WebSite/Uploads/BIS/beneficiary-identification-guidelineson-6-5-19.pdf"
+    },
+    {
+      "title": "Guidelines On Payment For Special Cases",
+      "url": "https://pmjay.gov.in/sites/default/files/2020-05/NHA-Guidelines-for-Special-Cases-vFinal_0.pdf"
+    },
+    {
+      "title": "Guidelines On Claim Settlement",
+      "url": "https://www.pmjay.gov.in/sites/default/files/2018-07/GuidelinesonClaimSettlement_0.pdf"
+    },
+    {
+      "title": "UMANG",
+      "url": "https://web.umang.gov.in/landing/department/pradhan-mantri-jan-arogya-yojana.html"
+    }
+  ],
+  "exclusions": "1. Those who own a two, three, or four-wheeler or a motorized fishing boat.\n2. Those who own mechanized farming equipment.\n3. Those who have Kisan cards with a credit limit of \u20b950,000/-.\n4. Those employed by the government.\n5. Those who work in government-managed non-agricultural enterprises.\n6. Those earning a monthly income above \u20b910,000/-.\n7. Those owning refrigerators and landlines.\n8. Those with decent, solidly built houses.\n9. Those owning 5 acres or more of agricultural land.",
+  "documents_required": "1. Age & Identity Proof (Aadhaar Card / PAN Card).\n2. Proof of Address.\n3. Contact details (Mobile, e-mail).\n4. Caste Certificate.\n5. Income Certificate.\n6. Document Proof of the Current Status of the Family (Joint or Nuclear).\n7. Aadhaar Card."
+}

@@ -1,0 +1,47 @@
+{
+  "scheme_id": "68662e3d1787abe0541564ff",
+  "slug": "spmfaeew",
+  "scheme_name": "Scheme to Provide Monthly Financial Assistance to Elderly and Eligible Writers",
+  "scheme_short_title": "SPMFAEEW",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Sports, Youth and Cultural Activities Department",
+  "implementing_agency": "Gujarat Sahitya Academy",
+  "dbt_scheme": false,
+  "categories": [
+    "Sports & Culture"
+  ],
+  "sub_categories": [
+    "Culture"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Elderly Writer",
+    "Literary Welfare",
+    "Assistance For Author"
+  ],
+  "brief_description": "The scheme aims to support senior writers facing financial hardship by offering monthly assistance to those who have made notable contributions to Gujarati or associated language literature.",
+  "detailed_description": "The &quot;Scheme to Provide Monthly Financial Assistance to Elderly and Eligible Writers&quot; is a welfare initiative implemented by the Gujarat Sahitya Academy to provide financial security to elderly writers who have significantly contributed to Gujarati, Hindi, Sanskrit, Sindhi, Urdu, or Kutchi literature. The scheme offers monthly assistance to writers who are 60 years of age or older, have no steady pension or major income source, and are economically disadvantaged.",
+  "benefits": [
+    "Monthly Financial Support: Eligible elderly writers receive monthly financial assistance as specified by the authority."
+  ],
+  "eligibility_criteria": "The applicant must be 60 years or older. The applicant must have made a significant literary contribution (e.g., authored books, received awards, or provided literary service). The applicant must belong to one of the recognized language academies: Gujarati, Hindi, Sanskrit, Sindhi, Urdu, or Kutchi. The applicant's annual family income must be below \u20b91,20,000 in rural areas and below \u20b91,50,000 in urban areas, certified by the Mamlatdar. The applicant must not be receiving any pension. The applicant must not already be receiving financial support under similar schemes.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: The interested applicant should visit the online application form page. Step 2: In the application form, provide all the mandatory details, and attach copies of all the mandatory documents. Step 3: Click on the checkbox and verify the captcha. Step 4: Click on the \"Submit\" button to complete the application process. Contact Us: Gujarat Sahitya Academy Jawerchand Meghani Bhavan,Behind Krishi Bhavan,Sector 10-A,Gandhinagar -382010. Phone: 079 - 23256797, 23256798; 7621005656 Email: gsagandhinagar@gmail.com"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://gujaratsahityaacademy.com/assets/yojana_rules/6_Vrudha_Arthik_Sahay_Niyamo202526.pdf"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Income Certificate. Copy of Aadhaar card. Copy of Ration card. First page of cancelled cheque/passbook for bank details."
+}

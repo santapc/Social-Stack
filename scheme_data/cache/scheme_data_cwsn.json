@@ -1,0 +1,51 @@
+{
+  "scheme_id": "667d8575ffe2e26487db0a71",
+  "slug": "cwsn",
+  "scheme_name": "Children With Special Needs Under Goa Sarva Shiksha Abhivan",
+  "scheme_short_title": "CWSN",
+  "state": "Goa",
+  "level": "State/ UT",
+  "nodal_department": "Education Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning",
+    "Health & Wellness"
+  ],
+  "sub_categories": [
+    "Education and training grants, fellowship, stipend",
+    "Disease and conditions",
+    "Aids/Appliances"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Goa",
+    "Disability",
+    "Medical",
+    "Children",
+    "Education"
+  ],
+  "brief_description": "The \"Children With Special Needs (CWSN)\" scheme aims to provide comprehensive educational support and resources tailored to the needs of children with disabilities. It is designed to ensure that every child, regardless of their disability type (intellectual, physical, etc.), receives the necessary a",
+  "detailed_description": "The scheme &quot;Children With Special Needs (CWSN)&quot; by the Directorate of Education, Government of Goa aims to provide comprehensive educational support and resources tailored to the needs of differently-abled children. It is designed to ensure that every child, regardless of their disability type (intellectual, physical, etc.), receives the necessary assistance to facilitate their education and overall development. This includes provisions for medical assessments, the establishment of resource rooms, home-based education, the provision of teaching-learning materials (TLM), and specialized training for educators and volunteers.",
+  "benefits": [
+    "Grant is released for activities for CWSN, medical assessments, resource rooms, home-based education, TLM, training of educators, volunteer educators, assistive aids, and corrective surgeries."
+  ],
+  "eligibility_criteria": "The child must either be differently-abled or require special needs.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "The applicant (parent, heads of school, and others) is required to submit a plain application detailing the specific individual needs of the child with disabilities along with any available medical certificates.",
+        "NOTE: The applicants can contact the designated educational authorities or visit official government websites providing details about the CWSN scheme."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guideline",
+      "url": "https://education.goa.gov.in/sites/default/files/2020-11/schemes-gssa.pdf"
+    }
+  ],
+  "documents_required": "Aadhaar Card. Medical Certificates (if available). Other supporting documents, as specified in the scheme guidelines."
+}

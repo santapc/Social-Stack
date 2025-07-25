@@ -1,0 +1,65 @@
+{
+  "scheme_id": "64aeba4c481f59106a72e761",
+  "slug": "pmuy2",
+  "scheme_name": "Pradhan Mantri Ujjwala Yojana 2.0",
+  "scheme_short_title": "PMUY2",
+  "level": "Central",
+  "categories": [
+    "Social welfare & Empowerment",
+    "Women and Child"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "LPG",
+    "Cooking Fuel",
+    "Household",
+    "Women"
+  ],
+  "brief_description": "Ministry of Petroleum and Natural Gas (MOPNG), introduced the \u2018\"Pradhan Mantri Ujjawala Yojana 2.0\" in India. The Pradhan Mantri Ujjawala Yojana (PMUY) is a scheme launched by the Government of India in 2016 to provide free LPG (liquefied petroleum gas) connections to women from below-poverty-line.",
+  "detailed_description": "In May 2016, the Ministry of Petroleum and Natural Gas (MOPNG), introduced the &quot;Pradhan Mantri Ujjawala Yojana 2.0&quot; in India. The Pradhan Mantri Ujjawala Yojana (PMUY) is a scheme launched by the Government of India in 2016 to provide free LPG (liquefied petroleum gas) connections to women from below-poverty-line households. The objective was to make clean cooking fuel such as LPG available to the rural and deprived households which were otherwise using traditional cooking fuels such as firewood, coal, cow-dung cakes, etc. The usage of traditional cooking fuels had detrimental impacts on the health of rural women as well as on the environment. <br> - The target under the scheme was to release 8 Crore LPG Connections to the deprived households by March 2020. - On 7th September 2019, the Hon'ble Prime Minister of India handed over the 8th Crore LPG connection in Aurangabad, Maharashtra. - The release of 8 Crore LPG connections under the scheme has also helped in increasing the LPG coverage from 62% on 1st May 2016 to 99.8% on 1st April 2021. - Ujjwala 2.0: Additional allocation of 1.6 Crore LPG Connections under PMUY Scheme with special facility to migrant households. The scheme was launched in Mahoba, Uttar Pradesh by the Hon'ble Prime Minister of India, Shri. Narendra Modi.",
+  "benefits": [
+    "Cash assistance for PMUY connections is provided by the Government of India - Rs. 1600 (for a connection 14.2kg cylinder/ Rs. 1150 for a 5 kg cylinder). The cash assistance covers:",
+    "Security Deposit of Cylinder \u2013 Rs. 1250 for 14.2 kg cylinder/ Rs. 800 for 5 kg cylinder. Pressure Regulator \u2013 Rs. 150. LPG Hose \u2013 Rs. 100. Domestic Gas Consumer Card \u2013 Rs. 25. Inspection/ Installation/ Demonstration charges \u2013 Rs. 75.",
+    "Additionally, All PMUY beneficiaries will be provided with first LPG refill and Stove (hotplate) both free of cost along with their deposit-free connection by the Oil Marketing Companies (OMCs)."
+  ],
+  "eligibility_criteria": "1. Adult women belong to any of the following categories.\nSC Households ST Households Pradhan Mantri Awas Yojana (Gramin) Most Backward Classes Antyodaya Anna Yojana (AAY) Tea and Ex-Tea Garden tribes Forest Dwellers People residing on Islands and River Islands SECC Households (AHL TIN) Poor Household as per 14-point declaration\n2. Applicant must have attained 18 years of age.\n3. There should not be any other LPG connections in the same household.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: You can download Forms from the official website (given below) or get them from the nearest LPG distributor.",
+        "  KYC Form  ",
+        " Supplementary KYC Document & Undertaking  ANNEXURE - I Self-declaration for Family Composition and Address for release of new connection under PMUY (for Migrant only)  ANNEXURE - II Mechanics Pre-Installation check of Customers Premises for LPG connection   ",
+        "Step 2: Fill out the application form with the required information, including personal details, bank account information, and LPG distributor preference.",
+        "Step 3: Attach the necessary documents along with the application form. The documents typically include proof of identity, proof of address, and proof of BPL category.",
+        "Step 4: Submit the completed application form along with the supporting documents to the nearest LPG distributor."
+      ]
+    },
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Apply online for Pradhan Mantri Ujjwala Yojana 2.0 from the official website .",
+        "Step 2: Select the option Apply for the New Ujjwala 2.0 Connection.",
+        "Step 3: Scroll down to and click on Online Portal. and Select the LPG distribution company name example Indane / Bharatgas / HP Gas.",
+        "Step 4: Click on Register Now on the selected LPG distribution company.",
+        "Step 5: Select a type of Connection like Ujjwala 2.0 New Connection.",
+        "Step 6: Choose the State, District, Pin Code, and Name of the Distributor. Then Enter your Mobile Number, Captcha, and OTP.",
+        "Step 7: Select the type of KYC New KYC and Normal KYC.",
+        "Step 8: Select Migrant Family status in YES or NO",
+        "Step 9: For the family Identifier in NO fill in Annexure 1",
+        "Step 10: For family Identifier in Yes fill in Ration Card",
+        "Step 11: Fill in all Family Details, Personal details, address details, bank details, Choose Cylinder Types, Select rural or urban and select the declaration and submit.",
+        "Step 12: Generate the Reference number and Print your applied form attach all the documents you submitted online and visit the selected Gas agency."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://www.pmuy.gov.in/index.aspx"
+    }
+  ],
+  "documents_required": "Know Your Customer(KYC) Ration Card issued by the State from which application is being made/ other State Govt. document certifying family composition/ Self-Declaration as per Annexure I (for migrant applicants) Aadhaar of the beneficiary and adult family members appearing in the document at Sl. 2 Proof of Address - Aadhaar will be taken as Proof of Identity and Proof of Address if the connection is required in the same address. In that case, only Aadhaar is sufficient. Bank Account Number and IFSC"
+}

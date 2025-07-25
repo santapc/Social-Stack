@@ -1,0 +1,52 @@
+{
+  "scheme_id": "66fb8d047e9b228ef8bf2b8b",
+  "slug": "pbbwc60y",
+  "scheme_name": "Pension to the Beneficiary Building Worker Who Has Completed 60 Years",
+  "scheme_short_title": "PBBWC60Y",
+  "state": "Manipur",
+  "level": "State/ UT",
+  "nodal_department": "Labour and Employment Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Pension",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Pension",
+    "Senior Citizen",
+    "Construction Worker",
+    "Financial Assistance"
+  ],
+  "brief_description": "The Manipur Building and Other Construction Workers' Welfare Board provides a monthly pension to workers who have completed 5 years of service as a registered beneficiary and reached 60.",
+  "detailed_description": "The &quot;Pension to the Beneficiary Building Worker Who Has Completed 60 Years&quot; scheme was implemented by the Manipur Building and Other Construction Workers&#39; Welfare Board. The scheme aims to provide a monthly pension to construction workers who have completed 5 years of service as a registered beneficiary and reached the age of 60.",
+  "benefits": [
+    "Pension of \u20b9500/- per month with an increase of \u20b910/- for each additional year of service beyond the initial 5 years."
+  ],
+  "eligibility_criteria": "The applicant should be registered under the Manipur Building and Other Construction Workers' Welfare Board. The registered applicant should be working as a building worker for not less than 5 years. The applicant's age should be 60 years or above.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step-1: The interested applicant should visit (during office hours) the Manipur Building and Other Construction Workers Welfare Board and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "OR",
+        "The interested applicant visits the official website and downloads the application form .",
+        "Step-2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3: Submit the duly filled and signed application form along with the documents to the Labour Board Inspector",
+        "Step-4: Request a receipt or acknowledgement from the Labour Board Inspector to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "http://manipurbcwb.in/SchemeDetails?title=pension+to+the+beneficiary+building+worker+who+has+completed+60+years"
+    }
+  ],
+  "documents_required": "Certificate of Registration. Payment Receipt of the Last Contribution. Birth Certificate (Age proved certificate in respect of the Old Age Pension). Aadhaar Card. First Page of Bank Passbook."
+}

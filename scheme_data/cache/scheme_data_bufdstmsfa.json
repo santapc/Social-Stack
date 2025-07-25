@@ -1,0 +1,75 @@
+{
+  "scheme_id": "67f2a8c24f89143c4d3dcca8",
+  "slug": "bufdstmsfa",
+  "scheme_name": "Financial assistance to Meritorious Scheduled Tribe Students who have Passed First Division from Board and University",
+  "scheme_short_title": "FAMSSTPFDBU",
+  "state": "Rajasthan",
+  "level": "State/ UT",
+  "nodal_department": "Higher Education Department",
+  "implementing_agency": "Commissionerate Of College Education, Rajasthan, Jaipur",
+  "dbt_scheme": true,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance",
+    "Education and training grants, fellowship, stipend"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Student",
+    "Financial Assistance",
+    "Scheduled Tribe",
+    "Tribal",
+    "Higher Education"
+  ],
+  "brief_description": "The objective of the scheme is to motivate meritorious Scheduled Tribe students of Rajasthan by providing one-time financial assistance of \u20b93,500/- to those pursuing regular college courses and achieving first division.",
+  "detailed_description": "The &amp;quot;Financial Assistance to Meritorious Scheduled Tribe Students Who Have Passed in First Division from Board and University&amp;quot; scheme was launched by the Higher Education Department, Government of Rajasthan. The objective of the scheme is to motivate meritorious Scheduled Tribe students of Rajasthan who are pursuing regular courses in colleges to achieve first division. The scheme is being implemented by the Commissionerate of College Education, Rajasthan, Jaipur, from the financial year 2023\u201324.",
+  "benefits": [
+    "A one-time financial incentive of up to \u20b93,500/- will be provided to students, at the rate of \u20b9350/- per month for a maximum of ten months.",
+    "Note: The incentive amount will be directly transferred to the student's bank account linked with their Jan Aadhaar through Direct Benefit Transfer (DBT)."
+  ],
+  "eligibility_criteria": "The applicant should be a student. The applicant should have passed the 12th standard examination from the Madhyamik Shiksha Board/Central Board of Secondary Education with a first division, securing 60% or more marks. The applicant should have secured at least 48% marks in the first year examination to be eligible for the incentive in the second year. The applicant should have secured at least 48% marks in the second year examination to be eligible for the incentive in the third year. The applicant should belong to the Scheduled Tribe category. The applicant's parents/guardian/husband should not be income tax payers. The student should be a native of Rajasthan. There should be no gap in the applicant's studies after passing the board examination. The applicant should be enrolled as a regular student in general education in a government college. Students residing in government hostels are not eligible for benefits under this scheme. The applicant must possess a Jan Aadhaar Card and an Aadhaar Card.",
+  "application_process": [
+    {
+      "mode": "Online - via CSC",
+      "steps": [
+        "Step 1: The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.",
+        "Step 2: The applicant should visit the nearest E-Mitra Center and complete the Biometric Verification Process.",
+        "Step 3: The applicant should ensure that the E-Mitra Center agent completes all mandatory fields in the application form and uploads copies of all required documents.",
+        "Step 4: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration",
+        "Step 1: Applicant have to visit the official portal .",
+        "Step 2: Click on the option \" Register \".",
+        "Step 3: Then you will be redirected to the SSO registration page. The registration page will appear with the following options.",
+        "Citizen",
+        "Step 4: Choose the either one option from the Jan Aadhaar Or Google to process further.",
+        "Jan Aadhaar : Enter the Jan Aadhaar number, click on the \u2018Next' button, Select your name, the name of the head of the family and all the other members and Click on the \u2018Send OTP' button. Enter the \u2018OTP' and Click on the \u2018Verify OTP' button to Complete the registration.",
+        "Google : Enter the Gmail ID, click on the \u2018Next' button, Enter the password. A new link appear on screen, now click on new SSO link. SSO id will appear on screen, now create the password. Enter Mobile number, click on registration.",
+        "Apply",
+        "Step 1: Applicant have to visit the official portal .",
+        "Step 2: After login, dashboard will open.",
+        "Step 3: Click on \"IFMS-RAJSSP\" option.",
+        "Step 4: Select \"Continue to RajSSP\".",
+        "Step 5: Now click on \"Apply for Scheme\" on screen.",
+        "Step 6: In this new page, will get a list of names of all the schemes, and click on the name of \"Scholarship (CE,TAD,MINORITY)\"",
+        "Step 7: Fill out all relevant details.",
+        "Step 8: Submit."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://hte.rajasthan.gov.in/dept/dce/uploads/doc/ST_HE.pdf"
+    }
+  ],
+  "documents_required": "Income Self-Declaration Form (certified by a competent authority, stating that the parents/guardians/caretakers of the students above the poverty line are not income tax payers) Marksheet Copy (previous class) Fee Receipt (from the educational institution) Jan Aadhaar Card Aadhaar Card Caste Certificate Bank Details Academic Records Domicile Certificate/Residence proof Any other documents if required"
+}

@@ -1,0 +1,54 @@
+{
+  "scheme_id": "67b1e53dd6a94de2eedda95b",
+  "slug": "cmsmfops",
+  "scheme_name": "Chief Minister Small and Marginal Farmers Older Pension Scheme",
+  "scheme_short_title": "CMSMFOPS",
+  "state": "Rajasthan",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Empowerment Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Pension",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Pension",
+    "Farmers",
+    "Old Age"
+  ],
+  "brief_description": "The \"Chief Minister Small and Marginal Farmers Older Pension Scheme\" by the Department of Social Justice and Empowerment, Government of Rajasthan, aims to provide financial assistance to elderly small and marginal farmers.",
+  "detailed_description": "The &quot;Chief Minister Small and Marginal Farmers Older Pension Scheme&quot; implemented by the Department of Social Justice and Empowerment, Government of Rajasthan, aims to provide financial assistance to elderly small and marginal farmers for their social and economic well-being.",
+  "benefits": [
+    "Pension of \u20b91250/- per month."
+  ],
+  "eligibility_criteria": "The applicant must be a permanent resident of Rajasthan. The applicant must belong to a small and marginal farmer family. The minimum age requirement is:\n55 years or above for women. 58 years or above for men.\n\nNOTE: Small and marginal farmer as per the definition under the National Food Security Ordinance, 2013, and as per the Rajasthan Government's Food and Civil Supplies Department circular dated 31.8.2013.\n",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.",
+        "Step 2: The applicant should visit the nearest E-mitra Center and complete the Biometric Verification Process.",
+        "Step 3: The applicant should ensure that the E-mitra Center agent completes all mandatory fields in the application form and uploads copies of all required documents.",
+        "Step 4: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/201908271723067572Farmer%20Pension%20order%20and%20rules.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://ssp.rajasthan.gov.in/HtmlPages/Schemes/DisablityDetail.aspx"
+    }
+  ],
+  "documents_required": "Birth Certificate. Income Certificate. Domicile Certificate."
+}

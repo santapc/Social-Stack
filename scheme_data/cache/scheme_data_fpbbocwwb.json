@@ -1,0 +1,51 @@
+{
+  "scheme_id": "67ab16f978d0d9a6ccb61994",
+  "slug": "fpbbocwwb",
+  "scheme_name": "Family Pension (BBOCWWB)",
+  "scheme_short_title": "FPBBOCWWB",
+  "state": "Bihar",
+  "level": "State/ UT",
+  "nodal_department": "Building Construction Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Pension"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Construction",
+    "Building",
+    "Pension",
+    "Family",
+    "Worker"
+  ],
+  "brief_description": "The scheme \"Family Pension\" by the Bihar Building & Other Construction Workers Welfare Board (BBOCWWB), Labour Resources Department, Government of Bihar, provides pension to the dependent of the deceased pensioner of the Board.",
+  "detailed_description": "The scheme &quot;Family Pension&quot; by the Bihar Building &amp; Other Construction Workers Welfare Board (BBOCWWB), Labour Resources Department, Government of Bihar, provides pension to the dependent of the deceased pensioner of the Board.",
+  "benefits": [
+    "50% of the pension amount or \u20b9100/-, whichever is higher."
+  ],
+  "eligibility_criteria": "The applicant should be a dependent of a deceased worker. The worker, in his/her lifetime, should have been registered with the \"Bihar Building & Other Construction Workers Welfare Board\". The worker, in his/her lifetime, should have been in receipt of regular pension from the Board.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration of a Construction Worker under BBOCWWB: Step 1: Visit the Official Website of the Bihar Building and Other Construction Workers Welfare Board. Step 2: On the homepage, click on \" Labour Registration \". Step 3: Enter your Aadhar card number and name, then click \"Authenticate\". Step 4: A dashboard will appear. Enter all required details, ensuring that all fields marked with an asterisk (*) are filled in correctly. Step 5: Click on \"Submit\" and proceed to pay the application fee online. Step 6: You will receive your construction worker registration number upon successful registration. Apply for Scheme Benefits: Step 1: Visit the Official Website of the Bihar Building and Other Construction Workers Welfare Board. Step 2: Click on \"Login\" and select \"Labour\". Step 3: Enter your registration number & year of Birth, click \"Show\" to view your details. Step 4: Select the scheme you wish to apply for to avail the benefits. Step 5: Enter all required information and upload the necessary documents. Step 6: Click on \"Submit Application\" to complete the process. Application Tracking: Applicant can track their application status online through the official website of the Bihar Building and Other Construction Workers Welfare Board. Relevant updates will be sent to the registered mobile number."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://bocwscheme.bihar.gov.in/bihar/assets/images/scheme.pdf"
+    },
+    {
+      "title": "Online Application",
+      "url": "https://bocwscheme.bihar.gov.in/worker_reg"
+    }
+  ],
+  "documents_required": "Identity Proof i.e. Aadhaar Card, Voter Card Bank Account Details Proof of age at the time of Registration Death certificate of worker Nominee/legal Heir Certificate Identity Card of the Registered Worker Proof of Membership Any Other Documents as Required"
+}

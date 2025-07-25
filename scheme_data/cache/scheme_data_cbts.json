@@ -1,0 +1,66 @@
+{
+  "scheme_id": "66d095136a1178003d856444",
+  "slug": "cbts",
+  "scheme_name": "Community Based Training Scheme",
+  "scheme_short_title": "CBTS",
+  "state": "Karnataka",
+  "level": "State/ UT",
+  "nodal_department": "Minorities Welfare Department",
+  "implementing_agency": "Karnataka Minorities Development Corporation",
+  "dbt_scheme": false,
+  "categories": [
+    "Skills & Employment"
+  ],
+  "sub_categories": [
+    "Training and Skill Up-gradation",
+    "Career information",
+    "Information for employers"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Skill Development",
+    "Employment",
+    "Unemployed",
+    "Minority Community"
+  ],
+  "brief_description": "The \"Community Based Training Scheme\" aims to provide training in heavy vehicle driving, shorthand, security services, office soft skills, retail sales, and beauty parlor courses (male & female) to unemployed young men and women belonging to minority communities for self-employment or employment.",
+  "detailed_description": "The &quot;Community Based Training Scheme&quot; was launched by the Minorities Welfare Department, Government of Karnataka, and implemented by the Karnataka Minorities Development Corporation. The scheme aims to provide training in Heavy Vehicle Driving, Short Hand, Security Services, Office Soft Skill, Retail Sales, Beauty Parlor Course (Male and Female) to the unemployed young men and women belonging to minority community for self employment or employment in MNC, BPOs and other activities.",
+  "benefits": [
+    "The scheme provides training in Heavy Vehicle Driving, Short Hand, Security Services, Office Soft Skill, Retail Sales, and Beauty Parlor Course (Male and Female)."
+  ],
+  "eligibility_criteria": "The applicant should belong to the religious minority community of the state. The applicant should be a permanent resident of Karnataka. The applicant's age should be between 18 to 35 years. The annual income of the applicant's family from all sources should be less than \u20b91,03,000/- in urban areas and less than \u20b996,000/- in rural areas. The selected applicants should compulsorily complete the training. The applicant must have a minimum qualification of SSLC. The applicant should not have previously taken training in any schemes of the state or central government.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step-01: Applicant need to visits the Karnataka Minorities Development Corporation official website .",
+        "Step-02: Click \"Apply Online\" and Enter \"Mobile Number\" and \"Submit\".",
+        "Step-03: Enter \"Aadhaar Number\" Fill in the \"Captcha\" and Select \"Next\".",
+        "Step-04: Applicant will get OTP in his/her Aadhaar Linked Mobile Number.",
+        "Step-05: Enter \"OTP\" and select \"Continue\", After that Allow the official notice.",
+        "Step-06: After verifying the Aadhaar again fill in the \"OTP\" and Submit.",
+        "Step-07: Select the scheme \"Sikhligar's Community Development Scheme\" and fill in the basic details father's name, gender, qualification detail",
+        "Step-08: Select \"Next\" Fill in the address detail and again select \"Next\".",
+        "Step-09: Upload the required document passport-size photo, educational document, income certificate, etc.",
+        "Step-10: Click \"Proceed\" and Select \"Submit Application\" and get an Application ID."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://kmdconline.karnataka.gov.in/Portal/home"
+    },
+    {
+      "title": "Login & Apply",
+      "url": "https://kmdconline.karnataka.gov.in/Portal/login"
+    },
+    {
+      "title": "Track Application",
+      "url": "https://kmdconline.karnataka.gov.in/Portal/track"
+    }
+  ],
+  "documents_required": "Copy of Aadhaar as Residential Proof. Copy of Bank Passbook. SSLC/PUC/DIPLOMA/DEGREE Marks Card. Caste/Minority Certificate (issued by the competent authority). Income Certificate (issued by the competent authority).  Self-Declaration Form. "
+}

@@ -1,0 +1,68 @@
+{
+  "scheme_id": "6683d3bfc833972ed2ed1e9e",
+  "slug": "pseshsfdc",
+  "scheme_name": "Professional and Self Employment Scheme (HSFDC)",
+  "scheme_short_title": "PSESHSFDC",
+  "state": "Haryana",
+  "level": "State/ UT",
+  "nodal_department": "Welfare of Scheduled Caste & Backward Classes Department",
+  "implementing_agency": "Haryana Scheduled Castes Finance And Development Corporation",
+  "dbt_scheme": false,
+  "categories": [
+    "Banking,Financial Services and Insurance",
+    "Business & Entrepreneurship"
+  ],
+  "sub_categories": [
+    "Loan",
+    "Setting up / start-up / entrepreneurship"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Professional",
+    "Self Employment",
+    "HSFDC",
+    "Loan",
+    "BPL",
+    "Scheduled Caste"
+  ],
+  "brief_description": "Under this scheme, the Corporation provides loans/benefits to individuals from BPL families, whose annual family income does not exceed \u20b91,80,000/-, in rural & urban areas. These loans support self-employment activities in fields such as legal profession, Chartered Accountancy, medical practice etc.",
+  "detailed_description": "The scheme &amp;quot;Professional and Self Employment Scheme&amp;quot; is implemented by the Haryana Scheduled Castes Finance and Development Corporation (HSFDC) in collaboration with the bank tie-up schemes. The HSFDC is a Company registered under the Companies Act, 1956 on 02.01.1971. It is a wholly Government-owned Corporation with a 51% share of the State Government and a 49% share of the Government of India. Under this scheme, the Corporation provides loans/benefits to individuals from Below Poverty Line (BPL) families, whose annual family income does not exceed \u20b91,80,000/-, in both rural and urban areas. These loans support self-employment activities in fields such as the legal profession, Chartered Accountancy, medical practice, and other viable professional activities.",
+  "benefits": [
+    "Project Cost Ceiling: Up to \u20b91,50,000/-. Subsidy: Subsidy @ 50% of the total project cost (Maximum amount of subsidy is \u20b910,000/-) Margin Money: The Corporation provides margin money @ 10% of the project cost. Margin money is provided @ 4% interest per annum. The interest on bank loan is charged by the banks at their lending policies. Bank Loan: Besides subsidy and margin money, the composite loan i.e. subsidy and margin money, and the balance amount of the bank loan is provided by the banks to the seller of the assets on behalf of the beneficiaries.",
+    "Interest criteria for the loan amount recoverable by HSFDC:",
+    "Upto Amount ( \u20b9) | Interest % P.A. | Penal Interest % P.A.\n15,000/- | 4 | 4",
+    "Interest Starts on | Penalty Start After | Principal Recovery Starts After | Installment Starts After | Installment Period\nSame Day | 180 Days | 360 Days | 180 Days"
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Haryana. The applicant should belong to the Scheduled Caste Category. The applicant should belong to the Below Poverty Line (BPL) family. The applicant's annual family income should not exceed \u20b91,80,000/- in both rural and urban areas. The applicant's annual family income should not exceed the BPL limit. The applicant's name should be included in the BPL Survey List. Note: The eligibility of the applicant is verified by the field staff before sponsoring the same to the bank for sanction.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process on Haryana Scheduled Castes Finance and Development Corporation: Step 1: Visit the official website of Haryana Scheduled Castes Finance and Development Corporation and select the scheme under \u2018Bank Tie-up Scheme'. Step 2: Click on \" Apply for Loan \" to begin the registration process. Step 3: Fill in your details, including your name, Aadhaar number, email, mobile number, and captcha code, then click \"Register\". Step 4: Enter the OTP sent to your mobile and click \"Submit\". Step 5: The application form will open. Step 6: Enter your details and upload the required documents. Step 7: Click \"Submit\" to complete your application, and you will receive your user ID and password. Login to apply for the scheme: Step 1: Visit the official website of the Haryana Scheduled Castes Finance and Development Corporation and on the home page, click on \u2018Login' option. Step 2: Enter your user ID/Username, password, and captcha code. Step 3: Click \" Login \". Step 4: Once logged in, the dashboard will open in front of you Click on \"Edit Profile\". Step 5: Fill in surety details, upload required documents, and update other details. Step 6: Click \"Final Submit\". Step 7: After submitting, you can print out your application for your reference."
+      ]
+    },
+    {
+      "mode": "Offline",
+      "steps": [
+        "The Corporation also collects/fills up loan applications in credit camps, Open Darbars, and other functions organized under the supervision of Deputy Commissioners/Additional Deputy Commissioners."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "http://hsfdc.org.in/detail.php"
+    },
+    {
+      "title": "Application Portal",
+      "url": "http://hsfdc.org.in/register.php"
+    },
+    {
+      "title": "HSFDC Details",
+      "url": "https://haryanascbc.gov.in/contribution-towards-share-capital-to-haryana-scheduled-castes-finance-development-corporation"
+    }
+  ],
+  "documents_required": "Aadhaar Card Passport-size photograph Ration Card Voter Card or any valid identity proof Scheduled Caste Certificate BPL Card/document proof Proof of income Any other documents as required"
+}

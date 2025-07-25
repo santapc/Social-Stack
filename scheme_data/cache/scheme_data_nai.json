@@ -1,0 +1,84 @@
+{
+  "scheme_id": "677fbe7c97d6fc48f60be697",
+  "slug": "nai",
+  "scheme_name": "National Agriculture Insurance Scheme",
+  "scheme_short_title": "NAI",
+  "level": "Central",
+  "nodal_department": "Department of Agriculture & Farmers Welfare",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Climate change",
+    "Financial assistance",
+    "Environmental management and protection"
+  ],
+  "target_beneficiaries": [
+    "Family",
+    "Individual"
+  ],
+  "tags": [
+    "Farmers",
+    "Crop Insurance",
+    "Agriculture Subsidy",
+    "Natural Disaster Coverage"
+  ],
+  "brief_description": "The National Agriculture Insurance Scheme (NAIS) was introduced by the Government of India to provide comprehensive insurance coverage and financial support to farmers against crop losses due to natural calamities, pests, and diseases.",
+  "detailed_description": "The National Agriculture Insurance Scheme (NAIS) was introduced by the Government of India to provide comprehensive insurance coverage and financial support to farmers against crop losses due to natural calamities, pests, and diseases. The scheme promotes the stability of farm incomes and encourages farmers to adopt modern agricultural practices. <br> > **Key Features** 1. Coverage for food crops, oilseeds, and selected commercial/horticultural crops. 1. Protection against crop loss due to natural calamities such as drought, flood, hailstorm, cyclone, pests, and diseases. 1. Coverage for different stages of the crop life cycle: - Sowing/planting risk. - Standing crop losses. - Post-harvest losses (due to specified perils). - Losses due to localized risks like hailstorms and landslides. 1. Subsidized premiums for small and marginal farmers. 1. Availability of the scheme across notified areas and seasons. > **Claim Process** - **Reporting** Losses: Inform the local agriculture office or insurer within 48 hours of the incident.- **Assessment**: Loss assessment will be conducted by a joint team comprising local authorities and insurance company representatives.- **Claim Settlement:** Upon verification, claims are directly transferred to the farmer's bank account",
+  "benefits": [
+    "Comprehensive Crop Coverage:",
+    "Protection against crop loss due to natural calamities (floods, droughts, hailstorms), pests, diseases, and localized risks. Includes coverage for sowing, standing crops, and post-harvest losses.",
+    "Subsidized Premiums for Small Farmers:",
+    "Small and marginal farmers receive premium subsidies, making the scheme affordable for them.",
+    "Affordable Premiums for All Farmers:",
+    "Low premium rates for both loanee and non-loanee farmers, with premiums deducted from agricultural loans.",
+    "Quick Claim Settlement:",
+    "Fast processing and direct claim settlement to the farmer's bank account.",
+    "Encourages Better Farming Practices:",
+    "Promotes risk mitigation and adoption of modern agricultural practices, increasing productivity.",
+    "Wide Crop Coverage:",
+    "Covers food crops, oilseeds, and horticultural crops, ensuring protection for most farmers.",
+    "Nationwide Accessibility:",
+    "Available to farmers across the country, making it a national safety net.",
+    "Premium Rates",
+    "Food crops and oilseeds: Kharif crops: 3.5% of the sum insured. Rabi crops: 1.5% of the sum insured. Commercial and horticultural crops: Actuarial premium rates apply. The premium for Small & Marginal farmers is subsidised to the extent of 10% which is shared by the State Govt. and Govt. of India"
+  ],
+  "eligibility_criteria": "Loanee Farmers:\nFarmers who avail seasonal agricultural operations (SAO) loans from financial institutions (banks, co-operative societies, etc.) are automatically covered under the scheme. The coverage for loanee farmers is compulsory, and premiums are deducted from the loan amount.\n\nNon-Loanee Farmers:\nNon-loanee farmers can apply voluntarily for the insurance coverage. The application must be submitted before the deadline for each crop season.\n\nNotified Crops and Areas:\nThe crops to be insured and the areas where the scheme is applicable are announced by the government each year.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Application Process for Loanee Farmers",
+        "Step-1 : Loanee farmers need to visit their nearest bank or primary agricultural cooperative society (PACS) branch, where they have taken the loan.",
+        "Step-2: The bank will automatically enroll the farmer in the NAIS.",
+        "Step-3: Premiums are deducted directly from the loan amount at the time of disbursement",
+        "Application Process for Non-Loanee Farmers",
+        "Step-1: Visit the Bank or Insurance Office",
+        "Go to the nearest branch of a bank that offers NAIS or visit the office of an authorized insurance company that provides coverage under NAIS.",
+        "Step-2: Fill the Application Form",
+        "Fill out the application form for the National Agriculture Insurance Scheme.",
+        "Step-3: Provide Required Documents",
+        "Submit required documents such as: Aadhaar card or any government-issued identity proof. Proof of land ownership or tenancy. Crop sowing details (if applicable). Bank account details for claim disbursement.",
+        "Step-4: Pay the Premium",
+        "Pay the premium amount at the time of application. The premium amount is based on the type of crop and the coverage opted for.",
+        "Contact for Assistance",
+        "If you need help during the application process or have any questions, you can contact:",
+        "Toll-Free Helpline: 1800-180-1551",
+        "Email: pmfby-support@gov.in",
+        "Website:  https://www.pmfby.gov.in/ "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://pmfby.gov.in/pdf/NAIS_SCHEME.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "www.pmfby.gov.in"
+    }
+  ],
+  "documents_required": "Aadhaar card or valid ID proof. Proof of land records or tenancy agreement. Crop-sowing certificate (if required). Bank account details for claim disbursement."
+}

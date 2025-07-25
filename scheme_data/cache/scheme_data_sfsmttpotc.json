@@ -1,0 +1,47 @@
+{
+  "scheme_id": "669df5f68c4bd3d4059066d2",
+  "slug": "sfsmttpotc",
+  "scheme_name": "Scheme for Supportive Money to the Parents of Transgender Children",
+  "scheme_short_title": "SFSMTTPOTC",
+  "level": "Central",
+  "nodal_department": "Department of Social Justice & Empowerment",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Financial assistance",
+    "Childcare"
+  ],
+  "target_beneficiaries": [
+    "Family"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Transgender",
+    "Child"
+  ],
+  "brief_description": "The \"Scheme for Supportive Money to the Parents of Transgender Children\" aims to provide financial assistance of \u20b91,000/- to the parents of transgender children. Transgender persons face stigma and discrimination in almost every sphere of their life including within the group, health facilities.",
+  "detailed_description": "The &quot;Scheme for Supportive Money to the Parents of Transgender Children&quot; was launched by the Ministry of Social Justice and Empowerment. The scheme aims to support 5,000 beneficiaries annually, with the potential for higher numbers based on State/UT identification. Transgender persons face stigma and discrimination in almost every sphere of their life including within the group, health facilities, education, employment, etc. Awareness and information are needed among parents to support their gender-nonconforming or transgender children, setting aside their discomfort and deeply held normative attitudes.",
+  "benefits": [
+    "Financial assistance of \u20b91,000/- per transgender parent per child per month."
+  ],
+  "eligibility_criteria": "The Parents must certify on an affidavit that they have a child exhibiting gender non-conforming behavior. The child's age should be less than 18 years. ",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The parents/guardians should visit (during office hours) the State Government or UT Administration office. and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2: Submit the duly filled and signed application form along with the documents to the State Government or UT Administration office."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "http://esomsa.hp.gov.in/sites/default/files/scan0001-74363681.pdf"
+    }
+  ],
+  "documents_required": "Affidavit (certifying the child's gender non-conforming behavior). Bank/Post Office Account Details. Guardianship Certificate (In case of the parent's death, a guardianship certificate from a Competent Authority) (If applicable). Any Other Document (If required)."
+}

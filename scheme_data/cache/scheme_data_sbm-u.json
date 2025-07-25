@@ -1,0 +1,52 @@
+{
+  "scheme_id": "628df483ba09b53babccbeb5",
+  "slug": "sbm-u",
+  "scheme_name": "Swachh Bharat Mission \u2013 Urban 2.0",
+  "scheme_short_title": "SBM - U",
+  "level": "Central",
+  "dbt_scheme": true,
+  "categories": [
+    "Utility & Sanitation",
+    "Health & Wellness"
+  ],
+  "sub_categories": [
+    "Sanitation / Sewage"
+  ],
+  "target_beneficiaries": [
+    "Individual",
+    "Family"
+  ],
+  "tags": [
+    "Toilet",
+    "Sanitation"
+  ],
+  "brief_description": "A sanitation scheme for the construction of Individual Household Latrines (IHHL) for urban households.",
+  "detailed_description": "A sanitation scheme for the construction of Individual Household Latrines (IHHL) for urban households. The Mission has the following components: 1. Household toilets, including conversion of insanitary latrines into pour-flush latrines. 1. Community toilets 1. Public toilets 1. Solid waste management 1. IEC &amp;amp; Public Awareness 1. Capacity building and Administrative &amp;amp; Office Expenses (A&amp;amp;OE)",
+  "benefits": [
+    "A Financial support of minimum",
+    "Rs - 6667 (in Andhra Pradesh ,Bihar, Chhattisgarh ,Goa, Gujarat, Haryana, Jharkhand, Karnataka ,Kerala, Madhya Pradesh, Maharashtra ,Odisha, Punjab, Rajasthan, Tamil Nadu, Telangana, Uttar Pradesh, West Bengal), Rs - 12,000 (in Uttarakhand, Himachal Pradesh, Arunachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura, Assam) Rs - 5333 (in Union Territories) is provided for Toilet Construction"
+  ],
+  "eligibility_criteria": "Any household that does not have access to an individual household toilet ( 80% of urban households engaging in open defecation ) or has an insanitary toilet.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Applicant creates an Applicant Login ID by registering on IHHL using Name , Mobile Number , Email , Address , ID Type, ID Number. After successful login the applicant enters the following details",
+        "In Geographical Particulars (State, District, ULB Name, Ward No.) Toilet Owner's Particulars (Name*, Gender*, Father/ Husband's Name*, Mobile No*, Residential Address*, Status of Existing Toilet, Aadhar Linked Transfer of Incentive, Aadhar Number, Bank Account Detail*, Photograph*)",
+        "After successful submission of Application, An IHHL Application Acknowledgement slip is generated with Application ID and Bank Account Detail "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Scheme Guidelines",
+      "url": "http://swachhbharaturban.gov.in/writereaddata/SBM_Guideline.pdf"
+    },
+    {
+      "title": "User Manual",
+      "url": "http://swachhbharaturban.gov.in/ihhl/writereaddata/UserManual_ToiletPhotoUpload_CSC_ULB_Applicant.pdf"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Indicative Documents\nAadhar Linked Transfer of Incentive Aadhar Number Bank Account Detail - Passbook Photograph"
+}

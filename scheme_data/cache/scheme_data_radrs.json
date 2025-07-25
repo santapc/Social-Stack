@@ -1,0 +1,75 @@
+{
+  "scheme_id": "6516914c34b89517d044bc8a",
+  "slug": "radrs",
+  "scheme_name": "R&D Reimbursement Scheme",
+  "scheme_short_title": "RADRS",
+  "state": "Goa",
+  "level": "State",
+  "nodal_department": "Information and Publicity Department",
+  "implementing_agency": "Startup Promotion Cell (SPC)",
+  "dbt_scheme": false,
+  "categories": [
+    "Business & Entrepreneurship",
+    "Science, IT & Communications"
+  ],
+  "sub_categories": [
+    "Research & Development",
+    "Setting up / start-up / entrepreneurship"
+  ],
+  "target_beneficiaries": [
+    "Business Entity"
+  ],
+  "tags": [
+    "Startup",
+    "Business",
+    "Entrepreneurship",
+    "Reimbursement"
+  ],
+  "brief_description": "The scheme \"R&D Reimbursement Scheme\" is a part of the Start-up Policy 2017. The objective of the policy is to promote innovation amongst the Goans and local start-ups. 50% of R&D expenses, including salaries of PhD holders employed by start-ups, will be reimbursed for a period of two years.",
+  "detailed_description": "The scheme \"R&amp;D Reimbursement Scheme\" is a scheme by the Department of Information Technology, Electronics and Communications, Government of Goa, for the Startups of Goa. The scheme is a part of the Start-up Policy 2017. The objective of the policy is to promote innovation amongst the Goans and local start-ups. 50% of R&amp;D expenses, including salaries of PhD holders employed by start-ups, will be reimbursed for a period of two years, subject to a cap of \u20b9 5,00,000 per annum.",
+  "benefits": [
+    "50% of R&D expenses, including salaries of PhD holders employed by startups, will be reimbursed for a period of two years, subject to a cap of \u20b9 5,00,000 per annum. The salary component must not be in excess of \u20b9 2,00,000.",
+    "Number of Slots",
+    "This benefit can be availed by a maximum of 100 startups each year.",
+    "Validity",
+    "The applicant can avail of the benefits of this scheme bi-annually/ annually.",
+    "Disbursal",
+    "Once the application is approved by the SPC, the approved amount shall be disbursed within 60 days from the date of approval.",
+    "NOTE: Under no circumstance shall the benefits under this scheme be considered an entitlement. The SPC shall reserve the sole right to accept or reject applications."
+  ],
+  "eligibility_criteria": "This is applicable only to Goans and local start-ups. The applicant should be a local startup certified by the Start-up Promotion Cell (SPC). The startup should have a valid start-up certificate number. The employees whose salaries are to be reimbursed should be hired for a period of at least 12 months. The employee whose salary is to be reimbursed should have a PhD or equivalent from a government-recognised institute. The startup should be in the R&D stage and developing technology/ products in the domains specified in the Policy. The startup should have a working prototype of the technology/ product. Only expenditures incurred after notification of Goa Start-up Policy 2017, being within the validity of this policy and paid for digitally will be considered. If digital payments are not possible then it shall be up to the decision of SPC based on its due diligence to admit the expenditure.\nNOTE: For the purpose of determining eligible expenses towards R&D Expenditure, the \"Accounting Standard 18 on Research and Development\" by the Institute of Cost Accountants of India would be used.\n\nRelaxation / Preference / Priority\nPreference will be given to the startups who are working on a technology/ product that have successfully applied for a patent or have obtained a patent.\n\nDefinitions\nLocal Startup: A startup in which at least 50% equity/share is held by one or more Goans continuously since the time of inception.\n\nGoan: The person satisfying at least one of the following criteria -\n1. Born in the State of Goa; or,\n2. Person having domicile for 10 years or more in the State; or,\n3. Spouse of a person covered under any of the conditions mentioned in (1.) and (2.), through marriages registered in Goa.\n\nEmployees: PhD or equivalent employees for whom a reimbursement is being claimed.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Visit the Official Website of Goa Startup Mission.",
+        "Step 2: Verify your Email ID and Mobile Number using OTP. You will be redirected to the Registration Page.",
+        "Step 3: On the Registration/Signup Page , fill in all the mandatory fields of the registration form (Country, Name, Date of Birth, Address, PIN Code, Gender, etc.).",
+        "Step 4: Create a Login Name and a strong Password (Password can have special characters like @ # $ % ^ & + =).",
+        "Step 5: Carefully read the Declaration and the Terms & Conditions, and tick the checkboxes.",
+        "Step 6: Fill in the Captcha Code, and click \"Register/Signup\".",
+        "Step 7: Login to the website using your Login Name and Password. Fill in the Captcha Code, and click \"Login\".",
+        "Step 8: Navigate to the online application form for the relevant scheme.",
+        "Step 9: In the application form, fill in all the mandatory fields and upload all the mandatory documents (self-attest if required).",
+        "Step 10: Submit the application and note the application reference number for application tracking.",
+        "OR",
+        "Step 1: Take a print of the proforma of the application form. Fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest if required).",
+        "Step 2: Submit the duly filled and signed application form along with the documents to SPC via Email at spc-dit.goa@gov.in",
+        "NOTE: The applicant can apply for this scheme at any time of the financial year but only within 6 months of incurring the relevant expenditure.",
+        "Notification",
+        "The applications received by the SPC shall be evaluated and approval or rejection shall be notified within 45 days from receipt of the application by the SPC."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.startup.goa.gov.in/Incentives/R&DReimbursementScheme.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://www.goa.gov.in/wp-content/uploads/2018/05/Schemes.pdf"
+    }
+  ],
+  "documents_required": "1. Copy of the Aadhaar Card of Director/ CEO*\n2. Documents of PhD salaried employees*\n3. HR letter certifying that the employment contract of employees fulfil conditions mentioned in the policy and work profile*\n4. Contract of Employment (should be of at least 12 months)*\n5. Salary slips of concerned employees*\n6. Bank certification/ Bank account statement showing debit of salary*\n7. Research proposal detailing the relevance and application of the research proposed*\n8. Copy of research work*\n9. Original Proof of Payment of R&D as per Cost and Accounting Standard 18*\n10. The form and documents as mentioned in Annexure 1*\nNOTE 1: The bank accounts of the Directors of the company should be linked to Aadhaar.\nNOTE 2: The bank accounts of said employees should be linked to Aadhaar."
+}

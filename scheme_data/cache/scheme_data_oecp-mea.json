@@ -1,0 +1,66 @@
+{
+  "scheme_id": "650d89261a1c949c65ff60d2",
+  "slug": "oecp-mea",
+  "scheme_name": "OEC Pre-matric Educational Assistance",
+  "scheme_short_title": "OECP-MEA",
+  "state": "Kerala",
+  "level": "State",
+  "nodal_department": "Backward Classes Development Department",
+  "implementing_agency": "Govt./Aided/Recognised Un-Aided/C.B.S.E/I.C.S.E Affiliated Schools And Kendriya Vidyalayas In Kerala State",
+  "dbt_scheme": true,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Student",
+    "OEC",
+    "Other Equivalent Communities",
+    "Scholarship",
+    "Educational Assistance",
+    "Pre-matric"
+  ],
+  "brief_description": "The Scheme \"OEC Pre-matric Educational Assistance\" was started by the Backward Classes Development Department, Government of Kerala to provide educational assistance to pre-matric students belonging to these communities who are studying in Government/Aided/Unaided schools from Classes 1st to 10th.",
+  "detailed_description": "The Scheme \"OEC Pre-matric Educational Assistance\" was started by the Backward Classes Development Department, Government of Kerala. In the state, the most backward communities from among the Other Backward Communities are grouped as Other Eligible Communities (OEC). The scheme is intended to provide educational assistance to pre-matric students belonging to these communities who are studying in Government/Aided/Unaided schools from Classes 1st to 10th. This scheme is being fully implemented with the state fund.",
+  "benefits": [
+    "Educational Assistance Benefits:",
+    "Sl. No. | Classes/Standards | Educational Assistance Amount\n1 | I to IV | \u20b9320/-\n2 | V to VII | \u20b9630/-\n3 | VIII to X | \u20b9940/-"
+  ],
+  "eligibility_criteria": "1. The students should belong to the Other Eligible Communities (OEC) & Other Equivalent Communities of Kerala State. 2. The students should be studying in Government/Aided/Recognized Un-Aided/C.B.S.E/I.C.S.E Affiliated Schools and Kendriya Vidyalayas in Kerala state. 3. The students must be studying in Class 1st to 10th. 4. There is no annual family income limit for the students who belong to OEC Communities. 5. The annual family income should be \u20b96,00,000/- for the students who belong to Other Equivalent Communities.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 01: To get the benefits of the scheme, the students do not have to submit separate applications. Step 02: The School authorities should make an online entry through the scholarship portal within the prescribed time. Step 03: The concerned Educational Officer should do on-time verification of the details entered by the Un-aided/ Affiliated Institutions. Step 04: The school authorities will apply online for the scheme and financial assistance reaches the eligible students' bank account through Direct Beneficiary Transfer (DBT)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://bcdd.kerala.gov.in/en/schemes/educational-schemes/oec-prematric-educational-assistance/"
+    },
+    {
+      "title": "Governmemt Order",
+      "url": "https://bcdd.kerala.gov.in/wp-content/uploads/2018/11/2-03-2.pdf"
+    },
+    {
+      "title": "Notification",
+      "url": "https://bcdd.kerala.gov.in/wp-content/uploads/2018/11/2-04-2.pdf"
+    },
+    {
+      "title": "List Of OEC. Communities",
+      "url": "https://bcdd.kerala.gov.in/wp-content/uploads/2018/11/2-01.pdf"
+    },
+    {
+      "title": "List Of Other Communities Selected For OEC Educational Benefit",
+      "url": "https://bcdd.kerala.gov.in/wp-content/uploads/2018/11/2-02-2.pdf"
+    }
+  ],
+  "documents_required": "1. Identity proof of the student\n2. Copy of Aadhaar Card\n3. Photo of the student\n4. A copy of the ration card, if applicable\n5. Caste Certificate\n6. Income Certificate, if applicable\n7. Residence proof\n8. Physical Disability Certificate, if applicable"
+}

@@ -1,0 +1,59 @@
+{
+  "scheme_id": "64797a2b380f8e12353c40fc",
+  "slug": "bsccs",
+  "scheme_name": "Bihar Student Credit Card Scheme",
+  "scheme_short_title": "BSCCS",
+  "state": "Bihar",
+  "level": "State",
+  "nodal_department": "Education Department",
+  "categories": [
+    "Education & Learning",
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Loan",
+    "Universities and higher education",
+    "Resources for schools",
+    "Coaching",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Educational Loan",
+    "Student Empowerment",
+    "Financial Assistance",
+    "Higher Education"
+  ],
+  "brief_description": "The Bihar Government launched the Bihar Student Credit Card (BSCC) scheme to provide financial aid to applicants to complete their higher education.",
+  "detailed_description": "The Department of Education introduced a scheme named &amp;quot;**Bihar Student Credit Card Scheme**&amp;quot;. Its aim is to provide financial aid to students to complete their higher education. In this scheme, the students can avail loans of up to \u20b94 lakhs at minimal interest rates. They can utilize these funds for financing courses like B.Sc, B.A, B.Tech, or MBBS. This scheme is specifically for all those students who are interested in pursuing higher education but due to lack of financial resources, they are not able to pursue the same.",
+  "benefits": [
+    "The eligible students will get the following benefits under this scheme:- A maximum loan amount of \u20b94 lakh. Loan can be availed for polytechnic, technical and general courses. This assistance may be utilized for purchasing of books and laptops or pay any kind of fees. Repayment of the loan starts once the course has been completed and student have secured a job. The interest rate of the loan is 1% for Divyang, transgender, and girl students. The recovery procedures are flexible since the loan is government-owned."
+  ],
+  "eligibility_criteria": "The applicant must be a resident of Bihar state and should be at least 25 years. The applicant must have passed the class 12th. The applicant must get admission to a course in an authorized institute. The applicant must complete the entire course.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Visit https://www.7nishchay-yuvaupmission.bihar.gov.in/ website. Click the \u2018New Applicant Registration' button. Fill the details, such as name, email ID, mobile number, Aadhaar number, and OTP and click the \u2018Submit' button. A successful registration message will be displayed, and the applicants will receive the username and password by email and SMS. Visit the https://www.7nishchay-yuvaupmission.bihar.gov.in/ website and log in using the username and password. Fill the details on the \u2018Personal Information Page' and click the \u2018Submit' button. Selects the \u2018BSCC' option from the drop-down list and click the \u2018Apply' button. Fill in the details on the BSCC form and submit it. A confirmation message and the acknowledgement number will be displayed. The respective District Registration and Counseling Center (DRCC) will schedule an appointment and send an email and SMS informing the applicant about the date of the visit to the DRCC. The applicant should visit the DRCC with self-attested documents and submit them to the Multi-Purpose Assistant (MPA) for verification. After verification by the concerned authorities and loan sanction by the bank, the DRCC will send an SMS and email to the applicant informing the date the applicant should visit the DRCC to collect the \u2018Student Credit Card' and sanction letter of the loan. The applicant should visit the bank to complete the documentation formalities after collecting the \u2018Student Credit Card' and the bank's sanction letter from the DRCC. The applicant will get the loan disbursement from the bank, and bank officials will inform the same to the DRCC. The applicants can also track their application status on https://www.7nishchay-yuvaupmission.bihar.gov.in/addapplicationStatus ."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.7nishchay-yuvaupmission.bihar.gov.in/resources/Guideline.pdf"
+    },
+    {
+      "title": "Process Flow",
+      "url": "https://www.7nishchay-yuvaupmission.bihar.gov.in/resources/Process_Flow_for_BSCC.pdf"
+    },
+    {
+      "title": "FAQ",
+      "url": "https://www.7nishchay-yuvaupmission.bihar.gov.in/faq"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Filled common application form Aadhar card Pan card Xth and XIIth mark sheet and certificate Copies of the letter conferring scholarship (If available) Approved course structure Proof of admission Fee schedule Photographs Previous year's income certificate Previous two year's income tax return Previous six months' bank statement Proof of residence (Passport, ID, driving license, Voter ID) Tax receipt"
+}

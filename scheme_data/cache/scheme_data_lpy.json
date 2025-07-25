@@ -1,0 +1,69 @@
+{
+  "scheme_id": "681c5236689952af098408f7",
+  "slug": "lpy",
+  "scheme_name": "Laado Protsahan Yojana",
+  "scheme_short_title": "LPY",
+  "state": "Rajasthan",
+  "level": "State/ UT",
+  "nodal_department": "Women and Child Development Department",
+  "implementing_agency": "Directorate Of Women Empowerment, Rajasthan",
+  "dbt_scheme": true,
+  "categories": [
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Financial Assistance"
+  ],
+  "target_beneficiaries": [
+    "Family"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Maternity",
+    "Childcare",
+    "Girl Child",
+    "Education"
+  ],
+  "brief_description": "The scheme aims to encourage the birth of girl children in poor families and promote their holistic development. Under this scheme, financial support \u20b91,50,000/- is provided in seven installments to the parents or guardians of girls born in Government/authorized Medical Institutions.",
+  "detailed_description": "The Scheme &amp;quot;Laado Protsahan Yojana&amp;quot; was launched on 1st August 2024 by the Department of Women Empowerment, Government of Rajasthan. The scheme aims to encourage the birth of girl children in poor families and promote their holistic development. Under this scheme, financial support is provided in seven installments to the parents or guardians of girls born in Government/authorized Medical Institutions. > **Objectives:** - Promote a positive mindset towards the birth of a girl child and ensure her holistic development. - Eliminate gender discrimination in childcare, education, and health. - Promote institutional deliveries and reduce maternal mortality. - Reduce infant mortality among girls and improve the child sex ratio. - Ensure enrollment and retention of girls in schools. - Encourage higher education for girls and reduce child marriage.",
+  "benefits": [
+    "Monetary Benefit:",
+    "Total financial benefit of \u20b91,50,000/- disbursed in 7 installments:",
+    "Installment | Description | Amount (\u20b9)\n1 | Girl's birth in eligible medical institutions | 2500/-\n2 | Girl completes one year of age and all vaccinations | 2500/-\n3 | Girl's admission to Class 1 st in a government/government-recognized private school | 4000/-\n4 | Girl's admission to Class 6 th in a government/government-recognized private school | 5000/-\n5 | Girl's admission to Class 10 th in a government/government-recognized private school",
+    "6 | Girl's admission to Class 12 th in a government/government-recognized private school | 25000/-\n7 | Girl passes graduation from government-recognized educational institutions and completes 21 years of age",
+    "Total Amount \u20b91,50,000",
+    "Mode of Disbursement:",
+    "A commitment letter of \u20b91.50 lakh will be issued at the birth of a girl child. The entire amount will be disbursed online through Direct Benefit Transfer (DBT) in seven installments. Until the girl attains adulthood, the first six installments will be transferred to the bank account of her parents or guardian, and the seventh installment will be transferred to the girl's own bank account through DBT. Notes: If the benefit of any installment is not availed at any stage after the first two installments of the scheme, the eligible girl child may still be granted the next installment, provided a valid and reasonable justification is given. There is no limit on the number of girl children eligible to receive the third and subsequent installments under the scheme. All girls who have already received the first two installments will be entitled to continue receiving benefits under the scheme. The Rajshree Yojana will be merged with the Laado Protsahan Yojana, and the remaining installments of the Rajshree Yojana will be provided under the Laado Protsahan Yojana as per eligibility."
+  ],
+  "eligibility_criteria": "The applicant should be a woman who is a native of Rajasthan. The applicant should deliver the girl child in a government medical institution or a private medical institution authorized under the Janani Suraksha Yojana (JSY). The applicant should ensure full immunization of the child (for second installment). The applicant's child should be enrolled in a recognized school or institution for subsequent installments. The applicant's daughter should graduate from a recognized higher education institution and attain the age of 21 to receive the final installment.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Application process for the Applicant:",
+        "Step 1: The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.",
+        "Step 2: The applicant should visit the nearest office of the Department of Medical, Health & Family Welfare.",
+        "Application process for the Department of Medical, Health & Family Welfare",
+        "For First and Second Installments:",
+        "Data is entered on PCTS portal during antenatal checkups and post-institutional delivery. DBT is done automatically by the Department of Medical, Health & Family Welfare.",
+        "For Second Installment:",
+        "Full immunization record must be uploaded on the PCTS / OJAS portal. Based on verification, payment is made to parent/guardian's account.",
+        "For Installments 3 to 6 (School Admissions):",
+        "Automatically tracked by schools through the portal using earlier installment IDs. No fresh application is required from parents/guardians.",
+        "For Final (Seventh) Installment:",
+        "The Department of Higher Education uploads the girl's graduation documents. Payment is made to the girl's own bank account after verifying she is 21 years old."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://ojspm.rajasthan.gov.in/Public/lpy.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://wcd.rajasthan.gov.in/we/#/scheme/detail/1184"
+    }
+  ],
+  "documents_required": "Permanent Resident Certificate of Rajasthan Marriage Registration Certificate Bank Account Details of Mother/Father/Guardian Birth Certificate of the Girl Child Institutional Delivery Proof from Government or JSY-Authorized Medical Facility Age Proof Document (for verifying completion of 21 years of age) Unique ID/PCTS ID issued at birth Any Other Document if Required"
+}

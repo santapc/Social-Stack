@@ -1,0 +1,73 @@
+{
+  "scheme_id": "6707710d130e5d54b635fce3",
+  "slug": "fatdicodorw",
+  "scheme_name": "Financial Assistance to dependents in Case of Death of Registered Workers(JKBOCWWB)",
+  "scheme_short_title": "FATDICODORW",
+  "state": "Jammu and Kashmir",
+  "level": "State/ UT",
+  "nodal_department": "Department of Labour and Employment",
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Family",
+    "Individual"
+  ],
+  "tags": [
+    "Worker",
+    "Construction",
+    "Labour",
+    "Death",
+    "Financial Assistance",
+    "Building"
+  ],
+  "brief_description": "The scheme \"Financial Assistance to Dependents in Case of Death of Registered Workers\" is administered by the Building and Other Construction Workers Welfare Board, Jammu and Kashmir. In this scheme, \u20b92,00,000/- is provided to the dependents in case of the death of the registered worker.",
+  "detailed_description": "The scheme \"Financial Assistance to Dependents in Case of Death of Registered Workers\" is administered by the Building and Other Construction Workers Welfare Board, Department of Labour and Employment, Union Territory of Jammu and Kashmir. In this scheme, a financial assistance of \u20b92,00,000/- is provided to the dependents in case of death of the worker registered with the Board.",
+  "benefits": [
+    "A financial assistance of \u20b92,00,000/- is provided."
+  ],
+  "eligibility_criteria": "The applicant should be a dependent of the deceased worker. The deceased should have been registered with the \"Jammu and Kashmir Building & Other Construction Workers Welfare Board\". The deceased should have held an active membership with the Board. The scheme can be applied only once.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Visit the Official Website of the Building and Other Construction Workers Welfare Board, Jammu and Kashmir.",
+        "Step 2: In the 'Construction Worker' section, click ' Register Now '. A signup page will open. On the page, fill in all the mandatory details and then click on 'Send OTP'. Fill the OTP received on your mobile number and click 'Verify OTP & Submit'. After validation of the OTP, a confirmation message with Login ID and Password will be sent to your registered Mobile Number.",
+        "Step 3: On the next screen, enter your Username and Password and fill in the captcha code. Read all the instructions carefully and click on 'Click Here to Continue'. On the next screen, select the \"Construction Worker's Registration Menu\" option and then click \"Registration Form\". An online registration form will open.",
+        "Step 4: Fill in all the mandatory fields of the online Registration Form and upload all the mandatory documents in the specified format and size.",
+        "Carefully review all the information provided and the documents uploaded, and then click 'Make Payment'. You will be directed to the 'Payment Submission' page.",
+        "Step 5: On the \"Payment Submission\" page, click \"Generate Challan\". Take a print of the challan and submit it to the bank and follow the instructions of the concerned authority at the bank. After completing the formalities, the bank will provide a seal on the challan acknowledging the successful submission of the challan. Upload the sealed challan to the \"Payment Submission\" page and click \"Submit the Challan\". After verification of the application by the Department, the applicant would be able to avail the benefit of the scheme.",
+        "NOTE:",
+        "1. Only .gif / .jpg / .jpeg / .png file types are allowed for all except the Registration Form.",
+        "2. Only .pdf file type is allowed for the Registration Form.",
+        "3. Bank Passbook Copy must bear the 16-digit account number & the photo of the applicant.",
+        "4. File size for each attachment should be up to 200 KB except Registration Form should be up to 300 KB.",
+        "5. Scanned files should not be more than 100 DPI.",
+        "Application Tracking:",
+        "Applicant can track their application status online through the official website of the Jammu & Kashmir Building and Other Construction Workers Welfare Board. Relevant updates will be sent to the registered mobile number."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.jkbocw.gov.in/StaticPages/SchemeInformation.aspx"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://jkbocw.gov.in/MediaGallery/CITIZEN_CHARTER.pdf"
+    },
+    {
+      "title": "Website",
+      "url": "https://www.jkbocw.gov.in/Index.aspx"
+    },
+    {
+      "title": "User Manual",
+      "url": "https://jkbocw.gov.in/Documents/LabourRegistrationManualPublicUser.pdf"
+    }
+  ],
+  "documents_required": "Original Death Certificate of the Worker. Attested Age Proof of the Worker. Duly attested copy of the Bank Passbook of the nominee/legal heir OR a cancelled cheque bearing the name of the nominee/legal heir and the IFSC code of the bank branch. Copy of the Aadhaar Card or Biometric Card of the deceased. Copy of the Aadhaar Card or Biometric Card of the nominee/claimant."
+}

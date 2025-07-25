@@ -1,0 +1,81 @@
+{
+  "scheme_id": "65efec8f938a0b13ccb3682f",
+  "slug": "spk",
+  "scheme_name": "Sinchai Pipeline Karyakram",
+  "scheme_short_title": "SPK",
+  "state": "Rajasthan",
+  "level": "State/ UT",
+  "nodal_department": "Agriculture Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Land and water resources"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Pipe Line",
+    "Agriculture",
+    "Irrigation",
+    "Development"
+  ],
+  "brief_description": "In \"Sinchai Pipeline Karyakram\" Rajasthan government will provide subsidies to farmers on purchasing irrigation pipelines. So that farmers can get rid of the problem of irrigation. And their income can increase.",
+  "detailed_description": "The &quot;Sinchai Pipeline Karyakram&quot; under The Agriculture Department of the Rajasthan government will provide subsidy to farmers on purchasing irrigation pipelines. So that farmers can get rid of the problem of irrigation. And their income can increase. There are many farmers in our country whose financial condition is weak and are unable to buy pipelines, due to which their crops get ruined due to lack of water. To overcome the problem of irrigation, many types of schemes are also being run by the Central and State Governments. In this direction, considering the problems of farmers. <br> > **Feature :** 1. Farmers will be eligible for a grant only if they purchase BIS-marked pipes from a manufacturer or their authorized distributor/seller registered with the Agriculture Department, either in cash or by taking a loan from a bank, and successfully install them on their farm. 1. Each pipe distributed on a grant basis must be embossed with the year of manufacture and the grant distribution year. The grant will be admissible only on pipes manufactured and sold in the eligible year. Additionally, the grant will be admissible on the remaining pipes from the previous year in the next financial year as well. 1. The concerned manufacturer will necessarily provide information about the remaining stock of the previous financial year to the Deputy Director and Assistant Director of Agriculture (Ext.) office in the district. The grant will not be admissible in the absence of information. 1. In the financial year, the list of maximum retail price (MRP) of pipes will be sent by the pipe manufacturers to the Deputy Director and Assistant Director of Agriculture (Ext.) office through selected dealers in the district. The dealer will also submit an affidavit that no bill will be charged more than the MRP. <br> **Component****Component****Ice. Code****Description**PipelinePipe4984 /14151 Pt I &amp;amp;amp;amp; II : 199H.D.P.E. irrigation pipePipelinePipe4985 \u00bc4 kg/cm2 &amp;amp;amp;amp;63 \u00bc2-5 kg/cm2 &amp;amp;amp;amp;90 mm and above \u00bdPVC for water supply. irrigation pipePipelinePipeIS 16190 : 2014 \u00bc 63 mm and above and 200 mm and above \u00bdHDPE High Density Polyethylene Laminated Knitted Flat Tube Irrigation Pipe for Water Supply<br> <br> > **The subsidy will be payable only on pipes of diameter 63 mm or more than 63 mm.**",
+  "benefits": [
+    "Cost of transporting water: 50% of the cost (capped at \u20b91000/-). Pipe material cost: HDPE pipe: \u20b950 per meter (capped at \u20b915,000/- total). PVC pipe: \u20b935 per meter (capped at \u20b915,000/- total). HDPE laminated flat tube pipe: \u20b920 per meter (capped at \u20b915,000/- total)."
+  ],
+  "eligibility_criteria": "The agricultural land should be owned by the applicant. The applicant must be a farmer residing in Rajasthan. This scheme applies to farmers who have a diesel engine, electric pump, or tractor-driven pump set available on a borewell or well. Applicants must own at least 2 bighas of cultivable agricultural land. The farmer's bank account must be linked to an Aadhar card. Additionally, no farmer can apply again for the next 10 years after receiving the benefit. Farmers must apply for the grant within 30 days of purchasing the pipe and after this timeframe will not be considered.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration",
+        "Step-1: Applicant have to visit the official portal .",
+        "Step-2: Click on the option \" Register \".",
+        "Step-3: Then you will be redirected to the SSO registration page. The registration page will appear with the following options.",
+        "Citizen",
+        "Step-4: Choose the either one option from the Jan Aadhaar Or Google to process further.",
+        "Jan Aadhaar : Enter the Jan Aadhaar number, click on the \u2018Next' button, Select your name, the name of the head of the family and all the other members and Click on the \u2018Send OTP' button. Enter the \u2018OTP' and Click on the \u2018Verify OTP' button to Complete the registration.",
+        "Google : Enter the Gmail ID, click on the \u2018Next' button, Enter the password. A new link appear on screen, now click on new SSO link. SSO id will appear on screen, now create the password. Enter Mobile number, click on registration.",
+        "Step-5: Complete the registration process.",
+        "Apply",
+        "Step-1: Applicant have to visit the official portal .",
+        "Step-2: After login, dashboard will open.",
+        "Step-3: Click on \" RAJ-KISAN \" option.",
+        "Step-4: In \"Citizen\", click on \"Application Entry Request\".",
+        "Step-5: Enter the \"Bhamashah ID\" or \"Janaadhaar ID\" and search.",
+        "Step-6: Select the person name and scheme name.",
+        "Step-7: Complete the Aadhaar Authentication and click on Get details.",
+        "Step-8: Provide the required details.",
+        "- Pensioner Details.",
+        "- Bank Details.",
+        "- Disability Details.",
+        "- Verification Details.",
+        "- Upload Documents.",
+        "Step-9: Submit."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/AGRI_/IPLP/DOC_250_33da8ac2-d17a-49e6-ad16-615dd5ff570a.pdf"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://schemes.rajasthan.gov.in/scheme/detail/250"
+    },
+    {
+      "title": "Registration",
+      "url": "https://sso.rajasthan.gov.in/register"
+    },
+    {
+      "title": "Login",
+      "url": "https://sso.rajasthan.gov.in/signin"
+    }
+  ],
+  "documents_required": "Passport size photo. Copy of Aadhar Card. Copy of Jamabandi or Jamabandi. Copy of Bank Passbook."
+}

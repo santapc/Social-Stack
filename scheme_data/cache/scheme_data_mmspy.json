@@ -1,0 +1,64 @@
+{
+  "scheme_id": "679651bef4330f0a718cfcb3",
+  "slug": "mmspy",
+  "scheme_name": "Mukhyamantri Shiksha Protsahan Yojana",
+  "scheme_short_title": "MMSPY",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Higher and Techical Education Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Coaching",
+    "Scholarships and student finance",
+    "Education and training grants, fellowship, stipend"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Free Coaching",
+    "Financial Assistance",
+    "Student",
+    "Exam"
+  ],
+  "brief_description": "The \"Mukhyamantri Shiksha Protsahan Yojana\" by the Directorate of Higher Education, Department of Higher and Technical Education, Government of Jharkhand, aims to provide free coaching and financial assistance to students prepare for national level competitive examinations like JEE, NEET, CLAT, NHMC",
+  "detailed_description": "The &quot;Mukhyamantri Shiksha Protsahan Yojana&quot; by the Directorate of Higher Education, Department of Higher and Technical Education, Government of Jharkhand, aims to provide free coaching and financial assistance to students preparing for National Level Competitive Examinations like JEE, NEET, CLAT, NHMCET, NIFT-CET etc,.",
+  "benefits": [
+    "\u20b92,500/- monthly stipends per student during the coaching period. Free of cost coaching facility in reputed coaching institutes."
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Jharkhand state. The student should have passed class 10 th from any recognized school in the state of Jharkhand or the student should possess a local residence certificate of Jharkhand. The student must meet the exam's eligibility criteria for coaching under this scheme. For exams requiring Class 12th qualification, Class 11th students at the time of application are also eligible. The student's annual family income should be less than \u20b98,00,000/- or the student should be covered under the National/State Food Security Scheme. An applicant who has already received similar benefits from another department is not eligible for dual benefits. The student can avail the benefit only once under this scheme. ",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process:",
+        "Step 01: Go to the official website of Mukhyamantri Shiksha Protsahan Yojana and click on \"Registration\".",
+        "Step 02: Fill the required details name, mobile number email id and complete the process.",
+        "Step 03: The student will get an confirmation SMS registered mobile number and an email id.",
+        "Application Process:",
+        "Step 01: Fill the application form and upload the required documents.",
+        "Step 02: Click on \"Submit\" to get application Id.",
+        "NOTE :",
+        "The student must secure at least 75% attendance for the entire duration of the coaching."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (new)",
+      "url": "https://mukhyamantri.apphost.in/document/mukhyamantri_guideline.pdf"
+    },
+    {
+      "title": "Guidelines (Old)",
+      "url": "https://www.jharkhand.gov.in/PDepartment/ViewDoc?id=D013DO0058SD0013807122023050525433"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://mukhyamantri.apphost.in/"
+    }
+  ],
+  "documents_required": "Color Photograph of the applicant. Signature of the student. Student's Aadhaar Card. Class 10 TH Certificate and Marksheet. Residence Certificate. Income Certificate. Ration Card (Self-attested copy). Caste Certificate (issued by Competent Authority Sub-Divisional Officer / Circle Officer)."
+}

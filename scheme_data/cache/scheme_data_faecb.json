@@ -1,0 +1,58 @@
+{
+  "scheme_id": "66f6b431c50f851fc661b374",
+  "slug": "faecb",
+  "scheme_name": "Financial Assistance for Education of Children of Beneficiary",
+  "scheme_short_title": "FAECB",
+  "state": "Manipur",
+  "level": "State/ UT",
+  "nodal_department": "Labour and Employment Department",
+  "dbt_scheme": true,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Education and training grants, fellowship, stipend",
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Children",
+    "Construction Worker",
+    "Education"
+  ],
+  "brief_description": "The \"Financial Assistance for Education of Children of Beneficiary\" welfare scheme launched by the Manipur Building and Other Construction Workers Welfare Board provides one-time financial assistance for the education of children.",
+  "detailed_description": "The &quot;Financial Assistance for Education of Children of Beneficiary&quot; welfare scheme launched by the Manipur Building and Other Construction Workers Welfare Board provides one-time financial assistance of \u20b95,000/- for the education of children of labour card holders who are staying in relief camps after the violence following the Tribal Solidarity March on 03.05.2023. This assistance is aimed at easing the financial burden on families displaced by the violence.",
+  "benefits": [
+    "One-time financial assistance per child:",
+    "Higher Secondary or Equivalent: \u20b95,000/- per annum. B.A./B.Sc/B.Com/Diploma: \u20b97,500/- per annum. Post Graduate Degree/Diploma Course: \u20b910,000/- per annum. Engineering or Medical Degree: \u20b937,500/- per annum."
+  ],
+  "eligibility_criteria": "The worker should be registered under the Manipur Building and Other Construction Workers Welfare Board. The worker should hold a valid labour card issued by the MBOCWWB. The worker should be residing in a relief camp due to the violence. Only for families affected by the 03.05.2023 Tribal Solidarity March. The worker should have engaged in building and construction work for at least 90 days in a given year. The student should have enrolled in Higher Secondary or equivalent/B.A./B.Sc/B.Com/Diploma/Post Graduate Degree/Diploma Course/Engineering or Medical Degree.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step-1: The interested applicant should visit (during office hours) the Manipur Building and Other Construction Workers Welfare Board and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "OR",
+        "The interested applicant visits the official website and downloads the application form (Annexure-I) .",
+        "Step-2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3: Submit the duly filled and signed application form along with the documents to the Relief Camp Nodal Officer/Labour Board Inspector",
+        "Step-4: Request a receipt or acknowledgement from the Relief Camp Nodal Officer or Labour Board Inspector to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "http://manipurbcwb.in/files/2023/notification/2023-09-04%20020816.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "http://manipurbcwb.in/"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Certificate of Registration. Payment Receipt of the Last Contribution. Admission Certificate and Class Reading Certificate of the Child (issued by the Head of the relevant institution for financial assistance for the education of the child). Wages Slip by the Employer (for at least 90 days for a year for financial assistance for the education of the child). Aadhaar Card. First Page of Bank Passbook.  Verification Certificate.   Certification Form (If lost the bank document)."
+}

@@ -1,0 +1,60 @@
+{
+  "scheme_id": "6851430fb2394f3b92abd448",
+  "slug": "mtsuk",
+  "scheme_name": "Motorcycle Taxi Scheme",
+  "scheme_short_title": "MTSUK",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "Co-Operative Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Skills & Employment",
+    "Transport & Infrastructure"
+  ],
+  "sub_categories": [
+    "Public transport and private vehicles",
+    "Entrepreneurship development",
+    "Employment services and jobs"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Tourist Vehicle",
+    "Loan",
+    "Vehicle",
+    "Transportation"
+  ],
+  "brief_description": "The scheme is aimed at enabling individuals to operate motorcycle taxis, offering a low-cost, efficient solution for short-distance travel, especially in congested or remote areas.",
+  "detailed_description": "The scheme &quot;Motorcycle Taxi Scheme&quot; by the Cooperative Department, Uttarakhand Government, aims to create employment and facilitate transportation for tourists and travelers between different locations at major tourist spots in the state. Through this scheme, financial assistance in the form of loans for new motorcycle taxis and an interest subsidy is provided to eligible applicants. The scheme is implemented by the Cooperative Societies of Uttarakhand through the District Cooperative Banks.",
+  "benefits": [
+    "Improved Connectivity: Enhances last-mile transport in remote and rural areas with limited public transport. Affordable Travel: Provides a low-cost option for short-distance commutes. Job Creation: Offers employment opportunities for youth and entrepreneurs. Entrepreneurship Support: Encourages self-employment through motorcycle taxi services. Eco-Friendly: Prompts fuel-efficient transport, reducing environmental impact. Enhanced Mobility: Ensures faster, convenient travel, especially in congested or poorly connected areas. Boost to Economy: Stimulates local businesses and tourism by providing reliable transport options. A loan for a new scooter or motorcycle is provided, which must be registered as a taxi in Uttarakhand and approved for taxi operation. The loan amount covers the vehicle cost, registration, and insurance fees. The maximum loan sanctioned will be 75% of the motorcycle taxi's purchase price or \u20b91,25,000/-, whichever is less. An interest subsidy for the first 2 years will be provided. The current annual interest rate is 10%. The vehicle purchased under the scheme must be of a single uniform color, and its operation is limited only to Uttarakhand state. The vehicle must have comprehensive insurance covering all risks under the Bankers Clause, jointly in the name of the bank (primary beneficiary) and the borrower (secondary beneficiary). All insurance expenses are to be borne by the borrower.",
+    "Frequency of Disbursement:",
+    "Loan: This is a one-time disbursement upon approval. Interest Subsidy: The District Cooperative Banks will compile beneficiary-wise interest demands from their branches on a quarterly basis and send them to the State Cooperative Bank and the Registrar's office. Subsequently, the interest subsidy will be received from the state government and deposited into the beneficiaries' accounts.",
+    "Validity:",
+    "Loan Tenure: The maximum loan tenure is 3 years. Loan recovery will begin one month after the loan disbursement date, in 35 equal monthly instalments. Interest Subsidy: The interest subsidy is provided for the first 2 years of the loan."
+  ],
+  "eligibility_criteria": "The applicant should be a permanent resident of Uttarakhand. The applicant's age should be more than 18 years and less than 55 years. The applicant should possess a valid driving license for driving a motorcycle taxi, issued by the Transport Department. The applicant should not be a defaulter of any financial institution or cooperative institution. The applicant's minimum CIBIL (Credit Rating Agency) score should not be less than 700.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "The applicant should visit the nearest bank to obtain the loan application form in the prescribed format and submit it to the bank's headquarters.",
+        "Note:",
+        "After district-level verification, the forms are presented to the district committee for selection. Selected applicants' forms are forwarded to the relevant branches through the district cooperative bank's head office. The branches complete the formalities, issue the loan approval letter, and transfer the loan amount directly to the vendor from whom the motorcycle/Taxi will be purchased."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cdnbbsr.s3waas.gov.in/s3cc0991344c3d760ae42259064406bae1/uploads/2018/08/202501281940066308.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://cooperative.uk.gov.in/scheme/kasturba-gandhi-balika-vidyalaya/"
+    }
+  ],
+  "exclusions": "Applicants who are defaulters of any financial institution or cooperative institution are excluded. Applicants with a CIBIL (Credit Rating Agency) score less than 700. The interest subsidy will not be provided if loan instalments are overdue or if the motorcycle taxi vehicle is used for other private purposes.",
+  "documents_required": "Loan Application Form (in prescribed format). Valid Driving License (for motorcycle taxi). Proof of Uttarakhand Permanent Residency. Age Proof. CIBIL Score Report (Credit Rating Agency). Personal Guarantor Documents (details regarding permanent residency within the bank's operational area, sufficient immovable property, and status as respected bank account holders)."
+}

@@ -1,0 +1,64 @@
+{
+  "scheme_id": "686f6bdc8a1ff1233bd658b2",
+  "slug": "ssls-m",
+  "scheme_name": "Small Scale Lending Scheme (Microfinance)",
+  "scheme_short_title": "SSLS-M",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Empowerment Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Banking,Financial Services and Insurance"
+  ],
+  "sub_categories": [
+    "Financial assistance",
+    "Banking and money",
+    "Personal finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Microfinance",
+    "Loan",
+    "Subsidy",
+    "Interest",
+    "Entrepreneurs"
+  ],
+  "brief_description": "The scheme aims to provide microcredit to the small entrepreneurs of the target group. It provides loans up to \u20b91,25,000/- at 5% interest rate to eligible beneficiaries belonging to the Rabari and Bharwad castes.",
+  "detailed_description": "The scheme &quot;Small Scale Lending Scheme (Microfinance)&quot; by the Social Justice and Empowerment Department, Government of Gujarat, aims to provide microcredit to the small entrepreneurs of the target group. The scheme provides loans up to \u20b91,25,000/- at subsidized interest rates of 5% per annum to eligible beneficiaries. To be eligible, the applicant must belong to the Rabari and Bharwad castes among the socially and educationally backward classes and must be aged between 21 to 45 years. The scheme is implemented by Gujarat Gopalak Vikas Nigam. The applications for this scheme are accepted online through the Department of Agriculture and Animal Husbandry (DAAD) Online portal. <br>",
+  "benefits": [
+    "Loan Amount: Maximum loan limit of \u20b91,25,000/-.",
+    "Interest Rate: Subsidized interest rate of 5% per annum.",
+    "Loan Coverage: 95% of the project cost is covered through a loan.",
+    "Beneficiary Contribution: Only 5% contribution is required from the beneficiary.",
+    "Target Group Support: Specifically designed for small entrepreneurs from the Rabari and Bharwad communities."
+  ],
+  "eligibility_criteria": "The applicant must belong to the Rabari and Bharwad castes among the socially and educationally backward classes. The applicant must be aged between 21 to 45 years. The applicant must have an annual income of less than or equal to \u20b93,00,000/-.\n",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Visit the official website of DAAD Online. At the bottom of the page, in the \"Details of the Scheme\" section, click the \"Apply Now\" button adjacent to the scheme that you intend to apply for.",
+        "Step 2: In the online application form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size. Carefully review all the information provided and the documents uploaded. Make any necessary corrections. Complete the Captcha code as prompted. Click the \"Submit\" button after verifying all information. Upon successful submission, a Confirmation Number will be generated. Carefully note this number, as it is essential for any future edits or uploads.",
+        "Step 3: Visit the official website or portal, and click \" Print Application \". Provide the mandatory details such as Scheme Name, Date of Birth, and Confirmation Number. Click \"Submit\" to generate the final printable version of your application. Save or print the document for your records."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sje.gujarat.gov.in/ggvn/Schemes/1561?lang=English"
+    },
+    {
+      "title": "Application Portal",
+      "url": "https://daadconline.gujarat.gov.in/"
+    },
+    {
+      "title": "User Manual - Online Application",
+      "url": "https://daadconline.gujarat.gov.in/PDF/How%20To%20Apply%20%20%E0%AA%A8%E0%AA%BE%E0%AA%A8%E0%AA%BE%20%E0%AA%A7%E0%AA%82%E0%AA%A7%E0%AA%BE.pdf"
+    }
+  ],
+  "documents_required": "Passport Size Photograph Caste Certificate Income Certificate Age Proof Identity Proof Address Proof Bank Account Details Project Report or Business Plan"
+}

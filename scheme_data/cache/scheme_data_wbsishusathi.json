@@ -1,0 +1,56 @@
+{
+  "scheme_id": "64260ebcaf196d20ee5e0c3a",
+  "slug": "wbsishusathi",
+  "scheme_name": "Sishu Saathi",
+  "scheme_short_title": "WBSISHUSATHI",
+  "state": "West Bengal",
+  "level": "State",
+  "nodal_department": "Health and Family Welfare Department",
+  "implementing_agency": "Department Of Women And Child Development And Social Welfare, Govt. Of WB",
+  "categories": [
+    "Health & Wellness",
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Children\u2019s health and immunization",
+    "Disease and conditions",
+    "Health care providers and access"
+  ],
+  "target_beneficiaries": [
+    "All"
+  ],
+  "tags": [
+    "Sishu Saathi",
+    "Social Welfare",
+    "Financial Assistance",
+    "Child Health"
+  ],
+  "brief_description": "\"Sishu Saathi\", a scheme of the Health and Family Welfare Department, Government of West Bengal as part of the Rastriya Bal Swasthya Karyakram (RBSK) under National Health Mission is meant to treat Indian children of 0-18 years age group with zero out of pocket expenditure.",
+  "detailed_description": "&lt;br&gt; The &amp;#39;Sishu Saathi&amp;#39; scheme is a healthcare initiative launched by the Health and Family Welfare Department, Government of West Bengal, that aims to provide free treatment to children needing heart surgeries. Partnering with both government and private hospitals, the scheme ensures that children up to the age of 12, diagnosed with heart conditions, receive free surgery and related care.",
+  "benefits": [
+    "Health Screening in Schools: Free health check-ups in government schools to detect heart ailments at an early stage among children. Free Cardiac Surgeries: Completely free cardiac surgeries for children up to 12 years of age who are diagnosed with heart ailments, ensuring no financial burden on families."
+  ],
+  "eligibility_criteria": "All children from 0 to 18 years are eligible. Applicable to children residing in both rural and urban areas of West Bengal. There is no income criterion; the scheme is open to all children regardless of their family's financial capacity. The child must be diagnosed with a cardiac ailment requiring surgical intervention.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: Children diagnosed through Rashtriya Bal Swasthya Karyakram or other health check-ups are referred for further treatment.",
+        "Step 2: Parents or guardians can contact government hospitals or partner private hospitals for free surgery under the scheme.",
+        "Step 3: Hospitals handle the registration and approval process for eligible children."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://wb.gov.in/government-schemes-details-sishusaathi.aspx"
+    },
+    {
+      "title": "Amendments",
+      "url": "https://www.wbhealth.gov.in/uploaded_files/tender/2955_1.pdf"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Child's birth certificate or age proof (below 18 years). Medical records or diagnostic reports showing the heart ailment. Identity proof of parents or guardians (Aadhaar card, Voter ID, etc.). Any other documents as required."
+}

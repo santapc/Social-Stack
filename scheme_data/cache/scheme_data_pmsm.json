@@ -1,0 +1,74 @@
+{
+  "scheme_id": "660cf637c90f6c8098821e76",
+  "slug": "pmsm",
+  "scheme_name": "Post Metric Scholarship - Madhya Pradesh",
+  "scheme_short_title": "PMSMP",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Higher Education Department",
+  "dbt_scheme": true,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Post Metric",
+    "Scholarship",
+    "Financial Support"
+  ],
+  "brief_description": "Under the Post-Matric Scholarship is a Madhya Pradesh Government initiative to provide financial assistance to economically weaker social class students to pursue higher education after matriculation.",
+  "detailed_description": "The Post-Matric Scholarship Under the Higher Education Department of Madhya Pradesh aimed at providing financial assistance to students belonging to economically weaker sections of society to pursue higher education after matriculation. This scheme helps alleviate the financial burden on students and encourages them to continue their education beyond the secondary level. It covers various expenses such as tuition fees, maintenance allowance, and other incidental costs associated with pursuing higher studies. By promoting access to education for all, regardless of financial constraints, the Post-Matric Scholarship scheme contributes to fostering inclusivity and empowering disadvantaged students to achieve their academic aspirations. <br> <br>",
+  "benefits": [
+    "Reimbursement of full fee for professional courses when the fee is fixed by the Admission and Fee Regulatory Commission. Reimbursement of full fee prescribed in the course of government institutions In the courses of non-government colleges, half of the compulsory fee is reimbursed up to the income limit of \u20b92,50,000/-, and for students with an income limit of \u20b92,50,000/- to \u20b96,00,000/-. Monthly living allowance in undergraduate and postgraduate courses-",
+    "Non-hosteler- \u20b9300/- Hostel - \u20b9570/-"
+  ],
+  "eligibility_criteria": "\u2022 The applicant should belong to the Scheduled Caste category.\n\u2022 If the applicant studying in non-government institutions, the annual income limit of parents/guardians is up to \u20b96,00,000/-.\n\u2022 There is no income limit for government institutions.\n",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration",
+        "Step-1: Go to the official website of \"State Scholarship Portal 2.0\"   using a web browser.",
+        "Step-2: Look for the option that says \"Register yourself\"  on the homepage and click on it.",
+        "Step-3: Read the registration guidelines carefully before proceeding. then click Continue.",
+        "Step-4: Fill in the required details accurately in the registration form. This typically includes personal information such as",
+        "- Scholarship Category",
+        "- State",
+        "- Name",
+        "- Date of birth",
+        "- Gender",
+        "- Contact details, etc.",
+        "Step-5: Click submit Register and you get your Student application ID.",
+        "Apply",
+        "Step-1: Go to the official website of \"State Scholarship Portal 2.0\" using a web browser.",
+        "Step-2:  click on Login ",
+        "Step-3: After that enter you",
+        "- Application ID.",
+        "- Password",
+        "- Captcha",
+        "Step-4: Click Login and select your scheme name.",
+        "Step-5: After clicking your scheme name then enter your name father's name, samgra ID, Aadhar number, bank account etc.",
+        "Step-6: Now upload your photo signature and important documents.",
+        "Step-7: Remember, the fields marked with an asterisk (*) are mandatory.",
+        "Step-8: After filling in all your information details and uploading the documents click submit",
+        "After approval, reimbursement is made into the student's bank account."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://highereducation.mp.gov.in/?page=RdZcR%2FYL1Md3wesIflshHQ%3D%3D&leftid=ZnGWU%2BxYVl5%2BNBOUmwU4dg%3D%3D"
+    },
+    {
+      "title": "Login",
+      "url": "http://www.scholarshipportal.mp.nic.in/slogin.aspx?ReturnUrl=%2fPublic%2fOtherSchemes%2fGB.aspx%3fID%3dMTE%253d"
+    }
+  ],
+  "documents_required": "Aadhar card. Bank Account Details. Income certificate of parents. Passport-size photographs."
+}

@@ -1,0 +1,41 @@
+{
+  "scheme_id": "66d837ff91b6f2157d6fdaaf",
+  "slug": "dog",
+  "scheme_name": "Distribution of Gypsum",
+  "scheme_short_title": "DOG",
+  "state": "Tamil Nadu",
+  "level": "State/ UT",
+  "nodal_department": "Agriculture Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Agricultural Inputs- seeds, fertilizer etc."
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "brief_description": "The \"Distribution of Gypsum\" scheme provides a subsidy to farmers cultivating Pulses crops, covering 50% of the cost of gypsum material and transportation costs.",
+  "detailed_description": "The \"Distribution of Gypsum\" scheme by the Agriculture-Farmers Welfare Department, Tamil Nadu, provides financial assistance to farmers by subsidizing 50% of the cost of gypsum material and transportation cost. It is targeted at farmers who grow pulse crops, helping them improve soil fertility and increase yield. The scheme includes special provisions for SC/ST farmers (24%) and farm women (20%).",
+  "benefits": [
+    "Financial Assistance:",
+    "50% on the cost of Material. Transport cost limited to \u20b9750/- per hectare."
+  ],
+  "eligibility_criteria": "The beneficiary should be a Farmer. The beneficiary should be a resident of Tamil Nadu. The beneficiary should grow pulse crops.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: Collect the application form from the nearest Agricultural Office. Step 2: Fill out the application form with the required details and attach mandatory documents (self-attested, if required). Step 3: Submit the form to the concerned office: Village Level: Submit the application to the Assistant Agricultural Officer. Block Level: Submit to the Agricultural Officer or Deputy Agricultural Officer. District Level: Submit to the Joint Director of Agriculture. "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.tn.gov.in/scheme/data_view/7075"
+    }
+  ],
+  "documents_required": "Proof of identity (Aadhar, Voter ID, etc.) Land ownership documents. Proof of cultivation (for Pulses crops). Bank account details. Any other documents (if required)."
+}

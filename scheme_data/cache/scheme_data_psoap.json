@@ -1,0 +1,58 @@
+{
+  "scheme_id": "67a8cdceda50340fc8f5bed6",
+  "slug": "psoap",
+  "scheme_name": "Pension Scheme to Old Age Persons (Senior Citizen)",
+  "scheme_short_title": "PSOAP",
+  "state": "Dadra & Nagar Haveli and Daman & Diu",
+  "level": "State/ UT",
+  "nodal_department": "Social Welfare Department",
+  "implementing_agency": "District Panchayat/Municipal Council Of UT Of Dadra & Nagar Haveli And Daman & Diu",
+  "dbt_scheme": true,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Pension",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Pension",
+    "Old Age",
+    "Senior Citizen"
+  ],
+  "brief_description": "The objective of this scheme is to provide financial support to eligible senior citizens to cater to their basic needs. The scheme benefits senior citizens aged 60 years and above, providing a monthly pension of \u20b91,500/- for those aged 60\u201369 years and \u20b92,000/- for those aged 70 years and above.",
+  "detailed_description": "The scheme \"Pension Scheme to Old Age Persons (Senior Citizen)\" is implemented by the Social Welfare Department, UT of Dadra &amp;amp; Nagar Haveli and Daman &amp;amp; Diu. The scheme aims to support senior citizens in meeting their basic needs during old age. It is specifically targeted at residents of Dadra &amp;amp; Nagar Haveli and Daman &amp;amp; Diu who are 60 years and above, with an annual family income not exceeding \u20b91.5 lakh per annum. Under this scheme, eligible individuals aged 60\u201369 years receive a monthly pension of \u20b91,500/-, while those aged 70 years and above receive \u20b92,000/- per month.",
+  "benefits": [
+    "Quantum & Nature of Assistance:",
+    "1. Senior citizens aged 60\u201369 years: Monthly pension of \u20b91,500/-.",
+    "2. Senior citizens aged 70 years and above: Monthly pension of \u20b92,000/-.",
+    "Note: The mode of fund transfer shall be Direct Benefit Transfer (DBT)."
+  ],
+  "eligibility_criteria": "The applicant should be a domicile of the Dadra & Nagar Haveli and Daman & Diu. The applicant should be 60 years or older. The applicant's annual family income should not exceed \u20b91,50,000/-. The applicant should not be receiving financial assistance under any other old age pension scheme.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Application Process: Step 1: The applicant can collect the application form from the office of the District Panchayat or Municipal Council of the concerned district. Alternatively, the form can be downloaded from the official website. Step 2: The applicant should carefully fill out the application form and attach all necessary documents. Step 3: The duly filled application form, addressed to the Chief Executive Officer/Chief Officer of the concerned District Panchayat/Municipal Council, should be submitted to the Gram Panchayat/District Panchayat/Municipal Council of the concerned district. Post Application Process: Step 1: Field-level staff of the District Panchayat/Municipal Council will verify the submitted documents and scrutinize the application. They will also collect a life certificate from the beneficiaries annually. Step 2: The Chief Executive Officer/Chief Officer of the respective District Panchayat/Municipal Council will review and approve the applications. Timelines: \u2022 Application process: The application may be processed within 30 (thirty) days from the date of receipt. \u2022 Payment disbursement: Once the application is approved by the Approving / Recommending authorities, the payment shall be disbursed into the bank account of the senior citizens by the fifth of every month. Grievance Redressal & Contact: For any grievance, the aggrieved senior citizen may approach the Chief Executive Officer/Chief Officer of District Panchayat / Municipal Council in the concerned district or District Collector of the concerned district or the Department of Social Welfare."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Notification",
+      "url": "http://daman.nic.in/jobs/2021/115-06-03-2021.pdf"
+    },
+    {
+      "title": "Website",
+      "url": "https://dnhpanchayat.in/scheme/details/22"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://dnhpanchayat.in/uploads/scheme/ApplicationFormsNSAP.pdf"
+    }
+  ],
+  "documents_required": "Proof of Age (In case of non-availability of age proof the beneficiary shall be referred to the Medical Board (Government Hospital) of the concerned district for verification of age.) Income Certificate issued by the Competent Authority Domicile Certificate issued by the Competent Authority Copy of Bank Pass Book (Aadhaar linked) Copy of Aadhaar Card Election Card/Passport/Ration card (any one) Passport size photographs (2 copies) Undertaking/Affidavit (Not getting any pension from any other department) in the prescribed proforma at Annexure II "
+}

@@ -1,0 +1,63 @@
+{
+  "scheme_id": "678a31246fc4765b7e19aa24",
+  "slug": "fchdnnasnc",
+  "scheme_name": "Free Caste Hostel (De-Notified, Nomadic and Semi-Nomadic Communities)",
+  "scheme_short_title": "FCHDNNASNC",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Department of De-notified, Nomadic and Semi-nomadic Welfare Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning",
+    "Housing & Shelter"
+  ],
+  "sub_categories": [
+    "Hostel service"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Student",
+    "Hostel",
+    "Education",
+    "Ashram",
+    "Nomadic"
+  ],
+  "brief_description": "The \"Free Caste Hostel\" scheme by the Department of De-notified, Nomadic, and Semi-Nomadic Welfare, Government of Madhya Pradesh, provides a scholarship of \u20b91,230 per month for boys and \u20b91,270 per month for girls for 10 months.",
+  "detailed_description": "The &quot;Free Caste Hostel&quot; scheme by the Department of De-notified, Nomadic, and Semi-Nomadic Welfare, Government of Madhya Pradesh, provides a scholarship of \u20b91,230 per month for boys and \u20b91,270 per month for girls for 10 months. The scheme benefits students from De-notified, Nomadic, and Semi-Nomadic tribes studying in local educational institutions.",
+  "benefits": [
+    "A scholarship of \u20b91,230 per month for boys. A scholarship of \u20b91,270 per month for girls. The scholarship is given for 10 months."
+  ],
+  "eligibility_criteria": "The applicant should be a student belonging to the De-Notified, Nomadic, or Semi-Nomadic tribes. The applicant should be studying in a local educational institution. The applicant should apply for admission before the new academic session. The applicant should secure a vacant seat, as new admissions depend on availability. The applicant should have a higher percentage in the last passed examination for priority admission.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration",
+        "Step 1: Visit the \" Samarth Portal \".",
+        "Step 2: Navigate to the top right corner of the homepage and click \" Registration\". ",
+        "Step 3: On the registration page, provide the mandatory details. (the fields marked with * are mandatory). If required, verify your Mobile Number and/or Email ID via OTP. Finally, click \"Register\".",
+        "Application",
+        "Step 1: Visit the \" Samarth Portal \".  ",
+        "Step 2:  Use the credentials you created during registration to log in.",
+        "Step 3:  Navigate to the online application form of the scheme you intend to apply for.",
+        "Step 4:  In the application form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size.",
+        "Step 5:  Carefully review all the information provided. Make any necessary corrections.",
+        "Step 6:  Acknowledge and agree to the terms and conditions, declaration, and privacy policy (if any).",
+        "Step 7:  Click the \"Submit\" to submit your application."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://samarth.mp.gov.in/Public/Pages/SchemeDetail?ID=1"
+    },
+    {
+      "title": "Registration",
+      "url": "https://samarth.mp.gov.in/Registration/Default.aspx"
+    }
+  ],
+  "documents_required": "Passport-size Photograph Aadhaar Card Domicile Certificate Caste Certificate Samagra ID Bank Account Details"
+}

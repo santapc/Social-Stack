@@ -1,0 +1,46 @@
+{
+  "scheme_id": "67f63c21ca4dbdfd530ebc6a",
+  "slug": "msesu",
+  "scheme_name": "Minority Self-Employment Scheme",
+  "scheme_short_title": "MSESU",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "Minority Welfare, Uttarakhand",
+  "dbt_scheme": false,
+  "categories": [
+    "Skills & Employment"
+  ],
+  "sub_categories": [
+    "Loan"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Minority Welfare",
+    "Self Employment",
+    "Loan"
+  ],
+  "brief_description": "\"Minority Self-Employment Scheme\" is a social security scheme by the Minority Welfare Department, Government of Uttarakhand, that provides financial assistance through facilitating loans to the minority community to build their own employment.",
+  "detailed_description": "\"Minority Self-Employment Scheme\" is a social security scheme by the Minority Welfare Department, Government of Uttarakhand. The scheme aims to provides financial assistance through facilitating loans to the minority community to build their own employment. The benefit of the scheme will be available only on taking a loan , in which 60% has to be borrowed from the bank, 25% is given by the department as grant/subsidy and 15% of the contribution should be with the applicant. The interest on the loan will be charged as per the prevailing rates in the bank. <br>",
+  "benefits": [
+    "Loan up to \u20b910,00,000/-is provided by the corporation through banks, Note: Out of this, 60% is bank loan, 25% is grant/subsidy (minimum \u20b925,000/- and maximum \u20b92,50,000/-) and 15% is the beneficiary's own share. "
+  ],
+  "eligibility_criteria": "Beneficiary should be a permanent resident of Uttarakhand. Beneficiary should belong to the minority community. The age of the beneficiary should be between 18-55 years of age. The annual income of the beneficiary's family from all sources should not exceed \u20b9 2,50,000/ - ; Or, the beneficiary's family should belong to the BPL (Below Poverty Level) category.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: Applicants should visit their nearest office of the Minorities Welfare Officer/District Social Welfare Officer and collect application form. Step 2: Fill the form properly and attach all the documents (attested, if required). Step 3: Submit the form at the office of the Minorities Welfare Officer/District Social Welfare Officer."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Page No. 42)",
+      "url": "https://uk.gov.in/assets/pdf/MERI%20_YOJANA_book_04-12-23.pdf"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Income Certificate/BPL Certificate. Caste Certificate. Permanent Residence Certificate. Aadhaar Card. Bank Account. Project Report."
+}

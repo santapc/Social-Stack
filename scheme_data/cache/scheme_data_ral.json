@@ -1,0 +1,52 @@
+{
+  "scheme_id": "645b323c76bec230878ae4c4",
+  "slug": "ral",
+  "scheme_name": "Rehabilitation Allowance To Lepers",
+  "scheme_short_title": "RAL",
+  "state": "Himachal Pradesh",
+  "level": "State",
+  "nodal_department": "Department of Social Justice and Empowerment",
+  "categories": [
+    "Health & Wellness"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Rehabilitation Allowance",
+    "Lepers",
+    "Monthly Allowance",
+    "DBT",
+    "Himachal Pradesh"
+  ],
+  "brief_description": "The Himachal Pradesh Rehabilitation Allowance to Lepers is a social welfare scheme initiated by the Government of Himachal Pradesh in India to provide financial assistance to people affected by leprosy.",
+  "detailed_description": "The rehabilitation Allowance to Lepers scheme is a welfare scheme launched by the government of Himachal Pradesh for the benefit of leprosy patients. The scheme provides a monthly allowance of Rs. 750 to people affected by leprosy who are residing in the state of Himachal Pradesh. The scheme aims to provide financial assistance to leprosy patients who are living in various leprosy colonies across the state. The primary objective of the scheme is to improve the living conditions of leprosy patients and to ensure that they receive adequate medical care and attention.",
+  "benefits": [
+    "1. Financial assistance of Rs. 750 per month is provided to each leprosy patient.",
+    "2. Free medical treatment and medicines are provided to the beneficiaries.",
+    "3. The scheme also provides assistance for the education of the children of leprosy patients.",
+    "4. Counseling and rehabilitation services are provided to leprosy patients."
+  ],
+  "eligibility_criteria": "1. The applicant should be a leprosy patient living in a leprosy colony.\n2. The applicant should be a permanent resident of Himachal Pradesh.\n3. The applicant should not be a recipient of any other government scheme or pension.\n",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "1. The application form for the scheme can be obtained from the nearest Leprosy Control Unit or the District Social Welfare Office.",
+        "2. The duly filled application form along with the required documents should be submitted to the concerned authorities.",
+        "3. After the verification of the documents, the applicant will be enrolled in the scheme and will receive financial assistance."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Govt Portal",
+      "url": "https://hpshimla.nic.in/dwo-shimla/"
+    },
+    {
+      "title": "Guidelines",
+      "url": "http://himachalpr.gov.in/PressReleaseByYear.aspx?Language=1&ID=12335&Type=2&Date=10/06/2018"
+    }
+  ],
+  "documents_required": "Leprosy certificate. Applicant should not be serving in government/semi-government sector. Recommendation from the concerned Gram Panchayat. Copy of the Parivar Register Aadhaar Card. Bank Account. No age bar is applied for this scheme. "
+}

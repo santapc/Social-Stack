@@ -1,0 +1,50 @@
+{
+  "scheme_id": "683019a2223eab36900aaab6",
+  "slug": "parls",
+  "scheme_name": "Passenger Auto Rickshaw Loan Scheme (DAADC)",
+  "scheme_short_title": "PARLS",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Empowerment Department",
+  "implementing_agency": "Dr. Ambedkar Antyodaya Development Corporation",
+  "dbt_scheme": false,
+  "categories": [
+    "Banking,Financial Services and Insurance"
+  ],
+  "sub_categories": [
+    "Loan"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Passenger Auto Rickshaw Loan",
+    "Antyodaya",
+    "Scheduled Caste",
+    "Employment"
+  ],
+  "brief_description": "The \"Passenger Auto Rickshaw Loan Scheme\" introduced by the Social Justice and Empowerment Department offers financial assistance in the form of loans to Scheduled Caste individuals from Antyodaya families to purchase passenger auto rickshaws and enhance their livelihood opportunities.",
+  "detailed_description": "The &amp;quot;Passenger Auto Rickshaw Loan Scheme&amp;quot; introduced by the Social Justice and Empowerment Department, Gujarat, aims to provide financial assistance in the form of loans to Scheduled Caste individuals from Antyodaya families to purchase passenger auto rickshaws, enabling them to generate sustainable income through transport services. The scheme is being implemented by the Dr. Ambedkar Antyodaya Development Corporation.",
+  "benefits": [
+    "Financial assistance in the form of a loan."
+  ],
+  "eligibility_criteria": "The Applicant must be a permanent resident of Gujarat. The Applicant must belong to a Scheduled Caste (SC) community. The Applicant must be from an Antyodaya family. The Applicant's family income must not exceed \u20b93,00,000/- per annum. ",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Visit the official DAADC online portal.",
+        "Step 2: Register/log in using your credentials.",
+        "Step 3: Fill out the application form with accurate personal and scheme-specific details.",
+        "Step 4: Upload the required documents and submit."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Scheme No. 417)",
+      "url": "https://mariyojana.gujarat.gov.in/MoreDetails.aspx"
+    }
+  ],
+  "documents_required": "Aadhar Card. Ration Card. Copy of First Page of Passbook. Income Certificate. Caste Certificate. School Leaving Certificate / Birth Certificate / Medical Officer or Civil Surgeon Certificate."
+}

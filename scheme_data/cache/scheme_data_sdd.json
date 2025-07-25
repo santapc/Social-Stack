@@ -1,0 +1,58 @@
+{
+  "scheme_id": "685bc385e908c729d3ceb216",
+  "slug": "sdd",
+  "scheme_name": "Sindhu Darshan Scheme",
+  "scheme_short_title": "SDD",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Tourism Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Travel & Tourism",
+    "Sports & Culture"
+  ],
+  "sub_categories": [
+    "Tourism in India",
+    "Culture"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Culture",
+    "Pilgrim",
+    "Heritage",
+    "Pilgrimage",
+    "Travel",
+    "Tourism"
+  ],
+  "brief_description": "The scheme aims to provide financial assistance of \u20b915,000/- to pilgrims from Gujarat undertaking the Sindhu Darshan Yatra in Leh-Ladakh, fostering national unity. Intended beneficiaries include native Gujaratis who complete the yatra and apply within 60 days.",
+  "detailed_description": "Launched in 2017, the scheme &quot;Sindhu Darshan Scheme&quot; by the Tourism Department, Government of Gujarat, aims to provide financial assistance to pilgrims from Gujarat undertaking the Sindhu Darshan Yatra in Leh-Ladakh, promoting cultural unity. The scheme provides a one-time financial assistance of \u20b915,000/- to eligible pilgrims and supports a maximum of 300 pilgrims per financial year. To be eligible, the applicant must be a native of Gujarat and must submit proof of completing the yatra within 60 days of its conclusion. The scheme is implemented by the Gujarat Holy Pilgrimage Development Board. The applications are accepted offline via a prescribed form available on the official website.",
+  "benefits": [
+    "Financial Assistance: One-time grant of \u20b915,000/- per pilgrim.",
+    "Beneficiary Cap: Limited to 300 pilgrims per financial year.",
+    "Disbursement Condition: Proof of yatra completion must be submitted within 60 days.",
+    "Validity: Once in a lifetime per pilgrim."
+  ],
+  "eligibility_criteria": "The applicant must be a native of Gujarat. The applicant must have completed the Sindhu Darshan Yatra. The applicant must submit the application within 60 days of completing the yatra. The applicant must not have availed the benefit before under this scheme.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should take a printout of the prescribed format of the application form.",
+        "Step 2: In the application form, fill in all the mandatory fields (details of the authorized travel agent/organizer, details of the pilgrims), and attach copies of all the mandatory documents (self-attested, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to \"Gujarat Holy Pilgrimage Development Board, Old Secretariat, Gandhinagar\" within 60 days of yatra completion.",
+        "*Retain a copy of the submitted application for future reference.",
+        "Verification & Disbursement",
+        "The board processes applications, and financial assistance is credited to the beneficiary's account."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines & Application Form",
+      "url": "https://yatradham.gujarat.gov.in/Documents/SubDeals_2018-8-23_166.pdf"
+    }
+  ],
+  "documents_required": "Proof of Being a Native of Gujarat Aadhaar Card Bank Details (Cancelled Cheque/Passbook Copy) Travel Proof (Bus/Railway/Air Ticket) Identity Card Issued by Sindhu Darshan Yatra Samiti, Delhi Yatra Completion Certificate from Sindhu Darshan Yatra Samiti, Delhi Election Card/Driving License Recent Photograph"
+}

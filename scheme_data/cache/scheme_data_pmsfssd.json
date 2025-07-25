@@ -1,0 +1,74 @@
+{
+  "scheme_id": "67e52e621385890269f2c889",
+  "slug": "pmsfssd",
+  "scheme_name": "Post Matric Scholarship for SC students (Delhi)",
+  "scheme_short_title": "PMSFSSD",
+  "state": "Delhi",
+  "level": "State/ UT",
+  "nodal_department": "Welfare of SC/ST/OBC/Minorities Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Education",
+    "Student",
+    "Scholarship",
+    "Scheduled Caste"
+  ],
+  "brief_description": "The scheme \"Post Matric Scholarship for SC Students\" aims to support SC students financially for post-matriculation studies. Benefits include fee reimbursement and monthly allowances. Intended beneficiaries are SC students with a family income below \u20b92,50,000/- annually.",
+  "detailed_description": "The scheme &quot;Post Matric Scholarship for SC Students&quot; by the Department for the Welfare of SC/ST/OBC, Government of NCT of Delhi, aims to provide financial assistance to SC students pursuing post-matriculation or post-secondary education in recognized institutions within India. The scheme covers maintenance allowance, tuition fees, and additional allowances for specific needs. Two significant benefits include the reimbursement of compulsory non-refundable fees and monthly maintenance allowances ranging from \u20b9230 to \u20b91,200, depending on the course group. Eligibility criteria include an annual family income limit of \u20b92,50,000/- and enrollment in a recognized institution. The scheme is implemented by the Department for the Welfare of SC/ST/OBC, Government of NCT of Delhi.",
+  "benefits": [
+    "Maintenance Allowance (per month)",
+    "Group 1 (e.g., Medicine, Engineering): Hostellers \u20b91,200/-, Day Scholars \u20b9550/-",
+    "Group 2 (e.g., Pharmacy, Nursing): Hostellers \u20b9820/-, Day Scholars \u20b9530/-",
+    "Group 3 (e.g., BA/BSc): Hostellers \u20b9570/, Day Scholars \u20b9300/-",
+    "Group 4 (e.g., ITI, Polytechnic): Hostellers \u20b9380/-, Day Scholars \u20b9230/-",
+    "Other Benefits",
+    "Reimbursement of Compulsory Non-refundable Fees. Study Tour Charges. Thesis Typing/Printing Charges for Research Scholars. Book Allowance for Correspondence Courses. Book Bank Facility for Specified Courses. Additional Allowance for Students With Disabilities.",
+    "Conditions",
+    "Benefits are for the complete duration of the course. Hostel rent is provided as per scheme guidelines."
+  ],
+  "eligibility_criteria": "The applicant should be a Student. The applicant should be from a Scheduled Caste. The annual income of the family of the applicant should not exceed \u20b92,50,000/-. The applicant should be enrolled in a recognized post-matriculation/post-secondary course in India. The applicant should not be availing of any other scholarship for the same course from any other source.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration",
+        "Step 1: Visit the e-District Portal of the Govt. of NCT of Delhi.",
+        "Step 2: On the top right corner of the homepage, click \" Login/Register \", then click \" Register \". You will be taken to the \"Citizen Registration Form\". Carefully read the \"Guidelines for Online Registration\" provided at the bottom of the page.",
+        "Step 3: In the Citizen Registration Form, select \"Aadhaar Card\" as the Document Type, and provide the Aadhaar Number. Fill in the captcha code and click \"Continue\".",
+        "Step 4: On the next page, fill in all the mandatory fields. If required, verify your Email ID and Mobile Number via OTP. Enter the Captcha code and click \"Continue to Register\". You will receive your Login ID and Password on the Mobile Number/Email Address provided during the registration.",
+        "Application",
+        "Step 1: Visit the e-District Portal of the Govt. of NCT of Delhi.",
+        "Step 2: On the top right corner of the homepage, click \" Login/Register \", you will be taken to the \"Citizen Login Form\"",
+        "Step 3: Provide your Login ID and Password, enter the Captcha code and click \"Login\".",
+        "Step 4: Go to the home page and click \"Apply Service\". Navigate to the scheme that you intend to apply for. Click on the name of the scheme. You will be taken to the scheme's online application form.",
+        "Step 5: In the application form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size. Carefully review all the information provided and the documents uploaded. Make any necessary corrections. Acknowledge and agree to the terms and conditions and/or declaration (if any), then click \"Finish\".",
+        "Step 6: An OTP will be received on the registered mobile number. Provide the OTP and click \"Submit\". An acknowledgement of successful submission shall be sent over Email/SMS/Both.",
+        "Track Application Status",
+        "Step 1: Visit the \" Track Your Application \" page.",
+        "Step 2: Fill in all the mandatory fields. Enter the Captcha Code, and click \"Submit\".",
+        "Your current application status will be displayed."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://scstwelfare.delhi.gov.in/sites/default/files/scstwelfare/scheme/pms_sc-201718.pdf"
+    },
+    {
+      "title": "Website",
+      "url": "https://scstwelfare.delhi.gov.in/scstwelfare/services-schemes"
+    }
+  ],
+  "exclusions": "Students availing other scholarships/stipends (e.g., merit scholarships). Students repeating the same stage of education (e.g., B.Com after B.A). Students pursuing two professional courses (exceptions apply post-1980).",
+  "documents_required": "Aadhaar Card Bank Account Details (Aadhaar-seeded) Previous Year Mark Sheet Original Fee Receipts Fee Structure (on institute letterhead with stamp/signature) Income Certificate (issued by SDM, Delhi) Caste Certificate (issued by Govt. of NCT of Delhi) Institution Certificate (confirming no other scholarship availed) Admission/Completion Date Proof Degree/Diploma Certificates (for all prior qualifications) Institute Verification Page (for institutions outside Delhi)"
+}

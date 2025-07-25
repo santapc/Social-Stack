@@ -1,0 +1,50 @@
+{
+  "scheme_id": "67a090c5e924567693c50b30",
+  "slug": "idp-andhra",
+  "scheme_name": "INDIRAMMA Disabled Pension (Rural)",
+  "scheme_short_title": "IDP-ANDHRA",
+  "state": "Andhra Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Panchayat Raj Rural Employment",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Pension"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Disability",
+    "Pension",
+    "Below Poverty Line",
+    "BPL",
+    "Rural",
+    "Village"
+  ],
+  "brief_description": "\"INDIRAMMA Disabled Pension (Rural)\" scheme aims to disburse monthly pensions to the individuals 18 years or above in age and having a disability of 40% or above. To be eligible, they should be from a BPL family, be a resident of the district, and not be covered under any other Pension Scheme.",
+  "detailed_description": "Launched in 2006-07, the scheme &quot;INDIRAMMA Disabled Pension (Rural)&quot; by the Department of Rural Development, Government of Andhra Pradesh, aims to disburse monthly pensions to the individuals 18 years or above in age and having a disability of 40% or above. To be eligible, they should be from a BPL family, be a resident of the district, and not be covered under any other Pension Scheme. The eligible individuals will be identified by their respective Gram Sabhas. The Panchayat Secretary disburses the pension to the eligible individuals on the first date of every month.",
+  "benefits": [
+    "Pension Amount: The scale of benefit under the pension will be notified by the Government of Andhra Pradesh.",
+    "Mode of Disbursement: The Panchayat Secretary disburses the pension to the eligible citizens, in the presence of Sarpanch, Gram Panchayat Members and the Office Bearers of Village Organization.",
+    "Time of Disbursement: The pension is disbursed on the first date of every month."
+  ],
+  "eligibility_criteria": "The applicant should be from a Below Poverty Line (BPL) family. The applicant should be a local resident of the district. The applicant should be from a rural area. The applicant should not be covered under any other Pension Scheme. The applicant should have a disability of 40% or above. The applicant should be 18 years or above in age.\n* The eligible citizens will be identified by their respective Gram Sabhas. The register containing the list of eligible citizens will be shared by the Panchayat Secretary with the Mandal Parishad Development Officer (MPDO).",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "The eligible citizens will be identified by their respective Gram Panchayat during the Gram Sabhas. The Panchayat Secretary maintains a register of eligible persons and sends the Gram Sabha resolution recommending eligible persons to the Mandal Parishad Development Officer (MPDO)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://handlooms.ap.gov.in/documents/old_age_pensions_(Rural)_GO.pdf"
+    }
+  ],
+  "documents_required": "Proof of Age Domicile Certificate Below Poverty Line (BPL) Certificate Proof of Disability"
+}

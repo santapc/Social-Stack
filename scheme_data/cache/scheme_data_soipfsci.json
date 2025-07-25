@@ -1,0 +1,68 @@
+{
+  "scheme_id": "686f5cd54f40152c3a8c29ff",
+  "slug": "soipfsci",
+  "scheme_name": "Intensive Fisheries Development Programme - Subsidy on Insurance Premium for Shrimp Crop Insurance",
+  "scheme_short_title": "IFDPSIPSCI",
+  "state": "Haryana",
+  "level": "State/ UT",
+  "nodal_department": "Fisheries Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment",
+    "Banking,Financial Services and Insurance"
+  ],
+  "sub_categories": [
+    "Fishing and hunting",
+    "Agricultural Inputs- seeds, fertilizer etc.",
+    "Mechanization- solar power, farming systems",
+    "Financial assistance",
+    "Insurance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Subsidy",
+    "Farmer",
+    "Crop Insurance",
+    "Shrimp Crop",
+    "Insurance"
+  ],
+  "brief_description": "The scheme aims to promote sustainable aquaculture by reducing financial risk of shrimp farmers through subsidized insurance coverage.Under this scheme, a 50% subsidy is provided on insurance premium paid by eligible fish farmers for shrimp crop insurance, helping them mitigate potential crop losses",
+  "detailed_description": "The \"Subsidy on Insurance Premium for Shrimp Crop Insurance\" is a scheme component under the Intensive Fisheries Development Programme, implemented by the Fisheries Department, Government of Haryana. The scheme aims to promote sustainable aquaculture by reducing the financial risk of shrimp farmers through subsidized insurance coverage. Under this scheme, a 50% subsidy is provided on the insurance premium paid by eligible fish farmers for shrimp crop insurance, helping them mitigate potential crop losses. <br>",
+  "benefits": [
+    "50% subsidy on the insurance premium paid for shrimp crop insurance."
+  ],
+  "eligibility_criteria": "The applicant should be a permanent resident of Haryana. The applicant should be a farmer and involved in shrimp farming. The applicant should possess a valid Parivar Pehchan Patra (PPP ID). The applicant should be at least 18 years of age.\n",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process on Antyodaya-SARAL Portal:",
+        "Step 1: Visit the Official Portal: Antyodaya-SARAL Portal.  Step 2: For registration, click on \"New User/Register Here\" and fill in all the mandatory details i.e. Name, Email ID, Mobile Number & password. Click on \u2018Submit'. Step 3: Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile. Login to Apply for the Scheme: Step 1: Visit the Official Portal: Antyodaya-SARAL Portal.  Step 2: The \"Sign in here\" option is available on the right side of the screen. Fill in the required credentials and click on the \u2018Login' button. Step 3: In the opened window, click on \"Scheme/Services list\" and a list of schemes will appear on the screen. Step 4: Now, select the scheme and click on \"Apply for Service/Scheme\". Step 5: Fill in all the details in the online application form and click on \"Submit\". Track Your Service Online: Track Application/Appeal: Click here . Track Ticket: Click here . Track Your Service Through SMS: Registered Mobile Number: Type SARAL and send to 9954699899 to track your application. Other Mobile Number: Type SARAL<space><Application ID/Ticket No.> and send to 9954699899 to track your application/ticket. Contact Us: Helpline: 0172-3968400 Email: saral.haryana@gov.in Fees For Service: Government Charges: \u20b90 (No Fee) Service Charges: \u20b910 Atal Seva Kendra Charges: \u20b910"
+      ]
+    },
+    {
+      "mode": "Offline",
+      "steps": [
+        "The eligible applicant may visit the nearest Atal Seva Kendra with all the required documents to apply for the scheme."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=53qw4NEGJqrtC0USZo3ijw%3d%3d"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://harfish.gov.in/technical-financial-assistance"
+    },
+    {
+      "title": "Scheme Details (Page No. 3)",
+      "url": "https://harfish.gov.in/sites/default/files/Scheme%20Brief.pdf?utm_source=chatgpt.com"
+    }
+  ],
+  "exclusions": "The applicant must not be a Government/ Semi-Government employee.\n",
+  "documents_required": "Agreement 1 - Agreement Deed between Fish Farmer and fisheries department Date of Birth Certificate - Birth Certificate/Matriculation Certificate/PAN Card/Voter Card/Driving License Identity Proof \u2013 Ration Card/Aadhar Card/PAN Card/Voter Card Training Certificate \u2013 Fisheries Training from any Government Institute Land Record - Land record from Tehsil(Own Land-Jamabandi, Nakal Akshizra, Farad) or registered lease deed GST Bills/Receipts/Vouchers"
+}

@@ -1,0 +1,73 @@
+{
+  "scheme_id": "646f13599062e559675f89f9",
+  "slug": "sps",
+  "scheme_name": "Savitribai Phule Scholarship For V.J.N.T And S.B.C Girls Students Studying In 8th To 10 Std",
+  "scheme_short_title": "SPS",
+  "state": "Maharashtra",
+  "level": "State",
+  "nodal_department": "Social Justice and Special Assistance Department",
+  "implementing_agency": "Department Of Social Justice & Special Assistance",
+  "categories": [
+    "Social welfare & Empowerment",
+    "Education & Learning",
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Pre-Matric",
+    "SBC",
+    "Scholarship",
+    "Special Backward Classes",
+    "Vimukta Jati And Nomadic Tribes"
+  ],
+  "brief_description": "Savitribai Phule Scholarship is a Scholarship Scheme by the Social Justice and Special Assistance Department, Govt. of Maharashtra, to encourage enrollment and to decrease the dropout ratio of Girls in education.",
+  "detailed_description": "Savitribai Phule Scholarship is a Scholarship Scheme by the Social Justice and Special Assistance Department, Government of Maharashtra. The objective of the scheme is to encourage enrollment and to decrease the dropout ratio of Girls in the education of Maharashtra from Vimukta Jati and Nomadic Tribes (VJNT) and Special Backward Classes (SBC), studying in 8th to 10th standard, the Government has introduced this scheme from the academic year 2003-04.",
+  "benefits": [
+    "The beneficiary is to provide \u20b9100/- per month for 10 months i.e. \u20b91,000/- for 10 months."
+  ],
+  "eligibility_criteria": "Girl Student should belong to V.J.N.T. or S.B.C category. Girl Student should be studying in 8th to 10th Standard. No income limit and there will be no limit of marks.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Visit the official website of https://mahadbt.maharashtra.gov.in .",
+        "Step 2: Click on \" New Applicant Registration \". Register using your Name, Mobile Number, and Email ID. Create a Username and Password. Your Mobile Number and Email ID will be verified via OTP.",
+        "Step 3: Now visit to Login Page and log in using your Username and Password.",
+        "You will be directed to Home Page  . In the left pane, click \"Aadhaar Bank Link\" to link your Aadhaar with your Bank Account.",
+        "Step 4: In the left pane, click \"Profile\". Fill in all the mandatory details and upload the mandatory documents (Personal Details, Address Information, Other Information, Current Course, Past Qualification, and Hostel Details). Click \"Save\".",
+        "Step 5: In the left pane, click \"All Schemes\". A list of schemes will appear. Click on \"Savitribai Phule Scholarship\".",
+        "Step 6: Fill in all the additional information and upload the mandatory documents. Click \"Submit\" to submit your application. A pop-up will appear, displaying your Application ID. Save the Application ID for future reference. Click \"OK\".",
+        "Optional: You can track the status of your application (Under Scrutiny / Approved / Rejected / Fund Disbursed) by clicking on \"My Applied Scheme History\" in the left pane."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidline",
+      "url": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://sjsa.maharashtra.gov.in/sites/default/files/vjntscheme/eng/2-07.pdf"
+    },
+    {
+      "title": "Application Process",
+      "url": "https://mahadbt.maharashtra.gov.in/home/flow"
+    },
+    {
+      "title": "Grievance/Suggestion",
+      "url": "https://mahadbt.maharashtra.gov.in/Grievance/Grievance"
+    },
+    {
+      "title": "User Manual Of The Registration And Application Process",
+      "url": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://mahadbt.maharashtra.gov.in/PDF/Aaple%20Sarkar%20DBT%20Portal%20Help%20file.pdf"
+    },
+    {
+      "title": "FAQs (English)",
+      "url": "https://mahadbt.maharashtra.gov.in/Grievance/Faqdetails"
+    }
+  ],
+  "documents_required": "Aadhaar Number. Proof of Identity. Proof of Age (Birth Certificate). Proof of Address. Domicile Certificate of Maharashtra. Caste Certificate VJNT or SBC Community (duly signed by an authorized Revenue Officer, not below the rank of Tehsildar). Marksheet of the Latest Educational Qualification. Fee Receipt of \u2018Current Course Year'. Bank Account Details. Passport-sized Photograph."
+}

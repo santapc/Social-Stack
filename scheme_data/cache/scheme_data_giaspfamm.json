@@ -1,0 +1,60 @@
+{
+  "scheme_id": "67b1f32350fc00c18b822490",
+  "slug": "giaspfamm",
+  "scheme_name": "Grant-in-Aid Scheme to Provide Financial Assistance to the Mahila Mandals",
+  "scheme_short_title": "GIASPFAMM",
+  "state": "Goa",
+  "level": "State/ UT",
+  "nodal_department": "Commercial Taxes Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Skills & Employment",
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Career information",
+    "Employment services and jobs",
+    "Training and Skill Up-gradation",
+    "Voctional education",
+    "Financial Assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual",
+    "Joint Liability Groups (JLGS)",
+    "Self Help Groups (SHGS)"
+  ],
+  "tags": [
+    "Woman",
+    "Employment",
+    "Training",
+    "Financial Assistance"
+  ],
+  "brief_description": "\"Grant-in-Aid Scheme to Provide Financial Assistance to the Mahila Mandals\" aims to provide financial assistance to Mahila Mandals for training and self-employment activities. The scheme benefits registered Mahila Mandals in Goa, encouraging women's socio-economic development.",
+  "detailed_description": "Launched in 2009, the scheme &quot;Grant-in-Aid Scheme to Provide Financial Assistance to the Mahila Mandals&quot; by the Directorate of Women &amp; Child Development, Government of Goa, aims to provide financial assistance to Mahila Mandals for training and orientation programs to generate self-employment opportunities for women. The scheme encourages socio-educational activities and strengthens the functioning of Mahila Mandals. Eligible Mahila Mandals must be registered and operational for at least two years within the state of Goa. The scheme is implemented by the Child Development Project Officer (CDPO) of the respective block, who ensures effective implementation and monitoring of the program.",
+  "benefits": [
+    "Financial Assistance",
+    "An annual grant of \u20b95,000/- is provided to registered Mahila Mandals for successful functioning in Goa. A financial assistance of \u20b92,000/- is sanctioned per course for the purchase of raw materials to conduct self-employment activities. Resource persons may be provided by the Directorate for each course of activity through CDPOs.",
+    "Conditions",
+    "Financial assistance is sanctioned on a first-come, first-served basis, subject to government decision. Each Mahila Mandal can opt for only one training program at a time. Training duration should not be less than 4 hours per day for a course lasting 5 to 15 days. Regular attendance of participants must be maintained."
+  ],
+  "eligibility_criteria": "The Mahila Mandal must have valid registration with the competent authority. The Mahila Mandal must have been operating successfully within the state of Goa for the last 2 years. Each group must submit a project report specifying the activities/training and a list of prospective beneficiaries with educational details. There must be a minimum of 20 members for training/orientation.\n*The government may relax any provision of the scheme at its discretion.\n*No additional liability for house rent, electricity bills, or water bills will be borne by the government under the scheme.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "The application should be submitted through the Child Development Project Officer (CDPO) of the concerned block. The Mukhya Sevika at the village level of the respective block will assist the Mahila Mandal in the submission process.",
+        "Post-Application Processes",
+        "Review and Sanction: The CDPO will review the application and forward it to the Directorate of Women & Child Development. Financial assistance will be sanctioned on a first-come, first-served basis, subject to government approval. Conduction of Training Program: Once the financial assistance is sanctioned, the Mahila Mandal can conduct the training program. The date, time, and place of the training program must be fixed and informed to the Directorate of Women & Child Development before commencement. Submission of Utilization Certificate: After the completion of the training program, the Mahila Mandal must submit the utilization certificate within one week. The CDPO will counter-sign the utilization certificate and forward it to the Director.",
+        "Monitoring and Reporting",
+        "The CDPO will submit monthly progress reports to the Directorate. A review of the scheme's implementation will be conducted in the monthly meeting at the Directorate."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Page No. 26)",
+      "url": "https://ditc.goa.gov.in/sites/default/files/Preferential-Purchase-Incentives-for-Micro-and-Small-Enterprises.pdf"
+    }
+  ],
+  "documents_required": "Copy of Registration Certificate. Last Two Years' Statement of Accounts. Project Report Specifying the Activities/training and List of Prospective Beneficiaries. Detailed List of Beneficiaries (Annexure II).\n*Proper recording of bills/vouchers must be maintained by the Mahila Mandal and submitted to the CDPO through the Mukhya Sevika for utilization."
+}

@@ -1,0 +1,63 @@
+{
+  "scheme_id": "68414ba532fd2a73f792e76e",
+  "slug": "pfe",
+  "scheme_name": "Sponsorship for Employment",
+  "scheme_short_title": "SFE",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "State Sainik Board",
+  "implementing_agency": "Uttarakhand Ex-Servicemen Welfare Corporation Limited",
+  "dbt_scheme": false,
+  "categories": [
+    "Skills & Employment"
+  ],
+  "sub_categories": [
+    "Career information",
+    "Employment services and jobs"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Employment",
+    "Opportunity",
+    "Dependent",
+    "Ex-serviceman",
+    "Widow"
+  ],
+  "brief_description": "The scheme aims to provide contractual employment opportunities. It supports ex-servicemen, their dependents, and widows by sponsoring them for contractual posts based on qualifications and district-wise vacancies.",
+  "detailed_description": "The scheme &amp;quot;Sponsorship for Employment&amp;quot; is implemented by Uttarakhand Purv Sainik Kalyan Nigam Limited (UPNL). The scheme aims to provide employment opportunities to ex-servicemen, their legal dependents, and widows through outsourcing on contractual posts. Under this scheme, eligible individuals are sponsored for various departmental posts based on demand and qualification criteria. > ***Scheme Implementation*** The scheme is implemented by UPNL, which manages candidate enrollment, departmental sponsorship, and coordination of the selection process with respective government departments.",
+  "benefits": [
+    "Employment Opportunities:",
+    "The candidates are sponsored for contractual posts in various government departments.",
+    "Target Group:",
+    "Ex-servicemen, their legal dependents, and widow.",
+    "Transparent Process:",
+    "Selection is made based on qualifications, district, and priority in enrollment."
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Uttarakhand. The applicant should be an ex-serviceman from the Army, Navy, or Air Force or a legal dependent (widow, child) of an ex-serviceman. The applicant should fulfill the qualifications prescribed for the specific post by the concerned department.\nNote: Based on the demand received by UPNL from the department \u2013 6 (six) enrolled candidates' names are forwarded per 1 (one) vacant post for selection by the concerned department.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Registration Process:",
+        "The eligible candidate must enroll online through the official UPNL website . The application process is based on the candidate's district and qualifications.",
+        "Visit the UPNL website . Click on the \"Vacancies/Tenders\" tab and select \"Enrolment for Job\". Click on \"For the Dependents of Ex-Servicemen\" to open the enrollment form. Complete the enrollment form with accurate details.",
+        "Submit the form online for consideration. Get the enrollment reference number.",
+        "Selection Process:",
+        "Departments share district-wise post vacancies and required qualifications with UPNL. UPNL then shortlists enrolled candidates who meet the qualifications and sends a panel of 6 candidates per vacancy to the concerned department. The concerned department conducts the selection based on its internal rules and notifies UPNL of the selected candidate(s). UPNL further coordinates the employment engagement process for the selected candidates."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Page No. 22)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://www.upnl.co.in/"
+    }
+  ],
+  "documents_required": "Aadhaar Card of the Applicant PPO Copy Discharge Book Family Copy Educational Documents Any Other Document if Required"
+}

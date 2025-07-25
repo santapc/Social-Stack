@@ -1,0 +1,64 @@
+{
+  "scheme_id": "67b72ba250fc00c18b88beab",
+  "slug": "wsbcas",
+  "scheme_name": "Schemes for welfare of School Children belonging to BPL and BC(A) families: Monthly Stipend for BC-A Students",
+  "scheme_short_title": "WSBCAS",
+  "state": "Haryana",
+  "level": "State/ UT",
+  "nodal_department": "School Education Department",
+  "implementing_agency": "Education Department, Haryana",
+  "dbt_scheme": true,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Student",
+    "Backward Classes",
+    "Scholarship",
+    "Stipend"
+  ],
+  "brief_description": "The scheme aims to provide financial assistance to students from Backward Classes (BC-A) families to support their education. Under this scheme, eligible students studying in Classes 1 to 12 in Haryana Government schools receive a monthly stipend.",
+  "detailed_description": "The scheme &amp;quot;Schemes for Welfare of School Children Belonging to BPL and BC(A) Families: Monthly Stipend for BC-A Students&amp;quot; was launched by the Government of Haryana during the financial year 2009-10. It aims to provide financial assistance to students from Backward Class Category (A) (BC-A) families to support their education. Under this scheme, a monthly stipend is provided to students from BC(A) families studying in classes 1 to 12 in Haryana Government schools.",
+  "benefits": [
+    "A. Admissible Monthly Stipend for BC(A) Girl Students:",
+    "Class 1 to 5: \u20b9150/- per month Class 6 to 8: \u20b9200/- per month Class 9 to 12: \u20b9300/- per month Class 11 to 12 (Science Students only) : \u20b9400/- per month",
+    "A. Admissible Monthly Stipend for BC(A) Boy Students:",
+    "Class 1 to 5: \u20b975/- per month Class 6 to 8: \u20b9100/- per month Class 9 to 12: \u20b9150/- per month Class 11 to 12 ( Science Students only ): \u20b9200/- per month",
+    "Mode of Disbursement:",
+    "Direct transfer to students' bank accounts.",
+    "Frequency of Disbursement:",
+    "Monthly basis.",
+    "Expected Time of Disbursement:",
+    "Funds to be transferred at the beginning of each quarter.",
+    "Validity:",
+    "Applicable for the duration of the academic session.",
+    "Attendance criteria: Minimum 50% attendance required for next installment"
+  ],
+  "eligibility_criteria": "The applicant should belong to the Backward Classes category (A). The applicant should be a student from Classes 1 to 12. The applicant should be enrolled in a Haryana Government school. The applicant should maintain at least 50% attendance to continue receiving benefits. The applicant should have an active bank account for stipend transfer.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "The applicant should contact their respective school authorities. For any queries, applicants can contact the school administration or visit the official website of the Education Department, Government of Haryana."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://schooleducationharyana.gov.in/document/scholarship-scheme-schemes-for-welfare-of-school-children-belonging-to-bpl-and-bca-families-dated-02-03-2009/"
+    },
+    {
+      "title": "Guideline",
+      "url": "https://cdnbbsr.s3waas.gov.in/s3cf2226ddd41b1a2d0ae51dab54d32c36/uploads/2021/06/2021060257.pdf"
+    }
+  ],
+  "exclusions": "The applicant who does not maintain 50% attendance will not receive the next instalment. The applicant not studying in a Haryana Government school is ineligible.",
+  "documents_required": "Proof of BC(A) Category (Certificate issued by a competent authority) School Enrollment Certificate Attendance Record (For stipend continuation) Bank Account Details (For Direct Benefit Transfer) Parent/Guardian Identity Proof (For account verification) Any other documents as required"
+}

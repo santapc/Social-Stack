@@ -1,0 +1,80 @@
+{
+  "scheme_id": "67711be60c0f73c674c1946e",
+  "slug": "sjkvy",
+  "scheme_name": "Saksham Jharkhand Kaushal Vikas Yojana",
+  "scheme_short_title": "SJKVY",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Labour, Employment, Training and Skill Department",
+  "categories": [
+    "Skills & Employment"
+  ],
+  "sub_categories": [
+    "Career information",
+    "Employment services and jobs",
+    "Training and Skill Up-gradation",
+    "Placement assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Skill Development",
+    "Training",
+    "Youth",
+    "Job Opportunities"
+  ],
+  "brief_description": "The \"Saksham Jharkhand Kaushal Vikas Yojana\" is an initiative by the Jharkhand government to equip youth aged 18-35 years with quality skills training aligned with the National Skills Qualification Framework (NSQF). The scheme aims to create job opportunities for 70% of successful trainees.",
+  "detailed_description": "The &quot;Saksham Jharkhand Kaushal Vikas Yojana&quot; is a component of the umbrella scheme \"Mukhymantri Sarthi Yojana\" launched by the Department of Labour, Employment, Training and Skill Development, Jharkhand. The scheme aims to create job opportunities for 70% of successful trainees through placement-linked and self-employment training across various sectors. The program operates through 72 training centers and covers trades.",
+  "benefits": [
+    "Payment terms and schedule are guided by the Common Norms notified by the Ministry of Skill Development and Entrepreneurship (MSDE).",
+    "Training Cost per Hour:",
+    "Category I Sectors/Trades: \u20b949/- per hour. Category II Sectors/Trades: \u20b942/- per hour. Category III Sectors/Trades: \u20b935/- per hour.",
+    "Boarding and Lodging Costs: For residential training or trainees who need to travel significant distances X Category Cities: \u20b9375/- per day per trainee. Y Category Cities: \u20b9315/- per day per trainee. Z Category Cities: \u20b9250/- per day per trainee. Rural Areas or Non-Municipal Areas: \u20b9220/- per day per trainee.",
+    "Placement opportunities for 70% of trainees. Training in industry-relevant sectors like Tourism & Hospitality, Telecom, Security, Retail, Plumbing, Logistics, IT/ITES, Electronics, Domestic Worker, Construction, Capital Goods, BFSI, Beauty & Wellness, Automotive, Apparel, and Agriculture, Food Processing, Healthcare, Iron & Steel, Mining  "
+  ],
+  "eligibility_criteria": "The applicant must be a resident of Jharkhand. The applicant's age should be 18-35 years. The applicant must belong to one of the priority groups (SC/ST, women, PwD, transgender).",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Candidate registration by TSP:",
+        "The candidate visits the nearest Training Service Provide Center for registration under the \"Mukhymantri Sarthi Yojana\" umbrella scheme. ",
+        "NOTE: Candidate registration would be Aadhaar-based & hence Aadhaar number at the time of candidate registration would be mandatory."
+      ]
+    },
+    {
+      "mode": "Online",
+      "steps": [
+        "Self-Registration by Candidate:",
+        "Visit the Jharkhand Skill Development Mission official website. Click on \u2018Candidate Registration' under the \u2018Registration' tab.",
+        "Create Profile:",
+        "Provide basic information such as First Name, Last Name, Username, Password, Identity Type (e.g., Aadhaar), Identity Number, Date of Birth, Gender, Mobile Number, and Email. Submit to receive a User ID and Password via SMS and email.",
+        "Login and OTP Validation:",
+        "Log in using the provided Username and Password. Enter the OTP sent to your registered mobile number to activate the User ID.",
+        "Manage Profile:",
+        "After login, access the \u2018Registration' link. Update and save user profile details such as Personal information and optional bank account details.",
+        "Contact and Educational Qualification  Information:",
+        "Enter and save your contact details, including address and communication preferences. Fill in education details if literate, or select preferred languages if illiterate. Save and submit information to the Training Service Provider (TSP).",
+        "Registration ID Generation:",
+        "On final submission, the system generates a unique Registration ID and notifications for successful registration will be sent via SMS and email.",
+        "NOTE: Aadhaar number is mandatory for registration and prevents duplicate entries."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://jsdm.jharkhand.gov.in/jsdm/cms/en/sjkvy/"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://jsdm.jharkhand.gov.in/jsdm/cms/en/"
+    },
+    {
+      "title": "Amendment",
+      "url": "https://jsdm.jharkhand.gov.in/jsdm/cms/wp-content/uploads/2021/04/Common-norms-notification-5th-amendment.pdf"
+    }
+  ],
+  "documents_required": "Aadhaar Card. Educational Certificate. Residential Certificate. Passport-sized Photograph."
+}

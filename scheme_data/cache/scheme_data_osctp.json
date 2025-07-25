@@ -1,0 +1,64 @@
+{
+  "scheme_id": "685582a1261391702fad1059",
+  "slug": "osctp",
+  "scheme_name": "Organization of Sports Competitions and Training Programs",
+  "scheme_short_title": "OSCTP",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "Department of Youth Welfare and Provincial Protection Corps",
+  "dbt_scheme": false,
+  "categories": [
+    "Sports & Culture"
+  ],
+  "sub_categories": [
+    "Sports"
+  ],
+  "target_beneficiaries": [
+    "Sportsperson",
+    "Individual"
+  ],
+  "tags": [
+    "Cash Prizes",
+    "Sportsperson",
+    "Sports Competition",
+    "Training Program",
+    "Free Training",
+    "Sports"
+  ],
+  "brief_description": "Under this scheme, cash prizes and free training are provided to talented players and encourage participation at multiple levels like Gram Panchayat, Development Block, District, and state while providing an opportunity for free training to meritorious players before competing at the state level.",
+  "detailed_description": "The scheme &amp;quot;Organization of Sports Competitions and Training Programs&amp;quot; was launched by the Department of Youth Welfare and Provincial Protection Corps, Government of Uttarakhand. The scheme aims to promote sports and identify grassroots-level talent among youth through structured competitions and training. Under this scheme, cash prizes and free training are provided to talented players and encourage participation at multiple levels like Gram Panchayat, Development Block, District, and state while providing an opportunity for free training to meritorious players before competing at the state level.",
+  "benefits": [
+    "Cash Prizes (based on level and rank):",
+    "Sl. No. | Level | 1 st Rank (Cash Prize \u20b9) | 2 nd Rank (Cash Prize \u20b9) | 3 rd Rank (Cash Prize \u20b9)\n1 | Gram Panchayat | \u20b9300 | \u20b9200 | \u20b9150\n2 | Development Block | \u20b9500 | \u20b9400 | \u20b9300\n3 | District Level | \u20b9800 | \u20b9600 | \u20b9400\n4 | State Level | \u20b91,500 | \u20b91,000 | \u20b9700",
+    "Free Training:",
+    "Players who perform best at the block development levels and district levels are identified and provided free training prior to state-level participation."
+  ],
+  "eligibility_criteria": "The applicant should be a permanent resident of Uttarakhand. The applicant should be a sportsperson. The applicant must secure first, second, or third place at each level to move on to the next. The applicant should fall within one of the three age groups:\nUnder-14, Under-17, or Under-21",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Application Process:",
+        "Step 1: The interested applicant should visit (during office hours) the respective Gram Panchayat, Government school, Youth Welfare Department, and Sports Department and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2: In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attested, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents to the Gram Panchayat, school, Youth Welfare Department, or Sports Department.",
+        "Selection Process:",
+        "Step 1: Selection at each level is based on rank (1st, 2nd, or 3rd) in the previous round:",
+        "Gram Panchayat/Nyay Panchayat \u2192 Development Block",
+        "Development Block \u2192 District",
+        "District \u2192 State",
+        "Step 2: Talented candidates are shortlisted for free training before competing at the state level.",
+        "Note 1: Competitions are held annually between October and December.",
+        "Note 2: Notifications regarding events are published in local newspapers.",
+        "Note 3: Forms are distributed through government schools, the Department of Youth Welfare, and Sports Department."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Page No. 104)",
+      "url": "https://cdnbbsr.s3waas.gov.in/s339e6f67916920d9419b3d92cf1e9a958/uploads/2025/03/202503051772421971.pdf"
+    }
+  ],
+  "documents_required": "Passport-size Photograph Voter ID Copy Birth Certificate Bank Account Details Permanent Residence Certificate Sports Experience Certificate"
+}

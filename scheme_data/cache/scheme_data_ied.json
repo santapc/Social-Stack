@@ -1,0 +1,95 @@
+{
+  "scheme_id": "65c0c01acd96dc5e0743ad7e",
+  "slug": "ied",
+  "scheme_name": "Incentive For Eye Donors",
+  "scheme_short_title": "IED",
+  "state": "Puducherry",
+  "level": "State/ UT",
+  "nodal_department": "Social Welfare Department, Puducherry",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Incentive",
+    "Financial Assistance",
+    "Donation",
+    "Medical"
+  ],
+  "brief_description": "The scheme \"Incentive For Eye Donors\" by the Department of Social Welfare, Government of Puducherry was introduced to create awareness among the public about the eye donation and to pay an amount of incentive to the donors of eye. In this scheme, an amount \u20b9 10,000/- per beneficiary is provided.",
+  "detailed_description": "The scheme \"Incentive For Eye Donors\" by the Department of Social Welfare, Government of Puducherry was introduced to create awareness among the public about the eye donation and to pay an amount of incentive to the donors of eye. In this scheme, an amount \u20b9 10,000/- per beneficiary is provided to the near relatives of the eye donor. The applicant should apply within 90 days after the transplantation.",
+  "benefits": [
+    "\u20b9 10,000/- per beneficiary is provided to the near relatives of the eye donor.",
+    "NOTE: In case of delay in disbursal of benefits, contact the authorities below:",
+    "Puducherry: The Director, Directorate of Social Welfare, Saradhambal Nagar, Ellaipillaichavadhy, Puducherry. Karaikal: The Collector, Karaikal. Mahe/Yanam: The Regional Administrator, Mahe/Yanam."
+  ],
+  "eligibility_criteria": "The applicant should be a Native/Resident of the Union Territory of Puducherry for at least 5 years. The age of the applicant should be 18 years or above. The person who is claiming the incentive for eye donation must be a close relative of eye donor. The applicant should apply within 90 days after the transplantation.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the Office/ Sub-Office of the Department of Social Welfare, and request the hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "OR",
+        "The interested applicant should take print of the prescribed format  of the application form.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents to the authority given below -",
+        "Puducherry: The Deputy Director, Differently Abled Section, Directorate of Social Welfare. Karaikal: The Assistant Director, Social Welfare Department (Sub Office). Mahe / Yanam: The Welfare Officer (i\\c), Social Welfare Department (Sub Office).",
+        "Step 4: Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Visit the Official Website of the e-District Portal of the Government of Puducherry.",
+        "Step 2: At the top right corner of the home page, click \" Login \". In the login screen, click \" Register a New Membership \".",
+        "Step 3: On the Registration Page, fill in all the mandatory fields: Username, Password, Confirm Password, Personal Details (Full Name, First Name, Email Address, Address, Current Address, Gender, Date of Birth, Mobile Number). Agree to the declaration. Fill in the Captcha Code, and click \"Signup\".",
+        "Step 4: Visit the Official Website of the e-District Portal of the Government of Puducherry.",
+        "Step 5: At the top right corner of the home page, click \" Login \". In the login screen, provide your Username and Password, fill in the Captcha Code, and click \"Sign In\".",
+        "Step 6: On the next screen, a list of schemes by the Government of Puducherry will be displayed Department-wise.",
+        "Step 7: Click on the scheme you wish to apply for. You will be taken to its online application form.",
+        "Step 8: In the application form, fill in all the mandatory fields (marked with a red asterisk) and upload all the mandatory documents (self-attest if required).",
+        "Step 9: Tick the declaration stating \"I hereby declare that the above-mentioned details are true and correct as per the best of my Knowledge\". Submit the application and note the application number for tracking your application . The application number will also be received on your Registered Mobile Number / Registered Email ID.",
+        "*Track Your Application  here ",
+        "* Access the User Manual for Online Application  here "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://socwelfare.py.gov.in/incentive-eye-donors"
+    },
+    {
+      "title": "Citizen's Charter",
+      "url": "https://socwelfare.py.gov.in/sites/default/files/citizen-charter.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://socwelfare.py.gov.in/sites/default/files/incentive-eye-donation_0.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://socwelfare.py.gov.in/contact-us"
+    },
+    {
+      "title": "Sub Offices",
+      "url": "https://socwelfare.py.gov.in/sub--office-social-welfare-department"
+    },
+    {
+      "title": "Grievance Redressal",
+      "url": "https://pgportal.gov.in/"
+    },
+    {
+      "title": "Track Your Application",
+      "url": "https://edistrict.py.gov.in/User/TrackApplication.aspx"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Aadhaar Card. Ration Card. Residence-cum-Nativity Certificate, issued by the competent authority. Recent Passport-Size Photograph. Bank Passbook. Certificate on Eye Donation. Death Certificate.\nIn the absence of an Aadhaar Card; the applicant is required to provide his/her Aadhaar Enrolment ID along with ANY ONE of the following documents -\n1. Bank or Post Office Passbook with Photo.\n2. Permanent Account Number (PAN) Card.\n3. Passport.\n4. Ration Card.\n5. Voter Identity Card.\n6. MGNREGA Card.\n7. Kisan Photo Passbook.\n8. Driving license issued by the Licensing Authority under the Motor Vehicles Act, 1988 (59 of 1988).\n9. Certificate of identity having a photo of such person issued by a Gazetted Officer or a Tehsildar on an official letterhead.\n10. Any other document as specified by the Department."
+}

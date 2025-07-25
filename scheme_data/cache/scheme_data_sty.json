@@ -1,0 +1,54 @@
+{
+  "scheme_id": "685b9f1187aa2dcacd08d915",
+  "slug": "sty",
+  "scheme_name": "Shravan Tirthdarshan Yojna",
+  "scheme_short_title": "STY",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Empowerment Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Travel & Tourism",
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Tourism in India",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Pilgrim",
+    "Travel",
+    "Tourism",
+    "Heritage"
+  ],
+  "brief_description": "The scheme aims to facilitate pilgrimage travel for senior citizens of Gujarat by providing financial assistance for travel expenses. It benefits eligible senior citizens through reimbursements or direct arrangements with authorized travel agents.",
+  "detailed_description": "The scheme &quot;Shravan Tirthdarshan Yojna&quot; by the Department of Social Justice and Empowerment, Government of Gujarat, aims to provide financial assistance to senior citizens for pilgrimage travel. The scheme covers travel expenses through authorized agents and ensures comfortable pilgrimage arrangements. To be eligible, the applicant must be a senior citizen of Gujarat and registered under the scheme through an authorized travel agent or organizer. The scheme is implemented by the Government of Gujarat, and applications are accepted offline.",
+  "benefits": [
+    "Financial Assistance for Pilgrimage Travel Expenses",
+    "Upto \u20b95,000/- per person for travel by State Transport (ST) buses. Upto \u20b97,000/- per person for travel by Private Buses.",
+    "*The financial assistance provided is subject to actual travel cost or the above-mentioned amount, whichever is lower.",
+    "*Only group travel is allowed (minimum 20 pilgrims required)."
+  ],
+  "eligibility_criteria": "The applicant must be a senior citizen aged 60 years or above. The applicant must be a permanent resident of Gujarat. The applicant must not have availed of the benefit previously under this scheme. The applicant must be physically fit to undertake the journey. The pilgrimage must be booked through an authorized travel agent/organizer.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should take a printout of the prescribed format of the application form.",
+        "Step 2: In the application form, fill in all the mandatory fields (details of the authorized travel agent/organizer, details of the pilgrims), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to your nearest District Social Welfare Office.",
+        "*Retain a copy of the submitted application for reference."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines & Application Form",
+      "url": "https://yatradham.gujarat.gov.in/Documents/Scheme_2022-8-23_752.pdf"
+    }
+  ],
+  "documents_required": "List of Pilgrims (Name, Address, District, Birth Date, Aadhaar Number). Proof of Authorization (for Travel Agents/Organizers). Bus Type Details (S.T./Private Bus)."
+}

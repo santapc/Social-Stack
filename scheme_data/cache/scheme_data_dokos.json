@@ -1,0 +1,45 @@
+{
+  "scheme_id": "678e4fb1223469f4f1dc05ef",
+  "slug": "dokos",
+  "scheme_name": "Distribution of Kerosene Oil Scheme",
+  "scheme_short_title": "DOKOS",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Food, Public Distribution and Consumer affairs Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Food Security / Public Distribution System"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Kerosene Oil",
+    "Subsidized Rate",
+    "National Food Security Act"
+  ],
+  "brief_description": "The \"Distribution of Kerosene Oil Scheme\" by the Department of Food, Public Distribution and Consumer Affairs, Government of Jharkhand, supports NFSA beneficiaries and others by providing 1 liter of kerosene oil at subsidized rates.",
+  "detailed_description": "The &quot;Distribution of Kerosene Oil Scheme&quot; by the Department of Food, Public Distribution and Consumer Affairs, Government of Jharkhand, aims to support eligible families under the National Food Security Act (NFSA), 2013, Jharkhand State Food Security Scheme, and White Card holders. Through this scheme, beneficiaries receive 1 liter of kerosene oil at subsidized rates with a dealer commission of \u20b90.50 per liter supported by the government.",
+  "benefits": [
+    "Beneficiaries receive 1 liter of kerosene oil at subsidized rates. Dealer commission of \u20b90.50 per liter is covered by the government. Distribution occurs monthly through designated PDS dealers."
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Jharkhand. The applicant must be covered under the c (NFSA), 2013, Jharkhand State Food Security Scheme, or possess a White Card. The applicant must not have access to other subsidized fuel schemes.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Visit the nearest ration shop or designated enrollment center with the required documents. If Aadhaar is not available, apply for Aadhaar enrollment at an authorized center. Submit the Aadhaar number or Aadhaar Enrolment Identification Slip during registration. Verify the eligibility and documents with the designated officer. Collect the Kerosene Oil from the distribution center as per the monthly schedule."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.jharkhand.gov.in/PDepartment/ViewDoc?id=D009DO003SD00625102023010241639"
+    }
+  ],
+  "documents_required": "Aadhaar Card or Aadhaar Enrolment Identification Slip. Bank or Post Office Passbook with Photo. Permanent Account Number (PAN) Card. Passport. Ration Card. Voter Identity Card. MGNREGA Card. Kisan Photo Passbook. Driving License issued under the Motor Vehicles Act, 1988. Certificate of Identity with Photo issued by a Gazetted Officer or Tehsildar."
+}

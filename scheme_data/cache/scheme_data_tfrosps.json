@@ -1,0 +1,63 @@
+{
+  "scheme_id": "67889517d667626b5f0a9a6f",
+  "slug": "tfrosps",
+  "scheme_name": "Tuition Fee Reimbursement of Sainik/Public Schools",
+  "scheme_short_title": "TFROSPS",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Department of De-notified, Nomadic and Semi-nomadic Welfare Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Education",
+    "Student",
+    "Sainik",
+    "Nomadic",
+    "School",
+    "Military"
+  ],
+  "brief_description": "The \"Tuition Fee Reimbursement of Sainik/Public Schools\" scheme by the Department of De-notified, Nomadic, and Semi-Nomadic Welfare, Government of Madhya Pradesh, reimburses tuition fees for eligible students enrolled in Sainik Schools or Institutions.",
+  "detailed_description": "The &quot;Tuition Fee Reimbursement of Sainik/Public Schools&quot; scheme by the Department of De-notified, Nomadic, and Semi-Nomadic Welfare, Government of Madhya Pradesh, reimburses tuition fees for students from De-notified, Nomadic, and Semi-Nomadic communities upon admission to Sainik Schools or Institutions.",
+  "benefits": [
+    "Reimburses Tuition Fees for Students Upon Admission to Sainik Schools or Institutions."
+  ],
+  "eligibility_criteria": "The applicant should be from Denotified, Nomadic, or Semi-Nomadic Community. The applicant should be a Student. The applicant should be enrolled in a Sainik School or institution.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration",
+        "Step 1: Visit the \" Samarth Portal \".",
+        "Step 2: Navigate to the top right corner of the homepage and click \" Registration\". ",
+        "Step 3: On the registration page, provide the mandatory details. (the fields marked with * are mandatory). If required, verify your Mobile Number and/or Email ID via OTP. Finally, click \"Register\".",
+        "Application",
+        "Step 1: Visit the \" Samarth Portal \".  ",
+        "Step 2:  Use the credentials you created during registration to log in.",
+        "Step 3:  Navigate to the online application form of the scheme you intend to apply for.",
+        "Step 4:  In the application form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size.",
+        "Step 5:  Carefully review all the information provided. Make any necessary corrections.",
+        "Step 6:  Acknowledge and agree to the terms and conditions, declaration, and privacy policy (if any).",
+        "Step 7:  Click the \"Submit\" to submit your application."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://samarth.mp.gov.in/Public/Pages/SchemeDetail?ID=1"
+    },
+    {
+      "title": "Registration",
+      "url": "https://samarth.mp.gov.in/Registration/Default.aspx"
+    }
+  ],
+  "documents_required": "Passport-size Photograph Aadhaar Card Domicile Certificate Caste Certificate Samagra ID Bank Account Details Proof of Enrolment into a Sainik School / Institution"
+}

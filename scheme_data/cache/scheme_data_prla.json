@@ -1,0 +1,49 @@
+{
+  "scheme_id": "66ed85f7a2ae583ad3e282ab",
+  "slug": "prla",
+  "scheme_name": "Physical Research Laboratory Award",
+  "scheme_short_title": "PRLA",
+  "level": "Central",
+  "nodal_department": "Department of Space",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Apprenticeships and training",
+    "Education and training grants, fellowship, stipend"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Award",
+    "Scientist",
+    "Cash Prize"
+  ],
+  "brief_description": "The PRL Award, instituted by the late Prof. Devendra Lal, former Director of the Physical Research Laboratory (PRL), is awarded biennially to recognize outstanding Indian scientists for original work in Earth & Planetary systems, including areas like Oceanography, Atmospheric Sciences & Meteorology.",
+  "detailed_description": "The PRL Award, instituted by the late Prof. Devendra Lal, former Director of the Physical Research Laboratory (PRL), is awarded biennially to recognize outstanding Indian scientists for original work in Earth and Planetary systems, including areas like Oceanography, Atmospheric Sciences, and Meteorology. The award consists of a cash prize of \u20b950,000 and a medal. <br> **Discipline Areas:** - Earth and Planetary systems, including areas of oceanography, atmospheric sciences, and meteorology.",
+  "benefits": [
+    "Cash Prize of \u20b950,000/- and Medal"
+  ],
+  "eligibility_criteria": "The applicant should be an Indian citizen. The applicant should be a scientist. The applicant's age below 45 years as of 1st January 2021 (born on or after 02.01.1976) The applicant's contribution to Earth and Planetary Systems, Oceanography, Atmospheric Sciences, or Meteorology.\n",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step-01: The applicant visits the PRL website and navigate to the \"Opportunities\" section.",
+        "Step-02: Click on \"Awards Administered By PRL\" and select scheme \"PRL Award\"",
+        "Step-03: The candidate downloads the prescribed format of the application form .",
+        "Step-04: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-05: Nominations should be submitted via email to the Director: DIRECTOR@PRL.RES.IN with the subject line \"Nomination for The PRL Award\"."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.prl.res.in/prl-eng/prl_award"
+    }
+  ],
+  "documents_required": "Significant Contributions Summary: 2-page document. Impact of Contributions: A detailed impact statement. Specific Contributions Justification: Explaining why the nominee deserves the award. Complete List of Publications. Ten Best Publications: Separate list with a focus on the last five years. Five Key Publications (e-file format)."
+}

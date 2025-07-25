@@ -1,0 +1,67 @@
+{
+  "scheme_id": "67c7d804146882adb560a618",
+  "slug": "tafce",
+  "scheme_name": "Training Assistance for Competitive Examinations",
+  "scheme_short_title": "TAFCE",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Empowerment Department",
+  "implementing_agency": "Gujarat Unreserved Education And Economical Development Corporation",
+  "dbt_scheme": true,
+  "categories": [
+    "Education & Learning",
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Apprenticeships and training",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Training",
+    "Competitive Examination",
+    "Student"
+  ],
+  "brief_description": "The \"Training Assistance for Competitive Examinations\" scheme provides financial assistance to non-reserved category students who are undergoing training in recognized institutions for competitive recruitment examinations.",
+  "detailed_description": "The &amp;quot;Training Assistance for Competitive Examinations&amp;quot; scheme introduced by the Social Justice and Empowerment Department, Gujarat, aims to support students from the non-reserved category in preparing for competitive exams such as UPSC, GPSC (Class 1, 2, and 3), Subordinate Services Selection Board, Panchayat Services Selection Board, and recruitment exams for Railways, Banks, and other government institutions. The scheme is being implemented by the Gujarat Unreserved Education and Economical Development Corporation.",
+  "benefits": [
+    "Financial Assistance: \u20b920,000/- per student or the actual fee payable, whichever is less."
+  ],
+  "eligibility_criteria": "The applicant must belong to the non-reserved category. The applicant must have secured 60% or more marks in the 12th standard. The applicant must be undergoing training in a recognized/selected coaching institution for recruitment examinations conducted in UPSC, GPSC Class-1, Class-2 and Class-3, Subordinate Services Selection Board, Panchayat Services Selection Board and Government of India Railways, Banks etc. The annual family income of the applicant must not exceed \u20b94,50,000/-.\n",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process:",
+        "Step 1: Go to the Corporation's official website and navigate to the \"Gujarat Unreserved Education and Economical Development Corporation\" section under the Corporation menu.",
+        "Step 2: Click on \"Training Assistance for Competitive Examinations\" and then Apply Now.",
+        "Step 3: Click on \"New User? Please Register Here\".",
+        "Step 4: Enter the required details and click Register.",
+        "Application Process:",
+        "Step 1: Enter your User ID, Password, and Captcha Code, then click \"Login\".",
+        "Step 2: Read the scheme details carefully and click OK.",
+        "Step 3: If your permanent address is correct, confirm it. Otherwise, enter your correct address.",
+        "Step 4: Click Save & Next to proceed. Upload the relevant documents.",
+        "Step 5: If you need to make changes, click \"No, Cancel\". If all details are correct, click \"Yes, Submit\".",
+        "Step 6: Click Save Application. Note down your Application Number for future reference. You can also take a printout by clicking Print Application.",
+        "Check Application Status:  Click here .",
+        "Post Online Application Procedure:  After submitting the online application, the applicant must take a printout of the application, sign it, and submit it along with all uploaded documents (certificates, mark sheets, etc.) to the concerned Deputy Director (Non-Reserved Category) or the District Social Welfare Officer through courier, post, or by visiting in person.",
+        "Contact Us:  Click here ."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://gueedc.gujarat.gov.in/Training-Scheme-for-Competetive-Exams.html"
+    },
+    {
+      "title": "User Manual",
+      "url": "https://esamajkalyan.gujarat.gov.in/ApplicationDocuments/GUEEDC/HowtoApplyGUEEDC.pdf"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Application form in the prescribed format Copy of Aadhaar Card Proof of residence Non-reserved income certificate Income certificate Bank statement Copy of bank passbook Letter of admission to school or college (Bona fide certificate) Admission letter Proof of fee of the institution Copy of L.C. Mark sheet of 10th/12th"
+}

@@ -1,0 +1,72 @@
+{
+  "scheme_id": "67b21ed850fc00c18b826305",
+  "slug": "itsys",
+  "scheme_name": "IT Saksham Yuva Scheme",
+  "scheme_short_title": "ITSYS",
+  "state": "Haryana",
+  "level": "State/ UT",
+  "nodal_department": "Citizen Resources Information Department (CRID)",
+  "implementing_agency": "Citizen Resources Information Department (CRID)",
+  "dbt_scheme": false,
+  "categories": [
+    "Science, IT & Communications",
+    "Skills & Employment"
+  ],
+  "sub_categories": [
+    "Employment services and jobs",
+    "Entrepreneurship development",
+    "Training and Skill Up-gradation"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Employment Opportunity",
+    "IT Skills",
+    "Enterpreneurs",
+    "Startup",
+    "Unemployment Allowance",
+    "Saksham",
+    "Yuva"
+  ],
+  "brief_description": "The Haryana Government is to provide employment opportunities to youths (graduate/post-graduate applicants) from engineering and IT backgrounds who shall undertake the Haryana IT Program (specially designed short-term courses) for the duration of a minimum of 3 months offered.",
+  "detailed_description": "The scheme &amp;quot;IT Saksham Yuva Scheme&amp;quot; was launched by the Citizen Resources Information Department, Government of Haryana to provide employment opportunities to youths (graduate/post-graduate applicants) from engineering and IT backgrounds who shall undertake the Haryana IT Program (specially designed short-term courses) for the duration of minimum 3 months offered by Haryana State Electronics Development Corporation Limited (HARTRON), Haryana Knowledge Corporation Limited (HKCL), Shri Vishwakarma Skill University (SVSU), or any other agency notified by Government from time to time. Under this scheme, skilled and eligible youths shall be given employment opportunities in various Departments/ Boards/ Corporations/Registered Societies/ Agencies, etc. under the Haryana Government or private entities. The first phase of the scheme shall provide employment opportunities to 5,000 youths in the State by training them through specially designed IT courses such as: 1. Secure coding in Java, DotNet, PHP, etc. 1. DBA in SQL, Postgre SQL, etc. 1. UI/ UX design, web design 1. Networking \u2013 Network support, LAN/ WAN 1. Server Administration Microsoft/ Linux 1. Web and mobile application development 1. Digital Marketing &amp; social media handling 1. Any other course, in the field of Emerging Technologies, can be added as per need. This scheme is envisioned to provide the youth of Haryana a much-needed career-readiness for the digital world of work, and imbibement of desired skills necessary to enter effectively into the 21st Century workplaces in various digital domains. The Citizen Resources Information Department (CRID) will facilitate providing employment opportunities to these trained IT Saksham Yuva and the eligible applicant will be employed for up to 2 years. Based on the order of merit &amp;amp; role preference, the applicant would be employed in the Indenting Government / private entities on a first-come-first-serve basis. **Objectives:** - The objective of the scheme is to position Haryana as a leading IT powerhouse by leveraging its human capital potential, fostering innovation, creating a conducive ecosystem for technology-driven growth, and strengthening e-governance in the State. - The scheme aims to provide employment opportunities to the eligible youths of Haryana by training them under the IT program intended to upgrade their skills. This is further expected to enable the youth to develop their skill which in turn will give them the needed experience thereby enabling them to take up better employment or self-employments in the IT sector.",
+  "benefits": [
+    "Employment opportunities for unemployed youths. Provides digital literacy and IT-related skills to improve employability. Eligible candidates may receive an unemployment allowance. Entrepreneurial/Startup support after successful completion of employment tenure of one year. The eligible candidates who cleared/passed the exam will be given remuneration/allowance of \u20b9 20,000/- pm (for first 6 months) / \u20b9 25,000/- (7th month onwards).",
+    "Note:- However, if the candidate has cleared/ passed the assessment test and is awaiting deployment, the unemployment allowances of \u20b9 10,000/- pm will be paid by the CRID."
+  ],
+  "eligibility_criteria": "Applicant should be a domicile of Haryana having a valid Parivar Pehchan Patra ID. Applicant's age should be between 18 to 35 years. Applicants should not be in any kind of employment e.g., public/government/private sector/ quasi-government or self-employment at the time of applying for the scheme. Applicants should be graduate or post-graduate (B. Tech./ BCA/ BSc. IT) / (M.E./M. Tech./MCA/MSc IT/MBA IT) from recognized institutes/ colleges/ universities. The candidates will be eligible for unemployment allowance only if the annual family income of the candidate does not exceed rupees three lakhs (\u20b9 3 lakhs) from all sources. The unemployment allowance will only be commenced post 1 month from the Date of issuance of the passing certificate for the assessment test of the course completed.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Check eligibility criteria before applying for the scheme.",
+        "Step 2: Visit the official website of the IT Saksham Yuva scheme .",
+        "Step 3: Click on \u2018Candidate Corner' and register under the \u2018Register Here' tab.",
+        "Step 4: Enter your Family ID Details and enter OTP.",
+        "Step 5: Enter Basic Details, Education Details, IT Course Selection Details and upload the photograph.",
+        "Step 6: Submit Fee Payment."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://infotechsakshamyuva.haryana.gov.in/"
+    },
+    {
+      "title": "Guideline",
+      "url": "https://infotechsakshamyuva.haryana.gov.in/Docs/ITSYS_Scheme.pdf"
+    },
+    {
+      "title": "Candidate Registration",
+      "url": "https://infotechsakshamyuva.haryana.gov.in/CandidateRegistration1.aspx"
+    },
+    {
+      "title": "Candidate Login",
+      "url": "https://infotechsakshamyuva.haryana.gov.in/CandidateLogin.aspx"
+    }
+  ],
+  "exclusions": "Applicants in any employment government/private are not allowed to apply to the scheme. Once the eligible applicant crosses the age limit (35 years), as prescribed for employment under all the categories, the remuneration/allowance shall be immediately discontinued.",
+  "documents_required": "Identity proof Parivar Pehchan Patra (PPP ID) Domicile Certificate Educational Certificates Passport Sized Photograph Income certificate Proof of age Any other documents as required"
+}

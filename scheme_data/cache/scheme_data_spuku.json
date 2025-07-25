@@ -1,0 +1,60 @@
+{
+  "scheme_id": "6847d041685e1122f1584404",
+  "slug": "spuku",
+  "scheme_name": "Sugamya Pustakalaya",
+  "scheme_short_title": "SPUKU",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "Department Of Social Welfare",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Citizen empowerment",
+    "Education and training grants, fellowship, stipend"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Learning",
+    "Digital Library",
+    "Audiobook",
+    "Braille Books"
+  ],
+  "brief_description": "The scheme \"Sugamya Pustakalaya\" is a unique resource providing reading material in accessible formats (Braille, audio, large print, digital, e-books) to visually impaired and print-disabled individuals across India, offering both free individual membership and paid institutional membership.",
+  "detailed_description": "The scheme &amp;quot;Sugamya Pustakalaya&amp;quot; implemented by the National Institute for the Empowerment of Persons with Visual Disabilities (NIEPVD), Dehradun, aims to make educational, literary, and informative content accessible to persons with visual and print disabilities across the country. Through this scheme, a wide range of content, including braille books, audiobooks, e-books, and accessible digital materials, is provided through an online library platform. The scheme is implemented by the National Institute for Empowerment of Persons with Visual Disabilities (NIEPVD) in collaboration with DAISY Forum of India and other content partners.",
+  "benefits": [
+    "Wide Range of Accessible Formats: Access to over 5,000 titles, including braille books, audiobooks, e-books, and accessible formats in multiple Indian languages, to cater to different needs of visually impaired and print-disabled individuals. Free Membership: Individual membership is free for persons with visual or print disabilities. Institutional Collaboration: Institutional membership for organizations is available at an annual fee of \u20b92,000/- or for 3 years at \u20b95,000/-."
+  ],
+  "eligibility_criteria": "For Individual Membership: The applicant should be a person with visual impairment or print disability. The applicant should possess a valid disability certificate. For Institutional Membership: The applicant should be a recognized organization or institution working for or with persons with disabilities.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Individual (End User) Registration: Step 1: Visit the offiicial portal of Sugamya Pustakalaya . Step 2: Click \"Register as End User\". Step 3: Provide the required information. Make sure all the information you submit here is correct and complete. Choose the library to which you want to send your membership application. Step 4: Your membership request will be sent to the DFI member organization you selected. Step 5: You will be intimated by email/SMS when your membership request is approved by the DFI member library. You will then be able to log in, search and download books.  Registration Process for Organization, Library, School, and University: Step 1: First, such organizations need to become a member of DAISY Forum of India. For more information see: www.daisyindia.org . Step 2: Then visit the official portal of Sugamya Pustakalaya . Step 3: Click Register now. Click Register as Library. Step 4: Provide the required information. Make sure all the information you submit here is correct and complete since it will be visible to the public. In particular provide a good description of your organization in not more than 300 words. Step 5: Provide the logo of your organization in a jpg file of less than 1 MB size. Step 6: You will need to provide contact details of the key person (in-charge of library) in the next step. Step 7: On completion of the registration process, you will receive an email with login id and temporary password. Step 8: Your membership request will be sent to DFI who will approve it. You will get intimation by email when your membership is approved. Step 9: After this you should login to the website. You will be prompted to change password. Step 10: Your account will be designated the Super admin status. You will be able to create other roles for your library.  Contact On: Sugamya Pustakalaya C/O: The DAISY Forum of India 486 Double Storey, New Rajinder Nagar New Delhi - 110 060, India Phone: 1800 300 20469 (Toll free) or +91-11-42411015 Email : info@daisyindia.org"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Page No. 104)",
+      "url": "https://uk.gov.in/department92/library_file/file-25-02-2025-06-08-25.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://sugamyapustakalaya.org.in/welcomeLink.action"
+    },
+    {
+      "title": "Guidelines 2",
+      "url": "https://niepvd.nic.in/sugamya-pustakalaya/"
+    },
+    {
+      "title": "User Manual",
+      "url": "https://sugamyapustakalaya.org.in/gettingStartedLink.action"
+    }
+  ],
+  "documents_required": "For Individual Membership: Proof of visual disability or print disability (e.g., Disability Certificate, Doctor's Certificate). Unique Disability ID (UDID) Card. Aadhaar card. For Institutional Membership:\nApplication for library membership on institutional letterhead by the competent authority. Certificate of the institution under the Registered Societies Act."
+}

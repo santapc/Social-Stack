@@ -1,0 +1,48 @@
+{
+  "scheme_id": "67d02a2db36d179ff8024694",
+  "slug": "bpsyc",
+  "scheme_name": "Bunkar Parivar Sahayata Yojana",
+  "scheme_short_title": "BPSYC",
+  "state": "Chhattisgarh",
+  "level": "State/ UT",
+  "nodal_department": "Commerce & Industries Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Family"
+  ],
+  "tags": [
+    "Weaver",
+    "Family",
+    "Financial Assistance",
+    "Handloom",
+    "Death"
+  ],
+  "brief_description": "\"Bunkar Parivar Sahayata Yojana\" aims to provide immediate financial assistance to families of weavers in case of sudden death. The scheme benefits the families of working weavers who are members of primary weaver cooperative societies by providing financial support of \u20b920,000/-.",
+  "detailed_description": "Launched in 2013-14, the scheme &quot;Bunkar Parivar Sahayata Yojana&quot; by the Chhattisgarh State Handloom Development and Marketing Cooperative Union Limited, Raipur aims to provide financial security to families of weavers working in primary weaver cooperative societies. The scheme provides immediate financial assistance to family members of weavers in case of their untimely death. Eligible beneficiaries include working weaver members of primary weaver cooperative societies affiliated with the State Handloom Union. The scheme is implemented by the Chhattisgarh State Handloom Development and Marketing Cooperative Union Limited, Raipur.",
+  "benefits": [
+    "Financial assistance of \u20b920,000/- is provided to the heir of the working weaver in case of death. The assistance is meant to address the immediate financial crisis faced by family members of weavers upon their untimely death."
+  ],
+  "eligibility_criteria": "The scheme applies to the families of working weaver members of primary weaver cooperative societies affiliated with the Chhattisgarh State Handloom Union, Raipur.\n*Weaver family refers to husband, wife, and their children.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: Upon the death of the weaver, the nominated heir (wife/son/daughter) in the weaver's family can apply through their weaver cooperative society.",
+        "Step 2: The primary weaver cooperative society will forward the proposal for financial assistance to the Chhattisgarh State Handloom Union through the District Handloom Office along with all required documents."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.cgapexhandloom.org.in/portal/%E0%A4%AC%E0%A5%81%E0%A4%A8%E0%A4%95%E0%A4%B0-%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0-%E0%A4%B8%E0%A4%B9%E0%A4%BE%E0%A4%AF%E0%A4%A4%E0%A4%BE-%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE"
+    }
+  ],
+  "documents_required": "Death Certificate of the Weaver Photocopy of Membership Register Confirming Society Membership Certificate of Being a Working Weaver in the Society (Photocopy of Wage Payment Register) Bank Passbook Photocopy of Valid Heir to Whom Assistance Amount is to be Provided Photocopy of Ration Card as Proof of Being a Family Member Society's Proposal Resolution Recommendation Certificate from Concerned Assistant/Deputy Director of Handloom"
+}

@@ -1,0 +1,71 @@
+{
+  "scheme_id": "67597c8aa28213a0f4194b94",
+  "slug": "ddukk-msc",
+  "scheme_name": "Deen Dayal Upadhyay Kaushal Kendra (DDUKK)- Mega Skill Centre",
+  "scheme_short_title": "DDUKK-MSC",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Labour, Employment, Training and Skill Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Skills & Employment"
+  ],
+  "sub_categories": [
+    "Career information",
+    "Employment services and jobs",
+    "Training and Skill Up-gradation"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Training",
+    "Skill Development",
+    "Youth"
+  ],
+  "brief_description": "The \"Deen Dayal Upadhyay Kaushal Kendra (DDUKK)- Mega Skill Centre\" is a component of the umbrella scheme \"Mukhymantri Sarthi Yojna\" launched by the Department of Labour, Employment, Training and Skill Development, Government of Jharkhand.",
+  "detailed_description": "The \"Deen Dayal Upadhyay Kaushal Kendra (DDUKK)\u2014Mega Skill Centre\" is a component of the umbrella scheme \"Mukhymantri Sarthi Yojna\" launched by the Department of Labour, Employment, Training and Skill Development, Jharkhand. The scheme, operational since October 2017, focuses on longer-duration courses with on-job training (OJT) for youth. It aims to train 60,000 candidates in various sectors during 2023-24. <br> **Course Duration** The training under this scheme is a minimum of 576 hours of which 160 hours are dedicated to IT and Soft Skills <br>",
+  "benefits": [
+    "Comprehensive Training: Combines technical skills with soft skills and IT training. Residential Facility: Training is fully residential, ensuring a focused learning environment. On Job Training (OJT): Hands-on industry exposure for candidates to become job-ready. Multi-sector Opportunities: Tourism & Hospitality, Telecom, Security, Retail, Plumbing, Logistics, IT/ITES, Electronics, Domestic Worker, Construction, Capital Goods, BFSI, Beauty & Wellness, Automotive, Apparel, and Agriculture, Food Processing, Healthcare, Iron & Steel, Mining"
+  ],
+  "eligibility_criteria": "The applicant must be a resident of Jharkhand. The applicant's age should be 18-35 years. The applicant must belong to one of the priority groups (SC/ST, women, PwD, transgender).",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Candidate registration by TSP:",
+        "The candidate visits the nearest Training Service Provide Center for registration under the umbrella scheme \"Mukhymantri Sarthi Yojna\". ",
+        "NOTE: Candidate registration would be Aadhaar-based & hence Aadhaar number at the time of candidate registration would be mandatory."
+      ]
+    },
+    {
+      "mode": "Online",
+      "steps": [
+        "Self-Registration by Candidate:",
+        "Visit the Jharkhand Skill Development Mission official website. Click on \u2018Candidate Registration' under the \u2018Registration' tab.",
+        "Create Profile:",
+        "Provide basic information such as First Name, Last Name, Username, Password, Identity Type (e.g., Aadhaar), Identity Number, Date of Birth, Gender, Mobile Number, and Email. Submit to receive a User ID and Password via SMS and email.",
+        "Login and OTP Validation:",
+        "Log in using the provided Username and Password. Enter the OTP sent to your registered mobile number to activate the User ID.",
+        "Manage Profile:",
+        "After login, access the \u2018Registration' link. Update and save user profile details such as Personal information and optional bank account details.",
+        "Contact and Educational Qualification  Information:",
+        "Enter and save your contact details, including address and communication preferences. Fill in education details if literate, or select preferred languages if illiterate. Save and submit information to the Training Service Provider (TSP).",
+        "Registration ID Generation:",
+        "On final submission, the system generates a unique Registration ID and notifications for successful registration will be sent via SMS and email.",
+        "NOTE: Aadhaar number is mandatory for registration and prevents duplicate entries."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://jsdm.jharkhand.gov.in/jsdm/cms/en/mega/"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://jsdm.jharkhand.gov.in/jsdm/cms/en/"
+    }
+  ],
+  "documents_required": "Passport-size photograph. Aadhaar Card. Bank Passbook."
+}

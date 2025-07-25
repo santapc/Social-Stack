@@ -1,0 +1,54 @@
+{
+  "scheme_id": "673f1d1ed8e1de79ec0130ff",
+  "slug": "wbtwssfp",
+  "scheme_name": "West Bengal Transport Workers' Social Security Scheme: Family Pension",
+  "scheme_short_title": "WBTWSSFP",
+  "state": "West Bengal",
+  "level": "State/ UT",
+  "nodal_department": "Labour Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Pension"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Social Security",
+    "Transport Worker",
+    "Monthly Assistance",
+    "Family Pension"
+  ],
+  "brief_description": "Under this scheme, beneficiaries, upon retirement or unfortunate demise, will have 50% of their last drawn amount transferred monthly to their families through a Direct Benefit Transfer (DBT) system.",
+  "detailed_description": "The \"West Bengal Transport Workers' Social Security Scheme: Family Pension\" by the Labour Department, is aimed at ensuring financial support for the families of unorganized transport workers in the state. Beneficiaries, upon retirement or unfortunate demise, will have 50% of their last drawn amount transferred monthly to their families through a Direct Benefit Transfer (DBT) system. &lt;br&gt;",
+  "benefits": [
+    "Monthly Family Pension: 50% of the amount last drawn by the beneficiary. "
+  ],
+  "eligibility_criteria": "The applicant must be between 18 and 60 years of age at the time of enrolment. The applicant must be an unorganized worker employed in the operation of commercial vehicles, such as cars, taxis, luxury taxis, light commercial vehicles, vans, auto-rickshaws, tempos, lorries, trucks, or buses. The applicant's vehicle must be used for commercial purposes and not solely for personal or family use. Note: A nominee/ dependent of a beneficiary shall be entitled for the benefits.\n",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Visit the \" eDistrict 2.0 \" portal. Click on Log In/Sign Up. Step 2: In the User Login window, scroll down to the bottom and click on \"Register\". Step 3: Fill in all the details carefully, enter a username, and click on \"Register\". Step 4: Upon entering the One Time Password received on your mobile, you will be successfully registered. Step 5: Now in the User Login window, enter your Username or email and captcha and click on \"Sign In\". Step 6: Enter the received O.T.P and click on \"Submit\". Step 7: Upon successful Login, You will be redirected to the \"Dashboard\". From the right side menu apply for the concerned scheme. "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guideline-1",
+      "url": "https://wblc.gov.in/sites/default/files/ckfinder/userfiles/images/WBTWSSS_at_a_glance.pdf"
+    },
+    {
+      "title": "Guideline-2",
+      "url": "https://employmentbankwb.gov.in/social_security_scheme.php#ans8"
+    },
+    {
+      "title": "Online Application",
+      "url": "https://edistrict.wb.gov.in/portal/home"
+    }
+  ],
+  "documents_required": "For New Registration: Certification by Prescribed Authority in the Prescribed format, Passport Size Photo (self and for each dependent member). Age Proof Document. Driving License in case of Drivers. EPIC/ AADHAR Card. For the Application of the Welfare Scheme: Details of the Nominee/ Dependent. Proof of identity (Aadhaar card, Voter ID, etc.). Age proof document (Birth certificate, Aadhaar, etc.)."
+}

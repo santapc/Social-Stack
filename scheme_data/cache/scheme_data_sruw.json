@@ -1,0 +1,56 @@
+{
+  "scheme_id": "66efd1c5c5f5e76dc0b9aad1",
+  "slug": "sruw",
+  "scheme_name": "Scheme for Relief to the Un-registered Workers",
+  "scheme_short_title": "SRUW",
+  "state": "Andhra Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Labour Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Person With Disability",
+    "Death",
+    "Construction Worker"
+  ],
+  "brief_description": "The Andhra Pradesh Building and Other Construction Workers Welfare Board launched a welfare scheme \"Scheme for Relief for the Un-registered Workers\" to provide the financial assistance to the dependents of unregistered workers who die in accidents at construction sites.",
+  "detailed_description": "The Andhra Pradesh Building and Other Construction Workers Welfare Board launched a welfare scheme &quot;Scheme for Relief to the Un-registered Workers&quot; to provide \u20b950,000/- to the dependents of unregistered workers who die in accidents at construction sites. Additionally, workers suffering from 50% or above permanent disability are eligible for \u20b920,000/-, while those with below 50% permanent disability receive \u20b910,000/-. This scheme aims to support construction workers and related workers in industries such as brick kilns, stone breaking, and cement production.",
+  "benefits": [
+    "Compensation for Deceased Workers: ",
+    "Financial Assistance of \u20b950,000/- to the dependents of unregistered workers who die in accidents at construction sites or related projects.",
+    "Relief for Permanent Disabilities:",
+    "\u20b920,000/- is provided for cases of permanent disability where the disability is 50% or above. \u20b910,000/- is provided for cases of permanent partial disability where the disability is below 50%."
+  ],
+  "eligibility_criteria": "Eligibility for Accidental Death of Unregistered Worker:\nThe applicant should be dependent on the deceased unregistered worker. The worker must be unregistered with the Andhra Pradesh Building and Other Construction Workers Welfare Board. The worker must have died in an accident at a construction site or related project during the course of employment.\n\nEligibility for Permanent Disability: \nThe worker should have a permanent disability due to accidents at construction sites. The worker should have a disability of 50% or above. \nEligibility for Permanent Partial Disability: \nThe worker should have a permanent partial  disability due to accidents at construction sites. The worker should have a disability of 50% or below.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step-1: The interested applicant should visit (during office hours) the A.P. Building & Other Construction Workers Welfare Board and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step-2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3: Submit the duly filled and signed application form along with the documents to the Assistant Labour Officer/Assistant Commissioner of Labour.",
+        "Step-4: Request a receipt or acknowledgement from the Assistant Labour Officer/Assistant Commissioner of Labour to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://apbocwwb.ap.nic.in/APBOCWW3/G.o_63.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://apbocwwb.ap.nic.in/apbocwwbhome.jsp"
+    }
+  ],
+  "documents_required": "Registration Card under the BOCW. Aadhaar Card of the worker and nominee. Death Certificate. Bank Account Pass Book. FIR Copy. Panchanama Report. Postmortem Report. Disability Certificate ( issued by the Medical Officer of General Hospital / Area Hospital in the District)"
+}

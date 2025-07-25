@@ -1,0 +1,62 @@
+{
+  "scheme_id": "6751c8a1d109737353c745b6",
+  "slug": "aay",
+  "scheme_name": "Abua Awas Yojana",
+  "scheme_short_title": "AAY",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Rural Development Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Housing & Shelter"
+  ],
+  "sub_categories": [
+    "Housing",
+    "Shelter, integrated support and assistance",
+    "Slum Rehabilitation/Redevelopment"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Construction",
+    "Housing",
+    "Rural Development",
+    "Financial Assistance"
+  ],
+  "brief_description": "The Abua Awas Yojana aims to provide pucca houses to 8,00,000 homeless families in three phases. Each house will feature three rooms and a kitchen, covering an area of 31 square meters.",
+  "detailed_description": "The &quot;Abua Awas Yojana&quot; was launched by the Department of Rural Development, Government of Jharkhand. The scheme aims to provide pucca houses to 8,00,000 homeless families in three phases with a budget of \u20b916,320/- crore, prioritizes housing for vulnerable and underprivileged families, providing financial and labor assistance for construction. Each house will feature three rooms and a kitchen, covering an area of 31 square meters.",
+  "benefits": [
+    "Financial assistance of \u20b92,00,000/- per beneficiary for house construction. Provision for 95 days of unskilled labor wages under MGNREGA."
+  ],
+  "eligibility_criteria": "The families living in kutcha houses or without permanent housing. The specially vulnerable tribal groups (PVTG), victims of natural calamities, and released bonded laborers are eligible for this scheme. The family should not be benefited from existing housing schemes like PMAY-R, Indira Awas Yojana, or Birsa Awas Yojana.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the Block or District Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents to the Block or District Office.",
+        "Step 4: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    {
+      "mode": "Online",
+      "steps": [
+        "Self-Registration by Candidate:",
+        "The applicant visit the Abua Awas Yojana official website to register him/herself under the scheme to get the benefit. Log in using the provided Username and Password. Fill the form and upload the required documents on the portal."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cm.jharkhand.gov.in/sites/default/files/Press_Release_3-18-10-2023%28English%29.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://aay.jharkhand.gov.in/"
+    }
+  ],
+  "documents_required": "Aadhaar Card. Bank Passbook. Job Card. Address Proof. Caste Certificate. Any Other Document If Required."
+}

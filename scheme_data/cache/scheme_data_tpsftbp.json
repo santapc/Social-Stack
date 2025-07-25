@@ -1,0 +1,69 @@
+{
+  "scheme_id": "65d0aa27ed4030e118dd3525",
+  "slug": "tpsftbp",
+  "scheme_name": "Allowance for 100% Blind",
+  "scheme_short_title": "AFHB",
+  "state": "Tripura",
+  "level": "State/ UT",
+  "nodal_department": "Directorate Of Social Welfare & Social Education",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance",
+    "Pension"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Blind",
+    "Pension",
+    "Financial Assistance",
+    "Disability",
+    "Allowance"
+  ],
+  "brief_description": "The scheme \"Allowance for 100% Blind\" aims to provide a monthly pension of \u20b92,000/- to the blind persons of Tripura aged 10 years and above having 100% blindness. The application should be submitted to the nearest Child Development Project Officer (CDPO).",
+  "detailed_description": "The scheme \"Allowance for 100% Blind&quot; is a Pension Scheme launched by the Directorate of Social Welfare and Social Education, Government of Tripura. The scheme aims to provide a monthly pension of \u20b92,000/- to the blind persons of Tripura aged 10 years and above having 100% blindness. The application should be submitted to the nearest Child Development Project Officer (CDPO).",
+  "benefits": [
+    "Pension of \u20b92,000/- per month.",
+    "*The existing beneficiaries who are on receipt of benefits under the scheme can continue to do so."
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Tripura. The applicant should be 100% visually handicapped. The applicant's age should be 10 years and above. The annual income of the applicant's family should be up to \u20b9 1,00,000/-.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should take print of the prescribed format of the application form.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: The interested applicant should visit (on a working day, and during office hours) the nearest Child Development Project Officer (CDPO) and submit the duly filled and signed application form and the documents to the CDPO.",
+        "Step 4: On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (2008)",
+      "url": "https://socialwelfare.tripura.gov.in/sites/default/files/Notification%20of%20Scheme%20for%20providing%20pension%20to%20the%20100%25%20Blind_0.pdf"
+    },
+    {
+      "title": "Revised Rate Of Pension",
+      "url": "https://socialwelfare.tripura.gov.in/sites/default/files/Notification%20for%20Revised%20Monthly%20Rate%20of%20Social%20Security%20Pension%20Scheme%20w.e.f.%201st%20Sep.%202022_01.pdf"
+    },
+    {
+      "title": "Citizen's Charter",
+      "url": "https://socialwelfare.tripura.gov.in/sites/default/files/Citizen%20Charter.pdf"
+    },
+    {
+      "title": "List Of CDPOs",
+      "url": "https://socialwelfare.tripura.gov.in/sites/default/files/List-of-Service-Provider-Protection-Officer_0.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://slsa.tripura.gov.in/sites/default/files/SW%20%26%20SE_0.pdf"
+    }
+  ],
+  "exclusions": "No member of the applicant's family should be a government employee.",
+  "documents_required": "Aadhaar Card. Income Certificate, issued by the local DCM/SDM (not applicable for BPL Family). Passport-size Photograph. Bank Passbook. Ration Card. Address Proof. Age Proof. Voter ID. Permanent Resident of Tripura Certificate (PRTC). Medical Certificate"
+}

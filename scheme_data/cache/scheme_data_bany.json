@@ -1,0 +1,54 @@
+{
+  "scheme_id": "67762d355fe21d75995dffcf",
+  "slug": "bany",
+  "scheme_name": "Birsa Awas Nirman Yojana",
+  "scheme_short_title": "BANY",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Department of Scheduled Tribe, Scheduled Caste, Minority and Backward Class Welfare",
+  "dbt_scheme": false,
+  "categories": [
+    "Housing & Shelter"
+  ],
+  "sub_categories": [
+    "Slum Rehabilitation/Redevelopment",
+    "Housing",
+    "Shelter, integrated support and assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Housing",
+    "Rural Development"
+  ],
+  "brief_description": "The \"Birsa Awas Nirman Yojana\" by the Welfare Department, Government of Jharkhand, provides financial assistance in three installments for housing construction to Scheduled Tribes, along with a \u20b9500 incentive for monitoring agencies for timely completion.",
+  "detailed_description": "The &quot;Birsa Awas Nirman Yojana&quot; was launched by the Department of Scheduled Tribe, Scheduled Caste, Minority &amp; Backward Class Welfare, Government of Jharkhand, and aims to provide durable housing for the economically weaker Scheduled Tribes (ST) with a focus on timely construction, monitoring, and quality management. Under this scheme, financial assistance is disbursed in three installments to beneficiaries, with an additional \u20b9500/- incentive per unit provided to Panchayat Volunteers or Self-Help Groups (SHGs) for overseeing construction milestones.",
+  "benefits": [
+    "Financial Support: Beneficiaries receive \u20b91,31,500/- for constructing houses under the scheme:",
+    "First Installment: \u20b940,000/- upon approval of the house. Second Installment: \u20b975,000/- after window sealing. Third Installment: \u20b916,500/- upon completing the house, including painting.",
+    "Incentives for Monitoring: Panchayat Volunteers or SHGs receive \u20b9500 per house in phases:",
+    "\u20b9100/- after plinth completion. \u20b9100/- after lintel level completion. \u20b9100/- after roofing completion. \u20b9200/- after full house completion."
+  ],
+  "eligibility_criteria": "The applicant must belong to the Scheduled Tribe community in Jharkhand. The applicant must fall under the economically weaker section. Only individuals residing in rural areas are eligible.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the Panchayat office or designated Welfare Department office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents to the Panchayat office or designated Welfare Department office.",
+        "Step 4: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cms.myscheme.gov.in/department-of-scheduled-tribe-scheduled-caste-minority-and-backward-class-welfare/schemes/add/scheme-content"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Aadhaar Card. Proof of Residence. Caste Certificate (issued by a competent authority). Bank Passbook."
+}

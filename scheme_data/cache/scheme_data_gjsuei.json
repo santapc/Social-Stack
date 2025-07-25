@@ -1,0 +1,53 @@
+{
+  "scheme_id": "67a46305da50340fc8f0a378",
+  "slug": "gjsuei",
+  "scheme_name": "Grant to Jharkhand State Unaided Educational Institutions",
+  "scheme_short_title": "GJSUEI",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Department of School Education and Literacy",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Universities and higher education",
+    "Resources for schools"
+  ],
+  "target_beneficiaries": [
+    "University / Institution"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Schools",
+    "Colleges",
+    "Madrasas",
+    "Infrastructure"
+  ],
+  "brief_description": "The \"Grant to Jharkhand State Unaided Educational Institutions\" scheme by the Department of School Education and Literacy, Jharkhand Government provides financial assistance to unaided educational institutions for infrastructure and educational development.",
+  "detailed_description": "The &quot;Grant to Jharkhand State Unaided Educational Institutions&quot; scheme by the Directorate of Secondary Education, Department of School Education and Literacy, Jharkhand Government aims to strengthen the infrastructure and ensure the holistic development of approved unaided secondary schools, permanent intermediate colleges, madrasas, and Sanskrit schools. Under this scheme, financial assistance is provided to these institutions for their structural and educational development.",
+  "benefits": [
+    "Infrastructure Development Grants: Financial assistance for classrooms, laboratories, toilets, drinking water, and essential facilities. Educational Resources: Support for procuring teaching and learning materials. Staffing Assistance: Salaries for qualified teaching and non-teaching staff as per norms."
+  ],
+  "eligibility_criteria": "For Secondary Schools:\nThe applicant should be an institution approved by the State Government. The school should be operated by a registered society or trust under the Societies Registration Act, 1860. The managing committee should be duly constituted and approved by Jharkhand Academic Council (JAC). The institution must have a student strength meeting the prescribed norms. The school's examination pass rate should be at least 41%. Utilization certificates for previously received grants must be submitted.\n\nFor Madrasas/Sanskrit Schools:\nThe applicant should be a recognized and registered madrasa or Sanskrit school in Jharkhand. The managing committee should be duly constituted. The institution must meet student strength norms. The pass percentage should not be below 41%.\n\nFor Intermediate Colleges:\nThe applicant should be a permanently approved institution under Jharkhand Academic Council (JAC). The college must be operated by a registered society or trust under the Societies Registration Act, 1860. The institution must comply with JAC and Government rules.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Visit the official website: https://education.jharkhand.gov.in/  Click on the \"Online Services\" tab and register under the Directorate of Secondary Education. Login Credentials: Receive the Login ID and Password via SMS on the registered mobile number. Application Form: Log in to access the grant application form. Form Completion: Fill in the required details and upload the necessary documents. Verification and Submission: Review the form, ensure accuracy, and submit it online. Confirmation: Receive an SMS upon successful submission. "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.jharkhand.gov.in/PDepartment/ViewDoc?id=D025DO005SD001313102020043329358"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://education.jharkhand.gov.in/"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Institutional Registration Certificate (under Societies Registration Act, 1860) Approval Certificate from the State Government or JAC Constitution Document of the Managing Committee Previous Grant Utilization Certificate Student Strength Proof (last three months' attendance) Examination Performance Report (indicating pass percentage) Details of Fund Usage (previous three financial years) Infrastructure Details (availability of classrooms, laboratories, etc.)"
+}

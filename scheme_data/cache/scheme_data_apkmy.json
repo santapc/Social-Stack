@@ -1,0 +1,77 @@
+{
+  "scheme_id": "6831ee5277025b42c32d1c60",
+  "slug": "apkmy",
+  "scheme_name": "Assistance to Pilgrims for Kailash Mansarovar Yatra - Rajasthan",
+  "scheme_short_title": "APKMY",
+  "state": "Rajasthan",
+  "level": "State/ UT",
+  "nodal_department": "Devasthan Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Travel & Tourism"
+  ],
+  "sub_categories": [
+    "Tourism in India"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Tourism",
+    "Pilgrim",
+    "Yatra",
+    "Mansarovar",
+    "Kailash"
+  ],
+  "brief_description": "The objective of this scheme is to provide financial support to residents of Rajasthan who successfully complete the Kailash Mansarovar Yatra organized by the Ministry of External Affairs, Govt. of India. Under this scheme, each pilgrim is granted financial assistance of up to \u20b91,00,000/-.",
+  "detailed_description": "The &quot;Assistance to Pilgrims for Kailash Mansarovar Yatra&quot; scheme was introduced by the Devasthan Department, Government of Rajasthan, on 1st April 2011. The objective of this scheme is to provide financial support to residents of Rajasthan who successfully complete the Kailash Mansarovar Yatra through the Ministry of External Affairs, Government of India. Under this scheme, financial assistance of up to \u20b91,00,000/- is granted to each pilgrim, with a maximum of 100 beneficiaries selected per year.",
+  "benefits": [
+    "Financial Assistance ",
+    "\u20b91,00,000 per selected pilgrim after completing the Yatra.",
+    "Mode of Disbursement",
+    "Direct transfer to the beneficiary's bank account via account payee cheque/demand draft, depending on departmental discretion.",
+    "Note:",
+    "The Yatra must be completed through the Ministry of External Affairs, Government of India. The benefit is available only once in a lifetime. A maximum of 100 beneficiaries per year. Selection via lottery if applications exceed the quota."
+  ],
+  "eligibility_criteria": "The applicant should be a native of Rajasthan. The applicant should have successfully completed the Kailash Mansarovar Yatra through the Ministry of External Affairs, Government of India. The applicant receives this grant only once in a lifetime. Note 1: 100 pilgrims are selected each year. If there are more applicants than available slots, selection is done through a lottery system. Note 2: After completing the trip, a certificate from the Ministry of External Affairs confirming the successful completion of the journey is required.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "The application dates are announced via departmental notification (typically between June to September)",
+        "Step 1 : The applicant applying for the scheme for the first time needs to register using the icon \"Applying for Yatra\" and click on \"New User\" at the Ministry of External Affairs portal by providing accurate and correct information as per their documents. Step 2: After successfully getting registration done, the applicant will get their \"login details\". Step 3: Through \"Email ID and Password,\" the applicant will be able to login into the account using the icon \"Existing User\" at the Ministry of External Affairs portal. Step 4: After successful login to the portal, the welcome page appeared. On clicking the \"Application Form\" icon, the applicant will be directed to the application screen. Step 5: Now, the applicant may fill out the complete application form, and on clicking the \"Final Submit\" button, the application is finally submitted. Step 6 : On successful submission of the application, the applicant will receive an SMS and e-mail after successful submission of the application, which can be used for future reference.",
+        "Note:",
+        "The printed application form with documents must be submitted within 2 months after completing the Yatra.",
+        "Selection & Approval Process",
+        "Step 1: Applications are verified by the Sub-Divisional Officer or Assistant Commissioner of the Devasthan Department.",
+        "Step 2: Documents are matched with the originals, and a verification note is made.",
+        "Step 3: Applications are forwarded to the Assistant Commissioner for approval within 15 days.",
+        "Step 4: Selection through a computerized lottery if applications exceed the annual quota."
+      ]
+    },
+    {
+      "mode": "Offline",
+      "steps": [
+        "Application Process",
+        "Step 1: The interested applicant downloads the application form from the official website. Step 2: In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attested, if required). Step 3: Submit the duly filled and signed application form along with the documents to the Assistant Commissioner, Devasthan Department office. Note:. An application form with documents must be submitted within 2 months after completing the Yatra. Selection & Approval Process Step 1: Applications are verified by the Sub-Divisional Officer or Assistant Commissioner of the Devasthan Department. Step 2: Documents are matched with the originals, and a verification note is made. Step 3: Applications are forwarded to the Assistant Commissioner for approval within 15 days. Step 4: Selection through a computerized lottery if applications exceed the annual quota."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://devasthan.rajasthan.gov.in/Files/Kalish_Mansrovar_Yatra.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://devasthan.rajasthan.gov.in/Kalish_Mansrovar_Yatra.asp"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://devasthan.rajasthan.gov.in/Files/kailash_masrover_form.pdf"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Certified copy of Rajasthan domicile certificate Certified copy of passport with permanent address Certified copy of visa stamps/seals related to the Yatra Certified copy of successful completion certificate from the Ministry of External Affairs Copy of Aadhaar Card / Voter ID / Bhamashah Card Passport-size Photograph"
+}

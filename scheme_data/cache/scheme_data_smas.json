@@ -1,0 +1,57 @@
+{
+  "scheme_id": "66aa00030667d47fde889084",
+  "slug": "smas",
+  "scheme_name": "State Marriage Assistance Scheme",
+  "scheme_short_title": "SMAS",
+  "state": "Ladakh",
+  "level": "State/ UT",
+  "nodal_department": "Social and Tribal Welfare Department",
+  "dbt_scheme": true,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Financial assistance",
+    "Marriage"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Marriage",
+    "Differently-abled Person",
+    "Female"
+  ],
+  "brief_description": "The 'State Marriage Assistance Scheme' offers one-time financial aid to female beneficiaries from families holding AAY or PHH ration cards, with the amount directly credited to their Aadhaar-linked bank accounts. Additionally, divyangjan beneficiaries also receive financial assistance.",
+  "detailed_description": "&quot;The &#39;State Marriage Assistance Scheme,&#39; launched by the Department of Social and Tribal Welfare, UT Ladakh, aims to provide one-time financial assistance of \u20b950,000/- to female beneficiaries from AAY or PHH ration cardholder families. Additionally, Divyangjan beneficiaries receive \u20b91,00,000/-. Applications can be submitted through the District or Tehsil Social Welfare Officer in Leh or Kargil.&quot;",
+  "benefits": [
+    "One-time financial assistance of \u20b950,000/- shall be given to female beneficiaries. Financial assistance of \u20b91,00,000/- has been given to Divyangjan beneficiaries."
+  ],
+  "eligibility_criteria": "The applicant should belong to Antodaya Anna Yojana (AAY) or Priority Household (PHH) ration cardholder families. The bride and bridegroom should be permanent residents of Ladakh The bride should be above 18 years of age. The bridegroom should be above 21 years of age. The marriage should be the first marriage between the bride and the groom. The divyangjan applicants with benchmark disabilities as defined in \"The Rights of Persons with Disabilities Act, 2016 are eligible.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the office of the District Social Welfare and request the hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "OR",
+        "The interested applicant should take print of the prescribed format of the application form.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents to the District Social Welfare Officer/ Tehsil Social Welfare Officer/Social Worker of the Department at Leh/Kargil",
+        "Step 4: Request a receipt or acknowledgment from the District Social Welfare Officer/ Tehsil Social Welfare Officer/Social Worker of the Department at Leh/Kargil to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://ladakh.gov.in/divyangjans-to-get-1lakh-financial-assistance-for-marriage-ladakh-amends-the-state-marriage-assistance-scheme/"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://helphub.ladakh.gov.in/uploads/state-marriage/SMASForm.pdf"
+    }
+  ],
+  "documents_required": "Two Passport-size Photographs \u2013 Both Bride and Bridegroom. Aadhaar Card \u2013 Both Bride and Bridegroom. Birth Certificate \u2013 Both Bride and Bridegroom. AAY/PHH Ration card in which Applicant's or her Father/Husband's (in case of widow) name is mentioned (certificate issued by S.D.M/Tehsildar). Resident Certificate (issued by S.D.M/Tehsildar). Death Certificate of ex-husband in case of widow applicant. Divorce Decree (issued by a court in case of the divorced applicant). Affidavit (she has not been married before for the unmarried female applicant). UDID Card Copy or Certificate of Disability."
+}

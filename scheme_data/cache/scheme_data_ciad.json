@@ -1,0 +1,47 @@
+{
+  "scheme_id": "67ee6539350fb46381a831c2",
+  "slug": "ciad",
+  "scheme_name": "Compensation in Animal Death",
+  "scheme_short_title": "CIAD",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Agriculture, Farmers Welfare and Cooperation Department",
+  "dbt_scheme": true,
+  "categories": [
+    "Agriculture,Rural & Environment",
+    "Banking,Financial Services and Insurance"
+  ],
+  "sub_categories": [
+    "Animal husbandry"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Animal Husbandry",
+    "Animal Insurance",
+    "Death Compensation"
+  ],
+  "brief_description": "The \"Compensation in Animal Death\" scheme introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, provides financial assistance to animal breeders who suffer livestock losses due to natural disasters, diseases, or poisoning.",
+  "detailed_description": "The &amp;quot;Compensation in Animal Death&amp;quot; scheme introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, supports livestock owners whose animals die due to natural disasters such as floods, droughts, earthquakes, or cyclones; diseases like anthrax and bird flu, poisoning, including food poisoning, snake bites, and chemical poisoning. The compensation is provided through Direct Benefit Transfer (DBT) to eligible beneficiaries.",
+  "benefits": [
+    "Details of Animal | Compensation Per Animal | Compensation Limit For One Family\nLarge Dairy animals (Cow/Buffalo/Camel) | \u20b937,500/- | maximum for 3 animals\nSmall Dairy animals (Sheep/Goat) | \u20b94,000/- | maximum for 30 animals\nLarge Non-milch Animals (Horse, Camel, Bullock) | \u20b932,000/- | maximum for 3 animals\nSmall non-milch animals (Calf, Buffalo calf, Heifer, Donkey) | \u20b920,000/- | maximum for 3 animals\nPoultry-Ducks (Adult) | \u20b9100/- | maximum for 100 birds (within a limit of \u20b910,000/-)"
+  ],
+  "eligibility_criteria": "The applicant must be a registered livestock owner or breeder. The animal's death must be due to natural disasters such as floods, droughts, earthquakes, or cyclones; diseases like anthrax and bird flu; poisoning, including food poisoning, snake bites, and chemical poisoning.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Contact the nearest Veterinary Dispensaries and attach the documents as per the instruction of the Veterinary Officer."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=VxDfHxqoZD+rj49hgDNCyg==&domain=12ewfiAgGqKRe600IL5Z/w=="
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Aadhaar Card or other identity proof of the applicant. Bank account details for DBT. Any other documents as specified by the Veterinary Officer."
+}

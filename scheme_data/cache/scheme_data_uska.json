@@ -1,0 +1,52 @@
+{
+  "scheme_id": "68383b8e7e3dd768581896a3",
+  "slug": "uska",
+  "scheme_name": "Uttarakhand Shaheed Kosh Anudan Yojana",
+  "scheme_short_title": "USKAY",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "State Sainik Board",
+  "dbt_scheme": true,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance",
+    "Citizen empowerment"
+  ],
+  "target_beneficiaries": [
+    "Family"
+  ],
+  "tags": [
+    "Grant",
+    "Martyrs",
+    "Dependents",
+    "Sainik",
+    "Widow"
+  ],
+  "brief_description": "The scheme provides a one-time grant of \u20b910,00,000 to widows/dependents of martyred soldiers or paramilitary personnel.",
+  "detailed_description": "The scheme &amp;quot;Uttarakhand Shaheed Kosh Anudan Yojana&amp;quot; was launched by the Department of Sainik Welfare, Government of Uttarakhand. The scheme aims to provide financial assistance to the widows/dependents of martyrs who lost their lives in internal disturbances or border skirmishes, including personnel from the armed forces and paramilitary forces. Under this scheme, a one-time lump sum grant of \u20b910 lakh is provided, based on defined eligibility criteria related to the martyr's family status.",
+  "benefits": [
+    "Lump Sum Amount: \u20b910,00,000 per martyr (one-time)",
+    "Distribution Criteria:",
+    "If the martyr is married, 60% to the widow (Veer Nari) and 40% to the parents If parents are deceased , 100% to the widow If the widow is deceased, 40% to parents, 60% equally to dependent children If both the widow and parents are deceased, 100% equally among the dependent children If the widow and children are absent, 100% to the parents If unmarried or widower, 100% to parents",
+    "Mode of Disbursement: Direct Benefit Transfer (DBT)",
+    "Frequency: One-time"
+  ],
+  "eligibility_criteria": "The applicant should be a widow or dependent (Parents/Children) of a martyr. The martyr should have been a permanent resident of Uttarakhand. The martyr should have been a member of the Indian Armed Forces or Paramilitary Forces. The martyrdom should have occurred during:\na war, a border clash, or an internal security operation.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the District Sainik Kalyan Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications. Step 2: In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attested, if required). Step 3: Submit the duly filled and signed application form along with the documents to the District Sainik Kalyan Office. Step 4: The application is verified at the district level by the Sainik Kalyan authorities. Step 5: Once verified and approved, the sanctioned amount is disbursed via DBT."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Page No. 28)",
+      "url": "https://cdnbbsr.s3waas.gov.in/s339e6f67916920d9419b3d92cf1e9a958/uploads/2025/03/202503051772421971.pdf"
+    }
+  ],
+  "documents_required": "Bank account passbook of the applicant Preliminary report related to the war or incident Part-II Order issued by the Record Office/Director General's Office regarding the war incident Battle Casualty Certificate of the martyr soldier Dependent Certificate issued by the Record Office/Director General's Office confirming relationship with the martyr Discharge Book of the martyr (if applicable) Identity card of the dependent applying for the grant Non-payment Certificate issued by the District Sainik Welfare and Rehabilitation Office, confirming that no ex-gratia has been paid earlier Battle/Operational Casualty Certificate from:\nDirector General of Paramilitary Forces (for paramilitary cases) Director General of Central Armed Police Forces (for CAPF)"
+}

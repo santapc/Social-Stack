@@ -1,0 +1,43 @@
+{
+  "scheme_id": "646f2ea39062e559675fa0e3",
+  "slug": "pms",
+  "scheme_name": "Post Metric Scholarship For OBC Students",
+  "scheme_short_title": "PMS",
+  "state": "Madhya Pradesh",
+  "level": "State",
+  "nodal_department": "School Education Department",
+  "categories": [
+    "Education & Learning"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Higher Education",
+    "Student Finance"
+  ],
+  "brief_description": "This scheme is to provide financial assistance to the Other Backward Classes students studying at the post-matriculation stage to enable students to complete their education.",
+  "detailed_description": "Madhya Pradesh State government started a scholarship for student who belong to the OBC category. Now the students of the state will not be deprived of education due to financial constraints, because the Madhya Pradesh government will provide scholarships to the students. Through the scholarship, the state&amp;#39;s literacy rate will also increase and also will encourage the student to higher education.",
+  "benefits": [
+    "The benefit of the scholarship depends on the annual family income of the students, institution, course, course subscriber, fee capping, etc.",
+    "All students whose annual family income is up to Rs 3,00,000, those students will be eligible for a 100% scholarship."
+  ],
+  "eligibility_criteria": "The applicant must be a permanent resident of Madhya Pradesh. Annual family income is up to Rs 3,00,000/- Have passed Class 10. Belong to the OBC category.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Applicants have to visit the official website.  Applicants need to register himself/herself. Fill out the required details. Now login with credentials and fill out the application form. And submit."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "http://www.scholarshipportal.mp.nic.in/Public/OtherSchemes/GB.aspx?ID=MTM="
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Samagra ID. Current college code. Income certificate of parents. Aadhaar Card. High School Marksheet. Digital Caste Certificate (SC / ST / OBC). Attested photocopies of documents. Resident proof."
+}

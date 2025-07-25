@@ -1,0 +1,51 @@
+{
+  "scheme_id": "683417fa82f6b25712f41094",
+  "slug": "psfau",
+  "scheme_name": "Pension Scheme for Artisans",
+  "scheme_short_title": "PSFAU",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "Department Of The Industrial Development",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Pension",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Pension",
+    "Senior Citizen",
+    "Artisans",
+    "BPL",
+    "Old-age"
+  ],
+  "brief_description": "Under this scheme, an additional monthly incentive of \u20b9400/- is provided to senior artisans aged 60 or above who are already receiving old-age pension and belong to below-poverty-line (BPL) families.",
+  "detailed_description": "The &amp;quot;Pension Scheme for Artisans&amp;quot; was launched by the Department of Industries, Government of Uttarakhand. It aims to provide financial security and dignity to senior traditional artisans aged 60 years and above. Under this scheme, artisans who are already receiving an old-age pension and belong to a family living below the poverty line are granted an additional incentive of \u20b9400/- per month. > **Objective** The scheme supports artisans involved in traditional crafts like stone, wood, iron, bamboo, ringaal, natural fibres, etc., particularly those from below-poverty-line (BPL) families.",
+  "benefits": [
+    "The monthly incentive of \u20b9400 is provided to senior artisans who are already receiving old-age pension.",
+    "Note:",
+    "Payment is made quarterly (every 3 months) via the bank account or post office account of the beneficiary."
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Uttarakhand. The applicant should be an artisan. The applicant should be engaged in traditional profession crafts like stone, wood, iron, bamboo, papermaking, ringaal, natural fibre crafts, etc. The applicant's age should be 60 years or above. The applicant is already receiving an old-age pension from the government. The applicant should belong to a BPL (Below Poverty Line) family. If the artisan's son or grandson is aged 20 years or more and the family still lives below the poverty line, the applicant remains eligible. The applicant should be approved as an artisan under criteria set by the state government from time to time.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Application Process:",
+        "Step 1: The interested applicant should visit (during office hours) the General Manager, District Industries Centre and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications. OR The interested applicant downloads the application form from the official website . Step 2: In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attested, if required). Step 3: Submit the duly filled and signed application form along with the documents to the General Manager, District Industries Centre. Post-application Process: Step 1: A district-level committee, chaired by the General Manager, DIC, reviews and verifies all applications. Step 2: Eligible artisans are selected based on documents and eligibility norms."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cdnbbsr.s3waas.gov.in/s339e6f67916920d9419b3d92cf1e9a958/uploads/2025/03/202503051625218025.pdf"
+    }
+  ],
+  "documents_required": "Aadhaar Card Copy Bank Account Details Old-Age Pension Certificate BPL Certificate Date of Birth Proof (Birth Certificate or Aadhaar) Certified Copy of Family Register Proof of Being a Recognized Artisan (Certificate from authorized body)"
+}

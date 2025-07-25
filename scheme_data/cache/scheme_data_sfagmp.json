@@ -1,0 +1,58 @@
+{
+  "scheme_id": "679a0ac0c4ea5da14d01105a",
+  "slug": "sfagmp",
+  "scheme_name": "Kishori Balika Yojana (Madhya Pradesh)",
+  "scheme_short_title": "KBY-MP",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Women and Child Development Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Women and Child",
+    "Skills & Employment",
+    "Health & Wellness"
+  ],
+  "sub_categories": [
+    "Menstrual Hygiene",
+    "Training and Skill Up-gradation",
+    "Voctional education",
+    "Children\u2019s health and immunization",
+    "Health care providers and access",
+    "Health promotion"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Girl",
+    "Anganwadi",
+    "Development",
+    "Training",
+    "Workshop",
+    "Skill",
+    "Health",
+    "Vocational",
+    "Education"
+  ],
+  "brief_description": "The scheme \"Kishori Balika Yojana\" by the Department of Women and Child Development, Government of Madhya Pradesh aims to provide vocational, health, and hygiene training to adolescent girls. Through this scheme, training and material assistance are provided to the girls.",
+  "detailed_description": "The scheme &quot;Kishori Balika Yojana&quot; by the Department of Women and Child Development, Government of Madhya Pradesh aims to provide vocational, health, and hygiene training to adolescent girls. Through this scheme, girls from each Anganwadi center are selected and trained by master trainers, who in turn provide training at the Gram Panchayat level. The scheme is implemented by Anganwadi Workers and includes Two-day Master Trainer Training Programs provided at monthly intervals.",
+  "benefits": [
+    "Each Anganwadi center selects 2 adolescent girls, 1 Anganwadi worker, and 1 Auxiliary Nurse Midwife (ANM) for a two-day master trainer training at monthly intervals. Master trainers provide vocational, health, and hygiene training at the Gram Panchayat level. A two-day master trainer training program is provided at monthly intervals."
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Madhya Pradesh. The applicant should be a girl. The applicant should be aged between 11 and 18 years. The applicant should be from one of the following categories: General, Other Backward Class (OBC), Scheduled Castes (SC), Scheduled Tribes (ST).",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "The interested applicants should visit the nearest Anganwadi Center for registration, along with the necessary documents."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=252"
+    }
+  ],
+  "documents_required": "Identity Proof (Aadhaar Card, etc) Proof of Age (Birth Certificate, etc) Address Proof"
+}

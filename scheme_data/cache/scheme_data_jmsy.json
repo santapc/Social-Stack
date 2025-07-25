@@ -1,0 +1,72 @@
+{
+  "scheme_id": "679a25fbc4ea5da14d013e20",
+  "slug": "jmsy",
+  "scheme_name": "Jharkhand Mukhyamantri Shramik Yojana",
+  "scheme_short_title": "JMSY",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Urban Development and Housing Department",
+  "implementing_agency": "Directorate Of Urban Administration Under The Jharkhand State Urban Livelihood Mission",
+  "dbt_scheme": false,
+  "categories": [
+    "Skills & Employment"
+  ],
+  "sub_categories": [
+    "Employment services and jobs",
+    "Career information",
+    "Placement assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Employment",
+    "Unskilled Workers",
+    "Urban Areas"
+  ],
+  "brief_description": "The \"Mukhyamantri Shramik Yojana\" scheme by the Urban Development & Housing Department, Government of Jharkhand aims to provide guaranteed employment to unskilled urban workers. It offers up to 100 days of employment in urban development projects.",
+  "detailed_description": "The &quot;Mukhyamantri Shramik Yojana&quot; scheme by the Urban Development &amp; Housing Department, Government of Jharkhand aims to provide guaranteed employment to unskilled workers residing in urban areas. Under this scheme, eligible beneficiaries receive up to 100 days of employment per financial year in various urban development projects.",
+  "benefits": [
+    "Guaranteed wage employment for a maximum of 100 days per financial year. Improvement in living standards of urban poor families. Employment opportunities in urban development projects like housing, sanitation, and road construction. Ensuring social security for urban workers. Contribution to urban cleanliness and green city initiatives.",
+    "Job Card Issuance:",
+    "Job cards can be obtained online, through community resource persons, urban local body offices, or ward-level camps.",
+    "Job card valid for 3 years with provisions for member addition/removal.",
+    "Job Allocation Process:",
+    "Workers can demand work online or through community resource persons. Employment is assigned within 15 working days. Job allocation details are sent via SMS and can be accessed on the portal."
+  ],
+  "eligibility_criteria": "The applicant should be an unskilled worker willing to work in urban areas. The applicant must be a resident of Jharkhand and living in an urban local body (own/rented/slum) since before April 1, 2015. The applicant should be 18 years or older. The disabled person, women in special circumstances, and senior citizens above 65 years are also eligible to apply.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Job Card Apply Process:",
+        "Visit the official website of Mukhyamantri Shramik Yojana: msy.jharkhand.gov.in Click on the \"Application\" link/button. Select \"Apply for Job Card\". Fill out the form with the required information, such as your address, Aadhaar card number, mobile number, etc. If you need to add additional family members, click on the \"Add More\" button and fill in their details. Accept the terms and conditions and complete the captcha verification. Click on the \"Submit\" button. Your job card application number will be generated and displayed.",
+        "Job Card Download Process:",
+        "Visit the official website and click on the \"Download Job Card\" Enter your Job Card Number and Aadhaar Number. Complete the captcha verification. Click the \"Submit\" to download the card.",
+        "After Generated the Job Card Raise a Request for \"Demand Work\":",
+        "Click on the \"Demand Work\" Fill Job Card Number and Aadhaar Card Number. Fill in the Demand Days (specify the number of days for which you are demanding work). Complete the captcha verification. Submit the request. Work allocation details will be sent via SMS to the registered mobile number and will also be available on the scheme's portal."
+      ]
+    },
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the designated Community Resource Person in the respective ward/NULM (National Urban Livelihoods Mission) Cell of the Urban Local Body and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents to the designated Community Resource Person in the respective ward/NULM (National Urban Livelihoods Mission) Cell of the Urban Local Body.",
+        "Step 4: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://msy.jharkhand.gov.in/sop"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://msy.jharkhand.gov.in/"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Aadhaar Card Voter ID Driving License Electricity Bill Bank Passbook Copy Residential Certificate (issued by a competent authority)"
+}

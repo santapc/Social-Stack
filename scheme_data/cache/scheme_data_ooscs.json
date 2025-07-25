@@ -1,0 +1,50 @@
+{
+  "scheme_id": "667d50b2425fce9f47c2876a",
+  "slug": "ooscs",
+  "scheme_name": "Out of School Children scheme under Goa Sarva Shiksha Abhivan",
+  "scheme_short_title": "OOSCS",
+  "state": "Goa",
+  "level": "State/ UT",
+  "nodal_department": "Education Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "NGO"
+  ],
+  "tags": [
+    "Goa",
+    "Dropout",
+    "Student",
+    "Children",
+    "Education",
+    "NGO"
+  ],
+  "brief_description": "The \"Out of School Children\" scheme is designed to ensure that every child in the 6-14 age group receives a complete elementary education. The primary objective is to identify children who are out of school and to reintegrate them into the educational system through specialized training programs.",
+  "detailed_description": "The &quot;Out of School Children&quot; scheme under the Goa Sarva Shiksha Abhiyan (SSA) is designed to ensure that every child in the 6 to 14 age group receives a complete elementary education. The primary objective is to identify children who are out of school, whether they have never enrolled or have dropped out, and to reintegrate them into the educational system through specialized training programs.",
+  "benefits": [
+    "Sanctions are granted to the NGOs for providing special training in the centre as per the norms of Sarva Shiksha Abhiyan (SSA)."
+  ],
+  "eligibility_criteria": "The child should not be enrolled in a school. The child should be in the age group of 6 to 14 years.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: A survey is carried out through NGOs for identification of the OoSC.",
+        "Step 2: The State Project Office of SSA provides approval of the Special Training Centres.",
+        "Step 3: The grant is released to the Special Training Centres after signing the MOU."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://education.goa.gov.in/sites/default/files/2020-11/schemes-gssa.pdf"
+    }
+  ],
+  "documents_required": "Survey report identifying OoSC. Detailed proposal document. NGO registration certificate. Signed MOU. Budget estimate. Approval letter from the State Project Office. Staff details. Previous experience in similar projects (if applicable). Monitoring and evaluation plan. Bank account details for fund disbursement."
+}

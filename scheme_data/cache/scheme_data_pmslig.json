@@ -1,0 +1,74 @@
+{
+  "scheme_id": "679ca315ecdc87934b7dfd67",
+  "slug": "pmslig",
+  "scheme_name": "Scheme of Post Matric Scholarship to Lower Income Group Student for Studies in India",
+  "scheme_short_title": "PMSLIG",
+  "state": "Haryana",
+  "level": "State/ UT",
+  "nodal_department": "Higher Education Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Post Matric",
+    "Scholarship",
+    "Education",
+    "Financial Assistance",
+    "School",
+    "College"
+  ],
+  "brief_description": "The scheme \"Post Matric Scholarship to Lower Income Group Students for Studies in India\" aims to provide financial assistance to students from the Lower Income Groups to enable them to complete their education. Students are provided maintenance allowances, tuition fees, and additional benefits.",
+  "detailed_description": "The scheme &quot;Post Matric Scholarship to Lower Income Group Students for Studies in India&quot; by the Department of Higher Education, Government of Haryana aims to provide financial assistance to students from the Lower Income Groups to enable them to complete their Education. Eligible students pursuing recognized post-matriculation courses in India are provided with maintenance allowances, tuition fees, and additional benefits like study tour charges and thesis printing expenses. The scheme is implemented by the Government of Haryana through recognized educational institutions.",
+  "benefits": [
+    "Maintenance Allowances",
+    "\u20b975/month for hostel residents and \u20b960/month for day scholars pursuing degree courses in engineering, technology, medicine, architecture, and similar disciplines. \u20b965/month for hostel residents and \u20b950/month for day scholars pursuing diploma/certificate courses in engineering, technology, or medicine. \u20b960/month for postgraduate courses in agriculture or community development (\u20b945 for day scholars). \u20b940/month for undergraduate courses like B.Sc., B.Com., or equivalent (\u20b927 for day scholars).",
+    "Tuition and Other Fees",
+    "Coverage of mandatory fees, including tuition, library, games, medical, and examination fees, payable to the institution.",
+    "Study Tour Charges",
+    "Up to \u20b9100 per year for professional courses, covering travel expenses (train, bus, etc.).",
+    "Thesis Printing Charges",
+    "Coverage of expenses for typing or printing the thesis for postgraduate students.",
+    "Mode of Disbursement",
+    "Direct transfer to the beneficiary's bank account or payment through the institution. Students are advised to get the Aadhaar Seeding done in their Bank account before applying for the scholarship.",
+    "Frequency of Disbursement",
+    "Monthly maintenance allowances and reimbursement of other fees on a semester/annual basis.",
+    "Validity",
+    "Scholarships are valid only for the duration of the recognized course in a recognized institution."
+  ],
+  "eligibility_criteria": "The applicant should be a national of India. The applicant should permanently reside in Haryana. The applicant should belong to the lower-income group as defined under the scheme guidelines. The applicant should have passed the matriculation or equivalent examination from a recognized board or university. The applicant should be enrolled in a recognized post-matriculation course, such as:\nNational Fire Service College, Nagpur. Aircraft Maintenance Engineer's Course. Courses at Training Ship Dufferin or Military College, Dehradun. Pre-examination training courses for IAS/IPS, etc.\n*Students in Class XI/XII under continuous school courses are ineligible unless the 10th class is equivalent to matriculation.\n",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration",
+        "Step 1: Visit the Official Website of the \"Centralized Scholarship Portal\" of the Department of Higher Education, Haryana.",
+        "Step 2: In the menu ribbon, click \"Student > Student Registration \".",
+        "Step 3: On the next page, provide your Parivar Pehchan Patra (Family ID) and click \"Search\".",
+        "*Parivar Pehchan Patra (PPP) is mandatory for availing of any Scholarship benefit. Students are advised to ensure their all particulars such as Name, DOB, Aadhar No. etc are fully updated in PPP before applying for any scholarship scheme.",
+        "Step 4: A List of the members of your family will be displayed. Select the checkbox against your name and click \"Generate OTP\". Enter the OTP received on your registered Mobile Number and click on \"Verify OTP\".",
+        "Step 5: After OTP verification, you will be taken to the registration page. In the registration form, all the mandatory fields get auto-filled. You only need to cross-check the information.",
+        "Step 6: Select your Department and College. Create a Password and click \"Register\".",
+        "Application",
+        "Step 1: Visit the Official Website of the \"Centralized Scholarship Portal\" of the Department of Higher Education, Haryana.",
+        "Step 2: In the right corner of the menu ribbon, click \" User Login \". Use the username and password created during your registration to log in.",
+        "Step 3: Navigate to the online form of the scheme you intend to apply for. In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size. Carefully review all the information provided and the documents uploaded. Make any necessary corrections.",
+        "Step 4: Click \"Apply\" to submit your application. You'll receive a confirmation message."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guideline",
+      "url": "https://harchhatravratti.highereduhry.ac.in/Notices/Lower%20Income%20Group%20Scheme.pdf"
+    }
+  ],
+  "exclusions": "The applicant pursuing studies through correspondence courses. The applicant continuing professional studies in a different line after completing education in one professional line (e.g., pursuing LLB after B.Ed.). The applicant holding any other scholarship/stipend of a higher value while availing of this scholarship.",
+  "documents_required": "Aadhaar Card Copy Applicant's Photograph Applicant's Signature Income Certificate Haryana Domicile Certificate Caste certificate 10th Class Certificate 12th Class Certificate Parivar Pehchaan Patra Fee Receipt Last Exam Passed Certificate (Except for 1st Year Students), BPL Certificate (if applicable) Father's Death Certificate (if applicable)"
+}

@@ -1,0 +1,49 @@
+{
+  "scheme_id": "64abcd37481f59106a7209a8",
+  "slug": "pmssu",
+  "scheme_name": "Pre-Matric Disability Scholarship - Uttarakhand",
+  "scheme_short_title": "PMSSU",
+  "state": "Uttarakhand",
+  "level": "State",
+  "nodal_department": "Department Of Social Welfare",
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Education",
+    "Student Finance",
+    "Disabled Welfare"
+  ],
+  "brief_description": "Uttarakhand government started a scheme Pre-Matric Scholarship for disabled persons.",
+  "detailed_description": "In Uttarakhand State, Pre-Matric Disability Scholarship is an initiative of the Social Welfare Department, Government of Uttarakhand for disabled students. Financial Assistance will be provided to the selected eligible students from the State.",
+  "benefits": [
+    "Students of Classes 1 - 5 will receive Rs. 600/- per annum. Students of Classes 6 - 8 will receive Rs. 960/- per annum. "
+  ],
+  "eligibility_criteria": "The applicant student should be a resident of Uttarakhand state and should be studying as an institutional student in a recognized school run in the state. The applicant student/student must have passed the previous year's examination. Applicant students should not be studying in more than one school in the same academic year. Scholarship applicants should make sure that the name in the scholarship application, the name mentioned in Aadhaar and the name mentioned in the bank account are the same. It is necessary for the applicant student to give his or her guardian's mobile number. The mobile number mentioned in the scholarship application by the student or his/her guardian can be mentioned in the application form by more than one student of the same family.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Visit the official National Scholarship Portal.  Students must register first. So for registration click on New Registration\". If already register then start the application process by clicking on \"login\". Fill out the application form and Provide the required details ( Registration Details, Academic Details and Basic Details) Upload the required documents."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://scholarships.gov.in/public/schemeGuidelines/UK_PRE_GUIDELINE.pdf"
+    },
+    {
+      "title": "Scholarship Portal",
+      "url": "https://scholarships.gov.in/#"
+    }
+  ],
+  "documents_required": "Scanned copy for Bank Passbook. Identification Card. Income Certificate. Student Photograph. Disability Certificate. "
+}

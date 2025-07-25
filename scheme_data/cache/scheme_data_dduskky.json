@@ -1,0 +1,66 @@
+{
+  "scheme_id": "68511d00b2394f3b92ab16bb",
+  "slug": "dduskky",
+  "scheme_name": "Deendayal Upadhay Sahkarita Kisan Kalyan Yojana",
+  "scheme_short_title": "DDUSKKY",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "Co-Operative Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Banking,Financial Services and Insurance",
+    "Agriculture,Rural & Environment",
+    "Skills & Employment"
+  ],
+  "sub_categories": [
+    "Employment services and jobs",
+    "Loan"
+  ],
+  "target_beneficiaries": [
+    "Individual",
+    "Family",
+    "Self Help Groups (SHGS)"
+  ],
+  "tags": [
+    "Loan",
+    "Interest Free",
+    "BPL",
+    "Farmers",
+    "Self Help Groups",
+    "Agriculture"
+  ],
+  "brief_description": "The scheme aims to provide economic facilities to farmers to double their agricultural production income. Through this scheme, interest-free loans for individuals and for Self-Help Groups are provided to the general, small, marginal, and Below Poverty Line farmers.",
+  "detailed_description": "The scheme &quot;Deendayal Upadhyay Sahakarita Kisan Kalyan Yojana&quot; by the Cooperative Societies, Uttarakhand Government, aims to provide economic facilities to farmers, aiming to double their agricultural production income, and to make the loan distribution scheme beneficial under the state government&#39;s plan to double farmers&#39; income. It also seeks to check migration from rural areas, create employment opportunities, and provide self-employment opportunities to farmers to improve their livelihoods. The scheme is implemented by Cooperative Societies, District Cooperative Banks, and State Cooperative Banks.",
+  "benefits": [
+    "Interest-free loan up to \u20b91,00,000/- for agricultural activities for individuals. Interest-free loan up to \u20b93,00,000/- for non-agricultural activities for individuals. These activities include, but are not limited to, animal husbandry, medicinal plant production, aromatic plants, spice production, dairy business, fisheries, poultry, mushroom production, flower production, horticulture, agricultural processing, agricultural mechanization, organic farming, off-season vegetable production, and poly-house. Interest-free loan up to \u20b95,00,000/- for Self-Help Groups. Interest Rate Structure (for loans disbursed from the date of the order):",
+    "No. |  | Interest Rate | From the Government of India (for timely repayment) | Financial Burden Borne by State Government (for timely repayment) | To be borne by Farmers (for timely repayment)\n1 | Short-term loan up to \u20b91,00,000/- | 7% | 3% | 4% | Zero\n2 | 11% | Zero | 11% | Zero\n | Medium-term loan above \u20b91,60,000/-up to \u20b93,00,000/- | 11% | Zero | 9% | Zero\n3 | Loan to Self-Help Groups up to \u20b95,00,000/- | 11% | Zero | 11% | Zero",
+    "Note: For medium-term loans exceeding \u20b91,60,000/- under Deendayal Upadhyay Sahakarita Kisan Kalyan Yojana (DDU SKKY), disbursed through cooperative bank branches, the interest rate between the bank and the member will be 9.00%.",
+    "Conditions/Aspects/Criteria Associated with Benefits:",
+    "The reimbursement of the difference between the normal interest rate and the scheme's interest rate will be made by NABARD and the Uttarakhand Government. This facility (interest subsidy) is to be provided only to those farmers who have repaid their loans in a timely manner.",
+    "Mode of Disbursement:",
+    "The interest subsidy will be transferred to the accounts of farmers and Self-Help Groups."
+  ],
+  "eligibility_criteria": "The applicant should be a general, small, marginal, or Below Poverty Line (BPL) farmer. The applicant should be a member of the farmer's family. The applicant can be a Self-Help Group (SHG). The applicant's status as a small, marginal, or BPL farmer will be determined based on certificates or criteria issued by agencies determined or declared by the state government.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "The application will be submitted by the applicant at the cooperative societies or a bank branch.",
+        "Note:",
+        "Thereafter, beneficiaries will be selected by the Block Level Committee. Selected applicants shall be provided loan through the concerned Primary Agricultural Credit Society (PACS) or District Cooperative Bank (DCB) Branch."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cdnbbsr.s3waas.gov.in/s3cc0991344c3d760ae42259064406bae1/uploads/2018/08/202501281098537781.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://cooperative.uk.gov.in/scheme/deendayal-upadhay-sahkarita-kisan-kalyan-yojana/"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Certificate/Criteria from State Government Determined/Declared Agency (for Small, Marginal, and BPL Farmer Identification). Bank Savings Account Details (in a District Cooperative Bank). Aadhaar Card (for Aadhaar seeding with bank account). Complete Records for 06 Months (for Self-Help Groups). Activity Assessment (for Self-Help Groups). Cash Credit Limit (CCL), Loan Repayment Status, and Utilisation Details (for Self-Help Groups, if previously benefited from CCL). Cash Credit Limit (CCL) Account Transfer Details (for Self-Help Groups, if the CCL account is in a nationalised bank). Utilisation Certificate (after Medium-Term Loan distribution). Insurance Document for Purchased Animals (for medium-term loans)."
+}

@@ -1,0 +1,74 @@
+{
+  "scheme_id": "6870c8d44f40152c3a90decd",
+  "slug": "elsgtkdc",
+  "scheme_name": "Educational Loan Scheme (New Akanksha Scheme) (GTKVN)",
+  "scheme_short_title": "ELSNASGTKVN",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Empowerment Department",
+  "implementing_agency": "Gujarat Thakor And Koli Development Corporation",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning",
+    "Banking,Financial Services and Insurance"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance",
+    "Universities and higher education",
+    "Loan"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Professional",
+    "Technical Education",
+    "Graduate",
+    "Postgraduate",
+    "Education Loan",
+    "Thakor Caste",
+    "Koli Caste"
+  ],
+  "brief_description": "Under this scheme, education loans are provided at subsidized interest rates to students belonging to Thakor and Koli communities for pursuing graduate and postgraduate studies in fields such as engineering, medical, MBA, and MCA.",
+  "detailed_description": "The &amp;quot;Educational Loan Scheme (New Akanksha Scheme)&amp;quot; is implemented by the Gujarat Thakor and Koli Vikas Nigam (GTKVN) under the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to provide financial support for higher technical and professional education to students belonging to Thakor and Koli communities. Under this scheme, loans are provided at subsidized interest rates to students for pursuing graduate and postgraduate studies in fields such as engineering, medical, MBA, and MCA. <br>",
+  "benefits": [
+    "Education Loan:",
+    "Loan Amount: Up to \u20b915,00,000/-.",
+    "Interest Rate: 4% per annum and 3.5% per annum for students.",
+    "Coverage Includes:",
+    "Admission fees and tuition fees Books, writing materials, necessary equipment and examination fees required for the course Accommodation & food expenses Travel and insurance premiums",
+    "Contribution:",
+    "The loan covers 90% of the approved cost 90% by Central Corporation 5% by State Government 5% by the Beneficiary",
+    "Repayment Terms:",
+    "Repayment Period: 60 equal monthly installments (5 years) Start of Repayment: Within 6 months from course completion or employment, whichever is earlier."
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Gujarat. The applicant should belong to the Thakor or Koli caste/community. The family's annual income should not exceed \u20b93,00,000/-. The applicant should have secured admission in recognized institutions for:\nMBA or equivalent (approved by AICTE) MCA (Master of Computer Applications or equivalent) Undergraduate Engineering programs (approved by AICTE/IITs) MBBS or equivalent (approved by Medical Council of India)\nNote: At least 50% of the total sanctioned loan amount will be reserved for applicants from families earning up to \u20b91,50,000 annually.\n",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Visit the official website of the Gujarat Thakor and Koli Vikas Nigam.",
+        "Step 2: On the top menu bar, click on \"Apply Now\".",
+        "Step 3: Click on the loan scheme name.",
+        "Step 4: Select the loan category and fill in the loan amount.",
+        "Step 5: Fill out the Application Form, enter the following details:",
+        "Personal Information: Name, gender, date of birth, caste, etc. Address Information: Permanent and correspondence address Income Details: Monthly family income and source Loan Requirement: Amount needed, proposed use (e.g., business, self-employment) Bank Account Details: For loan disbursement",
+        "Step 6: Upload scanned copies of the Caste certificate, Income certificate, Aadhaar card, Passport-size photo, Bank passbook (first page), and Residence proof.",
+        "Step 7: Double-check all details. Click on \"Preview\" to verify. If all details are correct, click \"Submit\".",
+        "Step 8: Applicant will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sje.gujarat.gov.in/gtkvn/Schemes/1460?lang=English"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://mariyojana.gujarat.gov.in/MoreDetails.aspx"
+    }
+  ],
+  "exclusions": "Loan is not eligible in case of admission obtained under management quota.\n",
+  "documents_required": "Aadhaar Card Caste Certificate Income Certificate Other Mark sheets/Last Year Mark sheet Ration Card School Leaving Bank Passbook/Cancelled Cheque Identity Card Mark sheet Passport Size Photos Receipt of Fee Paid"
+}

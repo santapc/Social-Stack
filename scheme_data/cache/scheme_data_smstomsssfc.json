@@ -1,0 +1,74 @@
+{
+  "scheme_id": "67d13906b36d179ff8036ed7",
+  "slug": "smstomsssfc",
+  "scheme_name": "Scholarship/Merit scholarship to OBC/MIN/SC/ST students from Class I to XII",
+  "scheme_short_title": "SMSTOMSSSFC",
+  "state": "Delhi",
+  "level": "State/ UT",
+  "nodal_department": "Welfare of SC/ST/OBC/Minorities Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Scheduled Castes",
+    "Schedule Tribe",
+    "Backward Classes",
+    "Scholarships",
+    "Students"
+  ],
+  "brief_description": "The scheme aims to provide financial assistance to students from SC/ST/OBC/Minority communities studying in classes I to XII in government or recognised schools in Delhi. The scheme offers varying scholarship amounts based on class and academic performance, ensuring support for education.",
+  "detailed_description": "The scheme &quot;Scholarship/Merit Scholarship for SC/ST/OBC/Minority Students&quot; by the Department for the Welfare of SC/ST/OBC, Government of NCT of Delhi aims to provide financial assistance to students from SC/ST/OBC/Minority communities studying in classes 1st to 12th in government or recognized schools in Delhi. The scheme offers varying scholarship amounts based on class and academic performance, ensuring support for education. Key benefits include annual scholarships ranging from \u20b91,000/- to \u20b94,500/-, depending on the student&#39;s category and marks. Eligibility criteria include belonging to SC/ST/OBC/Minority communities, studying in recognised schools, and having a family income not exceeding \u20b92,00,000/- per annum. The scheme is implemented through the e-district portal of NIC Delhi.",
+  "benefits": [
+    "Class 1st to 8th SC/ST/Minority Students",
+    "\u20b91,000/- per Annum (No % of Marks Required).",
+    "OBC Students (6th to 8th)",
+    "\u20b9600/- per Annum (55% to 60% Marks in Previous Class). \u20b9720/- per Annum (Above 60% Marks in Previous Class).",
+    "Class 9th to 10th SC/ST/OBC/Minority Students",
+    "\u20b91,620/- per Annum (55% to 60% Marks in Previous Class). \u20b92,040/- per Annum (Above 60% Marks in Previous Class).",
+    "Class 11th to 12th SC/ST/OBC/Minority Students",
+    "\u20b93,000/- per Annum (55% to 70% Marks in Previous Class). \u20b94,500/- per Annum (Above 70% Marks in Previous Class).",
+    "*The bank account should be in the name of the student (a joint account with a parent/guardian is permissible)."
+  ],
+  "eligibility_criteria": "The applicant should be from Scheduled Caste (SC)/Scheduled Tribe (ST)/Other Backward Classes (OBC)/Minority (including Jain) community\nStudents from the Scheduled Caste (SC)/Scheduled Tribe (ST)/Minority category should be studying in Class 1st to 12th. Students from the Other Backward Classes (OBC) category should be studying in Class 6th to 12th. The applicant should be studying in a Government/Aided/Recognised school affiliated to the Directorate of Education/Kendriya Vidyalaya Sangathan/National Open School/Schools affiliated to NDMC/Delhi Cantonment Board, East Delhi Municipal Corporation, North Delhi Municipal Corporation, and South Delhi Municipal Corporation. For students from the OBC/Minority category, the income of the family should be less than or equal to \u20b92,00,000/-. The applicant can avail of only one scholarship, either under the State Plan Scheme or Centrally Sponsored Scholarship Scheme, whichever is more beneficial.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration",
+        "Step 1: Visit the e-District Portal of the Govt. of NCT of Delhi.",
+        "Step 2: On the top right corner of the homepage, click \" Login/Register \", then click \" Register \". You will be taken to the \"Citizen Registration Form\". Carefully read the \"Guidelines for Online Registration\" provided at the bottom of the page.",
+        "Step 3: In the Citizen Registration Form, select \"Aadhaar Card\" as the Document Type, and provide the Aadhaar Number. Fill in the captcha code and click \"Continue\".",
+        "Step 4: On the next page, fill in all the mandatory fields. If required, verify your Email ID and Mobile Number via OTP. Enter the Captcha code and click \"Continue to Register\". You will receive your Login ID and Password on the Mobile Number/Email Address provided during the registration.",
+        "Application",
+        "Step 1: Visit the e-District Portal of the Govt. of NCT of Delhi.",
+        "Step 2: On the top right corner of the homepage, click \" Login/Register \", you will be taken to the \"Citizen Login Form\"",
+        "Step 3: Provide your Login ID and Password, enter the Captcha code and click \"Login\".",
+        "Step 4: Go to the home page and click \"Apply Service\". Navigate to the scheme that you intend to apply for. Click on the name of the scheme. You will be taken to the scheme's online application form.",
+        "Step 5: In the application form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size. Carefully review all the information provided and the documents uploaded. Make any necessary corrections. Acknowledge and agree to the terms and conditions and/or declaration (if any), then click \"Finish\".",
+        "Step 6: An OTP will be received on the registered mobile number. Provide the OTP and click \"Submit\". An acknowledgement of successful submission shall be sent over Email/SMS/Both.",
+        "Track Application Status",
+        "Step 1: Visit the \" Track Your Application \" page.",
+        "Step 2: Fill in all the mandatory fields. Enter the Captcha Code, and click \"Submit\".",
+        "Your current application status will be displayed."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://scstwelfare.delhi.gov.in/sites/default/files/scstwelfare/circulars-orders/merge_file.pdf"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://edistrict.delhigovt.nic.in/Downloads/Instruction/General_Faq.pdf"
+    }
+  ],
+  "documents_required": "Caste Certificate (SC/ST/OBC) issued by SDM/Deputy Commissioner (Revenue), Government of NCT of Delhi. Self-Declaration of Family Income. For Minority Students, Proof of residence (EPIC card, Aadhaar Number, Ration Card, MTNL Landline Telephone Bill, Driving License issued by GNCTD, Domicile Certificate, or Bank Passbook). For Minority Students, Declaration by parent/guardian confirming minority community status."
+}

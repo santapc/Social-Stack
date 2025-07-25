@@ -1,0 +1,55 @@
+{
+  "scheme_id": "643fb92fdee45852a35a94f9",
+  "slug": "cmhisn",
+  "scheme_name": "Chief Minister's Health Insurance Scheme - Nagaland",
+  "scheme_short_title": "CMHISN",
+  "state": "Nagaland",
+  "level": "State",
+  "nodal_department": "Health and Family Welfare Department, Nagaland",
+  "categories": [
+    "Banking,Financial Services and Insurance",
+    "Health & Wellness"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Health Coverage",
+    "Health Insurance",
+    "Nagaland Government Health Insurance",
+    "Affordable Health Insurance",
+    "Cashless Health Insurance",
+    "Nagaland"
+  ],
+  "brief_description": "Launched on 16th October 2022, the scheme \"Chief Minister Health Insurance Scheme (CMHIS)\" is a Public Health Insurance Scheme by the Health and Family Welfare Department, Government of Nagaland. This scheme provides cashless treatment up to \u20b920 lakhs for employees and pensioners and \u20b95 lakhs.",
+  "detailed_description": "Launched on 16th October 2022, the scheme &amp;quot;Chief Minister Health Insurance Scheme (CMHIS)&amp;quot; is a Public Health Insurance Scheme by the Health and Family Welfare Department, Government of Nagaland. This scheme provides cashless treatment up to \u20b920 lakhs for employees and pensioners and \u20b95 lakhs for the general category, covering inpatient and specific daycare procedures in empanelled hospitals across India. The applications are accepted through Primary Health Centres (PHCs), Community Health Centres (CHCs), District and Sub-division Treasury Offices, outreach camps, and designated private hospitals. The scheme is being implemented by the Department of Health and Family Welfare, Government of Nagaland.",
+  "benefits": [
+    "All beneficiaries of the scheme are entitled to free and cashless hospitalization care for various ailments including pre-existing conditions/diseases, which can be availed from any empanelled hospital across the country. The treatment will include both surgical and medical procedures and limited day-care packages. However, OPD services and standalone diagnostics investigations will not be covered. CMHIS (GEN) beneficiaries will be entitled to more than 1950 medical and surgical packages across 27 major clinical specialties as well as entitlement to General Ward, similar to AB PM-JAY. CMHIS (EP) beneficiaries will be entitled similar to that available for central government employees under the Central Government Health Scheme (CGHS) as well as differential room entitlement as per their employee grade.  Annual Risk Cover/ Sum Insured per family: For CMHIS (GEN) beneficiary families, the Sum Insured is \u20b9 5,00,000/- (Rupees Five Lakhs Only) per family per annum on a family floater basis, similar to AB PM-JAY. For CMHIS (EP) beneficiary families, the Sum Insured is \u20b9 20,00,000/- (Rupees Twenty Lakhs Only) per family per annum on a family floater basis. Further, for Government employees, any additional expenses beyond the sum insured shall be reimbursed on a case-to-case basis by the State government on recommendation of the State Medical Board."
+  ],
+  "eligibility_criteria": "Eligibility\nThe Chief Minister Health Insurance Scheme is available to all permanent and indigenous residents of Nagaland. They are divided into two categories:\n1. For CMHIS (EP):\nThe applicant should be a government employee, pensioner, or dependent family member.\nThe applicant should possess valid supporting documents such as the PIMS Code, PPO book, Aadhaar card, and certificates for dependents.\n2. For CMHIS (GC):\nThe applicant should be an Indigenous Inhabitant or Permanent Resident of Nagaland not covered under AB PM-JAY.\nThe applicant should possess an Indigenous Inhabitant Certificate (IIC) or Permanent Resident Certificate (PRC) issued after 2016, along with an Aadhaar card and valid mobile number.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Visit the Official Website of the Chief Minister's Health Insurance Scheme (CMHIS) Nagaland .",
+        "Step 2: Click on the Register. Read out the R egistration instructions carefully.   ",
+        "Step 3: Fill in the application form with all the required details, including personal details, family details, income details, and medical history. ",
+        "Step 4: Submit the completed application form along with the necessary documents to the nearest Common Service Center (CSC) in your area or the empanelled hospital.",
+        "Step 5: The CSC or the empanelled hospital will verify the application form and documents and upload the details to the online portal.",
+        "Step 6: The insurance provider will verify the application and approve or reject the application based on the eligibility criteria.",
+        "Note: For any query call us at 14555 or mail at nagaland.nhpm@gmail.com."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Official Site",
+      "url": "https://cmhis.nagaland.gov.in/"
+    },
+    {
+      "title": "Registration",
+      "url": "https://cmhis.nagaland.gov.in/login"
+    }
+  ],
+  "documents_required": "List of the required documents\nMandatory KYC Document Required for CMHIS (GEN) category:\n(a): For General Population :\nValid Mobile Phone number. Indigenous Inhabitant Certificate (IIC) or Permanent Residential Certificate (PRC) issued by the competent authority of the respective district Administration after 2016. NB : Ration Card holders must get their eCards issued using their ration card in the BIS portal directly without registering in the CMHIS Portal (Ration Card data is already integrated with NHA BIS. Operators to go directly to the BIS URL).\n(b): For employees without PIMS number:\nValid Mobile Phone number Govt issued Photo ID card Engagement/ Appointment Order. Proof of continuity of being engaged (Letter from the controlling officer) Filled and downloaded online registration form with household member details (FORM), countersigned by Village council Chairman/Ward Chairman.\nMandatory KYC Document Required under CMHIS (EP) category:\n(a): For Pensioners:\nValid Mobile Phone number. First Three pages of the Pensioner's PPO book indicating PPO number, last pay scale or designation of the post held or last pay is drawn prior to retirement.\n(b): For Government employees:\nValid Mobile Phone number PIMS code.\n(c): For dependent family members:\nDocument proving dependency for each dependent member to be added: Proof of Relationship/DOB- Birth Certificate/Aadhaar/Class X Admit Card/voter\u2018s ID/Pancard or any other Govt. issued ID indicating the relationship with any one of the parents and Date of Birth. Disability Certificate in case of PwD"
+}

@@ -1,0 +1,60 @@
+{
+  "scheme_id": "65097b7c7846de4ead17e40c",
+  "slug": "rkvyshfshc",
+  "scheme_name": "RKVY Soil Health and Fertility - Soil Health Card",
+  "scheme_short_title": "RKVYSHFSHC",
+  "level": "Central",
+  "nodal_department": "Department of Agriculture and Cooperation",
+  "implementing_agency": "State Government",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Soil health"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Soil Health",
+    "INM",
+    "Soil Testing",
+    "Farmer",
+    "RKVY"
+  ],
+  "brief_description": "Soil Health Card is designed to give each farmer soil nutrient status of his/her holding and advice him/her on the dosage of fertilizers and also the needed soil amendments, that s/he should apply to maintain soil health in the long run.",
+  "detailed_description": "SHC can be downloaded by the farmers from the SHC portal or through SMS link received on mobile. It will contain the status of his soil with respect to 12 parameters, namely N,P,K, S (Macro-nutrients); Zn, Fe, Cu, Mn, Bo (Micro - nutrients) ; and pH, EC, OC. Based on this, the SHC will also indicate fertilizer recommendations and soil amendment required for the farm. <br> ComponentRateSoil sampling, testing, and generation of SHCRs 300 per SHC (Rs 40 for soil collection + Rs 150 for testing (analysing soil samples + cost of chemical) + Rs. 110 for awareness<br> The key objectives of the scheme are as follows: \u2022 To promote soil test based nutrient management across the country \u2022 To issue soil health cards to all farmers across the country \u2022 Strengthen the functioning of soil testing laboratories and associated infrastructure \u2022 Capacity building of district and state level staff for promotion of nutrient management practices \u2022 To diagnose soil fertility related constraints with standardized procedures for sampling uniformly across states; and analyse and design fertilizer recommendations. <br>",
+  "benefits": [
+    "The scheme targets to provide following benefits:",
+    "1) Provide free / affordable access to soil test",
+    "2) Provide farmers with timely and accurate soil analysis results",
+    "3) Facilitate customized soil nutrient recommendations based on test results",
+    "4) Enable farmers to optimize their fertiliser use and minimise input costs, and hence avoid under- or over- application of fertiliser"
+  ],
+  "eligibility_criteria": "The scheme is applicable for all farmers in India.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 01: Farmer approaches a District Agriculture Officer / Block Agriculture Officer for soil testing and generation of a SHC.",
+        "Step 02: The concerned officer shall initiate the process for the concerned farmer wherein they assess whether the applicant's district / village falls under State Annual Action Plan for generation of SHC.",
+        "Step 03: Agent visits the farmer and collects farmer details, land details and geo-tags the land through mobile app and takes a sample of the soil for testing",
+        "Step 04: The soil is tested on set parameters and a Soil Health report is generated for the farmer's land",
+        "Step 05: The report contains results as well as recommendations on suitable crops for the soil type, and the quantity and type of fertiliser to be used."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.soilhealth.dac.gov.in/assets/Circular%20of%20implementation%20of%20Soil%20Health%20Card.pdf"
+    },
+    {
+      "title": "User Manual",
+      "url": "https://www.soilhealth.dac.gov.in/assets/Circular%20of%20implementation%20of%20Soil%20Health%20Card.pdf"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "The documents may vary for each state. It is recommended to consult with the relevant authorities for detailed information."
+}

@@ -1,0 +1,55 @@
+{
+  "scheme_id": "6852a114509e0069bb0928c4",
+  "slug": "sfns",
+  "scheme_name": "Scholarship for Poor Students",
+  "scheme_short_title": "SFPS",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "Department Of Sanskrit Education",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance",
+    "Coaching"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Student",
+    "Tuition Fees",
+    "Sanskrit"
+  ],
+  "brief_description": "The scheme aims to support poor students in sanskrit education. One student per class receives a scholarship equal to the class tuition fee.",
+  "detailed_description": "The &quot;Scholarship for Needy Students&quot; scheme was launched by the Department of Sanskrit Education, Government of Uttarakhand. It aims to support economically disadvantaged students enrolled in sanskrit education by covering their tuition fees. Under this scheme, one student (either male or female) from each undergraduate and postgraduate class at Uttarakhand Sanskrit University receives a scholarship equivalent to the tuition fee of their respective class. The scheme is implemented by the Scholarship Cell at Uttarakhand Sanskrit University.",
+  "benefits": [
+    "The selected student from each undergraduate and postgraduate class receives a scholarship amount equal to the tuition fee of the respective class.",
+    "NOTE: The scholarship amount is transferred directly to the beneficiary's bank account."
+  ],
+  "eligibility_criteria": "The applicant should be a student. The applicant should be enrolled in an undergraduate or postgraduate program at Uttarakhand Sanskrit University. The applicant must have the lowest annual family income among all applicants in the same class/subject/program.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Application Process:",
+        "A Scholarship Cell is constituted at the university level to manage this scheme.",
+        "Step 1: The interested applicant should visit (during office hours) the scholarship cell and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attested, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents to the Scholarship Cell.",
+        "Post-Application Process:",
+        "Step 1: The Scholarship Cell scrutinizes all applications and verifies income certificates to identify the student with the lowest annual income in each class.",
+        "Step 2: After administrative and financial approval, the scholarship amount is credited directly to the selected students' bank accounts."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Page No. 92)",
+      "url": "https://cdnbbsr.s3waas.gov.in/s339e6f67916920d9419b3d92cf1e9a958/uploads/2025/03/202503051772421971.pdf"
+    }
+  ],
+  "documents_required": "High School Certificate. Aadhaar Card. Income Certificate. Bank Account Details. University Identity Card."
+}

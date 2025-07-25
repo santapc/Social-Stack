@@ -1,0 +1,73 @@
+{
+  "scheme_id": "66095ca8a833324343915ceb",
+  "slug": "rtfwesw-sw",
+  "scheme_name": "Reimbursement of Tuition Fees to the Wards of Ex-Servicemen/Widows (Sainik Welfare)",
+  "scheme_short_title": "RTFWESW-SW",
+  "state": "Puducherry",
+  "level": "State/ UT",
+  "nodal_department": "Sainik Welfare Department, Puducherry",
+  "implementing_agency": "Rajya Sainik Board, Puducherry",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning",
+    "Skills & Employment"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance",
+    "Academic qualification Up-Gradation"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Reimbursement",
+    "Tuition Fees",
+    "Ex-Serviceman",
+    "Widow",
+    "Student"
+  ],
+  "brief_description": "\"Reimbursement of Tuition Fees to the Wards of Ex-Servicemen/Widows (Sainik Welfare)\" is a Welfare Scheme by the Dept of Sainik Welfare, Puducherry. The wards of the ESM / Widows of ESM studying in Government-recognized Institutions are provided reimbursement of their tuition fees.",
+  "detailed_description": "&quot;Reimbursement of Tuition Fees to the Wards of Ex-Servicemen/Widows (Sainik Welfare)&quot; is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. Through this scheme, the wards of the ESM / Widows of ESM studying in Government-recognized Institutions are provided reimbursement of their tuition fees. The application should be submitted offline within three months from the date of completion of the education.",
+  "benefits": [
+    "Monthly Stipend (in \u20b9) According to the Level of Qualification",
+    "School: 1,000. Military/Sainik Schools: 2,000. School for Special Children: 2,000. Diploma in Polytechnic: 800. NDA/IMA (National Defence Academy/Indian Military Academy): 2,000. Bachelor Degree: 1,000. Master Degree: 1,500. Professional Course (MBBS/BE/BTech) (Bachelor of Medicine and Bachelor of Surgery / Bachelor of Engineering / Bachelor of Technology): 2,000.",
+    "*The rate listed above or the actual cost of the fee, whichever is less, is reimbursed."
+  ],
+  "eligibility_criteria": "The applicant should be a Ward of an Unemployed ESM / Ward of the Widow of an ESM. The applicant should be registered with the Department of Sainik Welfare, Puducherry. The Ward should be studying in a Government-recognized Institution. The scheme is applicable for upto two wards of the Unemployed ESM / Widow of an ESM.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should take print of the prescribed format of the application form for the concerned scheme.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: The interested applicant should submit the duly filled and signed application form and the documents to the concerned authority at the Rajya Sainik Board, Jawan Bhawan, Department of Sainik Welfare, Government of Puducherry, 261, Lawspet Main Road, Pakkamudianpet, Puducherry Road, Lawspet, Puducherry - 605013, India.",
+        "Step 4: A receipt of the application will be assigned to the applicant by the concerned authority.",
+        "Queries/Complaints/Suggestions/Grievances",
+        "Address: 261, Lawspet Main Road, Pakkamudianpet, Puducherry Road, Lawspet, Puducherry - 605013, India",
+        "Phone Number: (+91)(0413) 2253107",
+        "Email: dirdsw.pon@nic.in",
+        "Hours: Monday - Friday, 2:30 pm to 5:00 pm"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sainik.py.gov.in/assistance-affd-fund"
+    },
+    {
+      "title": "Government Order",
+      "url": "https://sainik.py.gov.in/sites/default/files/g.o.ms.22-dated-24-feb-2020.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://sainik.py.gov.in/sites/default/files/uniformandbookallowance202223.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://sainik.py.gov.in/contact-us"
+    }
+  ],
+  "exclusions": "The scheme does not apply to the ward who is repeating the same class. The Wards who are already in receipt of an academic scholarship are not eligible. The Ward who are availing any other benefit of reimbursement of tuition fees are not eligible.",
+  "documents_required": "Identity Card of the ESM / Widow of the ESM. Discharge Certificate of the ESM. Proof of Successful Completion of the Course. In the case of 'Management Quota', a Certificate from the Institute. Details of Fees Paid (Original receipt). Where the fee is collected in lump sum, a certificate showing the breakdown of fees indicating the category, signed by the head of the institution. Declaration. Birth Certificate of the Ward (if not already registered with the DSW). Study Certificate of the Ward (if not already registered with the DSW). First Page of Bank Passbook."
+}

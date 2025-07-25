@@ -1,0 +1,64 @@
+{
+  "scheme_id": "63eb866fdf687019476906e5",
+  "slug": "rythu-bima",
+  "scheme_name": "Rythu Bima Scheme",
+  "scheme_short_title": "RYTHU BIMA",
+  "state": "Telangana",
+  "level": "State",
+  "nodal_department": "Agriculture and Co-operation Department",
+  "implementing_agency": "Agriculture Extension Officers (AEO)",
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "tags": [
+    "Farmer",
+    "Death Insurance",
+    "Life Insurance",
+    "Bima"
+  ],
+  "brief_description": "Rythu Bandhu Farmer Group Life Insurance Scheme for Farmers\" is a life insurance scheme by the Government of Telangana that provides insurance coverage to the nominee of a farmer in case of the farmer's death. It is free for farmers and is implemented through LIC.",
+  "detailed_description": "Rythu Bima is a social security initiative of the Government of Telangana launched on 14th August 2018, aimed at providing financial support to the families of farmers in the event of the farmer&#39;s untimely death. The main objective of the scheme to ensure financial security to the families of deceased farmers by offering life insurance coverage for both natural and accidental deaths.",
+  "benefits": [
+    "Insurance Coverage: \u20b95,00,000/- per eligible farmer Coverage Type: Natural and accidental deaths Claim Settlement Mode: Direct bank transfer to the nominee's account Claim Process: Entirely online, farmer families are not required to visit any office"
+  ],
+  "eligibility_criteria": "The applicant must be a farmer. The applicant must be a resident of Telangana. The applicant must be aged between 18 and 59 years. The applicant's details should be available in the Dharani database under RoR (Record of Rights) land records. The applicant should possess a valid Pattadar Pass Book (PPB) or a RoFR (Recognition of Forest Rights) Patta.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Registration Process",
+        "Step 1: Voluntary Enrolment by Farmer:",
+        "Farmer shares personal, land, and nominee details with the Agriculture Extension Officer (AEO).",
+        "Step 2: Entry into Rythu Bima Portal:",
+        "AEO enters enrolment data into the Rythu Bima online portal. Includes uploading required documents.",
+        "Step 3: Land Record Verification",
+        "Farmer's land details are automatically verified using the Dharani land records database.",
+        "Step 4: Authentication",
+        "Mandal Agriculture Officer (MAO) authenticates the data submitted.",
+        "Step 5: LIC ID Generation",
+        "LIC generates a unique insurance ID for the farmer. SMS with LIC ID is sent to the farmer's registered mobile number",
+        "Claim Process",
+        "Step 1: Intimation of Death",
+        "Nominee informs the District Nodal Officer through the Rythu Bima portal.",
+        "Step 2: Document Upload",
+        "Nominee must upload scanned copies of the following: Death Certificate Identity Proof of the deceased farmer Nominee's ID Proof Pattadar Passbook copy Bank details of the nominee Other supporting documents, if required",
+        "Step 3: Online Verification",
+        "The claim is verified by designated authorities via the portal. If found valid, the file is forwarded for processing.",
+        "Step 4: Settlement",
+        "An amount of \u20b95,00,000/ is credited to the nominee's bank account. SMS confirmation is sent to the nominee on successful payment"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guideline",
+      "url": "https://interstatecouncil.gov.in/wp-content/uploads/2023/08/Telangana1.pdf"
+    },
+    {
+      "title": "Official Portal",
+      "url": "https://www.rythubharosa.telangana.gov.in/Default_Home.aspx#"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Death Certificate. Identity Proof of the deceased farmer. Nominee's ID Proof. Pattadar Passbook copy. Bank details of the nominee. Other supporting documents, if required."
+}

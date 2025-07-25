@@ -1,0 +1,81 @@
+{
+  "scheme_id": "6603cb6aa8333243438904b5",
+  "slug": "rgkssy",
+  "scheme_name": "Rajiv Gandhi Krishak Sathi Sahayta Yojana",
+  "scheme_short_title": "RGKSSY",
+  "state": "Rajasthan",
+  "level": "State/ UT",
+  "nodal_department": "Agriculture Department",
+  "dbt_scheme": true,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Farmer",
+    "Accident",
+    "Financial Support"
+  ],
+  "brief_description": "The Rajiv Gandhi Krishak Sathi Sahayta Yojana offers financial support to farmers, farmworkers, and market laborers who are accidentally injured or killed while working in agriculture or at agricultural markets.",
+  "detailed_description": "The Rajasthan government&#39;s Rajiv Gandhi Krishak Sathi Sahayta Yojana is a critical safety net for those who keep our food system running smoothly. Farmers, farmworkers, and market staff face inherent risks in their daily activities. This program acknowledges those risks and provides much-needed financial assistance in times of crisis. If an accident occurs while they&#39;re tending to crops, raising livestock, or selling their produce at market, the Yojana can help soften the financial blow. This can mean the difference between a family being able to afford medical care and essential needs, or facing devastating hardship.",
+  "benefits": [
+    "The following financial assistance will be provided by the government to farmers and people doing agriculture related work:-",
+    "Situation | Relief fund\nIn case of death in an accident | \u20b92,00,000/-.\nBy cutting off any part of both hands, both legs, or both eyes separately. | \u20b950,000/-\nIn case of coma due to spinal cord fracture and head injury. | \u20b950,000/-\nDe-scalping of hair on the head of a man or woman | \u20b940,000/-\nIn case of partial de-scalping (small part) of hair on the head of a man or a woman. | \u20b925,000/-\nIn case of amputation of a body part like a hand, leg, eye, paw, arm etc. | \u20b925,000/-\nHaving four fingers amputated (completely or partially) | \u20b920,000/-\nThree fingers cut | \u20b915,000/-\nTwo fingers were cut off | \u20b910,000/-\nHaving a finger cut | \u20b95,000/-\nHammal/Paledar/Laborer working in the market premises gets fractured in an accident while doing agricultural/marketing work in the market premises. | \u20b910,000/-\nOne testicle is severed | \u20b925,000/-\nWhen two testicles are separated | \u20b940,000/-"
+  ],
+  "eligibility_criteria": "The Farmers/agricultural laborers of the state. The workers hold licenses from the market committee.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration",
+        "Step-1: Applicant have to visit the official portal .",
+        "Step-2: Click on the option \" Register \".",
+        "Step-3: Then you will be redirected to the SSO registration page. The registration page will appear with the following options.",
+        "Citizen",
+        "Step-4: Choose the either one option from the Jan Aadhaar Or Google to process further.",
+        "Jan Aadhaar : Enter the Jan Aadhaar number, click on the \u2018Next' button, Select your name, the name of the head of the family and all the other members and Click on the \u2018Send OTP' button. Enter the \u2018OTP' and Click on the \u2018Verify OTP' button to Complete the registration.",
+        "Google : Enter the Gmail ID, click on the \u2018Next' button, Enter the password. A new link appear on screen, now click on the new SSO link. SSO id will appear on the screen, now create the password. Enter Mobile number, click on registration.",
+        "Step-5 : Submit.",
+        "Apply",
+        "Step-1: Applicant have to visit the official portal .",
+        "Step-2: After login, dashboard will open.",
+        "Step-3: Click on \" RAJ-KISAN \" option.",
+        "Step-4: In \"Farmer\", click on \"Application Entry Request\".",
+        "Step-5: Enter the \"Bhamashah ID\" or \"Janaadhaar ID\" and search.",
+        "Step-6: Select the person name and scheme name.",
+        "Step-7: Complete the Aadhaar Authentication and click on Get details.",
+        "Step-8: Provide the required details.",
+        "- Pensioner Details.",
+        "- Bank Details.",
+        "- Disability Details.",
+        "- Verification Details.",
+        "- Upload Documents.",
+        "Step-9: Submit."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan#"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://rlsa.gov.in/povertyScheme/10.PDF"
+    },
+    {
+      "title": "Registration",
+      "url": "https://sso.rajasthan.gov.in/register"
+    },
+    {
+      "title": "Login",
+      "url": "https://sso.rajasthan.gov.in/signin"
+    }
+  ],
+  "documents_required": "A medical officer's certificate required FIR Report Death Report Post-mortem report Certificate from the government doctor in case of a poisonous animal bite or camel bite. Provision for payment to be made on the Panchnama also under the signature of the Government Doctor."
+}

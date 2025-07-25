@@ -1,0 +1,53 @@
+{
+  "scheme_id": "6842cc9e39dee21fa395f262",
+  "slug": "gvs",
+  "scheme_name": "Goat Valley Scheme",
+  "scheme_short_title": "GVS",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "Department Of Animal Husbandry",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Financial assistance",
+    "Animal husbandry"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Loan",
+    "Self Employment",
+    "Goat Rearing",
+    "Entrepreneurship",
+    "Livestock"
+  ],
+  "brief_description": "The objective of the scheme is to establish Goat Valleys as clusters for organized goat rearing, promote youth self-employment, transform traditional goat rearing into profit-oriented enterprises, and organize the sector to enhance year-round livelihood opportunities for farmers.",
+  "detailed_description": "The \"Goat Valley\" scheme was launched in 2022 by the Department of Animal Husbandry, Government of Uttarakhand, as a cluster-based model for promoting entrepreneurship in the animal husbandry sector in the state. Its objectives include establishing Goat Valleys as clusters for organized goat rearing, promoting youth self-employment, transforming traditional goat rearing into profit-oriented enterprises and organising the sector to enhance year-round livelihood opportunities for farmers. This initiative brings together various schemes, such as the District Goat Rearing Program, State Goat Rearing Program, NCDC Loan, Deen Dayal Upadhyay Loan, and REAP to develop dedicated goat-saturated zones in each district.",
+  "benefits": [
+    "1. Goat Unit Establishment: Each beneficiary establishes a goat unit of 15+1 animals.",
+    "2. Financial Support Structure:",
+    "Loan: \u20b930,000 loan from NCDC (National Cooperative Development Corporation). Subsidy: \u20b963,000 subsidy. Beneficiary Contribution: Requires a \u20b97,000 beneficiary contribution.",
+    "Conditions/Aspects/Criteria associated with the benefits:",
+    "The goat unit size is fixed at 15+1 animals. The specific financial contributions (loan, subsidy, beneficiary) are predetermined for each unit."
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Uttarakhand.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process:",
+        "Step 1: Visit to e-Services Apuni Sarkar ( https://eservices.uk.gov.in ) and click \"Sign Up\" on the Citizen Login page. Step 2: Fill in the registration form with your name, email, mobile number, etc., and click Submit. Step 3: You will receive your User ID and password via SMS on your registered mobile number. Application Process: Step 1: Navigate to the Citizen Login page and enter your User ID (email or mobile) and password, complete the captcha, then click Sign In. Step 2: Once logged in, your dashboard appears. Click \"Apply for New Application\" or similar to begin. Step 3: Choose the Animal Husbandry department, from the list of services, select the scheme to apply for. Step 4: The portal will list mandatory documents required and upload mandatory documents, after uploading, click Submit to proceed. Step 5: Enter all required details in the form (personal, land, bank, etc.). Use Save to save progress, preview to review, or Delete Draft to reset. Step 6: Once all fields are accurately filled, click Submit. You will receive an Application ID receipt, which you can download. Track Application and Approval Step 1: The application goes to the concerned department for review. Step 2: You can track your application status on the portal using your Application ID. User Manual  Note: Beneficiaries are selected by a block-level committee after scrutinizing applications submitted through the Apuni Sarkar portal."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://ahd.uk.gov.in/scheme/goat-valley/"
+    }
+  ],
+  "documents_required": "Identity proof Applicant Photograph Address proof Income proof Caste certificate (if applicable) Any other documents if required"
+}

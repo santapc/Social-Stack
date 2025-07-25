@@ -1,0 +1,52 @@
+{
+  "scheme_id": "65defc55da55878ebe075857",
+  "slug": "say",
+  "scheme_name": "Cycle Anudaan Yojana",
+  "scheme_short_title": "SAY",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Labour Department",
+  "dbt_scheme": true,
+  "categories": [
+    "Transport & Infrastructure",
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Cycle",
+    "Workers",
+    "Financial",
+    "Transportation"
+  ],
+  "brief_description": "A labor department initiated a scheme \"Cycle Anudan Yojana' in 2018 for the construction worker of Madhya Pradesh and provide them financial assistance for cycle.",
+  "detailed_description": "Saikil Anudaan Yojana is an initiative by the Labour Department, Madhya Pradesh. Its aim is to provide transportation facilities to construction workers registered under the MP Building and Other Construction Workers Welfare Board. The government recognized that laborers working in Madhya Pradesh often have to travel long distances to reach their workplaces. Many of these laborers lack proper means of transportation to reach the work site, forcing them to rely on alternative methods and incur additional expenses. This, in turn, increases their financial burden.",
+  "benefits": [
+    "Financial Assistance : 90 percent of actual expenditure or \u20b94,000/- whichever is less."
+  ],
+  "eligibility_criteria": "Applicant must be a registered construction worker of the division with a valid identity card. Applicant can get the scheme benefits only at once. Applicant must working as registered construction workers for 3 consecutive years. Bicycle purchased on a grant will be prohibited from sale for 3 years.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "The applicant has to submit the application form in the prescribed format and within the time limit to the office of the designated officer. Rural Area - Chief Executive Officer, Janpad Panchayat Urban Area - Commissioner, Municipal Corporation/Chief Municipal Officer, Municipality/Municipal Council Apply duration Within 03 months from the date of purchase of the cycle."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?Schemeid=775"
+    },
+    {
+      "title": "Details",
+      "url": "https://labour.mp.gov.in/Public/Pages/Schemes/SaykalAnudanYojna.aspx"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Prescribed application form, Labor registration card/copy. Cycle purchase bill copy."
+}

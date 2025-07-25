@@ -1,0 +1,71 @@
+{
+  "scheme_id": "67498139e11394cebc9b0383",
+  "slug": "excel",
+  "scheme_name": "Employability Excellence with College Education & Learning (EXCEL)",
+  "scheme_short_title": "EXCEL",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Labour, Employment, Training and Skill Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Skills & Employment"
+  ],
+  "sub_categories": [
+    "Training and Skill Up-gradation",
+    "Career information"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Skill Development",
+    "Training",
+    "Computer"
+  ],
+  "brief_description": "The EXCEL program is a skill development initiative by the Jharkhand Government targeting 10+2 pass-out or university-level students. It integrates skill training with traditional education programs in colleges to improve employability.",
+  "detailed_description": "The \"Employability Excellence with College Education &amp; Learning (EXCEL)\" is a component of the umbrella scheme \"Mukhymantri Sarthi Yojna\" launched by the Department of Labour, Employment, Training and Skill Development, Jharkhand. It integrates skill training with traditional education programs in colleges to improve employability. The program focuses on life skills, spoken English, computer skills, and domain-specific training, benefitting students with industry-aligned capabilities.",
+  "benefits": [
+    "Provides training alongside traditional education in college campuses. Enhances employability through life skills, communication, and domain-specific training. Free-of-cost training conducted within existing college infrastructure. "
+  ],
+  "eligibility_criteria": "The applicant should be a student. The student must have completed their 12th education. Open to university students, former pass-outs, and non-college-going youth from the community are eligibile.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Candidate registration by TSP:",
+        "The candidate visits the nearest Training Service Provide Center for registration under the \"Mukhymantri Sarthi Yojna\" scheme. ",
+        "NOTE: Candidate registration would be Aadhaar-based & hence Aadhaar number at the time of candidate registration would be mandatory."
+      ]
+    },
+    {
+      "mode": "Online",
+      "steps": [
+        "Self-Registration by Candidate:",
+        "Visit the Jharkhand Skill Development Mission official website. Click on \u2018Candidate Registration' under the \u2018Registration' tab.",
+        "Create Profile:",
+        "Provide basic information such as First Name, Last Name, Username, Password, Identity Type (e.g., Aadhaar), Identity Number, Date of Birth, Gender, Mobile Number, and Email. Submit to receive a User ID and Password via SMS and email.",
+        "Login and OTP Validation:",
+        "Log in using the provided Username and Password. Enter the OTP sent to your registered mobile number to activate the User ID.",
+        "Manage Profile:",
+        "After login, access the \u2018Registration' link. Update and save user profile details such as Personal information and optional bank account details.",
+        "Contact and Educational Qualification  Information:",
+        "Enter and save your contact details, including address and communication preferences. Fill in education details if literate, or select preferred languages if illiterate. Save and submit information to the Training Service Provider (TSP).",
+        "Registration ID Generation:",
+        "On final submission, the system generates a unique Registration ID and notifications for successful registration will be sent via SMS and email.",
+        "NOTE: Aadhaar number is mandatory for registration and prevents duplicate entries."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://jsdm.jharkhand.gov.in/jsdm/cms/en/excel/"
+    },
+    {
+      "title": "Online Application",
+      "url": "https://jsdm.jharkhand.gov.in/jsdm/cms/en/#"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Aadhaar Card. Educational Certificate. Residential Certificate. Passport-sized Photograph."
+}

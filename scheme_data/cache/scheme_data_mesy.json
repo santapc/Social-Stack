@@ -1,0 +1,71 @@
+{
+  "scheme_id": "65a8ebac6093f0fa3322d020",
+  "slug": "mesy",
+  "scheme_name": "Matritva, Shishu Evam Baalika Madad Yojana",
+  "scheme_short_title": "MSEBMY",
+  "state": "Uttar Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Labour Department, Uttar Pradesh",
+  "dbt_scheme": false,
+  "categories": [
+    "Women and Child",
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial Assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Woman Empowerment",
+    "Girl Child"
+  ],
+  "brief_description": "\"Maatrtv, Shishu Evan Baalika Madad Yojana\" is a initiative of Uttar Pradesh state Government to provide the financial assistance to the mother and her girl child.",
+  "detailed_description": "The &quot;Matritva, Shishu Evam Baalika Madad Yojana&quot; is a scheme launched by the Uttar Pradesh government to provide financial assistance to construction worker women and wives of construction workers in the state during pregnancy and childbirth. The aim of this scheme is to ensure safe and healthy pregnancies and deliveries for women. <br> The objective of the scheme is to provide nutritious food to the newborn babies of eligible beneficiaries working in building and other construction processes from their birth till they complete 02 years of age and to the wives of registered female workers and registered male workers after delivery. Along with this, the objective of the scheme is to create positive thinking in the society towards the birth of girls and to give positive results by encouraging legal system like adult marriage.",
+  "benefits": [
+    "Matritva Hitlabh (Maternity benefits)",
+    "Registered male workers: \u20b96,000/- lump sum. Female workers for institutional delivery: 3 months' minimum wage equivalent + \u20b91,000/- medical bonus. Female workers for miscarriage: 6 weeks' minimum wage equivalent. Female workers for sterilization: 2 weeks' minimum wage equivalent.",
+    "Shishu Hitlabh (Child benefits)",
+    "For son: \u20b920,000/- lump sum. For daughter: \u20b925,000/- lump sum. For first or second daughter, or legally adopted daughter: \u20b925,000/- fixed deposit (matures if unmarried at 18). For handicapped daughter: \u20b950,000/- fixed deposit (matures if unmarried at 18)."
+  ],
+  "eligibility_criteria": "Matritva Hitlabh (Maternity benefits):\nBeneficiary women must be a permanent resident of Uttar Pradesh. Beneficiary women must be a registered construction worker. Beneficiary women must be above 18 years of age. Benefits will be provided only to the first two deliveries of the worker.\n\nShishu Hitlabh (Child benefits)\nFirst girl child born in the family (up to one girl child). Second girl child only if both first and second child are girls. If more than one girl child in first and second delivery, all girls are eligible. Applies to legally adopted girl child (first girl only) in childless families. Birth of girl child must be registered. Girl must remain unmarried until 18 to receive fixed deposit. Benefits will not be provided eligible if recipient of another similar government scheme.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "How to get register and apply for the scheme",
+        "Applicant must visit the below offices Nearest labor office. Tehsildar of the concerned tehsil. Block Development Officer of the concerned development block. Get the application form and fill out the completely. Attach required documents in the prescribed format. Submit the application form in the same office."
+      ]
+    },
+    {
+      "mode": "Online",
+      "steps": [
+        "How to get register",
+        "Applicant must visit the official web portal.  Provide the required details Enter Aadhaar Number. Choose Circle. Choose District. Mobile Number. Submit the registration request.",
+        "How to submit the application",
+        "Applicant must visit the official web portal . Provide the required details Choose Circle. Choose Scheme name. Enter Registered Aadhaar Number. Enter Registered Mobile Number. Click on \"Open Application form\". Provide the required details in application form. Applicant/Worker details Child details Bank Account Details Submit the required documents Submit the application request."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://www.upbocw.in/StaticPages/schemes.aspx#tab1"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://www.upbocw.in/pdf/adhisuchna/CombineBalikaMatratvaShishuYojna_21_12_2023.pdf"
+    },
+    {
+      "title": "Registration Portal",
+      "url": "https://www.uplmis.in/Guest/frm_createlogin_forlabs.aspx"
+    },
+    {
+      "title": "Apply Portal",
+      "url": "https://www.uplmis.in/Guest/frm_CreateLogin.aspx?type=2"
+    }
+  ],
+  "documents_required": "Essential Documents:\nProof of identity: Attested photocopy of the registered construction worker's identity card. Child's birth certificate: Attested photocopy of the child's birth certificate (boy or girl).\nDelivery/Medical Documents:\nDelivery certificate: Prescribed certificate issued by the medical officer for institutional delivery. Abortion/Sterilization certificate: Certificate issued by the medical officer for abortion or sterilization.\nGirl Child Support documents:\nAnganwadi registration certificate: Certificate from the Anganwadi worker confirming child's registration. Survival certificate: Proof of child's survival required for claiming the second year's benefit. Adoption records: Certified records if the child is adopted (applicable for girl child benefit)."
+}

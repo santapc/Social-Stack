@@ -1,0 +1,46 @@
+{
+  "scheme_id": "66ed097b0d644223a86b1d41",
+  "slug": "tfppt",
+  "scheme_name": "Training of Farmers on Pulses Production Technologies",
+  "scheme_short_title": "TFPPT",
+  "state": "Tamil Nadu",
+  "level": "State/ UT",
+  "nodal_department": "Agriculture Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Agriculture",
+    "Farmer",
+    "Pulses Production",
+    "Training"
+  ],
+  "brief_description": "The \"Training of Farmers on Pulses Production Technologies\" scheme aims to educate farmers on advanced pulses production technologies to enhance crop yield.",
+  "detailed_description": "The \"Training of Farmers on Pulses Production Technologies\" scheme by the Agriculture-Farmers Welfare Department, Tamil Nadu, offers financial assistance for training programs to educate farmers on advanced pulses production technologies.",
+  "benefits": [
+    "Financial Assistance: \u20b915,000/- per batch for 50 farmers. Training Program: Training on advanced pulse production techniques."
+  ],
+  "eligibility_criteria": "The beneficiary should be a Farmer. The beneficiary should be a resident of Tamil Nadu. The beneficiary should raise seed farms with Pulses crop.\n",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: Collect the application form from the nearest Agricultural Office. Step 2: Fill out the application form with the required details and attach mandatory documents (self-attested, if required). Step 3: Submit the form to the concerned office: Village Level: Submit the application to the Assistant Agricultural Officer. Block Level: Submit to the Agricultural Officer or Deputy Agricultural Officer. District Level: Submit to the Joint Director of Agriculture."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.tn.gov.in/scheme/data_view/7068"
+    }
+  ],
+  "documents_required": "Proof of identity (Aadhar card, Voter ID). Land ownership documents or lease agreement. Proof of cultivation of pulses. Caste Certificate (for SC/ST applicants). Any other documents (if required)."
+}

@@ -1,0 +1,57 @@
+{
+  "scheme_id": "6725dded63066fa2674ff2ce",
+  "slug": "ssch",
+  "scheme_name": "State Senior Citizens Home",
+  "scheme_short_title": "SSCH",
+  "state": "Mizoram",
+  "level": "State/ UT",
+  "nodal_department": "Social Welfare Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Housing & Shelter"
+  ],
+  "sub_categories": [
+    "Shelter",
+    "Rehabilitation",
+    "Shelter, integrated support and assistance",
+    "Citizen empowerment"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Senior Citizen",
+    "Social Welfare",
+    "Shelter",
+    "Old Age Home"
+  ],
+  "brief_description": "The Social Welfare & Tribal Affairs Department, Government of Mizoram launched the State Senior Citizens Home for the homeless aged persons. It provides shelter and facilities to homeless elderly individuals aged 60 and above, who lack family support.",
+  "detailed_description": "The Social Welfare &amp; Tribal Affairs Department, Government of Mizoram launched the State Senior Citizens Home for the homeless aged persons. It provides shelter and recreational facilities to homeless elderly individuals aged 60 and above, who lack family support. This Home is the only one of its kind in the state and has a capacity of 25 residents.",
+  "benefits": [
+    "Safe and secure living space for homeless elderly residents. Recreational and wellness programs to enhance quality of life. Access to essential amenities and supportive care. "
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Mizoram. The applicant's age should be 60 years or older. The applicant should have no supporter/relative. \n",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step-1: The interested applicant downloads the application form from the Social Welfare & Tribal Affairs Mizoram official website.",
+        "Step-2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3: Submit the duly filled and signed application form along with the documents to the Director of Social Welfare & Tribal Affairs, Mizoram.",
+        "Step-4: Request a receipt or acknowledgment from the Director of Social Welfare & Tribal Affairs, Mizoram to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://socialwelfare.mizoram.gov.in/page/old-age-home"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://socialwelfare.mizoram.gov.in/page/welcome-to-directorate-of-social-welfare"
+    }
+  ],
+  "documents_required": "V.C or Local Council Letter Branch YMA Recognition Letter Doctor's Letter (As available)"
+}

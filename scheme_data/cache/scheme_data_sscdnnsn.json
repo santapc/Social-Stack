@@ -1,0 +1,68 @@
+{
+  "scheme_id": "6787d934d667626b5f09f4a8",
+  "slug": "sscdnnsn",
+  "scheme_name": "State Scholarship for Class 6th to 10th (Denotified, Nomadic and Semi-Nomadic )",
+  "scheme_short_title": "SSCDNNSN",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Department of De-notified, Nomadic and Semi-nomadic Welfare Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Student",
+    "Education",
+    "Financial Assistance",
+    "Scholarship",
+    "Pre Matric",
+    "Nomadic",
+    "Denotified"
+  ],
+  "brief_description": "The \"State Scholarship for Classes 6th to 10th\" scheme provides an annual scholarship ranging from \u20b9200/- to \u20b91,200/- (for 10 months) to the students belonging to De-notified, Nomadic, and Semi-Nomadic communities studying in classes 6th to 10th.",
+  "detailed_description": "The &quot;State Scholarship for Classes 6th to 10th&quot; scheme by the Department of De-notified, Nomadic, and Semi-Nomadic Welfare, Government of Madhya Pradesh, provides an annual scholarship ranging from \u20b9200/- to \u20b91,200/- (for 10 months) to the students belonging to De-notified, Nomadic, and Semi-Nomadic communities studying in classes 6th to 10th. The scholarship is distributed by the Directorate of Public Distribution, Government of Madhya Pradesh.",
+  "benefits": [
+    "Annual Scholarship (for 10 months):",
+    "For Classes 6th to 8th",
+    "Boys: \u20b9200/- Girls: \u20b9600/-",
+    "For Classes 9th to 10th",
+    "Boys: \u20b9600/- Girls: \u20b91200/-"
+  ],
+  "eligibility_criteria": "The applicant should be a student. The applicant should be from a Denotified, Nomadic, and Semi-Nomadic Community. The applicant should be studying in Class 6th to 10th.\n*The applicant should be eligible for the scholarship even if they have failed one year.\n*The applicant should not need to reapply for renewal if they continue in the same category of classes (e.g., 6th to 8th or 9th to 10th).",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration",
+        "Step 1: Visit the \" Samarth Portal \".",
+        "Step 2: Navigate to the top right corner of the homepage and click \" Registration\". ",
+        "Step 3: On the registration page, provide the mandatory details. (the fields marked with * are mandatory). If required, verify your Mobile Number and/or Email ID via OTP. Finally, click \"Register\".",
+        "Application",
+        "Step 1: Visit the \" Samarth Portal \".  ",
+        "Step 2:  Use the credentials you created during registration to log in.",
+        "Step 3:  Navigate to the online application form of the scheme you intend to apply for.",
+        "Step 4:  In the application form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size.",
+        "Step 5:  Carefully review all the information provided. Make any necessary corrections.",
+        "Step 6:  Acknowledge and agree to the terms and conditions, declaration, and privacy policy (if any).",
+        "Step 7:  Click the \"Submit\" to submit your application."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://samarth.mp.gov.in/Public/Pages/SchemeDetail?ID=1"
+    },
+    {
+      "title": "Registration",
+      "url": "https://samarth.mp.gov.in/Registration/Default.aspx"
+    }
+  ],
+  "documents_required": "Passport-size Photograph Aadhaar Card Domicile Certificate Caste Certificate Samagra ID Bank Account Details Proof of Enrolment into Class 6th to 10th"
+}

@@ -1,0 +1,74 @@
+{
+  "scheme_id": "6837f3547e3dd76858180450",
+  "slug": "dwp",
+  "scheme_name": "Parityakta Pension Scheme",
+  "scheme_short_title": "PPSUK",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "Department Of Social Welfare",
+  "dbt_scheme": false,
+  "categories": [
+    "Women and Child",
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Pension",
+    "Financial Assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Deserted",
+    "Pension",
+    "Woman",
+    "Abandoned",
+    "Destitute",
+    "BPL"
+  ],
+  "brief_description": "The scheme aims to provide a monthly pension to Abandoned married women, mentally ill husband/wife & destitute unmarried women in the state. Under this scheme, beneficiaries receive a pension of \u20b91,200/- per month, & in case of mental disability (spouse), the amount is \u20b91,400/- per month.",
+  "detailed_description": "The scheme &amp;quot;Parityakta Pension Scheme&amp;quot; was launched by the Department of Social Welfare, Government of Uttarakhand, aims to provide a monthly pension to abandoned married women, mentally ill husbands or wives, and destitute unmarried women in the state. Under this scheme, abandoned married women, mentally ill spouses and destitute unmarried women (above 40 years of age) residing in Uttarakhand who are Below Poverty Line (BPL) cardholders or whose family income from all sources does not exceed \u20b94,000/- per month are eligible for the pension. The pension amount is credited to the beneficiary's account within one month from the date of approval.",
+  "benefits": [
+    "\u20b91,200/- per month is provided to abandoned women or unmarried destitute women. \u20b91,400/- per month is provided to mentally ill husbands or wives."
+  ],
+  "eligibility_criteria": "The applicant should be a permanent resident of Uttarakhand. The applicant's total family income should not exceed \u20b94,000/- per month or the applicant must belong to a Below Poverty Line (BPL) family. The applicant should fall into one of the following categories:\nAn abandoned married woman (the marriage must be more than one year old, and the husband must have been missing or has abandoned her for more than one year), OR A mentally ill married person (husband or wife), OR An unmarried, destitute woman aged above 40 years.\nNote: If a destitute unmarried woman gets married, the applicant will become ineligible.",
+  "application_process": [
+    {
+      "mode": "Online - via CSC",
+      "steps": [
+        "Step 1: The applicant should gather copies of the necessary documents needed to apply for the concerned scheme. Step 2: The applicant should visit the nearest Common Service Center (CSC) and complete the Biometric Verification Process. Step 3: The applicant should ensure that the CSC agent completes all mandatory fields in the application form and uploads copies of all required documents. Step 4: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable)."
+      ]
+    },
+    {
+      "mode": "Online",
+      "steps": [
+        "Application Procedure:",
+        "Visit the official Social Security State Portal of Uttarakhand. Click on the \"Online Application\" button in the main menu bar. Select the \"New Online Application\" option from the dropdown menu. A registration form will appear. Select the desired scheme and fill in the required details step by step. Ensure the applicant's name exactly matches the name on the Aadhaar card and bank passbook. Verify that auto-filled fields such as scheme, district, area, tehsil, block, panchayat, village, city, and ward are accurate, as they cannot be edited later. When entering the applicant's name, father's/husband's name, and address in Hindi, type them in English; the system will automatically convert them to Hindi. Provide only Aadhaar-linked mobile numbers and CBS bank account numbers. Scan and prepare all required documents in PDF format before beginning the application. Once all details are filled, click the \"Save\" button to save the application form. After saving, login credentials (ID and password) will be sent via SMS to the registered mobile number. Use the received credentials to log in to the portal through the \"Applicant Login\" option. Review and update application information if needed after logging in. Click on the \"Upload Documents\" section to upload all required documents. Ensure all documents are in PDF format, under 1 MB in size, and are clear and valid. After uploading, download and verify each document to confirm accuracy. Once all documents are uploaded, click on \"Print Application Form\" to obtain a hard copy of the submitted application.",
+        "Note: ",
+        "Once the application is found to be valid and approved, the pension amount is credited to the beneficiary's account within one month from the date of approval.",
+        "Technical Assistance:",
+        "If you face any technical issues during the online application process, please contact",
+        "Toll-Free Number: 1800 180 4236 WhatsApp/Mobile: 6395221188",
+        "Landline Numbers:",
+        "0135\u20132674121 0135\u20132674122 0135\u20132669764",
+        "Email:",
+        "swditcell@gmail.com itcell-swd-uk@nic.in"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Page No. 17)",
+      "url": "https://cdnbbsr.s3waas.gov.in/s339e6f67916920d9419b3d92cf1e9a958/uploads/2025/03/202503051772421971.pdf"
+    },
+    {
+      "title": "User Manual",
+      "url": "https://ssp.uk.gov.in/Documents/ProcessForRegistration.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://ssp.uk.gov.in/Home.aspx"
+    }
+  ],
+  "documents_required": "Mobile Number of the Applicant. Passport size Photograph (duly attested by Gram Pradhan or BPDO (Block Panchayat Development Officer) for rural areas and Ward Member for urban areas) Aadhaar Card Voter ID Card CBS Bank Account Passbook (linked/seeded with Aadhaar) Valid Family Income Certificate or BPL Certificate Copy of Family Register (only for rural areas) Copy of Resolution Passed in an Open Meeting (Passed by Gram Panchayat in rural areas and Passed by Ward Member in urban areas) Self-declaration (if deserted) Medical Certificate (if spouse is mentally challenged)"
+}

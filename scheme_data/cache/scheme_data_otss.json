@@ -1,0 +1,53 @@
+{
+  "scheme_id": "67b1e68ed6a94de2eeddab20",
+  "slug": "otss",
+  "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+  "scheme_short_title": "OTSS",
+  "state": "Goa",
+  "level": "State/ UT",
+  "nodal_department": "Commercial Taxes Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Utility & Sanitation"
+  ],
+  "sub_categories": [
+    "Electricity"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Electricity",
+    "Agriculture",
+    "Waiver",
+    "Bill"
+  ],
+  "brief_description": "\"One Time Settlement (O.T.S.) Scheme\" aims to recover outstanding electricity dues from defaulting consumers by offering a waiver of delayed payment charges. Beneficiaries can pay only the principal amount in a lump sum, applicable to consumers with arrears up to \u20b920,000/- as of 31-3-2008.",
+  "detailed_description": "Launched in 2009, the scheme &quot;One Time Settlement (O.T.S.) Scheme&quot; by the Electricity Department, Government of Goa aims to facilitate the quick recovery of outstanding electricity dues from defaulting consumers with accumulated arrears of up to \u20b920,000/- as of 31-3-2008. The scheme offers a waiver of delayed payment charges, including 18% interest, allowing consumers to pay only the principal amount in a lump sum. It is applicable to consumers in categories such as LIG (Low-Income Group), Domestic, Agriculture, Small Commercial, and LTP (Motive Power), whose installations are temporarily or permanently disconnected. The scheme is implemented by the Sub-Divisional Officers of the Electricity Department and is valid for three months from the date of notification.",
+  "benefits": [
+    "All delayed payment charges, including 18% interest, will be waived off for consumers whose cases are referred to the Revenue Recovery Court (R.R.C.) from the date of referring the case till the date of realization of outstanding dues. Consumers will have to pay only the principal amount in a lump sum. The \u20b9100/- deposited along with the application will be adjusted against the energy bill to be settled under the scheme.",
+    "*If the consumer backs out or fails to pay the finalized amount within the specified period, the \u20b9100/- will be forfeited."
+  ],
+  "eligibility_criteria": "The scheme is applicable to defaulting consumers in the categories of LIG (Low-Income Group), Domestic, Agriculture, Small Commercial, and LTP (Motive Power). Consumers with accumulated arrears of up to \u20b920,000/- as of 31-3-2008 are eligible. The scheme is applicable to consumers whose installations are temporarily or permanently disconnected as of 31-3-2008 for non-payment of outstanding arrears. Consumers whose cases have been referred to the Revenue Recovery Court (R.R.C.) are also eligible.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: Eligible consumers should apply to the concerned Sub-Divisional Officer of the Electricity Department in the prescribed format . Submit the application along with a Demand Draft (D.D.) or Pay Order of \u20b9100/- in favour of the Chief Electrical Engineer.",
+        "Step 2: The Sub-Divisional Officer will communicate the total finalized amount of the bill and the last date of payment to the consumer. The consumer must pay the finalized amount in one lump sum within one month from the date of communication.",
+        "*The \u20b9100/- deposited along with the application will be adjusted against the energy bill to be settled under the scheme.",
+        "*For consumers whose cases have been referred to the Revenue Recovery Court (R.R.C.), the Assistant Engineer will approach the concerned Mamlatdar for withdrawal of the case upon full settlement of the bill.",
+        "*If the consumer backs out from the scheme or fails to pay the finalized amount within the specified period, the \u20b9100/- will be forfeited to the Government.",
+        "Billing Dispute Redressal",
+        "In cases where the break-up of actual energy charges and delayed payment charges (D.P.C.) are not available with the Sub-Divisional Office, the case shall be referred to the Billing Dispute Redressal Committee for amicable settlement."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Page No. 21)",
+      "url": "https://ditc.goa.gov.in/sites/default/files/Preferential-Purchase-Incentives-for-Micro-and-Small-Enterprises.pdf"
+    }
+  ],
+  "documents_required": "\u20b9100/- in the form of a Demand Draft (D.D.) or Pay Order drawn in favour of the Chief Electrical Engineer, payable at the local accredited bank."
+}

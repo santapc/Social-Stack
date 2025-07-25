@@ -1,0 +1,63 @@
+{
+  "scheme_id": "683c52f7a8a587808b2b7bc6",
+  "slug": "cmherps",
+  "scheme_name": "Chief Minister's Higher Education Research Promotion Scheme",
+  "scheme_short_title": "CMHERPS",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "Department Of Higher Education",
+  "dbt_scheme": true,
+  "categories": [
+    "Science, IT & Communications",
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Research & Development",
+    "Apprenticeships and training"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Stipend",
+    "Research",
+    "Higher Education",
+    "Student",
+    "Research Scholar",
+    "Research Grant"
+  ],
+  "brief_description": "The scheme aims to promote high-quality, interdisciplinary research in higher education institutions across the state. Under this scheme, a one-time research grant of up to \u20b915 lakhs (extendable to \u20b918 Lakhs in special cases) is provided, alongwith a monthly stipend of \u20b95,000 for research assistant.",
+  "detailed_description": "The scheme &amp;quot;Chief Minister&amp;#39;s Higher Education Research Promotion Scheme&amp;quot; was launched by the Department of Higher Education, Government of Uttarakhand. The scheme aims to promote high-quality, interdisciplinary research in higher education institutions across the state. Under this scheme, a one-time research grant of up to \u20b915,00,000 is provided, which may be extended to \u20b918,00,000 in special cases. Additionally, a monthly stipend of \u20b95,000 is offered for research assistants. The broad subject areas eligible for research include Science, Arts and Humanities, Home Science, Commerce, and Management. However, interdisciplinary research proposals are also encouraged. Priority will be given to research proposals focusing on specific problems and those falling under the Problem and Action-Based Research Programme.",
+  "benefits": [
+    "One-Time Research Grant:",
+    "Up to \u20b915,00,000/- per project, extendable to \u20b918,00,000/- in special circumstances.",
+    "Monthly Stipend:",
+    "\u20b95,000/- per month for research assistants from the start to the completion of the research.",
+    "Disbursement Details:",
+    "Mode: Direct Benefit Transfer (DBT) to the institution's Research & Development cell. Frequency: In three installments - 50% upon approval, 30% after submission of the utilization certificate, and 20% upon completion of the research. Validity: Funds must be utilized within the approved research timeline.",
+    "Note 1: Research must be original and align with UGC standards.",
+    "Note 2: The research duration is up to 2 years, extendable by 1 year in special cases.",
+    "Note 3: Only one research project is permissible per researcher at a time."
+  ],
+  "eligibility_criteria": "The applicant should be a permanent resident of Uttarakhand. The applicant should be a regular faculty member, student, or research scholar in government colleges or state university campuses. Research proposals should fall under Science, Arts and Humanities, Home Science, Commerce, Management, or interdisciplinary areas. Research proposals related to Uttarakhand that demonstrate productivity and utility in social, economic, contemporary, or other areas of special importance will be encouraged. Priority will be given to proposals that focus on specific problems and fall under the Problem and Action-Based Research Programme. Research proposals may also be invited based on specific requests from state government departments. Note: A co-research investigator can also be included along with the principal research investigator in the research proposal.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "The applicant submits the research proposal along with the required documents.",
+        "  New User Registration",
+        "Register and apply online through the Samarth Portal: https://uttarakhand.samarth.ac.in/index.php/site/login ",
+        "Complete the registration form with the requisite details, including your name, Aadhaar card number, email ID, and mobile number. Establish a password for your account. Upon successful registration, the applicant will receive a User ID and password. Login & Application Process: Log in using the provided User ID and password to access the application form. Fill in the complete application form. Upload the required documents, including a photograph, caste certificate, residential certificate, land ownership proof, etc. Submit the application form.",
+        "Post-application Process:",
+        "The application must be forwarded by the institution's principal or registrar within 15 days; otherwise, it will auto-forward to the next level. An evaluation committee will assess the proposal. Upon approval, funds will be disbursed in three installments as per the disbursement details."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Page No. 87)",
+      "url": "https://cdnbbsr.s3waas.gov.in/s339e6f67916920d9419b3d92cf1e9a958/uploads/2025/03/202503051772421971.pdf"
+    }
+  ],
+  "documents_required": "Aadhaar Card PAN Card Bank Account Details Permanent Residence Certificate Appointment Letter (for faculty) Enrollment Certificate (for students/research scholars) Research Proposal Declaration stating non-receipt of similar benefits previously"
+}

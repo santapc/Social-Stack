@@ -1,0 +1,83 @@
+{
+  "scheme_id": "67066cc61810a9ba9ad7807f",
+  "slug": "fafejkbocwwb",
+  "scheme_name": "Financial Assistance for Funeral Expenses (JKBOCWWB)",
+  "scheme_short_title": "FAFEJKBOCWWB",
+  "state": "Jammu and Kashmir",
+  "level": "State/ UT",
+  "nodal_department": "Department of Labour and Employment",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Building Worker",
+    "Construction Worker",
+    "Labour",
+    "Death",
+    "Funeral Expenses"
+  ],
+  "brief_description": "The \"Financial Assistance for Funeral Expenses\" scheme by the BOCW Welfare Board, Labour Department, Jammu and Kashmir, is a welfare scheme that provides financial assistance to the nominees of a deceased registered member for covering funeral expenses.",
+  "detailed_description": "The \"Financial Assistance for Funeral Expenses\" scheme by the Building and Other Construction Workers Welfare Board, Labour Department, Jammu and Kashmir, is a welfare program for registered workers. Under this scheme, \u20b95,000/- is provided as funeral assistance to the nominee or legal heir upon the death of the registered worker.",
+  "benefits": [
+    "\u20b95,000/- is provided as funeral assistance."
+  ],
+  "eligibility_criteria": "The applicant must be the nominee or legal heir of the deceased worker. The deceased worker must have been registered with the Jammu and Kashmir Building & Other Construction Workers Welfare Board. The deceased worker must have been an active member of the Board at the time of death. The scheme can be applied for only once.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Application -",
+        "Step 1: Go to the official website of the Jammu & Kashmir Building and Other Construction Workers Welfare Board.",
+        "Step 2: Click on \"Login,\" enter your details, and sign in to your account.",
+        "Step 3: After logging in, click on \"Scheme Registration\" and select \"Apply for Scheme.\"",
+        "Step 4: Choose the scheme you wish to apply for in order to avail the benefits.",
+        "Step 5: Enter all required information and upload the necessary documents as prompted.",
+        "Step 6: Finally, click on \"Submit Application\" to complete the process.",
+        "Status Tracking -",
+        "Applicant can track their application status online through the official website of the Jammu & Kashmir Building and Other Construction Workers Welfare Board. Relevant updates will be sent to the registered mobile number."
+      ]
+    },
+    {
+      "mode": "Offline",
+      "steps": [
+        "  Step 1: The interested applicant should visit the JKBOCWWB office during office hours and request a hard copy of the prescribed application form from the staff responsible for issuing and collecting filled-in applications.",
+        "OR",
+        "The interested applicant can print the Scheme application form (Page no. 19).  ",
+        "Step 2: In the application form, fill in all mandatory fields, paste a passport-sized photograph (signed across, if required), and attach copies of all mandatory documents (self-attested, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the required documents to the Assistant Labour Commissioner (ALC ) of your district.",
+        "Step 4: Request a receipt or acknowledgement from the concerned authority upon submission. Ensure the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable).",
+        "NOTE: Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.jkbocw.gov.in/StaticPages/SchemeInformation.aspx"
+    },
+    {
+      "title": "Website",
+      "url": "https://jkbocw.gov.in/Index.aspx"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://jkbocw.gov.in/MediaGallery/CITIZEN_CHARTER.pdf"
+    },
+    {
+      "title": "User Manual",
+      "url": "https://www.jkbocw.gov.in/Documents/LabourRegistrationManualPublicUser.pdf"
+    },
+    {
+      "title": "Application Form Page No.19",
+      "url": "https://www.jkbocw.gov.in/downloads/circ.pdf"
+    }
+  ],
+  "documents_required": "Identity Card of the Deceased Worker Identity Proof of the Nominee/Legal Heir Certificate of Being a Nominee/legal Heir Passport-size Photograph Death Certificate Undertaking Any Other Documents as Required"
+}

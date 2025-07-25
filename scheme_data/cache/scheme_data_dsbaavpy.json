@@ -1,0 +1,77 @@
+{
+  "scheme_id": "67bb637e550228dc0e102e22",
+  "slug": "dsbaavpy",
+  "scheme_name": "Dr. Savita Ben Ambedkar Antarjatiya Vivah Prothsahan Yojana",
+  "scheme_short_title": "DSBAAVPY",
+  "state": "Rajasthan",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Empowerment Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance",
+    "Marriage"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Inter-caste",
+    "Marriage"
+  ],
+  "brief_description": "The \"Dr. Savita Ben Ambedkar Antarjatiya Vivah Prothsahan Yojana\" aims to eliminate caste discrimination and promote social harmony. Under this scheme, eligible inter-caste married couples receive a financial incentive.",
+  "detailed_description": "The &quot;Dr. Savita Ben Ambedkar Antarjatiya Vivah Prothsahan Yojana&quot; implemented by the Social Justice and Empowerment Department, Government of Rajasthan. Under this scheme, a financial incentive of \u20b95,00,000/- is provided to inter-caste married couples to support their married life and household setup. > ***Objectives:*** - To eliminate caste-based discrimination and untouchability. - To promote social harmony by encouraging inter-caste marriages between Scheduled Caste individuals and upper-caste Hindus. - To provide financial assistance to inter-caste couples for economic stability and social acceptance. <br>",
+  "benefits": [
+    "Financial Assistance:",
+    "Financial assistance of \u20b95,00,000/- is provided per couple.",
+    "Disbursement Process:",
+    "\u20b92,50,000/- is deposited as a fixed deposit in a nationalized bank for eight years (not withdrawable before maturity). \u20b92,50,000/- is directly transferred to the couple's joint bank account for household and essential needs."
+  ],
+  "eligibility_criteria": "One of the applicants should belong to the general category, and the other should be from the scheduled caste. Both applicants should be natives of Rajasthan. The age of the applicant should not be more than 35 years (females above 18 years and males above 21 years) at the time of applying. The annual family income of the couple must not exceed \u20b92,50,000/-. The applicant should not have any criminal record. The couple must not have received financial benefits from similar state/central government schemes. There should be no case of remarriage; the benefit of this scheme is given only on the first marriage. A man who marries a widow shall be free from the contract of first marriage.\n",
+  "application_process": [
+    {
+      "mode": "Online - via CSC",
+      "steps": [
+        "Step 1: The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.",
+        "Step 2: The applicant should visit the nearest E-Mitra Center and complete the Biometric Verification Process.",
+        "Step 3: The applicant should ensure that the E-Mitra Center agent completes all mandatory fields in the application form and uploads copies of all required documents.",
+        "Step 4: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "Verfification Process:",
+        "The District Social Justice and Empowerment Officer will verify the application within one month. If discrepancies are found, the applicant will be given one month to rectify the issues. Upon successful verification, the approved financial incentive is disbursed in two parts.",
+        "NOTE: The application must be submitted within one year from the date of marriage."
+      ]
+    },
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration",
+        "Step-1: Applicant have to visit the official portal .",
+        "Step-2: Click on the option \" Register \".",
+        "Step-3: Then you will be redirected to the SSO registration page. The registration page will appear with the following options.",
+        "Citizen",
+        "Step-4: Choose the either one option from the Jan Aadhaar Or Google to process further.",
+        "Jan Aadhaar : Enter the Jan Aadhaar number, click on the \u2018Next' button, Select your name, the name of the head of the family and all the other members and Click on the \u2018Send OTP' button. Enter the \u2018OTP' and Click on the \u2018Verify OTP' button to Complete the registration.",
+        "Google : Enter the Gmail ID, click on the \u2018Next' button, Enter the password. A new link appear on screen, now click on new SSO link. SSO id will appear on screen, now create the password. Enter Mobile number, click on registration.",
+        "Apply",
+        "Step-1: Applicant have to visit the official portal .",
+        "Step-2: After login, dashboard will open.",
+        "Step-3: Click on \"IFMS-RAJSSP\" option.",
+        "Step-4: Select \"Continue to RajSSP\".",
+        "Step-5: Now click on \"Apply for Scheme\" on screen.",
+        "Step-6: In this new page, will get a list of names of all the schemes, and click on the name of \"SCHOLARSHIP (SJE)\"",
+        "Step-7: Fill out all relevant details.",
+        "Step-8: Submit."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sje.rajasthan.gov.in/Tenders/43610.pdf"
+    }
+  ],
+  "documents_required": "Marriage Registration Certificate. Caste Certificate (for Scheduled Caste spouse). Residence Certificate. Birth Certificate or Educational Certificate for age proof. Aadhaar Card and Bhamashah Card. Joint Bank Account Details (Nationalized Bank). PAN Card. Income Certificate (Self-Declaration Form). Joint Photograph of the Couple. Death Certificate of Previous Spouse (if applicable for widows). Sworn Affidavit (Notarized) stating the caste of the upper-caste spouse."
+}

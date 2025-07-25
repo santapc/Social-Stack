@@ -1,0 +1,73 @@
+{
+  "scheme_id": "65a26cf06093f0fa331e839f",
+  "slug": "ipr",
+  "scheme_name": "Intellectual Property Right Scheme Under MSME Innovative Scheme",
+  "scheme_short_title": "IPR",
+  "level": "Central",
+  "dbt_scheme": false,
+  "categories": [
+    "Business & Entrepreneurship"
+  ],
+  "sub_categories": [
+    "Intellectual property rights and patents",
+    "Setting up / start-up / entrepreneurship"
+  ],
+  "target_beneficiaries": [
+    "Business Entity"
+  ],
+  "tags": [
+    "Patents",
+    "Trademarks",
+    "Copyrights",
+    "Designs",
+    "Geographical Indications",
+    "Business & Entrepreneurship"
+  ],
+  "brief_description": "Intellectual Property Right Scheme offers legal and intellectual property filing support including patents, trademarks, copyrights, designs, geographical indications (GI) etc.",
+  "detailed_description": "Launched by the Ministry of Micro, Small &amp;amp; Medium Enterprises , Intellectual Property Right Scheme offers legal and intellectual property filing support including patents, trademarks, copyrights, designs, geographical indications (GI) etc. The programme also provides IP advisory, consultation, Patentability Searches, Technology Gap Analyses and IP commercialisation through the establishment of Intellectual Property Facilitation Centres (IPFCs) across the country. **Objective:** The objective of the scheme is to improve the IP culture in India with the following interventions: \u2022 To enhance the awareness of Intellectual Property Rights (IPRs) amongst the MSMEs and to encourage creative intellectual endeavour in Indian economy; \u2022 To take suitable measures for the protection of ideas, technological innovation and knowledge-driven business strategies developed by the MSMEs for their commercialization and effective utilization of IPR tools. **Activities:** \u2022 Establishment of Intellectual Property Facilitation Centres (IPFCs). \u2022 Reimbursement for registration of Patent, Trademark, Geographical Indications (G.I.), Design through IPFCs.",
+  "benefits": [
+    "A Grant of up to \u20b9 1,00,00,000/- would be provided to an IPFC in milestone-based (three or more) instalments. Reimbursement for registration of Patent, Trademark, Geographical Indications (G.I.), and Design: The maximum financial assistance to the eligible applicants under the IPR component is as follows:",
+    "S. No. | Item | Maximum Financial Assistance\n1. | Foreign Patent | \u20b9 5,000,00/-\n2. | Domestic Patent | \u20b9 1,000,00/-\n3. | GI Registration | \u20b9 2,000,00/-\n4. | Design Registration | \u20b9 15,000/-"
+  ],
+  "eligibility_criteria": "The beneficiary unit(s) must typically be a registered micro, small or medium enterprises. Should have a valid Udyog Aadhaar Memorandum (UAM) or Udyam Registration certificate.\n",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process:",
+        "Step 01: After opening the website https://innovative.msme.gov.in/ , click on Intellectual Property Rights (IPR) .",
+        "Step 02: On the next window ,scroll down click on For registration as IPFC.",
+        "Step 03: Fill all the required details and click on Submit .",
+        "Step 04: Click on Validate ."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://innovative.msme.gov.in/Home/IprIndex"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://innovative.msme.gov.in/Documents/MSME_InnovativeFAQ.pdf"
+    },
+    {
+      "title": "Reimbursement For Patent",
+      "url": "https://my.msme.gov.in/MyMsme/Reg/COM_IprGopAppForm.aspx"
+    },
+    {
+      "title": "Reimbursement For GI",
+      "url": "https://my.msme.gov.in/MyMsme/COM_GiAppRegistration.aspx"
+    },
+    {
+      "title": "Reimbursement For Trademark",
+      "url": "https://my.msme.gov.in/MyMsme/Reg/COM_IprTradeAppForm.aspx"
+    },
+    {
+      "title": "Reimbursement For Design Patent",
+      "url": "https://my.msme.gov.in/MyMsme/Reg/COM_IprDesignAppForm.aspx"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Udyog Aadhaar Memorandum (UAM) or Udyam Registration (UR) certificate. UAM Registered mobile number."
+}

@@ -1,0 +1,52 @@
+{
+  "scheme_id": "670e3fe4eb7b25fc85ce15c6",
+  "slug": "rgis",
+  "scheme_name": "Rural Girls' Incentive Scheme",
+  "scheme_short_title": "RGIS",
+  "state": "Tamil Nadu",
+  "level": "State/ UT",
+  "nodal_department": "Backward Classes Most Backward Classes and Minorities Welfare Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Student Finance",
+    "Scholarship",
+    "Incentive",
+    "Rural Development"
+  ],
+  "brief_description": "The Scheme provides financial support to girls students of Most Backward Classes (MBC) and Denotified Communities (DNC) studying in rural government or government-aided schools, aimed at encouraging education and reducing school dropouts.",
+  "detailed_description": "The scheme \"Rural Girls' Incentive Scheme&amp;quot; launched by the Backward Classes, Most Backward Classes and Minorities Welfare Department, Tamil Nadu, offers financial aid to girls students of Most Backward Classes (MBC) and Denotified Communities (DNC), attending government or government-aided schools in rural areas, excluding Chennai District. Priority is given to girls from families headed by widows or destitute parents. The scheme aims to enhance educational opportunities and reduce dropout rates among these communities.",
+  "benefits": [
+    "Financial Assistance:",
+    "For 3rd to 5th grade: \u20b9500/- per annum. For 6th grade: \u20b91,000/- per annum."
+  ],
+  "eligibility_criteria": "The beneficiary should be a student. The beneficiary should be a female. The beneficiary should be a resident of Tamil Nadu (should not be from Chennai District). The beneficiary should be from a rural area. The beneficiary should belong to the Most Backward Classes (MBC)/ Denotified Communities (DNC). The beneficiary should be Studying in classes 3rd to 6th in government or government-aided schools The beneficiary's parental annual income should not exceed \u20b91,00,000/-. Note: This scheme is implemented in all the Districts except Chennai District. Preference will be given to Girl Children of Widows/ Destitutes.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "The eligible and willing students are requested to contact the Headmaster of the Government/Government Aided Schools concerned in Rural areas."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://bcmbcmw.tn.gov.in/welfschemes.htm#incentive_scheme"
+    },
+    {
+      "title": "Community List",
+      "url": "https://bcmbcmw.tn.gov.in/community_list.pdf"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Proof of identity (Aadhar card or any other document as directed by the authority). Caste certificate (MBC/DNC category). Proof of school admission (enrollment in a government or government-aided school). Widow or destitute certificate (if applicable). Address proof (rural area). Proof of Income (parental annual income should be less than \u20b91,00,000/-). Any other documents (if required). "
+}

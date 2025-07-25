@@ -1,0 +1,60 @@
+{
+  "scheme_id": "63a52da197da3d02867ac23b",
+  "slug": "pahal-dbtl",
+  "scheme_name": "Pratyaksh Hanstantrit Labh / Direct Benefits Transfer For LPG",
+  "scheme_short_title": "PAHAL / DBTL",
+  "level": "Central",
+  "categories": [
+    "Utility & Sanitation"
+  ],
+  "sub_categories": [
+    "LPG cylinder",
+    "Local services"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Cylinder",
+    "LPG",
+    "Subsidy"
+  ],
+  "brief_description": "PAHAL (DBTL) has been introduced to curb the diversion of subsidized LPG. Under the scheme, Consumers will pay the market price for the domestic cylinder and the subsidy will be transferred directly to their bank account",
+  "detailed_description": "&quot;Pratyaksh Hanstantrit Labh / Direct Benefits Transfer For LPG (PAHAL)&quot; launched by the Ministry Of Petroleum and Natural Gas, ensures transparency by transferring LPG subsidies directly to consumers&#39; bank accounts, eliminating diversion and reducing subsidy leakages. It empowers users, improves delivery, and enables self-selection for subsidy, with provisions for Aadhaar-linked and non-Aadhaar-linked accounts. This initiative protects consumer entitlement, prevents fraud, and promotes efficient subsidy management.",
+  "benefits": [
+    "Direct Subsidy Transfer: LPG consumers receive subsidies directly in their bank accounts automatically. Improved Availability: Enhanced market availability of new LPG connections for genuine consumers. Health Benefits: Replaces unclean cooking fuels, reducing indoor pollution and preventing respiratory diseases among women and children in rural areas."
+  ],
+  "eligibility_criteria": "The applicant must be an LPG user. The combined taxable income of the applicant and their spouse should not exceed \u20b910,00,000 in the previous financial year, as per the Income Tax Act, 1961.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Through Bank:",
+        "Step 1: Visit your bank branch where you hold an account.",
+        "Step 2: Carry a copy of your Aadhaar card along with the original for verification.",
+        "Step 3: Request the bank staff to link your Aadhaar number with your bank account.",
+        "Step 4: Fill out the Aadhaar linking form provided by the bank and submit it along with a copy of your Aadhaar card.",
+        "Step 5: The bank will notify you upon successful linking.",
+        "Through LPG Distributor:",
+        "Step 1: Visit your LPG distributor's office.",
+        "Step 2: Carry a copy of your Aadhaar card and the original for verification.",
+        "Step 3: Provide your LPG Consumer Number and request Aadhaar linking.",
+        "Step 4: Fill out the Aadhaar linking form provided by the distributor and submit it along with a copy of your Aadhaar card.",
+        "Step 5: You will be notified once the linking process is completed successfully.",
+        "Note: If the applicant does not link their Aadhaar Number to their Bank Account and LPG Consumer Number within 3 months, they will need to purchase cylinders at the market price. Subsidies will no longer be available without Aadhaar linkage."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://mopng.gov.in/en/marketing/pahal"
+    },
+    {
+      "title": "Booklet",
+      "url": "https://mopng.gov.in/files/uploads/Booklet_edited.pdf"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Form 1 - Submit a copy of the Aadhaar letter to the LPG distributor or bank Form 2 - Aadhaar letter, in addition to residential proof, to be submitted to the LPG distributor Form 3 - A copy of a current refill slip consisting of a 17-digit LPG ID number Form 4 - A copy of a bank passbook's front page and a canceled cheque"
+}

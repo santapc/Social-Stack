@@ -1,0 +1,55 @@
+{
+  "scheme_id": "66b8db120d7fcba78456d05a",
+  "slug": "far-tbocwwb",
+  "scheme_name": "Fatal Accident Relief - Telangana",
+  "scheme_short_title": "FART",
+  "state": "Telangana",
+  "level": "State/ UT",
+  "nodal_department": "Labour, Employment Training and Factories Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance",
+    "Crisis/Disaster/Accident",
+    "Insurance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Accidental Death",
+    "Construction Workers"
+  ],
+  "brief_description": "The \"Fatal Accident Relief\" scheme is a welfare initiative by the Telangana Government aimed at providing financial support to the nominee, dependents, or legal heirs of registered building and other construction workers in the unfortunate event of their accidental death.",
+  "detailed_description": "The &quot;Fatal Accident Relief&quot; scheme was launched by the Telangana Building and Other Construction Workers Welfare Board (TB&amp;OCWWB), LET&amp;F (Labour) Department, Telangana. The scheme aims to provide financial support to the nominee, dependents, or legal heirs of registered building and other construction workers in the unfortunate event of their accidental death. The scheme offers a substantial relief amount to help the families cope with the sudden loss of their breadwinner.",
+  "benefits": [
+    "A relief amount of \u20b96,00,000/- is provided to the nominee, dependents, or legal heirs of the deceased registered worker."
+  ],
+  "eligibility_criteria": "The applicant should be the nominee/dependant / legal heir of the deceased registered worker. The deceased must have been a registered building or construction worker with the Telangana Building and Other Construction Workers Welfare Board. The construction worker should have died on the spot or due to the injuries caused by an accident that occurred either in the work place or anywhere else.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step-1: The interested applicant visits the official website and clicks on \" Downloads \" at the top of menu options.",
+        "Step-2: Now click on the download button corresponding to the scheme name.",
+        "Step-3 : In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-4: Submit the duly filled and signed application form along with the documents to the concerned officer in the labour department.",
+        "Step-5: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://tbocwwb.telangana.gov.in/newsite/pdf_files/2016LETF_MS29.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://tbocwwb.telangana.gov.in/new_gos.html"
+    }
+  ],
+  "documents_required": "Passport-size Photo of the Applicant. Registration Card under BOCW Act (Original). Renewal Challan Copy. Death Certificate. FIR issued by Police Station (Attested copy). Postmortem Report (Attested copy). Advance Stamped Receipt. 1 st page of Bank pass book (Attested copy)."
+}

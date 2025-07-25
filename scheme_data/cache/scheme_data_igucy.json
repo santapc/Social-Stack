@@ -1,0 +1,56 @@
+{
+  "scheme_id": "6572e8a1fb2e1ccc6546df96",
+  "slug": "igucy",
+  "scheme_name": "Indira Gandhi Utkrisht Chattervriti Yojana",
+  "scheme_short_title": "IGUCY",
+  "state": "Himachal Pradesh",
+  "level": "State",
+  "nodal_department": "Education Department, Himachal Pradesh",
+  "implementing_agency": "National Scholarship Portal",
+  "dbt_scheme": true,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Education",
+    "Student",
+    "Financial Assistance",
+    "Scholarship"
+  ],
+  "brief_description": "A merit-based scholarship scheme of \u20b918,000 per annum by the Department of Higher Education, Government of Himachal Pradesh will be awarded to 10 toppers each from Class 12 (Arts, Science, and Commerce) and from the merit list of B.A., B.Sc. and B.Com",
+  "detailed_description": "The Department of Higher Education, Government of Himachal Pradesh introduced a scheme named &amp;quot;**Indira Gandhi Utkrisht Chattervriti Yojana**&amp;quot; for post plus two students. Through this scheme, a scholarship of \u20b918,000/- per annum will be awarded to 10 meritorious students each from Class 12 (Arts, Science, and Commerce) and from the merit list of B.A., B.Sc. and B.Com. degree. The scholarship will be renewed yearly until they complete the degree/course. This scheme aims to recognize and financially support exceptionally meritorious students pursuing higher education, promoting academic excellence and equal opportunities across the state.",
+  "benefits": [
+    "A total of 150 meritorious students will receive \u20b918,000 per annum based on merit."
+  ],
+  "eligibility_criteria": "To be eligible, an applicant must  be a bonafide resident of Himachal Pradesh and fulfil the below academic criteria: Class 12: Students must have secured a minimum of 60% marks in the Himachal Pradesh Board of School Education (HPBOSE) Class 12 examination in any stream (Arts, Science, Commerce). Graduate Level: Students must have secured a minimum of 60% marks in the undergraduate degree examination from a recognized university. be enrolled in an academic or professional stream at a recognized university or institution within or outside Himachal Pradesh.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Visit the Official Website of the National Scholarship Portal . and click \" New Registration \". Guidelines for Registration will appear. Read the One Time Registration (OTR) Guidelines. Register using mobile number and complete e-KYC process and submit. In case applicant has forgotten his OTR/Reference number, click on the website to retrieve the same. Once registered, click on \" Applicant login \" on the Scholarship portal. Enter your OTR/Reference number and password. Type the Captcha and click \"Login\". On the next screen, provide the OTP received on your registered mobile number. You will be directed to the Password Reset screen. Create a new password and confirm. Click \"Submit\". You will be directed to the \"Applicant's Dashboard\". Click \"Application Form\". The fields marked as * are compulsory. Fill in the details and upload the documents. You can either click on \"Save as Draft\" to complete the application later. Else, click \"Final Submit\" to submit the application.",
+        "NOTE: All the applicants are advised to fill the form correctly, no changes can be made once submitted. The applicants are also advised to fill in only one application as multiple applications will cancel the form."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://scholarships.gov.in/public/schemeGuidelines/HP_state_scheme/Indira_Gandhi_Utkrisht_Chhatravriti_Yojna-merged-202324.pdf"
+    },
+    {
+      "title": "FAQ",
+      "url": "https://scholarships.gov.in/public/FAQ/HP_Queries.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://education.hp.gov.in/?q=regarding-merit-list-indira-gandhi-utkristh-chhatervriti-yojna-2023-24"
+    }
+  ],
+  "documents_required": "Academic transcripts including marksheets and certificates. Admission letter. Caste certificate (if applicable) Disability certificate (if applicable) Domicile certificate. Bank account details."
+}

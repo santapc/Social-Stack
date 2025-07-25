@@ -1,0 +1,54 @@
+{
+  "scheme_id": "67643567c903566dc4a6ff0e",
+  "slug": "spy",
+  "scheme_name": "Sarvajan Pension Yojana",
+  "scheme_short_title": "SPY",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Women, Child Development & Social Security Department",
+  "categories": [
+    "Social welfare & Empowerment",
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Pension",
+    "Financial assistance",
+    "Financial Assistance",
+    "Citizen empowerment",
+    "Assistance to Widows"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Person With Disabilities",
+    "Financial Assistance",
+    "Destitute",
+    "Senior Citizen"
+  ],
+  "brief_description": "The scheme aims to provide financial assistance of per month to elderly individuals, widows, destitute women, differently-abled persons, primitive tribes, and HIV/AIDS patients. The scheme eliminates previous age restrictions and targets inclusivity by guaranteeing pensions to all eligible.",
+  "detailed_description": "The &quot;Sarvajan Pension Yojana&quot; was launched by the Department of Women, Child Development &amp; Social Security, Government of Jharkhand. The scheme aims to provide financial assistance of \u20b91,000/- per month to elderly individuals, widows, destitute women, differently-abled persons, primitive tribes, and HIV/AIDS patients. The scheme eliminates previous age restrictions and targets inclusivity by guaranteeing pensions to all eligible citizens above the age of 60.",
+  "benefits": [
+    "A pension of \u20b91,000/- per month.",
+    "Note: Timely pension disbursal by the 5th of every month."
+  ],
+  "eligibility_criteria": "The applicant must be a resident of Jharkhand. The applicants should be elderly, widows, destitute women, differently-abled, primitive tribes and people suffering from HIV/AIDS. The senior citizen's age should be 60 years or above. The destitute women's age should be 18 years or above The differently-abled age should be 5 years or above.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the Block Development Officer in the rural area and the Circle Officer in the urban area and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents to the Block Development Officer in the rural area and the Circle Officer in the urban area.",
+        "Step 4: Request a receipt or acknowledgment from the Block Development Officer in the rural area and the Circle Officer in the urban area to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cm.jharkhand.gov.in/node/13224"
+    }
+  ],
+  "documents_required": "Voter ID Disability Certificate (if applicable) HIV/AIDS Medical Certificate (if applicable) Any Other Document if Required"
+}

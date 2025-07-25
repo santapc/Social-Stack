@@ -1,0 +1,53 @@
+{
+  "scheme_id": "671a26d380ec82b742b904fc",
+  "slug": "fat75opd",
+  "scheme_name": "Financial Assistance to 75% or Permanent Disability",
+  "scheme_short_title": "FAT75OPD",
+  "state": "Maharashtra",
+  "level": "State/ UT",
+  "nodal_department": "Labour Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Disability",
+    "Construction Worker",
+    "Medical Treatment"
+  ],
+  "brief_description": "The Financial Assistance to 75% or Permanent Disability was launched by the Maharashtra Building & Other Construction Workers Welfare Board (MBOCWW), Labor Department Maharashtra. In scheme, financial assistance of \u20b92,00,000/- to the registered worker in case of 75 % or more permanent disability.",
+  "detailed_description": "The scheme Financial Assistance to 75% or Permanent Disability was launched by the Maharashtra Building And Other Construction Workers Welfare Board (MBOCWW), Labor Department Maharashtra. Under the scheme, financial assistance of \u20b92,00,000/- to the registered worker in case of 75 % or more permanent disability (the benefit can be availed only after 26th July 2014 as the benefit is covered under the Mediclaim &amp; Personal Accident Insurance scheme).",
+  "benefits": [
+    "Financial assistance of \u20b92,00,000/- is provided by the Board to the registered worker for 75% or more permanent disability. "
+  ],
+  "eligibility_criteria": "The worker must be engaged in building or construction work. The worker should be registered under the Maharashtra Building and Other Construction Workers Welfare Board (MBOCWW). The worker should have a 75% or permanent disability. \n",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step-1: The interested applicant downloads the application form from the MBOCWW official website.",
+        "Step-2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3: Submit the duly filled and signed application form along with the documents to the Labor Commissioner / Government Labor Officer.",
+        "Step-4: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://mahakamgar.maharashtra.gov.in/welfare-scheme-for-building-other-construction-workers.htm"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://mahabocw.in/"
+    }
+  ],
+  "documents_required": "Passport-size Photo Aadhaar Card Identity Card of Maharashtra Building and Other Construction Workers Welfare Board Bank Passbook Disability Certificate (issued by competent medical officer/board) Medical Treatment Payments Proof of Residence (One of Aadhaar Card/Passport/Driving Licence/Ration Sheet/Last Month's Electricity Bill/Gram Panchayat Certificate)"
+}

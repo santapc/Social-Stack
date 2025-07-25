@@ -1,0 +1,46 @@
+{
+  "scheme_id": "67f62be9ca4dbdfd530e9c27",
+  "slug": "sfyyrc",
+  "scheme_name": "State Food Yojana (Yellow Ration Card)",
+  "scheme_short_title": "SFYYRC",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "Department Of Food & Civil Supplies",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Food Security / Public Distribution System"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Ration",
+    "Social Welfare",
+    "Food",
+    "Financial Assistance"
+  ],
+  "brief_description": "\"State Food Yojana (Yellow Ration Card)\" is a social welfare scheme implemented by the Department Of Food, Civil Supplies & Consumer Affairs, Government of Uttarakhand, that provides food per month at a nominal rate to the yellow ration card holder of the state.",
+  "detailed_description": "&amp;quot;State Food Yojana (Yellow Ration Card)&amp;quot; is a social welfare scheme implemented by the Department Of Food, Civil Supplies &amp;amp; Consumer Affairs, Government of Uttarakhand.Under this scheme, 7.50 K.G. rice per month at a cost of \u20b911/- per K.G. is provided to the yellow ration card holder of the state.",
+  "benefits": [
+    "7.50 K.G. rice per month at a cost of \u20b911/- per K.G."
+  ],
+  "eligibility_criteria": "The applicant should be a permanent resident of Uttarakhand. Annual family income of the applicant should be \u20b95,00,000/- or less.\n",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: To apply for the Yellow Ration Card, the applicant needs to collect the application form from the office of the Panchayat Development Officer/ Supply Inspector/ Regional Food Officer/ District Supply Officer of the concerned area. Step 2: Attach all the mandatory documents( Self attested, if required). Step 3: Submit the application at the office of the Panchayat Development Officer/ Supply Inspector/ Regional Food Officer/ District Supply Officer of the concerned area. Step 4: The concerned person can get the ration card by contacting the District Supply Office within 10 days."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Page No. 60)",
+      "url": "https://cdnbbsr.s3waas.gov.in/s30fe473396242072e84af286632d3f0ff/uploads/2025/02/20250227396322764.pdf"
+    }
+  ],
+  "documents_required": "Aadhaar card of all the family members, Photo of the Village Head, Phone Number, Bank Account Details, Gas Connection Details, Voter ID card, PAN Card, Income Certificate, Electricity Bill."
+}

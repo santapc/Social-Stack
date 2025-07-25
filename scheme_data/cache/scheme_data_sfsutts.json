@@ -1,0 +1,51 @@
+{
+  "scheme_id": "67e299736e3110d98b54431e",
+  "slug": "sfsutts",
+  "scheme_name": "Subsidy for School Uniforms to the Students",
+  "scheme_short_title": "SFSUTTS",
+  "state": "Delhi",
+  "level": "State/ UT",
+  "nodal_department": "Education Department",
+  "dbt_scheme": true,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance",
+    "Resources for schools"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Education",
+    "Student",
+    "Uniform",
+    "Subsidy"
+  ],
+  "brief_description": "The scheme aims to provide cash subsidies for school uniforms to students from Nursery to Class XII in government and aided schools. Benefits include annual payments ranging from \u20b91,100/- to \u20b91,500/-, ensuring financial support for all eligible students.",
+  "detailed_description": "The scheme &quot;Subsidy for School Uniforms to the Students&quot; by the Department of Education (DoE), Government of National Capital Territory (GNCT) of Delhi, aims to provide financial assistance to students for purchasing school uniforms, ensuring equitable access to education. Under this scheme, a cash subsidy is provided annually to students from Nursery to Class XII, irrespective of gender or income, to alleviate the financial burden on families. The scheme covers students enrolled in government and aided schools, with varying amounts allocated based on class levels. The subsidy amounts range from \u20b91,100/- to \u20b91,500/- per annum, depending on the class. Eligibility is universal for students in the specified classes, with no income or gender-based restrictions. The scheme is implemented by the Department of Education, GNCT of Delhi.",
+  "benefits": [
+    "Cash Subsidy Amounts",
+    "Nursery to Class 5th: \u20b91,100/- per annum. Class 6th to 8th: \u20b91,400/- per annum. Class 9th to 12th: \u20b91,500/- per annum.",
+    "Disbursement",
+    "Mode: Direct cash subsidy, disbursed annually to students or their guardians.",
+    "Validity: Applicable for the academic year in which the subsidy is disbursed."
+  ],
+  "eligibility_criteria": "The applicant should be a student enrolled in a government or aided school in Delhi. The applicant should be studying in any class from Nursery to 12th Standard.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "The scheme \"Subsidy for School Uniforms to the Students\" does not require any formal application from students, as the process is managed by the school authorities. The school verifies the students' enrollment and class details, compiles a list of eligible students, and submits it to the Department of Education."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://lancersconvent.ac.in/pdf/scholarship/Welfare%20Schemes%20Of%20DoE.2.pdf"
+    }
+  ],
+  "documents_required": "School Admission/Enrollment Proof (Fee Receipt or School ID Card) Class-wise Enrollment Details Bank Account Details"
+}

@@ -1,0 +1,69 @@
+{
+  "scheme_id": "67962c7046318cd7df63188f",
+  "slug": "epy",
+  "scheme_name": "Eklavya Prashikshan Yojana",
+  "scheme_short_title": "EPY",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Higher and Techical Education Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance",
+    "Coaching",
+    "Universities and higher education"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Free Coaching",
+    "Financial Assistance",
+    "Student",
+    "UPSC",
+    "SSC"
+  ],
+  "brief_description": "The \"Eklavya Prashikshan Yojana\" by the Directorate of Higher Education, Government of Jharkhand, aims to provide free coaching and financial aid for competitive exam preparation. Eligible students receive free coaching and \u20b92,500/- monthly assistance during the coaching period.",
+  "detailed_description": "The &quot;Eklavya Prashikshan Yojana&quot; by the Directorate of Higher Education, Department of Higher and Technical Education, Government of Jharkhand, aims to provide free coaching and financial assistance to students preparing for competitive exams conducted by national and state-level agencies. Under this scheme, students from Jharkhand receive free coaching and a monthly stipend of \u20b92,500/- to help them succeed in examinations such as UPSC, JPSC, SSC, Railway Recruitment, and banking exams.",
+  "benefits": [
+    "\u20b92,500/- monthly stipends per student during the coaching period. Coaching will be provided by nationally reputed institutions within Jharkhand."
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Jharkhand state. The student should have passed 10 th and 12 th from any recognized school in the state of Jharkhand or should possess a local residence certificate of Jharkhand. The applicant must know the local customs, language, and culture knowledge. The student's annual family income should be less than \u20b98,00,000/- or should be covered under the National/State Food Security Scheme. The applicant must fulfil the eligibility criteria of the examination for which he/she is applying for coaching under the scheme. The applicant received similar benefits from any other department not be eligible for dual benefit under this scheme. The student can avail the benefit only once under this scheme.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process:",
+        "Step 01: Go to the official website of Eklavya Prashikshan Yojna and click on \"Registration\".",
+        "Step 02: Fill the required details name, mobile number email id and complete the process.",
+        "Step 03: The student will get an confirmation SMS registered mobile number and an email id.",
+        "Application Process:",
+        "Step 01: Fill the application form and upload the required documents.",
+        "Step 02: Click on \"Submit\" to get application Id.",
+        "NOTE:",
+        "The student must secure at least 75% attendance for the entire duration of the coaching. Students must pass a screening test conducted by a government-approved agency. Merit lists are prepared based on marks and preferences."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (New)",
+      "url": "https://eklavya.apphost.in/document/eklavya_guideline.pdf"
+    },
+    {
+      "title": "Guidelines (Old)",
+      "url": "https://www.jharkhand.gov.in/PDepartment/ViewDoc?id=D013DO0058SD0013807122023050109959"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://eklavya.apphost.in/"
+    },
+    {
+      "title": "FAQ's",
+      "url": "https://eklavya.apphost.in/Home/FAQ"
+    }
+  ],
+  "documents_required": "Color Photograph of the student. Signature of the student. Student's Aadhaar Card. Class 10 TH Certificate and Marksheet. Class 12 TH Certificate. Residence Certificate. Income Certificate. Self-attested Copy of ration card for National/State Food Security Scheme covered student. Caste Certificate (issued by Sub-Divisional Officer/Circle Officer)."
+}

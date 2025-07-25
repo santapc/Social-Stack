@@ -1,0 +1,45 @@
+{
+  "scheme_id": "672202497e8c50418c872cf7",
+  "slug": "ecssl",
+  "scheme_name": "Employees Cooperative Societies Surety Loan",
+  "scheme_short_title": "ECSSL",
+  "state": "Tamil Nadu",
+  "level": "State/ UT",
+  "nodal_department": "Co-operation, Food and Consumer Protection Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Banking,Financial Services and Insurance"
+  ],
+  "sub_categories": [
+    "Loan"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Surety Loan",
+    "Employees Cooperative Societies"
+  ],
+  "brief_description": "The scheme provides loans up to \u20b91,50,000/- at an interest rate of 14%. It is aimed at assisting citizens by offering financial support through surety loans from the Employees Cooperative Societies.",
+  "detailed_description": "The &amp;quot;Employees Cooperative Societies Surety Loan&amp;quot; scheme launched by the Co-operation, Food and Consumer Protection Department, Tamil Nadu, aims to provide a maximum loan amount of \u20b91,50,000/- at an interest rate of 14% (subject to change) through surety loans from the Employees Cooperative Societies. The purpose of this scheme is to extend loans to eligible citizens for financial support. &lt;br&gt;",
+  "benefits": [
+    "Access to Loan: Surety loans up to \u20b91,50,000/-. Interest Rate: 14% (subject to change). "
+  ],
+  "eligibility_criteria": "The beneficiary should be a resident of Tamil Nadu. The beneficiary should be a member of an Employees Cooperative Society. The beneficiary should be interested in availing Employees Cooperative Societies Surety loan. ",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should collect the application form by contacting the Secretary/ Special Officer of the office of the Employees Cooperative Society. Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required). Step 3: Submit the duly filled and signed application form along with the documents to the concerned authority.. Step 4: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.tn.gov.in/scheme/data_view/3616"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Identity proof (Aadhaar, PAN card, etc.). Address proof. Proof of employment or Income Certificate (if applicable). Any other documents (if required)."
+}

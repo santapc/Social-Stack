@@ -1,0 +1,48 @@
+{
+  "scheme_id": "685d30db38d49a55968fa124",
+  "slug": "nfbsbpl",
+  "scheme_name": "National Family Benefit Scheme for BPL Families",
+  "scheme_short_title": "NFBSBPL",
+  "state": "Haryana",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Empowerment Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Banking,Financial Services and Insurance"
+  ],
+  "sub_categories": [
+    "Insurance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Family Benefit",
+    "BPL",
+    "Death Compensation",
+    "Destitute"
+  ],
+  "brief_description": "The scheme \"National Family Benefit Scheme for BPL Families\" by the Social Justice and Empowerment Department, Government of Haryana, aims to provide one-time financial assistance to economically vulnerable families after the death of the primary breadwinner.",
+  "detailed_description": "The scheme &amp;quot;National Family Benefit Scheme for BPL Families&amp;quot; by the Social Justice and Empowerment Department, Government of Haryana, aims to provide financial relief of \u20b920,000 to low-income families who lose their main earning member, thereby offering socio-economic stability in times of crisis. It targets families below the poverty line or categorized as destitute, whose deceased member was between the ages of 18 to 59 years and had no other source of income or government support. The financial benefit is granted to the new head of the family post-verification. The scheme excludes families with high-income children or members holding high-ranking positions or professional occupations. Application must be made within one year of the death of the breadwinner.",
+  "benefits": [
+    "Monetary Benefit: \u20b920,000/- (one-time assistance)."
+  ],
+  "eligibility_criteria": "The applicant should be a permanent resident of Haryana. The applicant's name should be registered in the BPL list or classified as destitute. The applicant should be between 18 and 59 years of age. The applicant should not have any other source of income. If eligible, both husband and wife are entitled to receive the benefit individually. The applicant should not be receiving assistance or pension under any other government scheme. The application must be submitted within one year from the date of death of the breadwinner. The applicant must be the head of the family or a surviving family member considered the head after investigation.\nNote:\nBenefit will be given to such surviving members in the family of the deceased, who after investigation, will be considered as the head of the family. The word family means husband/wife/minor children/unmarried daughters and dependent parents. If any woman's parents are also living in house of her daughter and son-in-law, then that too will be considered part of the family.\n",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process on Antyodaya-SARAL Portal:",
+        "Step 1: Visit the Official Portal: Antyodaya-SARAL Portal.  Step 2: For registration, click on \"New User/Register Here\" and fill in all the mandatory details i.e. Name, Email ID, Mobile Number & password. Click on \u2018Submit'. Step 3: Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile. Login to Apply for the Scheme: Step 1: Visit the Official Portal: Antyodaya-SARAL Portal.  Step 2: The \"Sign in here\" option is available on the right side of the screen. Fill in the required credentials and click on the \u2018Login' button. Step 3: In the opened window, click on \"Scheme/Services list\" and a list of schemes will appear on the screen. Step 4: Now, select the scheme and click on \"Apply for Service/Scheme\". Step 5: Fill in all the details in the online application form and click on \"Submit\". Track Your Service Online: Track Application/Appeal: Click here . Track Ticket: Click here . Track Your Service Through SMS: Registered Mobile Number: Type SARAL and send to 9954699899 to track your application. Other Mobile Number: Type SARAL<space><Application ID/Ticket No.> and send to 9954699899 to track your application/ticket. Contact Us: Helpline: 0172-3968400 Email: saral.haryana@gov.in"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=5FvpaIM28ThhAUL1mBf2bg=="
+    }
+  ],
+  "exclusions": "The applicant is ineligible if any child is a Class-I/Class-II Gazetted Officer or earns an equivalent salary. The applicant is ineligible if the deceased's parents are income tax payers. The applicant is ineligible if the deceased or their children are former or current MPs, MLAs, or Chairpersons of Boards/Corporations. The applicant is ineligible if any child is a professional such as a doctor, advocate, CA, IT consultant, financial or management consultant, engineer, or architect.",
+  "documents_required": "Voter ID. Ration Card. Residence Certificate of the Deceased. Death Certificate. Applicant's Mobile Number. Applicant's Photo. Identity/Citizenship Proof: Aadhaar Card. Saving Bank account details of the applicant with a Photocopy of the Passbook. Family ID of the Applicant."
+}

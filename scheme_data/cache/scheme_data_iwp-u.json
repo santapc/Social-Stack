@@ -1,0 +1,57 @@
+{
+  "scheme_id": "67a307731269f7da4109cef4",
+  "slug": "iwp-u",
+  "scheme_name": "INDIRAMMA Weavers Pension (Urban)",
+  "scheme_short_title": "IWP-U",
+  "state": "Andhra Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Panchayat Raj Rural Employment",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Pension",
+    "Financial assistance",
+    "Citizen empowerment"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Weaver",
+    "Pension",
+    "Urban",
+    "Senior Citizen",
+    "Below Poverty Line",
+    "BPL"
+  ],
+  "brief_description": "\"INDIRAMMA Weavers Pension (Urban)\" scheme aims to provide monthly pensions to destitute weavers aged 50 years or above. To be eligible, they should be from a BPL family, and be a resident of Andhra Pradesh. The eligible individuals will be identified by their respective Ward Sabhas.",
+  "detailed_description": "Launched in 2006-07, the scheme &quot;INDIRAMMA Weavers Pension (Urban)&quot; by the Department of Rural Development, Government of Andhra Pradesh, aims to provide financial assistance to destitute weavers aged 50 years or above. To be eligible, they should be from a BPL family, be a resident of a district of Andhra Pradesh, and not be covered under any other Pension Scheme. The eligible individuals will be identified by their respective Ward Sabhas. The Bill Collector disburses the pension to the eligible individuals on the first date of every month.",
+  "benefits": [
+    "Pension Amount: The scale of benefit under the pension will be notified by the Government of Andhra Pradesh.",
+    "Mode of Disbursement: The Bill Collector disburses the pension to the eligible individuals in the presence of Ward members and office bearers of DWCUA.",
+    "Time of Disbursement: The pension is disbursed on the first date of every month."
+  ],
+  "eligibility_criteria": "The applicant should be from a Below Poverty Line (BPL) family. The applicant should be from an urban area. The applicant should be a local resident of a district of Andhra Pradesh. The applicant should not be covered under any other Pension Scheme. The applicant should be 65 years of age or above. The applicant should be destitute (with little or no means of subsistence and no family or relative to depend upon).\n*The eligible citizens will be identified by their respective Ward Sabhas. The register containing the list of eligible citizens will be shared by the Bill Collector with the Municipal Commissioner.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: Identification of Eligible Persons",
+        "The Ward Sabha identifies eligible persons based on the eligibility criteria. A ward-wise register of eligible persons is maintained by the Bill Collector.",
+        "Step 2: Recommendation and Sanction",
+        "The Bill Collector sends Ward Sabha resolution recommending eligible persons to the Municipal Commissioner. The Municipal Commissioner scrutinizes eligibility and sanctions pensions based on municipality-wise allocation.",
+        "Step 3: Disbursement of Pensions",
+        "The Project Director (DRDA) sends pension acquittance list and funds to Municipal Commissioners. The Municipal Commissioner issues cheques to Bill Collectors. The Bill Collector disburses pensions to pensioners in the presence of Ward members and DWCUA office bearers."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://handlooms.ap.gov.in/documents/Old_age_pensions_(Urban)_GO.pdf"
+    }
+  ],
+  "documents_required": "Domicile Certificate Proof of Age Below Poverty Line (BPL) Certificate Proof of being a Weaver by Profession"
+}

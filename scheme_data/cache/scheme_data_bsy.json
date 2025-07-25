@@ -1,0 +1,52 @@
+{
+  "scheme_id": "6448fc6bc32557d068ee018d",
+  "slug": "bsy",
+  "scheme_name": "Bal Sakha Yojana",
+  "scheme_short_title": "BSY",
+  "state": "Gujarat",
+  "level": "State",
+  "nodal_department": "Women and Child Development Department",
+  "categories": [
+    "Health & Wellness",
+    "Utility & Sanitation"
+  ],
+  "sub_categories": [
+    "Children\u2019s health and immunization",
+    "Medicine and health products"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Bal Sakha",
+    "Child Protection",
+    "Child Health",
+    "Primary Healthcare Services",
+    "National Health Mission"
+  ],
+  "brief_description": "Under this scheme, all babies born to BPL mothers in the State (approximately 3,00,000 births per annum) will be covered for neonatal care by partnering pediatricians, including care in their Neonatal Intensive Care Unit (level 2 ) at no cost to the beneficiary.",
+  "detailed_description": "1. The Bal Sakha Yojana is a community-based program that aims to provide support to children in need of care and protection. The scheme is implemented by the Department of Women and Child Development in collaboration with the NHM and the State Child Protection Society. 1. A network of trained volunteers called &amp;quot;Bal Sakhis&amp;quot; are deployed in villages and urban areas to identify and report cases of child abuse, neglect, and exploitation. 1. The Bal Sakhis also provide support to families in need of assistance to ensure the well-being of their children. The scheme also provides financial assistance to children in need of care and protection. 1. The scheme is targeted towards vulnerable children in the age group of 0-18 years, especially those from socially and economically disadvantaged backgrounds. The Bal Sakha Yojana aims to ensure the overall development and well-being of children by providing them with necessary support and protection.",
+  "benefits": [
+    "Under this scheme, expert care will be provided to newborn babies to ensure child health. The paediatrician attends all eligible newborns at the place of birth and has to ensure their survival by providing early neonatal care including immunizations at birth, nutrition advice."
+  ],
+  "eligibility_criteria": "All newborns up to 30 days old belonging to Below Poverty Line (BPL) families and Scheduled Caste categories, who do not pay income tax, will be eligible for benefits.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Women can contact primary social workers ASHA present in all village and urban area Anganwadi centres Women can contact to District Development officer or Chief District Health Officer if she faces any obstacles while availing the of benefits."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Details",
+      "url": "https://nhm.gujarat.gov.in/bal-sakha-yojana.htm"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://ananddp.gujarat.gov.in/anand/documents/balshakha-yojna.pdf"
+    }
+  ],
+  "documents_required": "Aadhaar card BPL card/Ration Card Scheduled caste certificate, if applicable Authorization by a locally recognized authority Application form is available from the hospital itself Income certificate Any other documents as required"
+}

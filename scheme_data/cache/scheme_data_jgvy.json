@@ -1,0 +1,75 @@
+{
+  "scheme_id": "685e4a8a61dd0be9e0816318",
+  "slug": "jgvy",
+  "scheme_name": "Jyoti Gramodyog Vikas Yojana",
+  "scheme_short_title": "JGVY",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Industries and Mines Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Business & Entrepreneurship",
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Setting up / start-up / entrepreneurship",
+    "Credit Linked Subsidy",
+    "Financial assistance",
+    "Citizen empowerment",
+    "Micro finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Business",
+    "Rural",
+    "Village",
+    "Artisan",
+    "SHG",
+    "Subsidy",
+    "Margin Money"
+  ],
+  "brief_description": "The scheme provides margin money subsidies (25\u201330%) for new rural industrial projects (\u20b91,00,000/- to 25,00,000/-) to artisans, entrepreneurs, and SHGs, leveraging a 24-hour electricity supply in villages. Beneficiaries must be aged 25\u201350 years with a Class 10th education.",
+  "detailed_description": "Launched on 7th September 2015, the scheme &quot;Jyoti Gramodyog Vikas Yojana&quot; by the Commissioner of Cottage and Rural Industries, Industries &amp; Mines Department, Government of Gujarat, aims to promote rural entrepreneurship by providing financial assistance (margin money subsidy) for setting up new village industries in areas with 24x3-phase electricity supply. The scheme targets individual artisans, entrepreneurs, and Self-Help Groups (SHGs) with project costs ranging from \u20b91,00,000/- to \u20b925,00,000/-. It offers 25\u201330% margin money subsidy (higher for SC/ST/women/PH candidates) to incentivize production-oriented ventures. Applications are submitted offline through District Industries Centres (DICs), and subsidies are disbursed after a 2-year successful project run.",
+  "benefits": [
+    "Margin Money Subsidy",
+    "For General Category",
+    "25% for projects up to \u20b910,00,000/-. 25% on first \u20b910,00,000/- + 10% on remaining cost (up to \u20b925,00,000/-).",
+    "For SC/ST/Women/Physically Handicapped",
+    "30% for projects up to \u20b910,00,000/-. 30% on first \u20b910,00,000/- + 10% on remaining cost (up to \u20b925,00,000/-).",
+    "Project Cost Coverage",
+    "Includes machinery, raw materials, and working capital (max 10% of total cost). Excludes land/building expenses.",
+    "Disbursement",
+    "The subsidy is credited to the beneficiary's account after 2 years of successful operation (upon verification by DIC)."
+  ],
+  "eligibility_criteria": "The applicant must be aged between 25 to 50 years. The applicant must have passed at least Class 10 from a recognized educational board. The applicant must possess at least one year of experience in the proposed business activity or relevant training from a recognized institution. The applicant must be either an individual artisan/entrepreneur or part of a Grade-II active Self Help Group engaged in small-scale production. The applicant's proposed project must be located in a rural area with a population not exceeding 20,000. The applicant must not represent a partnership firm, private limited company, joint venture, HUF, or similar commercial entity. For SC/ST, women, and physically handicapped applicants, additional benefits are provided as specified in the benefits section.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit the District Industries Centre (District Ughogh Kendra) of their district, and collect the prescribed format for scheme application from the designated staff.",
+        "OR",
+        "The interested applicant should take a printout of the prescribed format of the application form.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the designated staff.",
+        "Step 4: Request a receipt or acknowledgement from the staff to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines [Commissioner Of Cottage & Rural Industries]",
+      "url": "https://cottage.gujarat.gov.in/Home-5E25723F2E72-214079-282472242566-242566"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://cottage.gujarat.gov.in/FileExplorer/JGVY.pdf"
+    },
+    {
+      "title": "Subsidy Form",
+      "url": "https://cottage.gujarat.gov.in/FileExplorer/SUBSIDY.pdf"
+    }
+  ],
+  "documents_required": "Aadhaar Card/Voter ID. Class 10th marksheet. Training Certificates or Employment Records. Project Proposal, with Cost Estimates, Machinery Quotations. Bank Details, for subsidy disbursement."
+}

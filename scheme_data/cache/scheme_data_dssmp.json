@@ -1,0 +1,57 @@
+{
+  "scheme_id": "67aad9c9f5fa5651e9749b38",
+  "slug": "dssmp",
+  "scheme_name": "Divyangjan Scholarship Scheme",
+  "scheme_short_title": "DSSMP",
+  "state": "Chhattisgarh",
+  "level": "State/ UT",
+  "nodal_department": "Social Welfare Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Education & Learning",
+    "Health & Wellness"
+  ],
+  "sub_categories": [
+    "Financial assistance",
+    "Scholarships and student finance",
+    "Health promotion"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Education",
+    "Student",
+    "Disability",
+    "Scholarship",
+    "Financial Assistance"
+  ],
+  "brief_description": "\"Divyangjan Scholarship Scheme\" provides financial assistance for the education and training of differently-abled children, who are regular students in a school or college. The application needs to be submitted to the District Office, Panchayat and Social Welfare / Janpad Panchayat Office.",
+  "detailed_description": "&quot;Divyangjan Scholarship Scheme&quot; by the Social Welfare Department, Government of Chhattisgarh provides financial assistance for the education and training of differently-abled children, who are regular students in a school or college. The application needs to be submitted in prescribed format to the District Office, Panchayat and Social Welfare / Janpad Panchayat Office through the Head of the Institution.",
+  "benefits": [
+    "\u20b9150/- per month for the Students of 1st to 5th Standard \u20b9170/- per month for the Students of 6th to 8th Standard \u20b9190/- per month for the Students of 9th to 12th Standard"
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Chhattisgarh. The applicant should be a Student. The applicant should be differently-abled. The applicant should have a disability of 40% or above. The applicant should be a regular student in a college/technical school.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should take print of the prescribed format of the application form available on the official website of the Social Welfare Department, Government of Chhattisgarh.",
+        "Step 2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the District Office of Social Welfare / Janpad Panchayat Office through the Head of the institution."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sw.cg.gov.in/disabilities-scholarship-scheme"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://sw.cg.gov.in/sites/default/files/divyangscholarshipscheme.pdf"
+    }
+  ],
+  "documents_required": "Disability Certificate Residence Proof (Aadhaar Card, Ration Card, or any government-issued ID). Income Certificate Bonafide Certificate from the school, college, or technical institution. Previous Academic Marksheet Bank Account Details"
+}

@@ -1,0 +1,78 @@
+{
+  "scheme_id": "67873872d667626b5f08b0a4",
+  "slug": "hpmsm",
+  "scheme_name": "Haryana Pre Matric Scholarship For Minority",
+  "scheme_short_title": "HPMSM",
+  "state": "Haryana",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Empowerment Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance",
+    "Education and training grants, fellowship, stipend"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Minority",
+    "Scholarship",
+    "Education",
+    "Student",
+    "Tuition Fees",
+    "Admission Fees",
+    "Allowance"
+  ],
+  "brief_description": "Launched in June 2006 under the Prime Minister's New 15 Point Programme for the Welfare of Minorities, the \"Pre-Matric Scholarship for Students Belonging to the Minority Communities\" is a Centrally Sponsored Scheme by the Ministry of Minority Affairs, Government of India.",
+  "detailed_description": "Launched in June 2006 under the Prime Minister&#39;s New 15 Point Programme for the Welfare of Minorities, the &quot;Pre-Matric Scholarship for Students Belonging to the Minority Communities&quot; is a Centrally Sponsored Scheme by the Ministry of Minority Affairs, Government of India, implemented by the Government of Haryana. Through this scheme, scholarships including admission fees up to \u20b9500 per annum, tuition fees up to \u20b9350 per month, and maintenance allowance ranging from \u20b9100 to \u20b9600 per month are provided to minority community students studying in classes 1 to 10 whose family income is less than \u20b91,00,000 per annum. The applications are accepted through State Government/Union Territory Administration. The scheme is being implemented by the Haryana State Government with a special focus on encouraging parents from minority communities to support their children&#39;s school education.",
+  "benefits": [
+    "Admission Fee (Class 6 to 10):",
+    "Up to \u20b9500 per annum (for both hostellers and day scholars)",
+    "Tuition Fee (Class 6 to 10):",
+    "Up to \u20b9350 per month (for both hostellers and day scholars)",
+    "Maintenance Allowance (for 10 months):",
+    "Class 1 to 5 (Day Scholars): \u20b9100 per month",
+    "Class 6 to 10:",
+    "Hostellers: \u20b9600 per month",
+    "Day Scholars: \u20b9100 per month"
+  ],
+  "eligibility_criteria": "The applicant should belong to Muslim, Sikh, Christian, Buddhist, Jain, or Zoroastrian (Parsi) community in Haryana. The applicant should be studying in classes 1 to 10 in a government or private school in Haryana. The applicant should have secured minimum 50% marks in the previous final examination. The applicant's family annual income should not exceed \u20b91,00,000 from all sources. The applicant should be studying in a government or private school selected and notified by the State Government. The applicant should be a regular student in the school.\n\nPreferences:\n30% scholarships are earmarked for girl students. Priority given based on poverty rather than marks. Renewal applications are considered before new applications.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Keep ready the soft copies of the required documents.",
+        "Go to the National Scholarship Portal (NSP) . and click \"Apply Now\".",
+        "Guidelines for Registration will appear. Scroll to the bottom.",
+        "Read carefully the undertaking. Accept the Terms. Click \"Continue\".",
+        "Step 2: A Registration Form will appear. (The fields marked as * are compulsory.)",
+        "Fill in the details and click \"Register\".",
+        "Your Application ID and password will be displayed.",
+        "The same will also be sent as an SMS to your registered mobile number.",
+        "Step 3: Go to Login with OTR .",
+        "Click on \"Login to Apply\". Enter your Application ID and password.",
+        "Type the Captcha and click \"Login\".",
+        "On the next screen, provide the OTP received on your registered mobile number. You will be directed to the Password Reset screen.",
+        "Create a new password and confirm.",
+        "Click \"Submit\". You will be directed to the \"Applicant's Dashboard\".",
+        "Step 4: On the left pane, click \"Application Form.\" The fields marked as * are compulsory. Fill in the details and upload the documents.",
+        "You can either click on \"Save as Draft\" to complete the application later.",
+        "Else, click \"Final Submit\" to submit the application."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://haryana.gov.in/scheme/pre-matric-scholarship/"
+    },
+    {
+      "title": "Guideline",
+      "url": "https://cdnbbsr.s3waas.gov.in/s37b7a53e239400a13bd6be6c91c4f6c4e/uploads/2020/05/2020051461-1.pdf"
+    }
+  ],
+  "documents_required": "Proof of belonging to minority community Income certificate Mark sheet/report card of previous final examination School enrollment/admission proof Proof of residence"
+}

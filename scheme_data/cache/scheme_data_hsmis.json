@@ -1,0 +1,66 @@
+{
+  "scheme_id": "679fc042c422e791f9c30f55",
+  "slug": "hsmis",
+  "scheme_name": "Haryana State Meritorious Incentive Scheme",
+  "scheme_short_title": "HSMIS",
+  "state": "Haryana",
+  "level": "State/ UT",
+  "nodal_department": "Higher Education Department",
+  "dbt_scheme": true,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance",
+    "Universities and higher education",
+    "Education and training grants, fellowship, stipend"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Education",
+    "Merit",
+    "Incentive",
+    "Student",
+    "Scholarship"
+  ],
+  "brief_description": "The scheme \"Haryana State Meritorious Incentive Scheme\" by the Department of Higher Education, Government of Haryana, aims to promote academic excellence among students in government colleges. It provides financial incentives to top-performing students based on merit in annual examinations.",
+  "detailed_description": "The scheme &quot;Haryana State Meritorious Incentive Scheme&quot; by the Department of Higher Education, Government of Haryana aims to support meritorious students studying in government colleges by providing them with financial incentives. Monetary rewards are granted to students who secure top positions in annual university examinations across Arts, Commerce, Science (Medical and Non-Medical), and Education streams.",
+  "benefits": [
+    "Monetary Incentive",
+    "\u20b95,000/- per annum for students securing the first position in their stream. \u20b93,000/- per annum for students securing the second position in their stream. \u20b92,000/- per annum for students securing the third position in their stream.",
+    "Mode of Disbursement",
+    "Payment is made through Direct Benefit Transfer (DBT).",
+    "Validity",
+    "The incentive is applicable only for the academic year in which the student secures a top position."
+  ],
+  "eligibility_criteria": "This scheme will be college-specific and three meritorious students in each stream who stood first, second and third in the annual university examination will be given this incentive. The award will be given only to students pursuing general courses in the Government Colleges. Candidates from Non-Government Colleges and those who pursue their studies through correspondence courses/open universities will not be eligible for the award.\nNOTE\nThe merit list will be prepared separately for the Boys (General Category), Girls (General Category) and Scheduled Caste students (Combined list of girls and boys). If Scheduled Caste students qualify for the general list, his/her name will be considered in the general list and an extra award will be given (on a merit basis only) to the students of the Scheduled Caste category. The award holder under this scheme will hold any other scholarship/stipend from the State Government or any other source.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration",
+        "Step 1: Visit the Official Website of the \"Centralized Scholarship Portal\" of the Department of Higher Education, Haryana.",
+        "Step 2: In the menu ribbon, click \"Student > Student Registration \".",
+        "Step 3: On the next page, provide your Parivar Pehchan Patra (Family ID) and click \"Search\".",
+        "*Parivar Pehchan Patra (PPP) is mandatory for availing of any Scholarship benefit. Students are advised to ensure their all particulars such as Name, DOB, Aadhar No. etc are fully updated in PPP before applying for any scholarship scheme.",
+        "Step 4: A List of the members of your family will be displayed. Select the checkbox against your name and click \"Generate OTP\". Enter the OTP received on your registered Mobile Number and click on \"Verify OTP\".",
+        "Step 5: After OTP verification, you will be taken to the registration page. In the registration form, all the mandatory fields get auto-filled. You only need to cross-check the information.",
+        "Step 6: Select your Department and College. Create a Password and click \"Register\".",
+        "Application",
+        "Step 1: Visit the Official Website of the \"Centralized Scholarship Portal\" of the Department of Higher Education, Haryana.",
+        "Step 2: In the right corner of the menu ribbon, click \" User Login \". Use the username and password created during your registration to log in.",
+        "Step 3: Navigate to the online form of the scheme you intend to apply for. In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size. Carefully review all the information provided and the documents uploaded. Make any necessary corrections.",
+        "Step 4: Click \"Apply\" to submit your application. You'll receive a confirmation message."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guideline",
+      "url": "https://harchhatravratti.highereduhry.ac.in/Notices/Haryana%20State%20Meritorious%20Incentive%20Scheme.pdf"
+    }
+  ],
+  "documents_required": "Aadhaar Card Copy Applicant's Photograph Applicant's Signature Income Certificate Haryana Domicile Certificate Caste Certificate 10th Class Certificate 12th Class Certificate Parivar Pehchaan Patra Fee Receipt Last Exam Passed Certificate (Except for 1st Year Students), BPL Certificate (if applicable) Father's Death Certificate (if applicable)"
+}

@@ -1,0 +1,54 @@
+{
+  "scheme_id": "68492599214b76ea37d94fe3",
+  "slug": "gff-rdou",
+  "scheme_name": "Grant to Films - Regional Dialects of Uttarakhand",
+  "scheme_short_title": "GTF-RDOU",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "Uttarakhand Information Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Sports & Culture"
+  ],
+  "sub_categories": [
+    "Culture"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Regional Dialects",
+    "Filmmaker",
+    "Producer",
+    "Film",
+    "Film Grant",
+    "Film Shooting"
+  ],
+  "brief_description": "Under this scheme, grants and subsidies are provided to filmmakers and producers to cover expenses incurred during film production. Additional incentives are available for children's films, and OTT-based projects are also eligible under specific conditions.",
+  "detailed_description": "The &amp;quot;Grant to Films \u2013 Regional Dialects of Uttarakhand&amp;quot; scheme was introduced under the Uttarakhand Film Policy 2024 by the Information and Public Relations Department, Government of Uttarakhand. The scheme aims to promote regional and children's cinema, encourage film shooting within Uttarakhand, create local employment opportunities, support local and regional films and artists, and generate revenue for the state. Under this scheme, grants and subsidies are provided to filmmakers and producers to cover expenses incurred during film production. Additional incentives are available for children's films, and OTT-based projects are also eligible under specific conditions. > **Scheme Implementation:** The scheme is implemented by the Film Development Council, Dehradun, and involves review by technical and financial committees.",
+  "benefits": [
+    "During film shooting in Uttarakhand, 50% of the expenditure incurred in the State or up to \u20b92 Crore, whichever is less, may be granted. For children's films, an additional grant of 10% will be given in addition to the sanctioned amount of subsidy. The maximum sanctioned amount of the grant will be accessed based on the quality and technical aspects of the film.",
+    "Note:  Grant amount depends on technical quality and creative merit of the film. In order to qualify for the grant - 90% of total expenses of film must be paid through bank, cheque, online medium, internet banking, UPI, digital mediums, etc. Cash transactions are strongly discouraged. It will only be permitted in unavoidable circumstances on the Chartered Accountant's certification. Provided that, in any case the total cash expenditure shall not be allowed more than 10% of the total expenditure."
+  ],
+  "eligibility_criteria": "The applicant should be a film producer or their duly authorized representative (individual/institution). The applicant must ensure 75% of the shooting takes place within Uttarakhand. The film must dedicate 75% of its total screen time to footage shot in Uttarakhand. The film must be shot in minimum 4K resolution, with Dolby Digital or higher sound quality. The applicant must obtain a shooting permission letter issued by the Film Development Council. The film must have been shown on at least 5 cinema screens (excluding OTT broadcasts). Films released on OTT platforms must provide a copy of the executed agreement with the OTT provider. lt is required that every filming location within the State where the film was shot be included in the credits roll. For grant eligibility, only film production expenses incurred within the State are eligible.\nNotes:\nCertificate from Central Board of Film Certification (Censor Board) is required.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Application Process: Step 1: After obtaining the film censor certificate and the release/exhibition of the film, the filmmaker can apply for a grant. Step 2: The producer/filmmaker can contact the Film Development Council, Information & Public Relations Department, Dehradun. Step 3: The filmmaker must submit all related expenses, agreements, scripts, and other relevant documents to the Film Development Council, Information & Public Relations Department, Dehradun. Post-Application Process: Step 1: A technical and financial committee, constituted for grant approval, reviews the proposals. Step 2: After examining the film and related documents, the committee decides on the eligibility for the grant. Step 3: The final approval and sanction of the grant are given by the Financial Committee, headed by the Hon'ble Chief Minister/Chairman of the Film Development Council. Step 4: After approval, the grant amount is disbursed to the producer or their authorized institution's bank account."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Page No. 171)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    },
+    {
+      "title": "Film Policy",
+      "url": "https://uttarainformation.gov.in/images/download/Uttarakhand_Film_PolicyEng2024.pdf"
+    }
+  ],
+  "exclusions": "Expenses/Funding for film marketing, promotion, and release will not be eligible for grant.",
+  "documents_required": "Central Board of Film Certification (CBFC) Shooting Permission Letter (issued by the Film Development Council) Detailed Statement of Expenses incurred in Uttarakhand Chartered Accountant's Certificate (authenticating the expenses and mode of transaction) Invoices/Bills (for all production-related costs incurred in the state) Certificate of Exhibition in Minimum 5 Cinema Screens (Not required for OTT films) Copy of OTT Agreement (For films released on approved OTT platforms) Undertaking/Affidavit that no marketing or promotional expenses are included in the grant claim Copy of the Final Film (Digital or physical media as specified)"
+}

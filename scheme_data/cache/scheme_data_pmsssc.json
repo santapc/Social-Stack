@@ -1,0 +1,56 @@
+{
+  "scheme_id": "6555b2d64407b323640ded8a",
+  "slug": "pmsssc",
+  "scheme_name": "Pre- Matric Scholarships Scheme for Scheduled Castes & Others",
+  "scheme_short_title": "PMSSSC",
+  "level": "Central",
+  "nodal_department": "Department of Social Justice & Empowerment",
+  "dbt_scheme": true,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual",
+    "Artists"
+  ],
+  "tags": [
+    "Student",
+    "Scholarship",
+    "Financial Assistance"
+  ],
+  "brief_description": "The Pre-Matric Scholarship Scheme for Scheduled Castes & others is a Centrally Sponsored Scheme implemented by the Ministry of Social Justice and Empowerment, Government of India.",
+  "detailed_description": "This program provides financial aid to parents of children from Scheduled Castes and other disadvantaged groups to help them afford their children&#39;s education at the Pre-Matric level. The goal is to increase the participation of these children in education, reduce the dropout rate, especially during the transition from primary to secondary school, improve their academic performance, and increase their chances of continuing their education beyond the Pre-Matric stage. <br> <br>",
+  "benefits": [
+    "The students shall be given a consolidated academic allowance, as follows:",
+    "Day Scholar- Rs. 3500 per annum Hosteller - Component 1- \u20b9 7,000 per annum Component 2- \u20b9 8,000 per annum (For Class III-X)",
+    "In addition, a 10% extra allowance shall be given to Divyang (Disabled) students."
+  ],
+  "eligibility_criteria": "The scholarships are open to Nationals of India only. Component 1: Pre Matric Scholarship for SC students\nApplicant students should be studying in class IX and X on a full time basis. Applicant students should belong to a Scheduled Caste. Parent/Guardian of applicant students income should not exceed Rs. 2.50 lakh per annum\nComponent 2: Pre-Matric scholarship for children of parents/guardians engaged in Unclean and hazardous Occupation\nThe students should be studying in classes I to X on a full time basis. Scholarship will be admissible to the children/wards of parents/guardians who, irrespective of their caste/religion belong to one of the following categories Persons who are Manual Scavengers. Tanners & Flayers. Waste pickers. Persons engaged in hazardous cleaning. There is no family income ceiling under this component of the Scheme.\nEligible for one scholarship at a time for classes I to X. Notify awarding body if another scholarship is received.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "The applications are invited on the National Scholarship Portal (NSP) ( https://scholarships.gov.in/ ) in the month of April every year.",
+        "Registration for New Applicant",
+        "Open the official NSP website and click on New Registration under Applicant Corner. Read the Instruction /Guidelines, provide the under taking by click on Check box and click on Continue. Start the registration by Mobile OTP. Required document (Aadhaar Details and Bank Account Details)",
+        "Registered Applicant",
+        "Open the official NSP website and click on Fresh Application under Applicant Corner Login with application ID & password. Select the Scholarship. Fill out the applicant form. Upload the required documents. Submit."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://scholarships.gov.in/public/schemeGuidelines/Assam_PRE_Matric_Scholarship_Guideline.pdf"
+    },
+    {
+      "title": "FAQ",
+      "url": "https://scholarships.gov.in/public/FAQ/FAQ_ASSAM.pdf"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Photograph. Academic Certificate. Caste Certificate. Income proof. Domicile Certificate. Bank Account Details. Aadhaar Card."
+}

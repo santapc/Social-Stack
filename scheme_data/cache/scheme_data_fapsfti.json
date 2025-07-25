@@ -1,0 +1,53 @@
+{
+  "scheme_id": "67adeb7ea3b9d20958c1529a",
+  "slug": "fapsfti",
+  "scheme_name": "Financial Assistance for Private Self-Financed Technical Institutions",
+  "scheme_short_title": "FAPSFTI",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Higher and Techical Education Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Universities and higher education",
+    "Education and training grants, fellowship, stipend",
+    "Coaching"
+  ],
+  "target_beneficiaries": [
+    "Business Entity"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Technical",
+    "Institutions",
+    "Infrastructure"
+  ],
+  "brief_description": "The \"Financial Assistance for Private Self-Financed Technical Institutions\" scheme by the Higher, Technical Education & Skill Development Department, Government of Jharkhand, provides grants to private engineering and polytechnic institutions for infrastructure enhancement and quality education.",
+  "detailed_description": "The &quot;Financial Assistance for Private Self-Financed Technical Institutions&quot; scheme by the Higher, Technical Education &amp; Skill Development Department, Government of Jharkhand, aims to enhance technical education by supporting private technical institutions. Under this scheme, financial assistance is provided to private engineering and polytechnic institutions for infrastructure development, modernization, and accreditation.",
+  "benefits": [
+    "Grant of up to \u20b92,00,00,000/- for new private engineering institutions. Grant of up to \u20b91,00,00,000/- for new private polytechnic institutions for infrastructure development. Grant of up to \u20b96,00,00,000/- for existing engineering institutions. Grant of up to \u20b93,00,00,000/- for existing polytechnic institutions for upgrading facilities.",
+    "NOTE:",
+    "Assistance is provided in three equal installments. Accreditation-linked funding: the second installment requires two NBA-accredited courses, and the third installment requires four NBA-accredited courses. At least 60% of seats are reserved for local students of Jharkhand."
+  ],
+  "eligibility_criteria": "The institution should be a registered private self-financed engineering or polytechnic institute in Jharkhand. The institution should have been operational for at least 5 years with audited financial statements. The institution should have AICTE approval and affiliation with the State Board of Technical Education, Jharkhand or a recognized university. The institution must comply with AICTE norms, including having qualified faculty and proper infrastructure.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the Higher, Technical Education & Skill Development Department and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents to the Higher, Technical Education & Skill Development Department.",
+        "Step 4: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.jharkhand.gov.in/Home/ViewDoc?id=D013DO003SD00310102023125431908"
+    }
+  ],
+  "documents_required": "Registered Deed & Mutation Certificate for land ownership Registration Certificate of the Trust/Society/Company managing the institution Audited Financial Statements (Last 5 years) AICTE Approval Letter and Affiliation Documents Income Tax Return (ITR) Certificate Accreditation certificates (if applicable) from NBA"
+}

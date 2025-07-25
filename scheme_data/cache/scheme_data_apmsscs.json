@@ -1,0 +1,79 @@
+{
+  "scheme_id": "65b88487263f3aab60425125",
+  "slug": "apmsscs",
+  "scheme_name": "Award of Post-Matric Scholarship to Scheduled Caste Students",
+  "scheme_short_title": "APMSSCS",
+  "state": "Puducherry",
+  "level": "State/ UT",
+  "nodal_department": "Adi Dravidar Welfare Department, Puducherry",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning",
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Scholarship",
+    "Scheduled Caste",
+    "Student",
+    "Post Matric"
+  ],
+  "brief_description": "The scheme \"Award of Post-Matric Scholarship to Scheduled Caste Students\" was introduced by the Adi Dravidar Welfare Dept, Government of Puducherry. The objective of the scheme is to benefit the students who are studying at the Post-matric level or Post-Secondary stage to complete their education.",
+  "detailed_description": "The scheme \"Award of Post-Matric Scholarship to Scheduled Caste Students\" was introduced by the Adi Dravidar Welfare Department, Government of Puducherry. The objective of the scheme is to benefit the students who are studying at the Post-matric level or Post-Secondary stage to complete their education. <br>",
+  "benefits": [
+    "Admissable fee fixed by Fee Committee. Reimbursement charged by the institution and award of maintenance allowance for hostlers or day scholars."
+  ],
+  "eligibility_criteria": "The applicant should be from a Scheduled Caste. The applicant should be a student studying at the Post-Matric level or Post Secondary Stage. The applicant should be a Native/Resident of the Union Territory of Puducherry for not less than 5 years. The annual income should not exceed \u20b9 2,00,000/-.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the Office/ Sub-Office of the Adi Dravidar Welfare and Scheduled Tribes Welfare Department, and request the hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents to the concerned authority.",
+        "Step 4: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Visit the Official Website of the e-District Portal of the Government of Puducherry.",
+        "Step 2: At the top right corner of the home page, click \" Login \". In the login screen, click \" Register a New Membership \".",
+        "Step 3: On the Registration Page, fill in all the mandatory fields: Username, Password, Confirm Password, Personal Details (Full Name, First Name, Email Address, Address, Current Address, Gender, Date of Birth, Mobile Number). Agree to the declaration. Fill in the Captcha Code, and click \"Signup\".",
+        "Step 4: Visit the Official Website of the e-District Portal of the Government of Puducherry.",
+        "Step 5: At the top right corner of the home page, click \" Login \". In the login screen, provide your Username and Password, fill in the Captcha Code, and click \"Sign In\".",
+        "Step 6: On the next screen, a list of schemes by the Government of Puducherry will be displayed Department-wise.",
+        "Step 7: Click on the scheme you wish to apply for. You will be taken to its online application form.",
+        "Step 8: In the application form, fill in all the mandatory fields (marked with a red asterisk) and upload all the mandatory documents (self-attest if required).",
+        "Step 9: Tick the declaration stating \"I hereby declare that the above-mentioned details are true and correct as per the best of my Knowledge\". Submit the application and note the application number for tracking your application . The application number will also be received on your Registered Mobile Number / Registered Email ID.",
+        "*Track Your Application  here ",
+        "* Access the User Manual for Online Application  here "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://adwelfare.py.gov.in/award-post-matric-scholarship-sc-students"
+    },
+    {
+      "title": "Citizen's Charter",
+      "url": "https://py.gov.in/sites/default/files/citizencharter-adidravidar.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://adwelfare.py.gov.in/contact-us"
+    },
+    {
+      "title": "Track Your Application",
+      "url": "https://edistrict.py.gov.in/User/TrackApplication.aspx"
+    }
+  ],
+  "documents_required": "Residence-cum-nativity Certificate, issued by the competent authority. Caste Certificate. Recent Passport-Size Photograph. Aadhaar Card. Bank Passbook. Bonafide Certificate. Fee Structure. Hostel Certificate. Income Certificate. Transfer Certificate. Attested copies of qualifying certificates Secondary School Leaving Certificate (SSLC), +2 Higher Secondary (H.Sc.), Degree & Diploma, etc., in respect of exam passed.\nIn the absence of an Aadhaar Card; the applicant is required to provide his/her Aadhaar Enrolment ID along with ANY ONE of the following documents -\n1. Bank or Post Office Passbook with Photo.\n2. Permanent Account Number (PAN) Card.\n3. Passport.\n4. Ration Card.\n5. Voter Identity Card.\n6. MGNREGA Card.\n7. Kisan Photo Passbook.\n8. Driving license issued by the Licensing Authority under the Motor Vehicles Act, 1988 (59 of 1988).\n9. Certificate of identity having a photo of such person issued by a Gazetted Officer or a Tehsildar on an official letterhead.\n10. Any other document as specified by the Department."
+}

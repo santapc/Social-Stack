@@ -1,0 +1,60 @@
+{
+  "scheme_id": "648e76dc481f59106a6a266c",
+  "slug": "fakmfs",
+  "scheme_name": "Financial Assistance To Kashmiri Migrants Families Scheme",
+  "scheme_short_title": "FAKMFS",
+  "state": "Haryana",
+  "level": "State",
+  "nodal_department": "Social Justice and Empowerment Department",
+  "implementing_agency": "Department Of Social Justice And Empowerment, Government Of Haryana",
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance",
+    "Citizen empowerment"
+  ],
+  "target_beneficiaries": [
+    "Family",
+    "Individual"
+  ],
+  "tags": [
+    "Kashmiri",
+    "Migrants",
+    "Financial Assistance",
+    "Jammu And Kashmir",
+    "Family"
+  ],
+  "brief_description": "Through the \"Financial Assistance To Kashmiri Migrants Families Scheme\" by the Dept of Social Justice and Empowerment, Govt of Haryana, financial assistance of \u20b91,250/- per month per family member is provided for five years to the Kashmiri families which have migrated from J&K to Haryana.",
+  "detailed_description": "Launched on 1st April 2006, the scheme \"Financial Assistance To Kashmiri Migrants Families Scheme\" by the Department of Social Justice and Empowerment, Government of Haryana, financial assistance of \u20b91250/- per month per family member is provided for five years to the Kashmiri families which have migrated from Jammu &amp;amp; Kashmir to Haryana and are living in various parts of the State. The financial assistance is subject to a maximum of \u20b96,250/- per family.",
+  "benefits": [
+    "Financial Assistance of \u20b91,250/- per month per family member for 5 years, subject to a maximum of \u20b96,250/- per family per month, provided for re-settlement."
+  ],
+  "eligibility_criteria": "The applicant family should have been displaced from Jammu & Kashmir. The applicant family should have migrated to Haryana from Jammu & Kashmir. The applicant family should be residing in Haryana. The annual income of the family, from all sources, should not exceed \u20b92,00,000/-. The term \u2018Family' would mean 'the family of the applicant at the time of displacement from Jammu & Kashmir'.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the Office/ Sub-Office of the District Social Welfare Officer (DSWO) , and request the hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications. OR The applicant should take print of the application form . Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required). Step 3: Submit the duly filled and signed application form along with the documents to the DSWO. Step 4: Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Visit the official website of the \" Antyodaya SARAL \" Portal. Step 2: In the \"SIGN IN HERE\" section, click \"New user? Register here\". Step 3: The registration form will open in a new window of the browser. Fill in all the mandatory fields of the form. Create a strong password. The password should be at least '9' characters with at least one special character(!@#$%^&*), one numeric, one small case and one upper case letter (i.e ADmin@357). Fill in the captcha code and click \"Submit\". Step 4: An OTP will be sent to the email ID and the Mobile Number provided in the registration form. The OTP received will be for single use only and will be valid for 15 minutes from the time of request. The verification link received over email will be valid for 48 hours from the time of request. On successfully validating the Email ID and Mobile Number via OTP, the following message will be displayed to the user: \"You have successfully registered on https://saralharyana.gov.in/. Please login to the application using your email ID and password\". Step 5: Visit the official website of the \" Antyodaya SARAL \" Portal. In the \"SIGN IN HERE\" section, log in using your Login ID and Password. Step 6: On the next screen, in the left pane, click on \u2018Apply for Service', then click \"View All Available Services\". Step 7: You will be shown a list of schemes/services. Click on the scheme you intend to apply for. You will be taken to its online application form. Step 8: In the application form, fill in all the mandatory details, click on \u2018Self-Declaration'. Enter the verification code/Captcha and click on the \u2018Submit' button. Step 9: Preview all the filled details and click on \u2018Attach Annexure'. Upload all the mandatory documents and click on \u2018Save Annexure'. Step 10: After verifying all the details, click on the \u2018Submit' button. Take a printout of the generated \u2018Acknowledgement Receipt' for future reference.  Track Your Application/ Appeal Through Portal Step 1: Visit the SARAL Portal . Step 2: Click \"Tracking Feature\". Step 3: Select the department and service from the dropdown menu. Step 4: Enter your Appeal/ Application Reference ID (provided to you when you applied for the service) and click on \"CHECK STATUS\". Through SMS From your registered mobile number, send the following SMS to 7738299899: SARAL<space>Application ID  SARAL Helpline 0172-3968400 (7:00 AM to 8:00 PM; Monday to Saturday, excluding Govt Holidays) saral.haryana@gov.in  User Manual for Application https://saralharyana.gov.in/resources/homePage/6/pdf/Using%20Saral.pdf"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cdnbbsr.s3waas.gov.in/s392bbd31f8e0e43a7da8a6295b251725f/uploads/2021/11/2021111746.pdf"
+    },
+    {
+      "title": "Offline Application Form",
+      "url": "https://cdnbbsr.s3waas.gov.in/s392bbd31f8e0e43a7da8a6295b251725f/uploads/2021/03/2021032590.pdf"
+    }
+  ],
+  "exclusions": "Any sub-division of the family after displacement from Jammu & Kashmir will not be recognized for additional financial assistance.",
+  "documents_required": "Certificate of the Migrated State, issued by the Sub Divisional Official (Civil). Ration Card, issued by the Food & Supplies Department, Haryana. Voter ID Card, issued by Election Department, Haryana. Aadhaar Card. Details of the Saving Bank Account. Family ID Proof. Income Certificate Passport-size Photographs. Copy of the Passbook."
+}

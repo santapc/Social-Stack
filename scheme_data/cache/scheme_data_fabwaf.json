@@ -1,0 +1,78 @@
+{
+  "scheme_id": "656ee89853ed274f6a9182fa",
+  "slug": "fabwaf",
+  "scheme_name": "Financial Assistance to Brackish Water Aquaculture Farms",
+  "scheme_short_title": "FABWAF",
+  "state": "Goa",
+  "level": "State",
+  "nodal_department": "Fisheries Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Fishing and hunting",
+    "Financial assistance",
+    "Mechanization- solar power, farming systems"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Fishermen",
+    "Fish",
+    "Farming",
+    "Aquaculture",
+    "Subsidy"
+  ],
+  "brief_description": "Through this scheme, financial assistance is provided to eligible fishermen for the construction and renovation of the Farm, for the purchase of farming equipment, and for the purchase of feed. Only the farmers having a water spread area of 2 hectares or less can apply to this scheme.",
+  "detailed_description": "\"Financial Assistance to Brackish Water Aquaculture Farms\" is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, financial assistance is provided to eligible fishermen for the construction and renovation of the Farm, for the purchase of farming equipment, and for the purchase of feed. Only the farmers having a water spread area of 2 hectares or less can apply to this scheme. The applications are accepted only in offline mode.",
+  "benefits": [
+    "Financial Assistance for Construction & Renovation of Farm",
+    "25% subsidy, limited to \u20b92,00,000 per hectare.",
+    "Financial Assistance for Purchase of Farming Equipment",
+    "50% subsidy, limited to \u20b91,00,000 per hectare.",
+    "Financial Assistance for the Purchase of Feed",
+    "25% subsidy of the cost of feed, limited to \u20b930,000 per crop per hectare for 2 crops in a year."
+  ],
+  "eligibility_criteria": "The applicant should be a farmer having a water spread area of 2 hectares or less. The farms owned by the applicant should be licensed by the Coastal Aquaculture Authority.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should take print of the prescribed format of the application form.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents to the concerned authority at the Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at BDO Office/ Sub-Offices of the Department of Fisheries.",
+        "Grievance Redressal",
+        "Any dissatisfaction or complaint about any service or its standards can be registered with the Department's Grievance Redressal Officer . The grievance can also be lodged on the link dir-fish.goa@nic.in . All complaints will be acknowledged by us and final action taken will be communicated within 30 days."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://fisheries.goa.gov.in/schemes-services/"
+    },
+    {
+      "title": "Citizen's Charter",
+      "url": "https://fisheries.goa.gov.in/wp-content/uploads/2023/07/CitizenCharter-2.pdf"
+    },
+    {
+      "title": "Application Form For Construction And Renovation Of Farm",
+      "url": "https://fisheries.goa.gov.in/wp-content/uploads/2020/08/BW-Const-1.pdf"
+    },
+    {
+      "title": "Application Form For Purchase Of Feed",
+      "url": "https://fisheries.goa.gov.in/wp-content/uploads/2020/08/BW-Feed-1.pdf"
+    },
+    {
+      "title": "Application Form For Purchase Of Farming Equipment",
+      "url": "https://fisheries.goa.gov.in/wp-content/uploads/2020/08/BW-Equip-1.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://fisheries.goa.gov.in/contact-us-2/#"
+    }
+  ],
+  "documents_required": "Joint Photograph of Applicant With Spouse. Aadhaar Card/ration Card. CAA License Copy. Mandate Form. Copy of Estimate of Work. Work Completion Certificate of the Farm."
+}

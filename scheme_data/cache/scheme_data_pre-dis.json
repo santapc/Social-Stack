@@ -1,0 +1,75 @@
+{
+  "scheme_id": "6295ae36b958ab1c5e80e39d",
+  "slug": "pre-dis",
+  "scheme_name": "Pre Matric Scholarship For Students With Disabilities",
+  "scheme_short_title": "PRE-DIS",
+  "level": "Central",
+  "nodal_department": "Department Of Empowerment Of Persons With Disabilities",
+  "implementing_agency": "National Scholarship Portal (NSP)",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning",
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Early childhood",
+    "Scholarships and student finance",
+    "Education and training grants, fellowship, stipend",
+    "Financial assistance",
+    "Citizen empowerment"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Persons With Disability",
+    "Student",
+    "Scholarship",
+    "Pre-Matric",
+    "Social Welfare",
+    "School",
+    "Education",
+    "Students With Disabilities",
+    "Book Grant"
+  ],
+  "brief_description": "A scholarship scheme by DoEPwDs for Students with Disabilities (SwDs) studying in class 9th and class 10th in a government school or a school recognized by the government or CBSE or State Board. This includes persons with visual, hearing, speech, loco-motor, mental retardation & other disabilities.",
+  "detailed_description": "A scholarship scheme by DoEPwDs for Students with Disabilities (SwDs) studying in class 9th and class 10th in a government school or a school recognized by the government or CBSE or State Board. <br> The students with the specified disabilities defined in Schedule of the &quot;Rights of Persons with Disabilities Act, 2016&quot; will be eligible under this scheme. This includes persons with visual, hearing, speech, loco-motor, mental retardation, and other disabilities. NOS is implemented offline by the DEPwD. <br> At times SwDs are deprived of harnessing their latent skills and thereby miss the opportunity. This scheme aims to support SwDs to study further in order to prepare themselves to earn their livelihood and to find a dignified place for themselves in the society as they face several barriers physical, financial, psychological, mental in pursuing studies and living with dignity.",
+  "benefits": [
+    "Maintenance Allowance * (\u20b9 per Month): Day Scholars: 500, Hostellers: 800. Book Grant : \u20b9 1000/- per annum. Disability Allowances (\u20b9 per Annum):",
+    "Visually Impaired: 4000. Hearing Impaired: 2000. Physically Disabled (OH): 2000. Intellectual Disabilities: 4000. All other types of disability not covered above: 2000.",
+    "[NOTE: (*) means for 12 months in an academic year]"
+  ],
+  "eligibility_criteria": "The applicant must be a student studying in Class 9th or Class 10th. The applicant must be disabled, with disability percentage of 40% or above. The Total Annual income of parents/guardians of the applicant (from all sources) must not exceed \u20b9 2.00 Lakh per Annum. The applicant must not be availing any other scholarship by the govt. The applicant must not be the third sibling of the family who has been given this scholarship.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Keep ready the soft copies of the required documents.",
+        "Go to http://www.scholarships.gov.in/. and click \"New Registration\".",
+        "Guidelines for Registration will appear. Scroll to the bottom.",
+        "Read carefully the undertaking. Accept the Terms. Click \"Continue\".",
+        "Step 2: A Registration Form will appear. (The fields marked as * are compulsory)",
+        "Fill the details and click \"Register\".",
+        "Your Application ID and password will be displayed.",
+        "The same will also be sent as an SMS on your registered mobile number.",
+        "Step 3: Go to https://scholarships.gov.in/fresh/newstdRegfrmInstruction",
+        "Click on \"Login to Apply\". Enter your Application ID and password.",
+        "Type the Captcha and click \"Login\".",
+        "On the next screen, provide the OTP received on your registered mobile number. You will be directed to the Password Reset screen.",
+        "Create a new password and confirm.",
+        "Click \"Submit\". You will be directed to the \"Applicant's Dashboard\".",
+        "Step 4: On the left pane, click \"Application Form\". The fields marked as * are compulsory. Fill the details and upload the documents.",
+        "You can either click on \"Save as Draft\" to complete the application later.",
+        "Else, click \"Final Submit\" to submit the application."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "http://disabilityaffairs.gov.in/upload/uploadfiles/files/scholarship2(1).pdf"
+    }
+  ],
+  "exclusions": "Scholarship will not be given to more than two students from a family. Provided in case the second child is a twin, the scholarship will be admissible to both. A scholarship holder under this scheme cannot hold any other scholarship or stipend. If any candidate furnishes false information / document and is established as false. An action will be initiated for recovery of the amount spent with 15% compound interest thereon. Also, such candidate will be blacklisted for future and appropriate legal action can be taken. If a student has to repeat a class, he/she would not get any scholarship for that class for a second (or subsequent) year.",
+  "documents_required": "Photograph. Proof of Age. Certificate of Disability (issued by the competent authority) Income Certificate. Tuition Fee Receipt. Last academic qualification certificate. Bank Details of the applicant or of the Parent/Guardian.\nThe institution in which the candidate is studying should also register itself at NSP and verify the details provided by the candidates."
+}

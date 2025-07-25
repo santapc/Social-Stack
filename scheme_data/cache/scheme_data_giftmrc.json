@@ -1,0 +1,56 @@
+{
+  "scheme_id": "6628fd7ba9f99668a613369e",
+  "slug": "giftmrc",
+  "scheme_name": "Government Institute for the Mentally Retarded - Tamil Nadu",
+  "scheme_short_title": "GIFTMRC",
+  "state": "Tamil Nadu",
+  "level": "State/ UT",
+  "nodal_department": "Welfare of Differently Abled Persons Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Education & Learning",
+    "Skills & Employment"
+  ],
+  "sub_categories": [
+    "Voctional education",
+    "Food Security / Public Distribution System",
+    "Education and training grants, fellowship, stipend",
+    "Training and Skill Up-gradation"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Mentally Retarded",
+    "Disabilitiy",
+    "Medicine",
+    "Education"
+  ],
+  "brief_description": "The 'Government Institute for the Mentally Retarded,Chennai' scheme was launched by the Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu. Under this scheme, children with intellectual disability are given special education, vocational training, food, uniforms etc.",
+  "detailed_description": "The &#39;Government Institute for the Mentally Retarded,Chennai&#39; scheme was launched by the Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu. Under this scheme, children with intellectual disability are given special education, vocational training, food, uniforms, boarding, medicine, and lodging facilities. The children are also imparted training in daily living skills.",
+  "benefits": [
+    "The children are also imparted training in daily living skills and below benefits are provided to children with intellectual disability :",
+    "Special education, Vocational training, Food, Uniforms, Boarding, Medicine, Lodging facilities."
+  ],
+  "eligibility_criteria": "The child should have an intellectual disability. The age of the child should be between 4 to 18 years.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the District Differently Abled Welfare Officer/Project Officer/Government Institute for Mentally Retarded and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents to the Project Officer/Government Institute for Mentally Retarded.",
+        "Step 4: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Citizen's Charter (2022)",
+      "url": "https://cms.tn.gov.in/sites/default/files/documents/wda_e_cc_2022_23.pdf"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "National Identity Card of the Differently Abled. Birth Certificate."
+}

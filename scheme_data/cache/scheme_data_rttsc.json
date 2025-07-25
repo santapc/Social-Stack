@@ -1,0 +1,54 @@
+{
+  "scheme_id": "67b58dc050fc00c18b864026",
+  "slug": "rttsc",
+  "scheme_name": "Reimbursement of Tuition Fee and Transport Facility to Scheduled Castes Students Studying in Technical Institutions in Haryana",
+  "scheme_short_title": "RTFTFSCSSTIH",
+  "state": "Haryana",
+  "level": "State/ UT",
+  "nodal_department": "Technical Education Department",
+  "implementing_agency": "Department Of Technical Education, Haryana",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Universities and higher education"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Scheduled Caste",
+    "Technical Institutes",
+    "Tuition Fee Reimbursement",
+    "Transport Facility",
+    "Student",
+    "Technical Courses"
+  ],
+  "brief_description": "The scheme aims to provide financial assistance to Scheduled Castes students pursuing AICTE-approved technical courses. Under this scheme, eligible students receive tuition fee reimbursement and transport facility benefits.",
+  "detailed_description": "The scheme &amp;quot;Reimbursement of Tuition Fee and Transport Facility to Scheduled Castes Students Studying in Technical Institutions in Haryana&amp;quot; was launched by the Department of Technical Education, Government of Haryana. It aims to provide financial assistance to Scheduled Castes students pursuing AICTE-approved technical courses, such as Diplomas from Polytechnics, D-Pharmacy, B-Pharmacy, B.Tech., M.E., M.Tech., Ph.D. in Engineering subjects, MBA, and MCA. The scheme is applicable only to students enrolled in regular mode at government, private, or aided technical institutions approved by the Technical Education Department, Haryana. Under this scheme, eligible students receive reimbursement of tuition fees along with transport facility benefits.",
+  "benefits": [
+    "Tuition Fee Reimbursement:",
+    "The reimbursement covers the actual tuition fee of \u20b920,000/- for diploma courses and \u20b940,000/- for degree courses, whichever is lower. Transport Facility Reimbursement: The reimbursement covers the actual amount of state transport facilities (train pass/bus pass)."
+  ],
+  "eligibility_criteria": "The applicant should be a Scheduled Caste student of Haryana. The student should be enrolled in an AICTE-approved Diploma, Undergraduate, or Postgraduate technical course, including Diploma from Polytechnics, D-Pharmacy, B-Pharmacy, B.Tech., M.E., M.Tech., Ph.D. in Engineering subjects, MBA, or MCA. The applicant should be pursuing an AICTE-approved course in a government, private, or aided technical institution approved by the Technical Education Department, Haryana. The applicant should be admitted through centralized counselling. The applicant's annual parental income should be between \u20b92.5 lakh and \u20b93.5 lakh for tuition fee reimbursement. The applicant should not be residing in a campus hostel to be eligible for transport facility reimbursement.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process:",
+        "Step 1: Click the Registration link at the Portal , if you are a new user. Existing users can click on the login button. Step 2: Enter the Parivar Pehchaan Patra (Family Id), and a List of members will be displayed, Select your Name and Click on the \"Generate OTP\" button. Step 3: Enter the OTP received on your registered Mobile Number and Click on the \"Verify OTP\" button. Step 4: After OTP Verification, all the details get auto-filled in the Registration Form, cross-check your information. Step 5: Select Your Department and College, create your Password, and click on the \"Register\" Button.",
+        "Application Process:",
+        "Step 1: Click the login link at the Portal and enter your User ID and password to apply for the scholarship. Step 2: Check eligibility for the scholarship and select the scholarship scheme. Step 3: Click on the \"Apply\" button and provide all necessary details like Course, Roll No., Eligibility, etc. Step 4: Save your application and then submit the application form after careful verification. Application Tracking: The students can check their Scholarship Application Status using their details like their Aadhaar Number, Academic Session, and scheme applied for. Note: Applications are invited to the Harchhatravratti portal . Applications received after the due date will not be entertained. Detailed advertisement and scheme notifications are available under the \"Notification\" link on the Department website .    "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guideline",
+      "url": "https://harchhatravratti.highereduhry.ac.in/Notices/Reimbursement%20of%20Tuition%20Fee%20and%20Transport%20Facility.pdf"
+    }
+  ],
+  "exclusions": "The applicant should not be a resident of a campus hostel for transport facility reimbursement. The applicant should not be pursuing a technical course through distance education or part-time mode.",
+  "documents_required": "Aadhaar Number/UID Number of the Candidate Proof of Admission through Centralized Counseling Income Certificate Caste Certificate Fee Receipt from the Institution Transport Pass (Train/Bus Pass) Bank Account Details of the Applicant Any other documents as required"
+}

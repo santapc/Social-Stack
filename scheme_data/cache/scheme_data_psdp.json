@@ -1,0 +1,56 @@
+{
+  "scheme_id": "67a8aea9da50340fc8f597a9",
+  "slug": "psdp",
+  "scheme_name": "Pension Scheme to Disabled Persons (Divyangjan)",
+  "scheme_short_title": "PSDP",
+  "state": "Dadra & Nagar Haveli and Daman & Diu",
+  "level": "State/ UT",
+  "nodal_department": "Social Welfare Department",
+  "implementing_agency": "District Panchayat/Municipal Council Of UT Of Dadra & Nagar Haveli And Daman & Diu",
+  "dbt_scheme": true,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Pension"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Pension",
+    "Disabled Person",
+    "Divyang",
+    "PwD",
+    "Disability"
+  ],
+  "brief_description": "The scheme is implemented by the Social Welfare Department to provide financial assistance to individuals with disabilities. The primary objective is to provide financial benefits to eligible Divyangjan to cater to their basic needs. The scheme is targeted at Divyangjan aged between 18 to 59 years.",
+  "detailed_description": "The scheme \"Pension Scheme to Disabled Persons (Divyangjan)\" is implemented by the Social Welfare Department, UT of Dadra &amp;amp; Nagar Haveli and Daman &amp;amp; Diu. Under this scheme, financial assistance is provided to individuals with disabilities to cater to their basic needs and ensure social security in cases of disablement. The scheme covers Divyangjan aged between 18 and 59 years who have a disability of 80% or above and are domiciles of Dadra &amp;amp; Nagar Haveli and Daman &amp;amp; Diu. Additionally, the annual family income should not exceed \u20b91.5 lakh per annum, and the applicant should not be availing financial assistance under any other Divyang pension schemes. Under this scheme, financial assistance of \u20b91,000/- per month is given to eligible beneficiaries.",
+  "benefits": [
+    "Under this scheme, eligible beneficiaries receive financial assistance of \u20b91,000/- per month. Note: The mode of fund transfer shall be Direct Benefit Transfer (DBT)."
+  ],
+  "eligibility_criteria": "The applicant should be a domicile of the districts of Dadra & Nagar Haveli and Daman & Diu. The applicant should be a person with a disability (Divyangjan). The applicant should have a disability of 80% or above. The age of the applicant should be between 18 and 59 years. The applicant's family income should not exceed \u20b91.5 lakhs per annum. The applicant should not be availing financial assistance under any other Divyang Pension schemes. Special/General Conditions: In case of non-availability of age proof the beneficiary shall be referred to Medical Board (Government Hospital) of the concerned district for verification of age. After attaining age of 60 years the beneficiary shall be transferred to scheme \"Pension Scheme to Old Age Persons (Senior Citizen)\".",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Application Process: Step 1: The applicant can collect the application form from the office of the District Panchayat or Municipal Council of the concerned district. Alternatively, the form can be downloaded from the official website. Step 2: The applicant should carefully fill out the application form and attach all necessary documents. Step 3: The duly filled application form, addressed to the Chief Executive Officer/Chief Officer of the concerned District Panchayat/Municipal Council, should be submitted to the Gram Panchayat/District Panchayat/Municipal Council of the concerned district. Post Application Process: Step 1: Field-level staff of the District Panchayat/Municipal Council will verify the submitted documents and scrutinize the application. They will also collect a life certificate from the beneficiaries annually. Step 2: The Chief Executive Officer/Chief Officer of the respective District Panchayat/Municipal Council will review and approve the applications. Timelines: \u2022 Application process: The application may be processed within 30 (thirty) days from the date of receipt. \u2022 Payment disbursement: Once the application is approved by the Approving / Recommending authorities, the payment shall be disbursed into the bank account of the Divyangjan by the fifth of every month. Grievance Redressal & Contact: For any grievance, the aggrieved Divyangjan may approach the Chief Executive Officer/Chief Officer of District Panchayat/ Municipal Council in the concerned district or District Collector of the concerned district or Department of Social Welfare."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Notification",
+      "url": "https://dnhpanchayat.in/uploads/documents/DivyangjanPensionNotification.pdf"
+    },
+    {
+      "title": "Website",
+      "url": "https://dnhpanchayat.in/scheme/details/24"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://dnhpanchayat.in/uploads/scheme/ApplicationFormsNSAP.pdf"
+    }
+  ],
+  "documents_required": "Age Proof (Birth Certificate/School leaving Certificate) In case of non-availability of age proof, the beneficiary shall be referred to the Medical Board (Government Hospital) of the concerned district for verification of age Income Certificate issued by the Competent Authority Domicile Certificate issued by the Competent Authority Disability Certificate (80% & more) issued by Medical Board (Government Hospital) of the concerned district Copy of Bank Pass Book (Aadhaar linked) Copy of Aadhaar Card Election Card/Passport/Ration card (any one) Passport size photographs (2 copies) Undertaking/Affidavit (Not getting any pension from any other department) in the prescribed proforma at Annexure II "
+}

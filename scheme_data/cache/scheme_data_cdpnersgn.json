@@ -1,0 +1,70 @@
+{
+  "scheme_id": "654b85735838968fc387d9e5",
+  "slug": "cdpnersgn",
+  "scheme_name": "Coffee Development Programme in North Eastern Region: Support for Group Nurseries",
+  "scheme_short_title": "CDPNER:SGN",
+  "level": "Central",
+  "nodal_department": "Department Of Commerce",
+  "dbt_scheme": true,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Agricultural Inputs- seeds, fertilizer etc.",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Agriculture",
+    "Farmer",
+    "Subsidy",
+    "Financial Assistance",
+    "DBT"
+  ],
+  "brief_description": "The scheme \"Coffee Development Programme in North Eastern Region: Support for Group Nurseries\" by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry, aims to provide growers with high-quality coffee seedlings to ensure the proper establishment of plantations.",
+  "detailed_description": "The scheme &quot;Coffee Development Programme in North Eastern Region: Support for Group Nurseries&quot; is a Sub-Component of the Scheme &quot;Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders&quot; by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. This scheme aims to provide growers with high-quality coffee seedlings to ensure the proper establishment of plantations.",
+  "benefits": [
+    "Each coffee seedling is eligible for a support of \u20b95."
+  ],
+  "eligibility_criteria": "The applicant should be Self-Help Groups (SHGs) or collectives of tribal growers. The applicant should have procured the seed material for the coffee nursery exclusively from the Coffee Board.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: Initiation by the Extension Officer",
+        "The Extension Officers of the Coffee Board will motivate a group of tribal growers in each of the localities/villages to raise a coffee nursery on a community basis. This caters to the requirement of seedlings for annual expansion and consolidation programs.",
+        "Step 2: Location and Seedling Selection",
+        "The groups themselves decide on the nursery's location and the number of seedlings to be raised. This decision is made in consultation with the Extension Officer of the Coffee Board, considering factors like water availability and other essential resources required for a healthy nursery.",
+        "Step 3: Group Responsibilities",
+        "The group takes the responsibility of motivating their members to participate in raising the nursery and distributing the seedlings among the members.",
+        "Step 4: Cost Estimation and Control",
+        "The concerned Extension Officer estimates the cost involved in raising the group nurseries. It is ensured that the cost of raising each healthy coffee seedling does not exceed \u20b95, inclusive of input and labor costs.",
+        "Step 5: Proposal Submission and Consolidation",
+        "The Extension Officer submits a proposal containing details of the number of seedlings to be raised and the associated expenditure to the Deputy Director (E). The Deputy Director consolidates the requirements for his region and submits them to the Joint Director (E) in Guwahati, along with recommendations.",
+        "Step 6: Regional Consolidation and Recommendations",
+        "The Joint Director (E) consolidates the overall requirements for the North Eastern Region (NER) and submits the proposal, along with recommendations, to the Director of Research.",
+        "Step 7: Scrutiny and Sanction",
+        "The Director of Research scrutinizes the proposal and submits it to the Head Office in Bengaluru, along with recommendations for sanction.",
+        "Step 8: Phased Funding Release",
+        "After sanction, the concerned Joint Director (Extn.) or Deputy Director (E) releases the approved amount in a phased manner at different stages of raising the nurseries."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://coffeeboard.gov.in/Schemes/ICDP_388.pdf"
+    },
+    {
+      "title": "Grower's Registration (UMANG)",
+      "url": "https://web.umang.gov.in/web_new/department?url=coffee_board%2Fservice%2F1739&dept_id=371&dept_name=Grower%20Registration&transactionId=PFCXMNL5&source=myscheme"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://coffeeboard.gov.in/contact-us.html"
+    }
+  ],
+  "documents_required": "The proposal containing details of the number of seedlings. The associated expenditure."
+}

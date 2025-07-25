@@ -1,0 +1,53 @@
+{
+  "scheme_id": "68458a6850c110b1567ddc99",
+  "slug": "mny",
+  "scheme_name": "Mahila Nursery Yojana",
+  "scheme_short_title": "MNY",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "Uttarakhand Forest Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment",
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Agricultural Inputs- seeds, fertilizer etc.",
+    "Environmental grants",
+    "Financial assistance",
+    "Environmental management and protection",
+    "Financial Assistance"
+  ],
+  "target_beneficiaries": [
+    "Self Help Groups (SHGS)"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Women Group",
+    "Nursery",
+    "SHG",
+    "Plants"
+  ],
+  "brief_description": "The scheme aims to promote nursery establishment by providing women's groups with high-quality seedlings or saplings from certified sources, along with a fixed grant, technical support, and training to ensure effective nursery operations.",
+  "detailed_description": "The &amp;quot;Mahila Nursery Yojana&amp;quot; scheme was launched by the Department of Forest, Government of Uttarakhand. The scheme aims to empower women&amp;#39;s groups through income generation by establishing plant nurseries. Under this scheme, high-quality, species-specific seeds and technical training are provided to self-help groups and local women to set up nurseries. Resources required for nursery operations are also funded via fixed grants. The plants grown in these nurseries are purchased by the Forest Department based on agreement.",
+  "benefits": [
+    "High-quality species-wise seeds are provided to women's groups. Financial support in the form of a fixed grant for nursery equipment and resources. Technical support and training for nursery management. Purchase of grown plants by the Forest Department based on experience and quality.",
+    "Note: The department disburses the grant in installments directly into the self-help group's account upon the purchase of resources required for establishing the nursery."
+  ],
+  "eligibility_criteria": "The applicant should be a registered Women Self-Help Group, Women Mangal Dal, or Local Women Group. The women's group should be operating within the state of Uttarakhand. The group should be registered with the concerned Divisional Forest Office.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The applicant women's group should contact the concerned Divisional Forest Office for registration under the scheme. Step 2: The group should submit a proposal specifying the nursery location, along with the required documents for registration. Step 3: Upon verification, support is provided to the Women Self-Help Group under the scheme. Notes: A copy of the nursery manual and relevant technical information will be provided to the group for setting up the nursery. The department provides the grant in installments to the bank accounts of self-help groups for the essential materials used in setting up the nursery, which are purchased by the group."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Page No. 96)",
+      "url": "https://cdnbbsr.s3waas.gov.in/s339e6f67916920d9419b3d92cf1e9a958/uploads/2025/03/202503051625218025.pdf"
+    }
+  ],
+  "documents_required": "Group Registration Certificate (from Divisional Forest Officer) Khasra-Khatauni of Proposed Nursery Site Resolution of Group Meeting (approving nursery project) Aadhaar Card of Group Representative Bank Passbook Copy of Group Account Mobile Number of the Representative"
+}

@@ -1,0 +1,46 @@
+{
+  "scheme_id": "67fe34e38e880c6849230fe1",
+  "slug": "hasuk",
+  "scheme_name": "Housing Assistance Grant",
+  "scheme_short_title": "HASUK",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "State Sainik Board",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Housing Grant",
+    "Soldiers",
+    "Widow"
+  ],
+  "brief_description": "\"Housing Assistance Grant\" is a social security scheme that provides financial assistance for the construction/ repair of houses to the widows, dependents of martyred soldiers, and those soldiers who have become physically disabled in various wars, border skirmishes, and internal security.",
+  "detailed_description": "\"Housing Assistance Grant\" is a social security scheme by the State Sainik Board, Government of Uttarakhand. Under this scheme, a one-time grant is provided for the construction/repair of houses to the widows, dependents of the martyred soldiers, and those soldiers who have become physically disabled in various wars, border skirmishes, and internal security. <br>",
+  "benefits": [
+    "A one-time grant of \u20b92,00,000/- for the construction/ repair of the house."
+  ],
+  "eligibility_criteria": "Applicant should be a widow/ dependent of the martyr/ disabled soldier due to war.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: Prescribed format can be collected from the nearest District Sainik Welfare Office. Step 2: Fill the form properly and attach all the documents (attested,if required). Step 3: Submit the form at the District Sainik Welfare Office."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Validated copy of Battle Casualty Report of ' Martyred Soldier. War Disabled Retired Soldier. Validated copy of Part II Order of Battle Casualties. Proof of Dependents. Repair work issued by Junior / Assistant Engineer. Certificate of non-payment of housing assistance by the District Sainik Welfare Officer to the applicant from the State Government in the past."
+}

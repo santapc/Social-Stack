@@ -1,0 +1,55 @@
+{
+  "scheme_id": "66a1fbd162c12e305cb32a47",
+  "slug": "gpcs",
+  "scheme_name": "General Poor Class Scholarship (Class 6 to 8)",
+  "scheme_short_title": "GPCS",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "School Education Department",
+  "implementing_agency": "School Education Department, Government Of Madhya Pradesh",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Student",
+    "Scholarship",
+    "BPL",
+    "Government School"
+  ],
+  "brief_description": "Under this scheme, scholarships are provided to students studying in Classes 6 to 8 in government schools. Students whose annual family income is less than \u20b91,00,000/- and who belong to the Below Poverty Line (BPL) category are eligible for the benefits.",
+  "detailed_description": "The &amp;quot;General Poor Class Scholarship (Class 6 to 8)&amp;quot; scheme, launched by the School Education Department, Government of Madhya Pradesh, aims to motivate and economically support students from lower economic backgrounds. Under this scheme, scholarships are provided to students studying in Classes 6 to 8 in government schools. Students whose annual family income is less than \u20b91,00,000/- and who belong to the Below Poverty Line (BPL) category are eligible for the benefits.",
+  "benefits": [
+    "Girl students will receive a scholarship of \u20b9300/- per year. Boy students will receive a scholarship of \u20b9200/- per year. Note: The scholarship amount is directly transferred to the student's bank account."
+  ],
+  "eligibility_criteria": "The applicant should be a permanent resident of Madhya Pradesh. The applicant should be studying in Class 6 to 8. The student should be studying at a government school. The student should belong to the Below Poverty Line (BPL) category. The student's parents' total income from all sources should be less than \u20b91,00,000/- per year. The student should have passed the previous class.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "To avail of the benefits under this scheme, eligible students can contact the Principal of their respective government schools/institutions. Note: The profile of the students is entered on the education portal https://shikshaportal.mp.gov.in/ by the teacher of the educational institution as per the record/certificate provided by the student."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?Schemeid=419"
+    },
+    {
+      "title": "Guidelines (Page No. 25)",
+      "url": "https://aiggpa.mp.gov.in/uploads/publication/Social_Protection_Eng.pdf"
+    },
+    {
+      "title": "Online Shiksha Portal",
+      "url": "https://shikshaportal.mp.gov.in/"
+    }
+  ],
+  "documents_required": "1. Passport-size Photograph\n2. Aadhaar card\n3. Domicile certificate of Madhya Pradesh\n4. BPL category certificate/Ration card\n5. Previous class marksheet\n6. Income certificate\n7. Samagra ID\n8. Bank Passbook\n9. Any other documents as required"
+}

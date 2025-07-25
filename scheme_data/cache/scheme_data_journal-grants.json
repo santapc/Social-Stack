@@ -1,0 +1,53 @@
+{
+  "scheme_id": "686e1533acae349c5c30c56f",
+  "slug": "journal-grants",
+  "scheme_name": "Scheme of Grant-in-Aid for Professional Associations/ Organisations of Social Scientists including Universities, Colleges and Research Institutes for Publication/ Running of their Research Journal(s)",
+  "scheme_short_title": "RESEARCH JOURNAL GRANT",
+  "level": "Central",
+  "nodal_department": "Department Of Higher Education",
+  "implementing_agency": "Indian Council Of Social Science Research",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Universities and higher education"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "ICSSR Grants",
+    "Journal Publication Support",
+    "Research Promotion",
+    "Academic Journals",
+    "Research Funding"
+  ],
+  "brief_description": "The Indian Council of Social Science Research (ICSSR), under the Ministry of Education, Government of India, provides Grants-in-Aid to professional associations, organisations of social scientists, universities, colleges, and research institutes",
+  "detailed_description": "Journals supported under this scheme must be at least three years old with consistent publication records. The publisher may be a university, college, research institute, or professional association registered under the Societies Registration Act, 1860. The organisation and the journal may be discipline-specific or interdisciplinary. The maximum annual grant is Rs. 5,00,000 for one journal and Rs. 8,00,000 for multiple journals. Where journals are published commercially, financial support is limited to editorial/processing costs (up to Rs. 1,00,000 per journal). Additional funding may be considered for special issues or back volumes. The final 10% of the grant is released after submission of the Audited Statement of Accounts and Utilization Certificate. <br>",
+  "benefits": [
+    "1) Grant up to Rs. 5,00,000 per annum per journal.",
+    "2) Up to Rs. 8,00,000 for multiple journals by a single organisation.",
+    "3) Rs. 1,00,000 support for journals with commercial publishers (editorial cost only)with a ceiling of Rs. 2,00,000 if the organisation publishes more than one journal.",
+    "4) Additional support for publishing back issues or special issues.",
+    "5) Amount is disbursed in two instalments, first installment is 90% and second will be 10%, which will be released after submitting Audited Statement of Accounts and Utilisation Certificate"
+  ],
+  "eligibility_criteria": "1. Must be a university, college, research institute, or registered association.\n2. Journals must follow professional publishing standards (peer review, citations, etc.).\n3. In case it's a privately funded institution or association of social scientists, it should be registered under Societies of Registration Act, 1860.\n4. Must submit audited accounts and annual reports for the last three years.\n5. SC/ST category journals must focus on SC/ST-related research themes.\n6. Grant-in-Aid may be provided to journals being published in regional languages and translation thereof.\n",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "S. No | Step | Action | Documents Required\n1. | Advertisement & Receipt of Applications | PRS Division publishes advertisements or accepts applications throughout the year. | 1. Application Form, 2. Organisation Profile\n2. | Preliminary Scrutiny by PRS Division | Verification of eligibility and completeness. | 1. Three Years' Audited Accounts & Annual Reports, 2. Proof of Journal Regularity, 3. (3+ years) Registration Certificate (if association), 4. Peer Review Statement\n3. | Proposal to Member Secretary | PRS Division seeks approval to hold an Expert Committee Meeting. | Summary of Eligible Applications\n4. | Expert Committee Meeting for Evaluation | Committee reviews and recommends applications. | All documents submitted with the application\n5. | Approval of Recommendations | Minutes approved by Member Secretary and ICSSR Council. | Minutes of Expert Committee Meeting",
+        "6. | Communication to Applicants | Award letters issued to selected applicants. Request for GIB and PFMS details. | 1. Award Letter, 2. Grant-in-Aid Bill (GIB), 3. PFMS Details\n7. | Sanction Order \u2013 First Installment | PRS prepares sanctions; sends them to Audit and Finance for release. | 1. Sanction Order, 2. GIB, 3. Bank Details, 4. Approval Note\n8. | Submission of Utilisation Reports | Expenditure documents to be submitted for the 2nd installment. | 1. Updated GIB, 2. Audited Statement of Accounts, 3. Utilisation Certificate (UC)",
+        "9. | Sanction Order \u2013 Second Installment | PRS processes the second installment; sends to Audit and Finance. | 1. Sanction Order, 2. Final UC & Audit Report"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Journal Grants (Publication)",
+      "url": "https://icssr.org/journals"
+    }
+  ],
+  "exclusions": "1. Journals without consistent periodicity.\n"
+}

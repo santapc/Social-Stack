@@ -1,0 +1,71 @@
+{
+  "scheme_id": "6602807bd7b29251fbf07780",
+  "slug": "fgc",
+  "scheme_name": "Festival Gift Coupons (Sainik Welfare)",
+  "scheme_short_title": "FGC-SW",
+  "state": "Puducherry",
+  "level": "State/ UT",
+  "nodal_department": "Sainik Welfare Department, Puducherry",
+  "implementing_agency": "Rajya Sainik Board, Puducherry",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Asisstance",
+    "Festival",
+    "Sainik",
+    "Ex-Serviceman",
+    "Widow"
+  ],
+  "brief_description": "The scheme \"Festival Gift Coupons\" is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. The objective of the scheme is to provide Festival Gift Coupons worth \u20b94,000/- per annum to the Non-Pensioner ESMs who are 60 years or older in age.",
+  "detailed_description": "The scheme &quot;Festival Gift Coupons&quot; is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. The objective of the scheme is to provide Festival Gift Coupons worth \u20b94,000/- per annum to the Non-Pensioner ESMs who are 60 years or older in age. To coupons are to be collected in person on intimation from DSW, normally between November and January. This scheme applies only to the Ex-servicemen/Widows of Ex-servicemen registered with the Department of Sainik Welfare, Puducherry. The applications are accepted offline.",
+  "benefits": [
+    "Festival Gift Coupons worth \u20b94,000/- per annum.",
+    "*The coupons are to be collected in person on intimation from DSW, normally between November and January."
+  ],
+  "eligibility_criteria": "The applicant should be an Ex-Serviceman or the Widow of an Ex-Serviceman. The Ex-Serviceman should be registered with the Department of Sainik Welfare, Puducherry. The Ex-Serviceman should be a Non-Pensioner. The Ex-Serviceman should be 60 years or older in age, as on 31st March of the current year (No age bar for Widow of an Ex-Servicemen). The scope of this scheme will also apply to those ESM / living spouse/widows who are re-employed as regular / deemed to be regular in Government/Public Sector Undertakings/Private Organizations and self-employed IT assesses.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should take print of the prescribed format of the application form for the scheme from the Official Website of the Department of Sainik Welfare.",
+        "OR",
+        "The interested applicant should visit (on a working day, and during working hours) the Rajya Sainik Board, Jawan Bhawan, Department of Sainik Welfare, Government of Puducherry, 261, Lawspet Main Road, Pakkamudianpet, Puducherry Road, Lawspet, Puducherry - 605013, India, and request a hard copy of the prescribed format of the application form from the concerned authority.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: The interested applicant should submit the duly filled and signed application form and the documents to the concerned authority at the Rajya Sainik Board.",
+        "Step 4: A receipt of the application will be assigned to the applicant by the concerned authority.",
+        "Queries/Complaints/Suggestions/Grievances",
+        "Address: 261, Lawspet Main Road, Pakkamudianpet, Puduchery Rd, Lawspet, Puducherry - 605013, India",
+        "Phone Number: (+91)(0413) 2253107",
+        "Email: dirdsw.pon@nic.in",
+        "Hours: Monday - Friday, 2:30 pm to 5:00 pm"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sainik.py.gov.in/sites/default/files/g.o.ms.22-dated-24-feb-2020.pdf"
+    },
+    {
+      "title": "Government Order",
+      "url": "https://sainik.py.gov.in/assistance-affd-fund"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://sainik.py.gov.in/sites/default/files/festival_gift_coupon.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://sainik.py.gov.in/contact-us"
+    }
+  ],
+  "documents_required": "Recent Passport-size Photograph. Identity Card of the ESM / Widow of the ESM."
+}

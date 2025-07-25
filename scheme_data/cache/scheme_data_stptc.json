@@ -1,0 +1,64 @@
+{
+  "scheme_id": "64e5ac859a06d82f412cfebf",
+  "slug": "stptc",
+  "scheme_name": "Short Term Professional Training Courses",
+  "scheme_short_title": "Stptc",
+  "state": "Goa",
+  "level": "State",
+  "nodal_department": "Social Welfare Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Skills & Employment",
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Training and Skill Up-gradation",
+    "Citizen empowerment",
+    "Voctional education",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Training",
+    "Financial Assistance",
+    "Scheduled Tribe"
+  ],
+  "brief_description": "The \"Short Term Professional Training Courses\" is provided to train the youth of the Scheduled Tribe Community in order to start their own business, and to acquire skills by joining the various training courses for the purpose of self-employment or for their livelihood.",
+  "detailed_description": "The &quot;Short Term Professional Training Courses&quot; is provided by the Department of Tribal Welfare, Government of Goa to train the youth of the Scheduled Tribe Community in order to start their own business. The objective of the scheme is to provide financial assistance to the beneficiaries of the Scheduled Tribe community to acquire skills by joining the various training courses for the purpose of self-employment or for their livelihood. <br> > **Definition** Any training that would directly improve any individual's ability to perform his or her current/new job/self-employment. <br> > **Duration** Not more than 3 months and not less than 15 days. <br> > **Recognition/Affiliation** Registered with any of the Government Departments/Government Institutions/Government Autonomous Bodies in the State of Goa.",
+  "benefits": [
+    "List of Courses",
+    "Motor Driving Training Course. Tailoring Course. Cookery and Bakery Courses. Beautician Course. Mobile Repairing Courses. Computer Courses.",
+    "Quantum of Financial Assistance",
+    "Financial assistance will be given to complete any one course with a maximum limit of \u20b9 5,000/-. 50% of the actual fees with a limit of \u20b9 2,500/- shall be released as an advance to take admission in the particular course. 50% balance amount will be released after the completion of the course on the production of the completion certificate."
+  ],
+  "eligibility_criteria": "The applicant should belong to the Scheduled Tribe Community of Goa. The applicant shall be above 18 years of age and below the age of 50 years.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit the Goa State Scheduled Tribes Finance And Development Corporation Limited,",
+        "2nd Floor, Dayanand Smruti Building, Swami Vivekanand Road, Panaji, Goa - 403 001.",
+        "Step 2: Take a print of the proforma of the application form, or request a hard copy from the concerned authority.",
+        "Step 3: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across), and attach copies of all the mandatory documents (self-attest if required).",
+        "Step 4: Submit the duly filled and signed application form along with the documents to the concerned authority."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.goa.gov.in/wp-content/uploads/2020/10/Schemes-of-the-Goa-state-Scheduled-Tribes-Finance-and-Development-Corporation.pdf"
+    },
+    {
+      "title": "Official Gazette",
+      "url": "https://tribalwelfare.goa.gov.in/images/2019/uploads/Notification_STPT_Yojana_2020.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://tribalwelfare.goa.gov.in/images/2019/uploads/Notification_STPT_Yojana_2020.pdf"
+    }
+  ],
+  "documents_required": "Scheduled Tribe Certificate issued by the competent authority of the State of Goa. Age proof (birth certificate) or any other document proving the age of the Applicant. Certificates of Educational Qualification, if any. Learning licence in case of Motor Driving Course. Aadhar Card Copy. One Passport size photo. Copy of bank passbook. Quotation/fee receipt in original/fee structure of the institute/equivalent documents for giving the details of the fees of the training course. Declaration of the applicant duly signed by Gazetted Officer."
+}

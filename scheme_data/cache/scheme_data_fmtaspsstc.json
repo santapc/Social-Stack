@@ -1,0 +1,52 @@
+{
+  "scheme_id": "660ea7a0ff0ffe4f91cba326",
+  "slug": "fmtaspsstc",
+  "scheme_name": "Fodder Minikits under Tribal Area Sub Plan (TASP) Scheme (ST Category)",
+  "scheme_short_title": "FMTASPS(STC)",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Agriculture, Farmers Welfare and Cooperation Department",
+  "implementing_agency": "Directorate Of Animal Husbandry, Government Of Gujarat",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Animal husbandry",
+    "Agricultural Inputs- seeds, fertilizer etc."
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Fodder Minikits",
+    "Farmer",
+    "Fodder Seed",
+    "Scheduled Tribe"
+  ],
+  "brief_description": "The scheme \"Fodder Minikits under Tribal Area Sub Plan (TASP) Scheme\" is implemented by the Directorate of Animal Husbandry, Government of Gujarat to provide an improved variety of fodder seeds to Scheduled Tribe beneficiaries for widespread publicity, demonstration, and adaptation by farmers.",
+  "detailed_description": "The scheme \"Fodder Minikits under Tribal Area Sub Plan (TASP) Scheme\" is implemented by the Directorate of Animal Husbandry, Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat. Under this scheme, improved varieties of fodder seeds are provided to beneficiaries for widespread publicity, demonstration and adaptation by farmers.",
+  "benefits": [
+    "Under this scheme, the fodder seed minikit of 3 Kg, 7 Kg or 10 Kg is given to the eligible beneficiary."
+  ],
+  "eligibility_criteria": "The beneficiary should be a permanent resident of Gujarat. The beneficiary of the Scheduled Tribe (ST) category can avail the benefit under this scheme. The beneficiary should possess 10 Guntha of land to his or her name.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "To avail the benefits of the scheme, the beneficiary may contact a nearby Veterinary Dispensary or First Aid Veterinary Centre."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://doah.gujarat.gov.in/fodder-development.htm"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://doah.gujarat.gov.in/Images/animalhusbandary/pdf/3-fooder-eng-1818.pdf"
+    }
+  ],
+  "documents_required": "1. Identity proof\n2. Proof of Residence\n3. Proof of possessing10 Guntha of land\n4. Any other documents as required"
+}

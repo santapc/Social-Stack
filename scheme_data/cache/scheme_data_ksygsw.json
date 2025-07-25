@@ -1,0 +1,45 @@
+{
+  "scheme_id": "6825be05f2de71e7817a9041",
+  "slug": "ksygsw",
+  "scheme_name": "Kaidi Sahay Yojana",
+  "scheme_short_title": "KSYGSW",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Empowerment Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Prisoner Family Aid",
+    "Social Welfare"
+  ],
+  "brief_description": "The \"Kaidi Sahay Yojana\" by the Social Justice and Empowerment Department, Gujarat, provides financial assistance of \u20b925,000/- to the family of a prisoner who is the sole or main earner, to support them through self-employment.",
+  "detailed_description": "The Kaidi Sahay Yojana, initiated by the Social Justice and Empowerment Department, Gujarat, aims to provide financial relief to families of prisoners who are undergoing sentences in jails and are the main or sole earners of their households. Under this scheme, a one-time financial assistance of \u20b925,000/- is granted to the prisoner's family, ensuring that they can sustain themselves through self-employment during the imprisonment period.",
+  "benefits": [
+    "Financial Assistance: A one-time assistance of \u20b925,000/-."
+  ],
+  "eligibility_criteria": "Applicant must be a family member of a prisoner currently serving sentence in a state jail in Gujarat. The prisoner should be the sole or main earner of the family. The prisoner's family must be economically dependent on the prisoner. The total family income should not exceed \u20b91,50,000/- per annum. The family should not be fragmented (i.e., should be living together and dependent on the prisoner). \n",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: Visit the District Jail/ Sub Jail/ District Social Defense Office and obtain the application form . Step 2: Fill out the form with all required details and attach the necessary documents (Self-attested, if required). Step 3: Submit the completed application to the office of the District Welfare Officer/ Sub Jail."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Scheme No. 286)",
+      "url": "https://mariyojana.gujarat.gov.in/MoreDetails.aspx"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Aadhaar Card. Bank Pass Book/Cancelled Cheque. Income Certificate. Ration Card."
+}

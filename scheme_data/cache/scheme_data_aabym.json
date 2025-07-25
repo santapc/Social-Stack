@@ -1,0 +1,60 @@
+{
+  "scheme_id": "671a312c4d83876c61b9e371",
+  "slug": "aabym",
+  "scheme_name": "Aam Aadmi Bima Yojana (Maharashtra)",
+  "scheme_short_title": "AABYM",
+  "state": "Maharashtra",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Special Assistance Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Banking,Financial Services and Insurance",
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Insurance",
+    "Financial assistance",
+    "Banking and money",
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Insurance",
+    "Scholarship",
+    "Accident",
+    "Disability",
+    "Student"
+  ],
+  "brief_description": "The \"Aam Aadmi Bima Yojana\" scheme is implemented by the Social Justice & Special Assistance Department, Government of Maharashtra. This Centrally Sponsored Scheme is aimed at providing insurance and scholarship benefits to landless labourers in rural areas, aged 18 to 59 years.",
+  "detailed_description": "The &amp;quot;Aam Aadmi Bima Yojana&amp;quot; scheme is implemented by the Social Justice &amp;amp; Special Assistance Department, Government of Maharashtra. This Centrally Sponsored Scheme is aimed at providing insurance and scholarship benefits to landless laborers in rural areas, aged 18 to 59 years. The annual premium for each member is \u20b9200/-, with 50% of the premium subsidized by the State and Central Governments. The scheme covers all categories of beneficiaries and focuses on providing financial security through insurance and educational scholarships.",
+  "benefits": [
+    "Natural Death Benefit: \u20b930,000 is payable to the nominee in case of natural death before the terminal date. Accidental Death Benefit: \u20b975,000 is payable to the nominee in case of death due to an accident. Permanent Total Disability (Accident): \u20b975,000 is provided in case of permanent total disability caused by an accident. Loss of Two Eyes or Two Limbs (Accident): \u20b975,000 is payable in case of loss of two eyes or two limbs in an accident. Loss of One Eye or One Limb (Accident): \u20b937,500 is payable in case of loss of one eye or one limb in an accident. Scholarship Benefit: \u20b9100 per month is given as a scholarship to children of the insured studying in 9th to 12th standards. The scholarship is available for a maximum of two children per family."
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Maharashtra. The applicant's age should be between 18 and 59 years. The applicant must be a landless labourer. The applicant should be residing in a rural area. The applicant's family should not own any agricultural land. The applicant should not be covered under any other similar insurance scheme.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the Office of the Collector/Tahsildar/Talathi  and request a hard copy of the prescribed format of the application form from the concerned authority.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the concerned authority.",
+        "Step 4: Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE: Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sjsa.maharashtra.gov.in/en/scheme-category/special-assistance"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://pune.gov.in/scheme/aam-adami-bima-yojana/"
+    }
+  ],
+  "documents_required": "Proof of Identity Proof of Age Address Proof Certificate of Landlessness Passport-Sized Photographs Income Certificate Application Form Self-Attestation Additional Documents (if applicable) "
+}

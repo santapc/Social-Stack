@@ -1,0 +1,54 @@
+{
+  "scheme_id": "659e3ff06093f0fa331b446c",
+  "slug": "upmbsyg",
+  "scheme_name": "Uttar Pradesh Mukhyamantri Bal Seva Yojana (Genearal)",
+  "scheme_short_title": "UPMBSYG",
+  "state": "Uttar Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Department of Women & Child Development",
+  "dbt_scheme": false,
+  "categories": [
+    "Women and Child",
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial Assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Social Welfare",
+    "Empowerment"
+  ],
+  "brief_description": "\"Uttar Pradesh Mukhyamantri Bal Seva Yojana (General)\" scheme provides financial assistance to children in Uttar Pradesh who face various hardships.",
+  "detailed_description": "Recognizing the importance of a safe and nurturing environment for children&#39;s development, the Uttar Pradesh Chief Minister Bal Seva Yojana (General) steps in. This program helps young people under 18 who have lost one or both parents (not due to Covid), and young adults aged 18-23 orphaned by Covid-19. <br> The scheme goes beyond financial assistance. It supports students pursuing higher education at government institutions after completing 12th grade, including those achieving excellence in national exams like NEET, JEE, and CLAT. Additionally, it offers a helping hand to children of divorced or abandoned mothers, those with imprisoned parents, and those rescued from child labor or begging.",
+  "benefits": [
+    "Financial Assistance : \u20b9 2,500/- per month."
+  ],
+  "eligibility_criteria": "Non-Institutional Children:\nChildren under 18 who have lost both parents or one parent due to non-Covid reasons. Adolescents 18-23 who lost both or one parent due to Covid or any reason, and are pursuing higher education after completing 12th grade. Children of divorced/abandoned mothers. Children whose parents/guardian are imprisoned. Children rescued from child labor, begging, or prostitution. Children of families involved in begging/prostitution. An assistance will be provided to maximum two children of the family. The annual income of the family of all the categories of children should be less than \u20b93,00,000/- but the condition of income limit will not apply to those where both mother and father have died.\n\nInstitutional Children:\nUnder the age group of 0-18, previously lived in children's homes and reintegrated back into families or residing in child care institutions. Support: Receives financial assistance and family/aftercare services for readjustment. ",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Non-Institutional Children:",
+        "Application submission: Rural areas : Village Development Officer, Gram Panchayat Officer, Block Development Officer, or District Probation Officer. Urban areas: Accountant, Tehsil office, or District Probation Officer. Requirements: Application form filled correctly, self-attested, and with all necessary documents. Verification: Applications verified by Block Development Officer (rural) or Deputy District Magistrate (urban). Recommendation : Verified applications sent with recommendations to District Probation Office/Child Protection Unit.",
+        "Institutional Children:",
+        "Identification : District Child Protection Unit and Child Welfare Committee directly contact and identify eligible children. Application : Children or parents submit applications within 15 days of identification. Supervision : District-level task force monitors Child Welfare Committee and Child Protection Unit to ensure timely application submission from all eligible children"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines-2021",
+      "url": "https://balvikas.missionvatsalyaup.in/public/pdf/UPMBSY%20GO%20General%2007-Sep-2021%201067%20(1).pdf"
+    },
+    {
+      "title": "Guidelines-2022",
+      "url": "https://balvikas.missionvatsalyaup.in/public/pdf/UPMBSY%20General%20ammendment%20GO%20for%20installment%20and%20university%20criteria%20382%20dir105%20(1).pdf"
+    }
+  ],
+  "exclusions": "Families already receiving benefits under similar schemes (except Uttar Pradesh Chief Minister Bal Seva Yojana). Children aged 18+ who choose not to pursue higher education or competitive exams (eligible until 23 years old or graduation / diploma, whichever is earlier).",
+  "documents_required": "For non-institutional category:-\nIncome certificate of the family (not applicable in case of death of both the parents). Relevant records of parents or mother or father or guardian as the case may be. Certificate of registration in the educational institution of the relevant category (not required for children of 0 to 05 years). \nFor institutional category:-\nOrder of the Child Welfare Committee/Juvenile Justice Board, by which the child has been placed under institutional care. Age certificate of the child/adolescent (in addition to the certificates mentioned in Section 94 of the Juvenile Justice (Care and Protection of Children) Act 2015, copy of the family register or copy of any government document in which age is mentioned.) Certificate of admission for obtaining graduate degree or diploma from a government college, university or technical institute, certificate of passing national and state level competitive examinations like NEET, JEE, CLAT, etc."
+}

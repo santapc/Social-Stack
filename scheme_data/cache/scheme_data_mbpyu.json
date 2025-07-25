@@ -1,0 +1,51 @@
+{
+  "scheme_id": "65fbb51d47c0daa74e38cf95",
+  "slug": "mbpyu",
+  "scheme_name": "Mukhyamantri Bal Poshan Yojana",
+  "scheme_short_title": "MBPYU",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "Department Of Woman Empowerment & Child Development",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Women and Child",
+    "Health & Wellness"
+  ],
+  "sub_categories": [
+    "Children\u2019s health and immunization"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Child",
+    "Nutrition",
+    "Health"
+  ],
+  "brief_description": "\"Mukhyamantri Bal Poshan Yojana\" is a social security scheme by the Department of Women Empowerment and Child Development, Government of Uttarakhand, that aims to reduce malnutrition among the children of the state through providing nutritional food.",
+  "detailed_description": "In an effort to combat childhood malnutrition, the state of Uttarakhand&amp;#39;s Department of Women Empowerment and Child Development has launched the &amp;quot;Mukhyamantri Bal Poshan Yojana&amp;quot; program. This social security initiative targets children between the ages of 3 and 6, aiming to improve their nutritional health by providing them with essential food supplies. By addressing dietary deficiencies in this crucial age group, the program seeks to ensure a healthier and stronger foundation for the future generation of Uttarakhand.",
+  "benefits": [
+    "Egg (2 Days/Week). Banana Chips (2 Days/Week).",
+    "Note : Banana are provided to those who do not eat eggs."
+  ],
+  "eligibility_criteria": "Beneficiary should be a permanent resident of Uttarakhand. Beneficiary should be a child. Beneficiaries should be between 3 years to 6 years.\n",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step-1: Concerned parents should take their children to the nearby Anganwadi Centre.",
+        "Step-2: Provide all the necessary documents as directed (attested, if required).",
+        "Step-3: After the completion of the procedure benefits can be availed from the Anganwadi Centre."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://agriculture.uk.gov.in/files/MERI_YOJANA_book_pdf__04-12-23.pdf"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Proof of Child Birth."
+}

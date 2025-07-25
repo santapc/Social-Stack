@@ -1,0 +1,54 @@
+{
+  "scheme_id": "67a494b9da50340fc8f0f33f",
+  "slug": "cpsbocwwb",
+  "scheme_name": "Cash Prizes Scheme (BBOCWWB)",
+  "scheme_short_title": "CPSBOCWWB",
+  "state": "Bihar",
+  "level": "State/ UT",
+  "nodal_department": "Building Construction Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Construction",
+    "Building",
+    "Labour",
+    "Financial Assistance",
+    "Worker",
+    "Student",
+    "Exam"
+  ],
+  "brief_description": "\"Cash Prizes Scheme\" was launched by the Bihar Building & Other Construction Workers Welfare Board. Students securing 60% or more in the 10th and 12th exams receive cash prizes of up to \u20b925,000/- per year. Upto two children of a registered construction worker are eligible.",
+  "detailed_description": "&quot;Cash Prizes Scheme&quot; was launched by the Bihar Building &amp; Other Construction Workers Welfare Board (BBOCWWB), Labour Resources Department, Government of Bihar. Students securing 60% or more in the 10th and 12th exams receive cash prizes of up to \u20b925,000/- per year. Upto two children of a registered construction worker are eligible.",
+  "benefits": [
+    "On securing 80% or more in the 10th or 12th examination: \u20b925,000/- per year. On securing 70% to 79.99% in the 10th or 12th examination: \u20b915,000/- per year. On securing 60% to 69.99% in the 10th or 12th examination: \u20b910,000/- per year."
+  ],
+  "eligibility_criteria": "For the Worker\nThe worker should be engaged in building or construction work. The worker should be registered with the \"Bihar Building & Other Construction Workers Welfare Board\". The worker's membership with the Welfare Board must be active at the time of application. The worker should have at least one year of membership with the Board. A maximum of two children of the registered construction worker will be eligible for the benefit.\nFor the Child\nThe child should have passed the 10th or 12th examination conducted by a board in Bihar. The child should have scored 60% or above in the examination.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration of a Construction Worker under BBOCWWB: Step 1: Visit the Official Website of the Bihar Building and Other Construction Workers Welfare Board. Step 2: On the homepage, click on \" Labour Registration \". Step 3: Enter your Aadhar card number and name, then click \"Authenticate\". Step 4: A dashboard will appear. Enter all required details, ensuring that all fields marked with an asterisk (*) are filled in correctly. Step 5: Click on \"Submit\" and proceed to pay the application fee online. Step 6: You will receive your construction worker registration number upon successful registration. Apply for Scheme Benefits: Step 1: Visit the Official Website of the Bihar Building and Other Construction Workers Welfare Board. Step 2: Click on \"Login\" and select \"Labour\". Step 3: Enter your registration number & year of Birth, click \"Show\" to view your details. Step 4: Select the scheme you wish to apply for to avail the benefits. Step 5: Enter all required information and upload the necessary documents. Step 6: Click on \"Submit Application\" to complete the process. Application Tracking: Applicant can track their application status online through the official website of the Bihar Building and Other Construction Workers Welfare Board. Relevant updates will be sent to the registered mobile number."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://bocwscheme.bihar.gov.in/bihar/assets/images/scheme.pdf"
+    },
+    {
+      "title": "Website",
+      "url": "https://bocwscheme.bihar.gov.in/home"
+    },
+    {
+      "title": "Labour Registration",
+      "url": "https://bocwscheme.bihar.gov.in/worker_reg"
+    }
+  ],
+  "documents_required": "Identity Proof i.e. Aadhaar Card, Voter Card Bank Account Details Proof of Age Identity Card of the Registered Worker Marksheet of Student Proof of Membership Any Other Documents as Required"
+}

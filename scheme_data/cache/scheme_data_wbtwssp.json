@@ -1,0 +1,59 @@
+{
+  "scheme_id": "673f24d2a207123b9e1489d9",
+  "slug": "wbtwssp",
+  "scheme_name": "West Bengal Transport Workers' Social Security Scheme: Pension",
+  "scheme_short_title": "WBTWSSP",
+  "state": "West Bengal",
+  "level": "State/ UT",
+  "nodal_department": "Labour Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Pension"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Social Security",
+    "Transport Worker",
+    "Monthly Assistance",
+    "Pension"
+  ],
+  "brief_description": "The scheme provides pension benefits to transport workers of the state upon reaching 60 years of age.",
+  "detailed_description": "The \"West Bengal Transport Workers' Social Security Scheme: Pension\" by the Labour Department, is designed to support unorganized transport workers upon retirement. Eligible beneficiaries receive a monthly pension of \u20b91500/-, which increases by \u20b910/- for each year of enrolment beyond 5 years, provided they have been continuously enrolled in the scheme for at least 5 years. This initiative aims to ensure financial stability and dignity for transport workers during their retirement years. &lt;br&gt;",
+  "benefits": [
+    "Pension Amount: \u20b91,500/- per month for beneficiaries aged 60 and above. Incremental Benefit: Additional \u20b910/- per month for every completed year of enrolment beyond five years. "
+  ],
+  "eligibility_criteria": "The applicant must be between 18 and 60 years of age at the time of enrolment. The applicant must be an unorganized worker employed in the operation of commercial vehicles, such as cars, taxis, luxury taxis, light commercial vehicles, vans, auto-rickshaws, tempos, lorries, trucks, or buses. The applicant's vehicle must be used for commercial purposes and not solely for personal or family use. The applicant must have been continuously enrolled in the scheme for at least 5 years to qualify for pension benefits. ",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step-1: Visit the \" eDistrict 2.0 \" portal. Click on Log In/Sign Up. Step-2: In the User Login window, scroll down to the bottom and click on \"Register\". Step-3: Fill in all the details carefully, enter a username, and click on \"Register\". Step-4: Upon entering the One Time Password received on your mobile, you will be successfully registered. Step-5: Now in the User Login window, enter your Username or email and captcha and click on \"Sign In\". Step-6: Enter the received O.T.P and click on \"Submit\". Step-7: Upon successful Login, You will be redirected to the \"Dashboard\". From the right side menu apply for the concerned scheme."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guideline-1",
+      "url": "https://wblc.gov.in/sites/default/files/ckfinder/userfiles/images/WBTWSSS_at_a_glance.pdf"
+    },
+    {
+      "title": "Guideline-2",
+      "url": "https://employmentbankwb.gov.in/social_security_scheme.php#ans8"
+    },
+    {
+      "title": "Guideline (Page No 150)-3",
+      "url": "https://bsk.wb.gov.in/download/BSK%20Manual_English.pdf"
+    },
+    {
+      "title": "Online Application",
+      "url": "https://edistrict.wb.gov.in/portal/home"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "For New Registration: Certification by Prescribed Authority in the Prescribed format, Passport Size Photo (self and for each dependent member). Age Proof Document. Driving Licence in case of Drivers. EPIC/ AADHAR Card. For the Application of the Welfare Scheme: Original copies of Form - I, II, IIA. Life Certificate. Bank Details. Joint Passport Size Photo with Spouse (3 copies). "
+}

@@ -1,0 +1,54 @@
+{
+  "scheme_id": "663f822eb25b9df81ecda547",
+  "slug": "fatngo",
+  "scheme_name": "Financial Assistance to Non Governmental Organisations",
+  "scheme_short_title": "FATNGO",
+  "state": "Tamil Nadu",
+  "level": "State/ UT",
+  "nodal_department": "Welfare of Differently Abled Persons Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Business & Entrepreneurship",
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Shelter",
+    "Rehabilitation",
+    "Food Security / Public Distribution System",
+    "Education and training grants, fellowship, stipend"
+  ],
+  "target_beneficiaries": [
+    "Business Entity"
+  ],
+  "tags": [
+    "NGO",
+    "Children",
+    "School",
+    "Person With Disability"
+  ],
+  "brief_description": "The \"Financial Assistance to Non Governmental Organisations\" scheme was launched by the Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu. The scheme aims to provide financial assistance to the NGO run a school for children with intellectual disability.",
+  "detailed_description": "The Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu launched the scheme &quot;Financial Assistance to Non Governmental Organisations&quot;. Under this scheme, funds are sanctioned to schools for children with an intellectual disability run by NGOs towards feeding charges, rent, and construction/extension of buildings. <br>",
+  "benefits": [
+    "Financial assistance is given to the NGO for feeding charges, rent, and construction/extension of building."
+  ],
+  "eligibility_criteria": "The school for children with intellectual disability should have functioned for a minimum period of 5 years. The school should be registered under section 51 of the Rights of Persons with Disability Act,2016.\n",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested NGO should visit (during office hours) the District Differently Abled Welfare Officer and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents to the District Differently Abled Welfare Officer.",
+        "Step 4: Request a receipt or acknowledgment from the District Differently Abled Welfare Officer to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Citizen's Charter (2022)",
+      "url": "https://cms.tn.gov.in/sites/default/files/documents/wda_e_cc_2022_23.pdf"
+    }
+  ],
+  "documents_required": "Registration Certificate (under Section 51  of the Rights of Persons with Disability Act,2016). Any Other Document If Required."
+}

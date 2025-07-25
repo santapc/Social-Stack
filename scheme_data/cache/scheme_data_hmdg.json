@@ -1,0 +1,58 @@
+{
+  "scheme_id": "62999e3272acc0e5ffb4e42c",
+  "slug": "hmdg",
+  "scheme_name": "Health Minister's Discretionary Grant",
+  "scheme_short_title": "HMDG",
+  "level": "Central",
+  "nodal_department": "Department of Health and Family Welfare",
+  "dbt_scheme": false,
+  "categories": [
+    "Health & Wellness"
+  ],
+  "sub_categories": [
+    "Disease and conditions",
+    "Financial assistance",
+    "Health promotion"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Health",
+    "Disease",
+    "Hospital",
+    "Medical Facility",
+    "Patient"
+  ],
+  "brief_description": "A health scheme by Ministry of Health & Family Welfare for financially poor patients to defray a part of the expenditure on Hospitalization/treatment in Government Hospitals,for life threatening diseases covered under Rashtriya Arogya Nidhi (RAN), in cases where free medical facilities aren't there.",
+  "detailed_description": "A health scheme by Ministry of Health &amp; Family Welfare for financially poor patients to defray a part of the expenditure on Hospitalization/treatment in Government Hospitals,for life threatening diseases covered under Rashtriya Arogya Nidhi (RAN), in cases where free medical facilities are not available. Only those having annual family income up to Rs.1.25,000/- and below are eligible for financial assistance from Health Minister's Discretionary Grant (HMDG). Under this scheme, Financial assistance is provided towards treatment in Government hospitals including super specialty Government hospitals / institutes.",
+  "benefits": [
+    "Financial assistance towards treatment in Government hospitals including super specialty Government hospitals / institutes.",
+    "Financial Assistance of \u20b950,000/- if the estimated cost of treatment is up to \u20b91,00,000/- . Financial Assistance of \u20b975,000/- if the estimated cost of treatment is above \u20b91,00,000/- & up to \u20b91,50,000/-. Financial Assistance of \u20b91,00,000/- if the estimated cost of treatment is above \u20b91,50,000/-."
+  ],
+  "eligibility_criteria": "The applicant must not be an employee of either Central or State Govt. The applicant must have been Hospitalized / Undergoing Treatment in a Government Hospital (including super specialty Government hospitals / institutes). The Total Annual Family Income of the applicant must not exceed \u20b91,00,000/- per annum.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1:",
+        "The application form can be downloaded from the following link:",
+        " https://main.mohfw.gov.in/sites/default/files/4451946500hmdgappl_1_1_0.pdf ",
+        "  ",
+        " Step 2: ",
+        " Take print of the application form and duly fill the mandatory fields. ",
+        "  ",
+        " Step 3: ",
+        " The duly filled application needs to be submitted to either of the following: Doctor / HOD / Medical Superintendent of the Hospital.   "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://main.mohfw.gov.in/major-programmes/poor-patients-financial-assistance/health-ministers-discretionary-grant-hmdg"
+    }
+  ],
+  "exclusions": "The following cases are not eligible to avail benefits under HMDG:\nProlonged treatment involving recurring expenditure is not permissible. diseases of common nature where treatment is not expensive. T.B. cases Cases for treatment in private hospital. Central as well as State Government employees.",
+  "documents_required": "Application form in prescribed proforma duly signed by the treating doctor and countersigned by the Medical Superintendent of the Government hospital/institute. Quantum of financial assistance granted to the patient is- (a) Rs.75,000/-, if the estimated cost of treatment is up to Rs.1,25,000/-(b) Rs.1,00,000/- if the estimated cost of treatment is above Rs.1,25,000/- and up to Rs.1,75,000/- and (c) Rs.1,25,000/- if the estimated cost of treatment is above Rs.1,75,000/-. A Certificate in original from the BDO/ Tehsildar/Collector /SDM (quoting full name, designation, telephone number and complete official address of the certificate issuing authority) regarding occupation and monthly/yearly income of the applicant and his/her family members from all sources. Copy of the ration card. "
+}

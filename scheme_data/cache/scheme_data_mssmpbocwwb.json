@@ -1,0 +1,86 @@
+{
+  "scheme_id": "6744609cb63acbe8ffb75eb0",
+  "slug": "mssmpbocwwb",
+  "scheme_name": "Maternity Support Scheme (MPBOCWWB)",
+  "scheme_short_title": "MSSMPBOCWWB",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Labour Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Financial assistance",
+    "Citizen empowerment",
+    "Pregnancy Care",
+    "Childcare"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Building Worker",
+    "Construction Workers",
+    "Labour",
+    "Maternity",
+    "Financial Assistance"
+  ],
+  "brief_description": "The \"Maternity Support Scheme\" by the MPBOCW Welfare Board, Labour Department, Government of Madhya Pradesh provides an amount of \u20b916,000/- as maternity allowance, payable in two installments.",
+  "detailed_description": "The &quot;Maternity Support Scheme&quot; by the Building and Other Construction Workers Welfare Board, Labour Department, Jammu &amp; Kashmir, provides financial assistance of \u20b916,000/- as maternity allowance, payable in two installments. Only registered construction workers or their wives are eligible to receive the benefits under this scheme. <br> <br> <br> <br>",
+  "benefits": [
+    "First Installment: \u20b94,000 for registration of pregnancy in the first trimester. Second Installment: \u20b912,000 for:",
+    "Delivery in government or authorized non-government hospitals under the Ayushman Bharat \"Niramayam\" program for pregnancy and delivery-related high-risk packages. Registration of newborns after institutional birth. Early breastfeeding of babies. BCG, OPV, and Hep B vaccination for the infant.",
+    "Total Amount: \u20b916,000"
+  ],
+  "eligibility_criteria": "For Registration as a Building/ Construction Worker:\nThe applicant should be a resident of Madhya Pradesh. The applicant should be a Building/ Construction Worker. The applicant should be between 18 and 60 years. The applicant should have engaged in any building or other construction work for at least 90 days during the preceding 12 months. The applicant should be registration is renewed annually.\nFor the Application of the Welfare Scheme:\nThe applicant should be registered Under the Building and Other Construction Workers Welfare Board of Madhya Pradesh. The applicant should be pregnant. The worker's membership with the Welfare Board must be active at the time of application.\nNOTE: Assistance is limited to a maximum of three children.\n",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration of a Construction Worker under MPBOCWWB:",
+        "Step 1: Go to the Shram Seva Portal (MPBOCWWB) official website. ",
+        "Step 2: On the homepage, find and click on \"Registration of Construction Worker.\"",
+        "Step 3:Select the option \" Apply online for registration as a beneficiary.\"",
+        "Step 4: Enter your Composite Member ID and Samagra Family ID, then click Get Details.",
+        "Step 5: Your family or beneficiary details will be displayed on the screen.",
+        "Step 8: Complete the form by entering all required details (marked with *).",
+        "Step 9: Upload all necessary documents, such as ID proof and other relevant certificates.",
+        "Step 10:After completing the form and uploading the documents, click Submit and pay the application fee online.",
+        "Step11 : You will receive a registration number after successful payment and submission.",
+        "Steps to Apply for Scheme Benefits:",
+        "Step1: Go to the Shram Seva Portal (MPBOCWWB) official website.  Step2: On the homepage, find and click on Planning Application, then register the applications of registered workers for the benefits of schemes . Step 3: Enter your Labor Registration Number (Portal Code) and the code displayed in the image, then click View Details. Step4: Choose the scheme you wish to apply for in order to avail the benefits. Step5: Enter all required information and upload the necessary documents as prompted. Step6: Finally, click on Submit Application to complete the process."
+      ]
+    },
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the Rural Area Block Medical Officer / Civil Surgeon / Superintendent Medical College Hospital, and request the hard copy of the prescribed format of the application form from the concerned authority.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the authority.",
+        "Step 4: Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE: Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://labour.mp.gov.in/Public/Pages/Schemes/PrasutiSahayta.aspx"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=333"
+    },
+    {
+      "title": "Labour Registration",
+      "url": "https://labour.mp.gov.in/Public/Registration/BeneficiaryRegistrationRequest.aspx"
+    },
+    {
+      "title": "Scheme Registration",
+      "url": "https://labour.mp.gov.in/Public/Application/RegsiterSchemeApplication.aspx"
+    }
+  ],
+  "documents_required": "Documents Required for Registration as a Building/Construction Worker:\nIdentity Proof (e.g., Aadhaar Card) Passport-size Photograph Skill-upgradation Training Certificate Proof of Residence (e.g., Utility bill, Voter ID, etc.) Ration Card (optional) Bank Account Details (e.g., Copy of Bank Passbook) Caste Certificate (if applicable) Undertaking/Declaration Age Certificate (any of the following): School Certificate Registrar of Birth Certificate Certificate issued by District Medical Board (if both of the above are unavailable) Employment Certificate Signature Any other documents as required\nDocuments Required for Application of a Welfare Scheme:\nIdentity Card of the Member Medical Certificate (if applicable) Any Other Document as Required"
+}

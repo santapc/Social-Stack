@@ -1,0 +1,62 @@
+{
+  "scheme_id": "6421ad1bdb63e235af50f97f",
+  "slug": "ns",
+  "scheme_name": "Niramaya Scheme",
+  "scheme_short_title": "NS",
+  "state": "Odisha",
+  "level": "State",
+  "nodal_department": "Health and Family Welfare Department",
+  "implementing_agency": "Odisha State Medical Corporation Ltd.",
+  "categories": [
+    "Health & Wellness"
+  ],
+  "sub_categories": [
+    "Health care providers and access",
+    "Medicine and health products",
+    "Health promotion"
+  ],
+  "target_beneficiaries": [
+    "All"
+  ],
+  "tags": [
+    "Free Medicines Distribution",
+    "Drug Distribution Counter",
+    "Health"
+  ],
+  "brief_description": "The Department of Health & Family Welfare Department, Government of Odisha introduced a scheme named \"NIRAMAYA\" - a Free Medicines Distribution Scheme. The aim is to provide quality essential medicines for all kinds of diseases to patients visiting government health facilities at free of cost.",
+  "detailed_description": "The Department of Health &amp;amp; Family Welfare Department, Government of Odisha introduced a scheme named &amp;quot;**NIRAMAYA**&amp;quot; - a free medicine distribution scheme. The aim of this scheme is to provide quality essential medicines for all kinds of diseases to patients visiting government health facilities at free of cost. The scheme was launched on 01.05.2015 with an assurance to provide 720 medicines listed in the Emergency Drugs List at all the Government run hospitals and medical colleges free of cost to the patients. It started with 150 drugs in the list while the list has been updated to 570 numbers recently. The government also announced to set up of 1102 drug distribution centers (DDCs) which will cover 1234 primary health centers (PHCs), 383 Community Health Centers (CHCs), 32 District Headquarters Hospitals (DHHs), 22 sub-divisional hospitals and 3 medical colleges. This scheme is managed by the Odisha State Medical Corporation Ltd. (OSMC). **Key Features of the scheme:** 1. **Healthcare Coverage:** The scheme provides coverage for a wide range of health services, including preventive, diagnostic, and treatment services. It focuses on ensuring that people have access to essential medical care. 1. **Financial Support:** It may include financial support for medical treatments, which helps reduce out-of-pocket expenses for individuals and families. 1. **Integrated Services:** The scheme integrates various health services to offer a more holistic approach to health care. This might include primary health care, secondary and tertiary care, and sometimes even specialized treatments. 1. **Quality Improvement:** Scheme aims to enhance the quality of health services by setting standards and improving the infrastructure of healthcare facilities. 1. **Public Awareness:** The scheme often includes components for educating the public about health issues, preventive measures, and the available health services. 1. **Collaboration:** It may involve collaboration with private healthcare providers, NGOs, and other stakeholders to broaden the reach and effectiveness of the scheme.",
+  "benefits": [
+    "Cashless Medicinal Drugs: This scheme provides free medicines treatment to the beneficiaries of the scheme. This means that they can avail of medical drugs without having to pay any cash upfront. No Age Limit: The scheme has no age limit, and anyone can avail of the benefits of the scheme, including senior citizens. Easy Enrollment: The enrollment process for the scheme is simple and hassle-free, and anyone can enroll in the scheme by submitting the required documents. Increased Access: Ensures that more people have access to necessary health services. Reduced Financial Burden: Helps in alleviating the financial burden on families for medical treatments. Enhanced Health Outcomes: By improving the quality of care and ensuring timely treatment, the scheme contributes to better health outcomes."
+  ],
+  "eligibility_criteria": "Patients who have done registration in the Govt. Hospitals are eligible to get free medicines under \"Niramaya\". Beneficiaries must be residents of Odisha. ",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "On registration, the beneficiary is required to log in on https://www.e-niramaya.odisha.gov.in/Login.aspx    After log in on portal, he can apply for the scheme. At any stage in case the beneficiary has forgotten the password, then click on https://www.e niramaya.odisha.gov.in/forgotpassword.aspx.    For Mobile Application, the beneficiary can download the .apk files in their handset by visiting https://www.e-niramaya.odisha.gov.in/Login.aspx "
+      ]
+    },
+    {
+      "mode": "Offline",
+      "steps": [
+        "Pre-requisite steps: Registration Consultation with doctor Prescription Receipt of drugs from DDC Counter. For any grievance related to drugs availability at various levels, please contact the authorities as given below: Block Level - Medical Officer In-charge Sub-divisional Level - Sub-divisional Medical Officer District Level - CDMO / ADMO(med) / Store Medical Officer Tertiary Level Institutions - Superintendent / Store Medical Officer State Level - Jt. Director, State Drug Management Unit"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://osmcl.nic.in/sites/default/files/guidelines/Guideline%20-%20Free%20Drug%20Distribution%20Scheme.pdf"
+    },
+    {
+      "title": "FAQ",
+      "url": "https://www.e-niramaya.odisha.gov.in/FAQ.html#:~:text=%22NIRAMAYA%22%20%2D%20is%20the%20Free,implemented%20since%201st%20May%202015."
+    },
+    {
+      "title": "Website",
+      "url": "https://www.e-niramaya.odisha.gov.in/login.aspx?enc=qQ4JqXU/iqn1XoiRyxnevURbm04hCVwBHTNLCg39/3GdpwJMUGbUrdK0cl91I6eU"
+    }
+  ],
+  "exclusions": "Government employees are not eligible.",
+  "documents_required": "<br>"
+}

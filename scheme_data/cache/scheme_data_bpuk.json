@@ -1,0 +1,73 @@
+{
+  "scheme_id": "67f37ebcb4c840dea6659acc",
+  "slug": "bpuk",
+  "scheme_name": "Bakri Palan Yojana",
+  "scheme_short_title": "BPYUK",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "Department Of Animal Husbandry",
+  "implementing_agency": "Animal Husbandry",
+  "dbt_scheme": true,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Animal husbandry"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Goat Rearing",
+    "SECC",
+    "Self-Employment",
+    "Scheduled Caste",
+    "Scheduled Tribe",
+    "Subsidy"
+  ],
+  "brief_description": "Under this scheme, financial assistance is provided by the State Government to eligible beneficiaries for purchasing goats to establish a goat-rearing unit comprising 10 female goats and 1 male goat, for a duration of 10 to 14 months.",
+  "detailed_description": "The scheme &amp;quot;Bakri Palan Yojana&amp;quot; was launched by the Animal Husbandry Department, Government of Uttarakhand, aims to promote self-employment among economically weaker sections through goat rearing. Under this scheme, financial assistance is provided by the State Government to eligible beneficiaries for purchasing goats to establish a goat-rearing unit comprising 10 female goats and 1 male goat, for a duration of 10 to 14 months. The scheme encourages rural livelihoods by supporting livestock-based activities for sustainable income generation.",
+  "benefits": [
+    "Financial support is provided to establish a goat rearing unit consisting of 10 female goats and 1 male goat for a period of 10 to 14 months. The total cost of the unit is \u20b970,000/-, out of which 90% (\u20b963,000/-) is borne by the State Government, and 10% (\u20b97,000/-) is contributed by the beneficiary.",
+    "Expected Time of Disbursement:",
+    "After selection and completion of departmental procedures, the beneficiary is provided the amount through DBT within one to two months to buy goats."
+  ],
+  "eligibility_criteria": "The applicant should be a permanent resident of Uttarakhand. The applicant should belong to the General, Scheduled Caste, or Scheduled Tribe category. The applicant should be listed in the SECC (Socio-Economic Caste Census) database. The applicant should be interested in establishing a goat-rearing unit for self-employment.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested beneficiary should present their proposal during the open meeting of the Gram Sabha. Step 2: Once the proposal is approved by the Gram Sabha, the beneficiary should submit it, along with all the required documents, to the Veterinary Officer, Livestock Extension Officer, or Gram Panchayat Development Officer of the concerned area. Alternatively, the Gram Panchayat may submit the proposal on behalf of the beneficiary. Step 3: The proposal is reviewed and recommended by the village-level selection committee. After recommendation, the development block-level committee conducts the final selection and forwards it to the Animal Husbandry Department. Step 4: Upon selection, the financial assistance is disbursed to the beneficiary through Direct Benefit Transfer (DBT) within one to two months, enabling them to purchase goats and establish the rearing unit."
+      ]
+    },
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process:",
+        "Step 1: Visit to Apuni Sarkar portal.",
+        "Step 2: On the homepage, locate and click on the \"Sign Up\" option to create a new citizen account.",
+        "Step 3: Fill in all the required fields with accurate information, i.e., Email ID, Gender, Name, Mobile number, Date of Birth, District, Address, etc. After entering your details, click the \"Submit\" button.",
+        "Step 4: Upon successful registration, you will receive your User ID and Password on your registered mobile number.",
+        "Log In Process:",
+        "Step 1: Visit to Apuni Sarkar portal.",
+        "Step 2: On the homepage, locate Citizen Login and enter your User ID (Email ID or Mobile Number) and the Password received. Enter the captcha code displayed and click on \"Sign In\" to access your dashboard.",
+        "Step 3: In your dashboard, click on the option to apply for a new application. Select the relevant department associated with the desired service. Click on the specific service name you wish to apply for.",
+        "Step 4: Upload all required documents as specified for the selected service. After uploading, click on the \"Submit\" button to proceed.",
+        "Step 5: Fill in all necessary details in the application form. You have options to \"Save\" the form for later, \"Preview\" the application, or \"Delete Draft\" if needed. Once all details are accurately filled, click on \"Submit\" to finalize your application.",
+        "Step 6: After submission, you will receive an Application ID Receipt. Download and save this recipe for future reference.",
+        "For detailed information, you can refer to the [ Apuni Sarkar User Manual ]"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Page No. 234)",
+      "url": "https://ahd.uk.gov.in/files/ebookmeriyojana.pdf"
+    },
+    {
+      "title": "Application Portal",
+      "url": "https://eservices.uk.gov.in/"
+    }
+  ],
+  "documents_required": "Aadhaar Card Bank Account details Caste Certificate Any other documents if required"
+}

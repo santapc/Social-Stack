@@ -1,0 +1,52 @@
+{
+  "scheme_id": "6593e590a733b1d732737e40",
+  "slug": "owjws",
+  "scheme_name": "Financial Assistance under Odisha Working Journalist Welfare Scheme",
+  "scheme_short_title": "FAOWJWS",
+  "state": "Odisha",
+  "level": "State/ UT",
+  "nodal_department": "Information and Public Relations Department",
+  "implementing_agency": "Information & Public Relations Department, Government Of Odisha",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Family",
+    "Individual"
+  ],
+  "tags": [
+    "Journalist",
+    "Permanent Incapacitation",
+    "Death",
+    "Financial Assistance"
+  ],
+  "brief_description": "The scheme \"Odisha Working Journalist Welfare Scheme\" was launched by the Information & Public Relations Department, Government of Odisha. Under the Scheme, financial assistance is provided to the legal heir of the working journalist in case of his/her death, and in case of permanent incapacitation.",
+  "detailed_description": "The scheme \"Odisha Working Journalist Welfare Scheme\" was launched by the Information &amp;amp; Public Relations Department, Government of Odisha. Under the Scheme, financial assistance is provided to the legal heir of the working journalist in case of his/her death, and in case of permanent incapacitation. In the event of death of a working journalist, a fixed sum of money may be paid to the widow, and in the event of the deceased not being survived by his widow, equally to the minor children. In the event, the deceased was not married or is not survived by his widow or children, such ex-gratia payment may be sanctioned in favour of his father or mother. The eligible applicant, in such case, can apply online for financial assistance from the Information &amp;amp; Public Relations Department.",
+  "benefits": [
+    "Under the scheme, an ex-gratia of \u20b94,00,000/- is provided to the legal heir of the working journalist in case of his/her death and \u20b92,00,000/- in case of permanent incapacitation."
+  ],
+  "eligibility_criteria": "Journalist should be working in Odisha. The Journalist should be working for a media house registered with the I&PR department, Odisha. The applicant should be a legal heir of the working journalist in case of his/her death or in case of permanent incapacitation. Note: \"Permanent Incapacitation\" means incapacitation on account of accident, disease, or any other reason which renders the working Journalist wholly unfit for working as such.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 01: Visit the official web portal of the Odisha Working Journalist Welfare Scheme Application. i.e. https://owjws.odisha.gov.in/  Step 02: Click on \u2018Apply for Financial Assistance' found on the bottom of the page. Step 03: One new page appears \u2018Application for Financial Assistance in case of death of a working journalist'. Step 04: The journalist will have to fill up all the mandatory details. Step 05: Upon successful form submission One application number is generated which a journalist can use for further reference. i.e. for application status. Step 06: The applicant will receive an SMS in respective registered mobile number regarding successful submission of the application. Step 07: The applicant can login into the application by giving the respective registered mobile number. Step 08: After giving the mobile number, the journalist will receive an OTP on the mobile number. On successful submission of OTP, the applicant will able to login into the application. Step 09: On the page, the applicant will be able to view the application status."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://owjws.odisha.gov.in/about-us"
+    },
+    {
+      "title": "Resolution",
+      "url": "https://inpr.odisha.gov.in/sites/default/files/2020-06/orissawor-journa06_0.pdf"
+    }
+  ],
+  "documents_required": "1. Aadhaar Card\n2. Photograph\n3. Income Certificate\n4. Copy of accreditation card for accredited journalist\n5. Death Certificate (If applicable)\n6. Legal heir certificate (If applicable)\n7. Media card Copy\n8. Upload the Bank Passbook Front Page\n9. Any other documents, as required"
+}

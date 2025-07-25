@@ -1,0 +1,58 @@
+{
+  "scheme_id": "671b6ff74d83876c61bafdaa",
+  "slug": "mkym",
+  "scheme_name": "Mahila Kisan Yojana (Maharashtra)",
+  "scheme_short_title": "MKYM",
+  "state": "Maharashtra",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Special Assistance Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Skills & Employment",
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Financial assistance",
+    "Citizen empowerment"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Employment",
+    "Charmakar",
+    "Subsidy",
+    "Loan",
+    "Woman",
+    "Scheduled Caste",
+    "Farmer"
+  ],
+  "brief_description": "\"Mahila Kisan Yojana\" is implemented by the Dept. of Social Justice & Special Assistance, Govt. of Maharashtra. The scheme aims to uplift the lifestyle of economically disadvantaged Charmakar communities. it supports the production and sale of various types of footwear and leather articles.",
+  "detailed_description": "The scheme &amp;amp;quot;Mahila Kisan Yojana&amp;amp;quot; is implemented by the Department of Social Justice &amp;amp;amp; Special Assistance, Government of Maharashtra, in collaboration with the National Scheduled Castes Finance and Development Corporation (NSFDC). The scheme aims to uplift the lifestyle of economically disadvantaged Charmakar communities (such as Dhor, Chambhar, Holar, and Mochi). The scheme promotes educational, economic, and social development to ensure a respectable place in society. Additionally, it supports the production and sale of various types of footwear and leather articles to government departments and the open market.",
+  "benefits": [
+    "Total Loan Amount: The scheme provides financial assistance of \u20b950,000 for eligible female beneficiaries.",
+    "Subsidy Provided: A subsidy of \u20b910,000 is granted, reducing the effective loan burden on the beneficiary",
+    "Loan Component: The remaining \u20b940,000 is provided as a loan with an affordable interest rate of 5% per annum."
+  ],
+  "eligibility_criteria": "The applicant should be a permanent resident of Maharashtra. The applicant should be a female. The applicant should belong to the Charmakar Community. The applicant's age should be between 18 to 50 years. The applicant must have knowledge of the business for which they are applying for a loan. The applicant must have her own name, or joint name with her husband, or her husband's name (with affidavit) on the 7/12 land extract for agricultural project loans. For the 50% Subsidy Scheme and Margin Money, her annual income must be below the poverty line. For the NSFDC Scheme, the income limit is \u20b998,000 for rural areas and \u20b91,20,000 for urban areas.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the District Office of Leather Industries Development Corporation of Maharashtra (LIDCOM),  and request the hard copy of the prescribed format of the application form from the concerned authority.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the District Office of Leather Industries Development Corporation of Maharashtra (LIDCOM).",
+        "Step 4: Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE: Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sjsa.maharashtra.gov.in/en/scheme-category/employment"
+    }
+  ],
+  "documents_required": "Completed application form from the LIDCOM District Office. Recent passport-size photograph. Valid Income Certificate (issued by an authorized government officer). Caste Certificate (Charmakar Community). Proof of Residence (Maharashtra). 7/12 Land Extract: Applicant's name, joint name with husband, or husband's name (with affidavit) for agricultural loans. Knowledge or experience proof relevant to the proposed business/project."
+}

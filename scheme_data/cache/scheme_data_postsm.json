@@ -1,0 +1,59 @@
+{
+  "scheme_id": "629496cc6eb5d4447ec32d64",
+  "slug": "postsm",
+  "scheme_name": "Post Matric Scholarship For Minorities",
+  "scheme_short_title": "POSTSM",
+  "level": "Central",
+  "implementing_agency": "National Scholarship Portal (NSP)",
+  "dbt_scheme": true,
+  "categories": [
+    "Education & Learning",
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Universities and higher education",
+    "Scholarships and student finance",
+    "Financial assistance",
+    "Citizen empowerment"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Post-Matric",
+    "Scholarship",
+    "Minority",
+    "Education",
+    "Student"
+  ],
+  "brief_description": "A scholarship scheme by Ministry of Minority Affairs for students from minority communities pursuing a post-matric course from a notified institution in India in a government or private school. A total of five (5) lakh scholarships are targeted to be distributed as \u2018Fresh' Scholarships.",
+  "detailed_description": "A scholarship scheme by Ministry of Minority Affairs for students from minority communities pursuing a post-matric course from a notified institution in India in a government or private school, including such residential Government institutes and eligible private institutes selected and notified in a transparent manner by the State Government and Union Territory Administration concerned. <br> It will also cover technical and vocational courses in Industrial Training Institutes/ Industrial Training Centres affiliated with the National Council for Vocational Training (NCVT) of classes XI and XII level including Polytechnics and other courses <br> A total of five (5) lakh scholarships are targeted to be distributed as \u2018Fresh' Scholarships, besides, Renewal scholarships. <br> Scholarship will be awarded to the students who have secured not less than 50% marks in the previous final examination and annual income of their parents/guardian from all sources does not exceed Rs. 2.00 lakh. <br> The objective of the scheme is to award scholarships to meritorious students belonging to economically weaker sections of minority community so as to provide them better opportunities for higher education, increase their rate of attainment in higher education and enhance their employability. <br>",
+  "benefits": [
+    "(subject to actuals):",
+    "Admission and tuition fee (both Hosteller & Day Scholar):",
+    "For Class 11th & 12th: Rs. 7,000/- per annum For technical and vocational courses of level of Class 11th & 12th (more than 1 year in duration): Rs. 10,000/- per annum For UG & PG level: Rs. 3,000/- per annum",
+    "Maintenance Allowance:",
+    "For Class 11th and Class 12th including Tech. & Voca. Course: Rs. 380/- pm for Hosteller; Rs. 230/- pm for Day Scholar. For Courses other than technical and vocational courses at UG & PG level: Rs. 570/- pm for Hosteller & Rs. 300/- pm for Day Scholar. For M.Phil & Ph.D.: Rs. 1,200/- pm for Hosteller & Rs. 550/-pm for Day Scholar."
+  ],
+  "eligibility_criteria": "The applicant must be pursuing a post-matric qualification. The applicant must be from a Minority Community. The Annual income of parents/guardians of the applicant (from all sources) should be less than or equal to \u20b9 2,00,000/- per annum. The applicant must not be availing any other scholarship by the govt. The applicant must not be the third sibling in his/her family who has been given this scholarship.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "New Registration : Step 1: Visit the New Registration page of the National Scholarships Portal. Step 2: Guidelines for Registration will appear. Scroll to the bottom. Read the undertaking carefully and Accept the Terms. Click \"Next\". Step 3: In the next window, enter your mobile number and OTP. Then click \"Verify\". Step 4: After successful verification, continue with e-KYC process (as applicable). Step 5: Once completed, your reference number will be generated and the same will be sent to your registered phone number. Process for OTR ID Number Generation : Step 1: Download and install AadhaarFaceRD services in the android device. Step 2: Download and install the NSP OTR App from the Google Play Store. Step 3: After opening the mobile app Select the option \"eKYC with FaceAuth\" highlighted in red. Step 4: Enter the allotted reference number and click on \"Send OTP\" to receive OTP on your mobile no. Step 5: Enter the received OTP and captcha in the screen and click Next. Step 6: Click on \"Proceed for Face Authentication\" button highlighted in red. Step 7: UIDAI AadhaarFaceRD services will be invoked for face authentication. Ensure AadhaarFaceRD services are preinstalled on your device. Step 8: On Successful completion of face-authentication OTR no. will be generated and will also be sent on your registered mobile no. Fresh Application : Step 1: Visit the applicant Login page of the National Scholarships Portal Enter your One Time Registration (OTR) number and password. Step 2: Type the Captcha and click \"Login\". Step 3: On the next screen, provide the OTP received on your registered mobile number. You will be directed to the Password Reset screen. Create a new password and confirm. Step 4: Click \"Submit\". You will be directed to the \"Applicant's Dashboard\". Step 5: On the left pane, click \"Application Form\". The fields marked as * are compulsory. Fill in the details and upload the documents. Step 6: You can either click on \"Save as Draft\" to complete the application later. Else, click \"Final Submit\" to submit the application. Track Payment Status : The student can track their payment status from the template \"Know Your Payment\" in the Public Financial Management System (PFMS) Portal either by indicating their Aadhaar Number, Bank Account number or NSP Application ID. NOTE 1: The National Scholarships Portal will provide the timelines for opening & closing of the portal. NOTE 2: Online applications will be verified at two levels i.e. by the Institute, where the student is studying and thereafter by the concerned State Higher Education Department or any other Agency/ Official nominated by the State as State Nodal Agency (both for fresh and renewal applicants). NOTE 3: Students will not be permanently debarred for scholarships due to delay in renewal or verification. However, students will have to submit renewal applications within a cut-off date. Renewal for that year will not be allowed if an applicant misses this deadline."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.minorityaffairs.gov.in/WriteReadData/RTF1984/1671710006.pdf"
+    },
+    {
+      "title": "User Manual For OTR Number Generation",
+      "url": "https://scholarships.gov.in/public/FAQ/renewalstudentfaqs.pdf"
+    }
+  ],
+  "exclusions": "If a student violates school discipline or any other terms and conditions of the scholarship, scholarship may be suspended or cancelled. The student availing any other scholarship out of all the available Scholarships of Central Government meant for SC/ST/OBC/minority. If a student is found to have obtained a scholarship by false statement, his/her scholarship will be cancelled forthwith and the amount of the scholarship paid will be recovered by the concerned State/UT Govt. The student obtaining benefits under this scheme shall not be allowed to avail of benefits under any other scheme for this purpose. Scholarship will not be given to more than two students from a family.",
+  "documents_required": "Student's Photo. Institution Verification Form. (Refer source for format) Income Certificate, issued from a Competent Authority in the State/UT Govts is required in respect of parent/guardian of the student. (Refer source for format) Self-Declaration of Minority Community (Refer source for format) Self-attested Mark Sheet of the last qualifying exam. Fee Receipt of \u2018Current Course Year'. Bank Details (Account No., IFSC Code) of the applicant or Bank Details of the Parent/Guardian. (if the student does not have his/her own bank account). Residential / Domicile Certificate. Aadhaar Number (or alternative identification documents) \"Bonafide Student Certificate\" from the institute (if the institute is located in a State/UT different from domicile State/UT) Declaration of the Student (Refer source for format)\nSource: http://www.nitc.ac.in/app/webroot/img/upload/MCM-CSS-form.pdf"
+}

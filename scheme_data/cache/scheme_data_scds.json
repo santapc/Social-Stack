@@ -1,0 +1,67 @@
+{
+  "scheme_id": "66cf3af7aa3ce1c3b6ca121f",
+  "slug": "scds",
+  "scheme_name": "Sikhligar's Community Development Scheme",
+  "scheme_short_title": "SCDS",
+  "state": "Karnataka",
+  "level": "State/ UT",
+  "nodal_department": "Minorities Welfare Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Business & Entrepreneurship",
+    "Skills & Employment"
+  ],
+  "sub_categories": [
+    "Setting up / start-up / entrepreneurship",
+    "Entrepreneurship development"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Subsidy",
+    "Sikh Community",
+    "Self-employment",
+    "Economically Backward"
+  ],
+  "brief_description": "The \"Sikhligar's Community Development Scheme\" aims to promote economic self-reliance among the Sikhligara community, the Corporation will provide a subsidy and a subsidy of 33% of the vehicle cost for purchasing goods tempos, or vehicles to economically backward of Karnataka state.",
+  "detailed_description": "The &quot;Sikhligar's Community Development Scheme&quot; was launched by the Minorities Welfare Department, Government of Karnataka, and implemented by the Karnataka Minorities Development Corporation. The scheme aims to support the Sikhligara community in Karnataka, which is economically backward and primarily engaged in ironware welding and fabrication. Recognizing the need for economic self-reliance, the scheme provides financial assistance in the form of loans and subsidies to help community members start their own businesses or purchase vehicles for commercial purposes.",
+  "benefits": [
+    "Financial Assistance: The scheme offers a loan of \u20b950,000/- and a subsidy of \u20b950,000/- for business ventures. For purchasing goods tempos or vehicles, a subsidy of 33% of the vehicle cost, up to a maximum of \u20b91,50,000/-, is provided.",
+    "Subsidy for Self-Employment Loans: A 33% subsidy, up to a maximum of \u20b91,00,000/-, is available for those taking loans from banks or financial institutions for self-employment purposes."
+  ],
+  "eligibility_criteria": "The applicant must belong to the Sikh community. The applicant must be a permanent resident of the state. The applicant's age should be between 18 and 55 years. The family income from all sources should not exceed \u20b96,00,000/-. No family member of the applicant should be a State/Central Government employee. Neither the applicant nor their family members should have availed of any loan/subsidy facility from the Corporation in the last 5 years, except for the Arivu Education Loan and Foreign Education Loan Scheme. The applicant should not be a defaulter of the Corporation.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Application Process:",
+        "Step-01: Applicant need to visits the Karnataka Minorities Development Corporation official website .",
+        "Step-02: Click \"Apply Online\" and Enter \"Mobile Number\" and \"Submit\" .",
+        "Step-03: Enter \"Aadhaar Number\" Fill in the \"Captcha\" and Select \"Next\".",
+        "Step-04: Applicant will get OTP in his/her Aadhaar Linked Mobile Number.",
+        "Step-05: Enter \"OTP\" and select \"Continue\", After that Allow the official notice.",
+        "Step-06: After verifying the Aadhaar again fill in the \"OTP\" and Submit.",
+        "Step-07: Select the scheme \"Sikhligar's Community Development Scheme\" and fill in the basic details father's name, gender, qualification detail",
+        "Step-08: Select \"Next\" Fill in the address detail and again select \"Next\".",
+        "Step-09: Upload the required document passport-size photo, educational document, income certificate, etc.",
+        "Step-10: Click \"Proceed\" and Select \"Submit Application\" and get an Application ID."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://kmdconline.karnataka.gov.in/Portal/home"
+    },
+    {
+      "title": "Login & Apply",
+      "url": "https://kmdconline.karnataka.gov.in/Portal/login"
+    },
+    {
+      "title": "Track Application",
+      "url": "https://kmdconline.karnataka.gov.in/Portal/track"
+    }
+  ],
+  "documents_required": "Photo of the Applicant. Minority Certificate (issued by the Competent Authority). Income Certificate (issued by the Competent Authority). Copy of Aadhaar as Residential Proof. Copy of Bank Passbook. Project Report. Vehicle Quotation.  Applicants Self-Declaration. \n  "
+}

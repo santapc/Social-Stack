@@ -1,0 +1,65 @@
+{
+  "scheme_id": "62a02c41eaca073ef5081a74",
+  "slug": "sbm-g-ii",
+  "scheme_name": "Swachh Bharat Mission (Grameen) Phase II",
+  "scheme_short_title": "SBM-GPII",
+  "level": "Central",
+  "nodal_department": "Department of Drinking Water and Sanitation",
+  "dbt_scheme": true,
+  "categories": [
+    "Utility & Sanitation",
+    "Health & Wellness"
+  ],
+  "sub_categories": [
+    "Sanitation / Sewage",
+    "Solid waste management",
+    "Disease and conditions"
+  ],
+  "target_beneficiaries": [
+    "Family",
+    "Individual"
+  ],
+  "tags": [
+    "Swachh Bharat",
+    "Toilet",
+    "Sanitation",
+    "Rural",
+    "Grameen"
+  ],
+  "brief_description": "A sanitation scheme for Visual cleanliness through Open Defecation Free (ODF) sustainability and effective management of solid and liquid waste in villages.",
+  "detailed_description": "Phase II of the Swachh Bharat Mission (Grameen) [SBM(G)], will focus on the sustainability of Open Defecation Free (ODF) status and Solid and Liquid Waste Management (SLWM) in rural India. The programme will work towards ensuring that no one is left behind and everyone uses a toilet. SBM(G) Phase-II will be implemented from 2020-21 to 2025-26 in a mission mode. The key objective of SBM(G) Phase II is to sustain the ODF status of villages and to improve the levels of cleanliness in rural areas through solid and liquid waste management activities, making villages ODF Plus. This includes: - ODF-Sustainability; - Solid Waste Management; - Liquid Waste Management; - Visual cleanliness. <br>",
+  "benefits": [
+    "Construction of Individual Household Latrines (IHHLs): Financial support of \u20b912,000/- for APL and BPL rural households for toilet construction. Retrofitting of Toilets: Addressing and fixing technological issues in existing toilets to improve functionality. Construction of Community Sanitary Complexes (CSCs): At least one CSC in ODF-plus villages with over 100 households, prioritizing SC/ST areas and locations frequented by migrant workers. Solid Waste Management: Establishment of compost pits and waste segregation systems in villages. Liquid Waste Management: Installation of soak pits for greywater and stormwater management. Faecal Sludge Management (FSM): Implementation of FSM through various means in peri-urban or densely populated areas. Operation and Maintenance: Decentralised operation and maintenance of community sanitation assets in rural areas by Gram Panchayats. Other Activities: IEC and special campaigns Azadi Ka Amrit Mahotsav (AKAM) Das ka Dam Swachhata har dam Swachhata Filmon ka Amrit Mahotsav Start-up Grand Challenge Swachh Survekshan Grameen (SSG) Phase-II Capacity Building Initiatives Swachhata Action Plan (SAP) Swachh Iconic Places (SIP)."
+  ],
+  "eligibility_criteria": "Only those households (BPL, SCs, STs, households with physically disabled person, landless labourers with homestead, small and marginal farmers, and women headed households) in villages which do not have toilets and have not received any benefit for toilet construction under any other Government programme earlier, are eligible to apply for incentive for construction of toilets under Swachh Bharat Mission (Grameen). Note 1: The applications will be verified to ascertain the eligibility of the applicant household by the concerned block/district authorities and will be approved or rejected accordingly. Note 2: Only after approval of the application, the applicant will be eligible for receiving the incentive under the programme. Note 3: While selecting eligible households for providing incentive under the SBM(G), the following order of preference shall be ensured: A. Below Poverty Line (BPL) B. Above Poverty Line (APL) (i) SC/ST (ii) Persons with disability (divyangjan friendly toilet to be ensured) (iii) Landless labourers with homestead (iv) Small farmers (v) Marginal farmers (vi) Women-headed households.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process: Step 1: Visit the official website of Swachh Bharat Mission (Grameen) at https://swachhbharatmission.ddws.gov.in/  Step 2: On the home page, click on \u2018Application Form for IHHL' under the Citizen Corner section. Step 3 : If you are not already registered, click on \u2018 Citizen Registration '. Enter your mobile number and verify it using the OTP received. Step 4: After verifying your mobile number, enter your name, gender, address, state name, and the Captcha code. Then, click on the \u2018Submit' button. Step 5: A successful registration message will appear on the screen after submitting the details. Login to Apply under the Scheme: Step 1: Visit the official website of Swachh Bharat Mission (Grameen) again at https://swachhbharatmission.ddws.gov.in/  Step 2: On the home page, click on \u2018Application Form for IHHL' under the Citizen Corner section. Step 3: Enter your registered mobile number, the received OTP, and the Security Code, then click on \u2018 Sign-In '. Step 4: After successfully signing in, click on \u2018New Application' under the \u2018Modules' section located on the left corner of the screen. Step 5: Complete the application form, upload the required documents, and click on the \u2018Apply' button."
+      ]
+    },
+    {
+      "mode": "Offline",
+      "steps": [
+        "The construction of household toilets may be undertaken by: The individual beneficiaries themselves with support from agencies. Community Model through agencies in the village. States may also decide to give the incentive to the individuals, or to communities where the model is adopted to trigger the demand in GPs/ Blocks/ Districts, or to the Gram Panchayats on the achievement of community objectives. Note: Any incentive for the IHHL, provided to the community/ GP, if given, shall be used only for sanitation activities. Government shall ensure that the quality of toilets is maintained through sample physical verification through its officers."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Scheme Guidelines",
+      "url": "https://swachhbharatmission.gov.in/SBMCMS/writereaddata/portal/images/pdf/sbm-ph-II-Guidelines.pd"
+    },
+    {
+      "title": "Scheme Guidelines",
+      "url": "https://lsba.bih.nic.in/LSBAPayment/sbmj/Notice/SBM-%20Phase-2%20Guidelines.pdf"
+    },
+    {
+      "title": "Registration Link",
+      "url": "https://sbm.gov.in/SBM_DBT/Secure/DBT/DBT_Registration.aspxhttps://sbm.gov.in/SBM_DBT/Secure/DBT/DBT_Registration.aspx"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Indicative Documents:\nAadhar Number Bank Account Detail - Passbook Photograph of the applicant"
+}

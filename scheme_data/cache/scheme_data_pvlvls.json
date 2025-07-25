@@ -1,0 +1,51 @@
+{
+  "scheme_id": "68300c7896818d81ea33d4e0",
+  "slug": "pvlvls",
+  "scheme_name": "Passenger Vehicle/Loading Vehicle Loan Scheme (DAADC)",
+  "scheme_short_title": "PVLVLS",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Empowerment Department",
+  "implementing_agency": "Dr. Ambedkar Antyodaya Development Corporation",
+  "dbt_scheme": false,
+  "categories": [
+    "Banking,Financial Services and Insurance"
+  ],
+  "sub_categories": [
+    "Loan"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Passenger Vehicle Loan",
+    "Loading Vehicle Loan",
+    "Antyodaya",
+    "Employment",
+    "Scheduled Caste"
+  ],
+  "brief_description": "The \"Passenger Vehicle/Loading Vehicle Loan Scheme\" introduced by the Social Justice and Empowerment Department provides financial support to unemployed individuals from Antyodaya Caste for purchasing passenger or freight vehicles.",
+  "detailed_description": "The &amp;quot;Passenger Vehicle/Loading Vehicle Loan Scheme&amp;quot; introduced by the Social Justice and Empowerment Department, Gujarat, aims to provide financial assistance in the form of loans to unemployed individuals belonging to Scheduled Caste Antyodaya families, enabling them to purchase passenger or freight vehicles and thereby create self-employment opportunities in the transport sector. The scheme is being implemented by the Dr. Ambedkar Antyodaya Development Corporation. <br>",
+  "benefits": [
+    "Financial assistance in the form of a loan."
+  ],
+  "eligibility_criteria": "The applicant must be a resident of Gujarat. The applicant must belong to the Scheduled Caste (SC) category. The applicant must be unemployed. The applicant must belong to an Antyodaya family. The applicant must have a family income not exceeding \u20b93,00,000/- per annum.\n\n",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Visit the official DAADC online portal.",
+        "Step 2: Register/log in using your credentials.",
+        "Step 3: Fill out the application form with accurate personal and scheme-specific details.",
+        "Step 4: Upload the required documents and submit."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Scheme No. 416)",
+      "url": "https://mariyojana.gujarat.gov.in/MoreDetails.aspx"
+    }
+  ],
+  "documents_required": "Aadhar Card. Ration Card. Copy of First Page of Bank Passbook. Income Certificate. Caste Certificate. Abstract Of Driving Licence. School Leaving Certificate / Birth Certificate / Medical Officer or Civil Surgeon Certificate. Driving License."
+}

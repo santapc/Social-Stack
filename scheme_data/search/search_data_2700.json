@@ -1,0 +1,6351 @@
+{
+  "status": "Success",
+  "statusCode": 200,
+  "errorDescription": "",
+  "error": "null",
+  "data": {
+    "summary": {
+      "total": 3728,
+      "query": "",
+      "sortOptions": [
+        {
+          "id": "multiple_sort",
+          "label": "Relevance"
+        },
+        {
+          "id": "schemename-asc",
+          "label": "Scheme Name (A->Z)"
+        },
+        {
+          "id": "schemename-desc",
+          "label": "Scheme Name (Z->A)"
+        }
+      ],
+      "appliedFilters": [],
+      "disabledFilters": []
+    },
+    "facets": [
+      {
+        "identifier": "beneficiaryState",
+        "label": "State",
+        "display": "ComboBoxFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "All",
+            "count": 563
+          },
+          {
+            "label": "Gujarat",
+            "count": 381
+          },
+          {
+            "label": "Haryana",
+            "count": 241
+          },
+          {
+            "label": "Tamil Nadu",
+            "count": 238
+          },
+          {
+            "label": "Puducherry",
+            "count": 228
+          },
+          {
+            "label": "Madhya Pradesh",
+            "count": 185
+          },
+          {
+            "label": "Uttarakhand",
+            "count": 172
+          },
+          {
+            "label": "Goa",
+            "count": 166
+          },
+          {
+            "label": "Rajasthan",
+            "count": 160
+          },
+          {
+            "label": "West Bengal",
+            "count": 111
+          },
+          {
+            "label": "Bihar",
+            "count": 106
+          },
+          {
+            "label": "Chhattisgarh",
+            "count": 102
+          },
+          {
+            "label": "Jharkhand",
+            "count": 97
+          },
+          {
+            "label": "Maharashtra",
+            "count": 86
+          },
+          {
+            "label": "Kerala",
+            "count": 76
+          },
+          {
+            "label": "Odisha",
+            "count": 74
+          },
+          {
+            "label": "Himachal Pradesh",
+            "count": 67
+          },
+          {
+            "label": "Karnataka",
+            "count": 66
+          },
+          {
+            "label": "Meghalaya",
+            "count": 65
+          },
+          {
+            "label": "Assam",
+            "count": 62
+          },
+          {
+            "label": "Delhi",
+            "count": 52
+          },
+          {
+            "label": "Jammu and Kashmir",
+            "count": 51
+          },
+          {
+            "label": "Dadra & Nagar Haveli and Daman & Diu",
+            "count": 50
+          },
+          {
+            "label": "Uttar Pradesh",
+            "count": 47
+          },
+          {
+            "label": "Andhra Pradesh",
+            "count": 45
+          },
+          {
+            "label": "Tripura",
+            "count": 44
+          },
+          {
+            "label": "Arunachal Pradesh",
+            "count": 42
+          },
+          {
+            "label": "Punjab",
+            "count": 42
+          },
+          {
+            "label": "Manipur",
+            "count": 32
+          },
+          {
+            "label": "Sikkim",
+            "count": 26
+          },
+          {
+            "label": "Telangana",
+            "count": 26
+          },
+          {
+            "label": "Nagaland",
+            "count": 24
+          },
+          {
+            "label": "Chandigarh",
+            "count": 21
+          },
+          {
+            "label": "Andaman and Nicobar Islands",
+            "count": 20
+          },
+          {
+            "label": "Mizoram",
+            "count": 19
+          },
+          {
+            "label": "Lakshadweep",
+            "count": 10
+          },
+          {
+            "label": "Ladakh",
+            "count": 6
+          },
+          {
+            "label": "The Dadra And Nagar Haveli And Daman And Diu",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "identifier": "schemeCategory",
+        "label": "Scheme Category",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "Social welfare & Empowerment",
+            "count": 1346
+          },
+          {
+            "label": "Education & Learning",
+            "count": 906
+          },
+          {
+            "label": "Agriculture,Rural & Environment",
+            "count": 610
+          },
+          {
+            "label": "Business & Entrepreneurship",
+            "count": 552
+          },
+          {
+            "label": "Women and Child",
+            "count": 387
+          },
+          {
+            "label": "Skills & Employment",
+            "count": 303
+          },
+          {
+            "label": "Banking,Financial Services and Insurance",
+            "count": 247
+          },
+          {
+            "label": "Health & Wellness",
+            "count": 218
+          },
+          {
+            "label": "Sports & Culture",
+            "count": 151
+          },
+          {
+            "label": "Housing & Shelter",
+            "count": 100
+          },
+          {
+            "label": "Science, IT & Communications",
+            "count": 71
+          },
+          {
+            "label": "Transport & Infrastructure",
+            "count": 56
+          },
+          {
+            "label": "Travel & Tourism",
+            "count": 48
+          },
+          {
+            "label": "Utility & Sanitation",
+            "count": 35
+          },
+          {
+            "label": "Public Safety,Law & Justice",
+            "count": 10
+          }
+        ]
+      },
+      {
+        "identifier": "gender",
+        "label": "Gender",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "All",
+            "count": 3049
+          },
+          {
+            "label": "Female",
+            "count": 645
+          },
+          {
+            "label": "Male",
+            "count": 269
+          },
+          {
+            "label": "Transgender",
+            "count": 29
+          }
+        ]
+      },
+      {
+        "identifier": "age-general",
+        "label": "Age",
+        "display": "ComboBoxFacet",
+        "type": "RangeFacet",
+        "entries": [
+          {
+            "label": 0,
+            "count": 588
+          },
+          {
+            "label": 10,
+            "count": 2965
+          },
+          {
+            "label": 20,
+            "count": 2992
+          },
+          {
+            "label": 30,
+            "count": 2972
+          },
+          {
+            "label": 40,
+            "count": 2854
+          },
+          {
+            "label": 50,
+            "count": 2688
+          },
+          {
+            "label": 60,
+            "count": 2603
+          },
+          {
+            "label": 70,
+            "count": 1821
+          },
+          {
+            "label": 80,
+            "count": 1748
+          },
+          {
+            "label": 90,
+            "count": 1720
+          },
+          {
+            "label": 100,
+            "count": 1649
+          },
+          {
+            "label": 110,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "identifier": "caste",
+        "label": "Caste",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "All",
+            "count": 3133
+          },
+          {
+            "label": "Scheduled Caste (SC)",
+            "count": 330
+          },
+          {
+            "label": "Scheduled Tribe (ST)",
+            "count": 253
+          },
+          {
+            "label": "Other Backward Class (OBC)",
+            "count": 156
+          },
+          {
+            "label": "General",
+            "count": 57
+          },
+          {
+            "label": "Particularly Vulnerable Tribal Group (PVTG)",
+            "count": 37
+          },
+          {
+            "label": "De-Notified, Nomadic, and Semi-Nomadic (DNT) communities",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "identifier": "nodalMinistryName",
+        "label": "Ministry Name",
+        "display": "ComboBoxFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "Ministry Of Social Justice and Empowerment",
+            "count": 83
+          },
+          {
+            "label": "Ministry of Education",
+            "count": 81
+          },
+          {
+            "label": "Ministry Of Science And Technology",
+            "count": 68
+          },
+          {
+            "label": "Ministry Of Commerce And Industry",
+            "count": 66
+          },
+          {
+            "label": "Ministry Of Agriculture and Farmers Welfare",
+            "count": 43
+          },
+          {
+            "label": "Ministry Of Micro, Small and Medium Enterprises",
+            "count": 27
+          },
+          {
+            "label": "Ministry Of Finance",
+            "count": 18
+          },
+          {
+            "label": "Ministry Of Culture",
+            "count": 13
+          },
+          {
+            "label": "Ministry Of Health & Family Welfare",
+            "count": 13
+          },
+          {
+            "label": "Ministry of Fisheries,Animal Husbandry and Dairying",
+            "count": 13
+          },
+          {
+            "label": "Ministry Of Textiles",
+            "count": 12
+          },
+          {
+            "label": "Ministry Of Defence",
+            "count": 11
+          },
+          {
+            "label": "Ministry Of Home Affairs",
+            "count": 10
+          },
+          {
+            "label": "Ministry Of Minority Affairs",
+            "count": 10
+          },
+          {
+            "label": "Ministry Of Rural Development",
+            "count": 10
+          },
+          {
+            "label": "Ministry Of Labour and Employment",
+            "count": 8
+          },
+          {
+            "label": "Ministry Of New and Renewable Energy",
+            "count": 7
+          },
+          {
+            "label": "Ministry Of Tribal Affairs",
+            "count": 7
+          },
+          {
+            "label": "Ministry Of Communication",
+            "count": 6
+          },
+          {
+            "label": "Ministry of Electronics and Information Technology",
+            "count": 6
+          },
+          {
+            "label": "Ministry of Women and Child Development",
+            "count": 6
+          },
+          {
+            "label": "Ministry Of External Affairs",
+            "count": 5
+          },
+          {
+            "label": "Ministry Of Housing & Urban Affairs",
+            "count": 5
+          },
+          {
+            "label": "Ministry Of Jal Shakti",
+            "count": 5
+          },
+          {
+            "label": "Ministry Of Skill Development And Entrepreneurship",
+            "count": 5
+          },
+          {
+            "label": "Ministry Of Youth Affairs & Sports",
+            "count": 5
+          },
+          {
+            "label": "Ministry Of Tourism",
+            "count": 4
+          },
+          {
+            "label": "Ministry Of Panchayati Raj",
+            "count": 3
+          },
+          {
+            "label": "Ministry Of Personnel, Public Grievances And Pensions",
+            "count": 3
+          },
+          {
+            "label": "Ministry Of Petroleum and Natural Gas",
+            "count": 3
+          },
+          {
+            "label": "Comptroller And Auditor General Of India",
+            "count": 2
+          },
+          {
+            "label": "Ministry Of Chemicals And Fertilizers",
+            "count": 2
+          },
+          {
+            "label": "Ministry Of Environment,forests and climate change",
+            "count": 2
+          },
+          {
+            "label": "Ministry Of Law and Justice",
+            "count": 2
+          },
+          {
+            "label": "Ministry Of Road Transport & Highways",
+            "count": 2
+          },
+          {
+            "label": "Ministry of Corporate Affairs",
+            "count": 2
+          },
+          {
+            "label": "Ministry of Heavy Industries",
+            "count": 2
+          },
+          {
+            "label": "Ministry Of Consumer Affairs, Food And Public Distribution",
+            "count": 1
+          },
+          {
+            "label": "Ministry Of Development Of North Eastern Region",
+            "count": 1
+          },
+          {
+            "label": "Ministry Of Earth Sciences",
+            "count": 1
+          },
+          {
+            "label": "Ministry Of Information And Broadcasting",
+            "count": 1
+          },
+          {
+            "label": "Ministry Of Railways",
+            "count": 1
+          },
+          {
+            "label": "Ministry Of Statistics and Programme Implementation",
+            "count": 1
+          },
+          {
+            "label": "Ministry of Food Processing Industries",
+            "count": 1
+          },
+          {
+            "label": "Ministry of Ports,Shipping and Waterways",
+            "count": 1
+          },
+          {
+            "label": "NITI Aayog (National Institution for Transforming India)",
+            "count": 1
+          },
+          {
+            "label": "The Lokpal of India",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "identifier": "level",
+        "label": "Level",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "State",
+            "count": 3148
+          },
+          {
+            "label": "Central",
+            "count": 580
+          }
+        ]
+      },
+      {
+        "identifier": "residence",
+        "label": "Residence",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "Both",
+            "count": 3545
+          },
+          {
+            "label": "Rural",
+            "count": 160
+          },
+          {
+            "label": "Urban",
+            "count": 34
+          }
+        ]
+      },
+      {
+        "identifier": "minority",
+        "label": "Minority",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "No",
+            "count": 3669
+          },
+          {
+            "label": "Yes",
+            "count": 59
+          }
+        ]
+      },
+      {
+        "identifier": "disability",
+        "label": "Differently Abled",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "No",
+            "count": 3445
+          },
+          {
+            "label": "Yes",
+            "count": 283
+          }
+        ]
+      },
+      {
+        "identifier": "benefitTypes",
+        "label": "Benefit Type",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "Cash",
+            "count": 2648
+          },
+          {
+            "label": "In Kind",
+            "count": 541
+          },
+          {
+            "label": "Composite",
+            "count": 539
+          }
+        ]
+      },
+      {
+        "identifier": "dbtScheme",
+        "label": "DBT Scheme",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "No",
+            "count": 3255
+          },
+          {
+            "label": "Yes",
+            "count": 473
+          }
+        ]
+      },
+      {
+        "identifier": "maritalStatus",
+        "label": "Marital Status",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "All",
+            "count": 3515
+          },
+          {
+            "label": "Widowed",
+            "count": 98
+          },
+          {
+            "label": "Never Married",
+            "count": 84
+          },
+          {
+            "label": "Married",
+            "count": 77
+          },
+          {
+            "label": "Divorced",
+            "count": 45
+          },
+          {
+            "label": "Separated",
+            "count": 44
+          }
+        ]
+      },
+      {
+        "identifier": "disabilityPercentage",
+        "label": "Disability Percentage",
+        "display": "ComboBoxFacet",
+        "type": "RangeFacet",
+        "entries": [
+          {
+            "label": 0,
+            "count": 19
+          },
+          {
+            "label": 10,
+            "count": 22
+          },
+          {
+            "label": 20,
+            "count": 25
+          },
+          {
+            "label": 30,
+            "count": 25
+          },
+          {
+            "label": 40,
+            "count": 145
+          },
+          {
+            "label": 50,
+            "count": 150
+          },
+          {
+            "label": 60,
+            "count": 156
+          },
+          {
+            "label": 70,
+            "count": 161
+          },
+          {
+            "label": 80,
+            "count": 172
+          },
+          {
+            "label": 90,
+            "count": 172
+          },
+          {
+            "label": 100,
+            "count": 181
+          }
+        ]
+      },
+      {
+        "identifier": "isBpl",
+        "label": "Below Poverty Line",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "No",
+            "count": 3563
+          },
+          {
+            "label": "Yes",
+            "count": 165
+          }
+        ]
+      },
+      {
+        "identifier": "isEconomicDistress",
+        "label": "Economic Distress",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "No",
+            "count": 3690
+          },
+          {
+            "label": "Yes",
+            "count": 38
+          }
+        ]
+      },
+      {
+        "identifier": "isGovEmployee",
+        "label": "Government Employee",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "No",
+            "count": 3716
+          },
+          {
+            "label": "Yes",
+            "count": 12
+          }
+        ]
+      },
+      {
+        "identifier": "employmentStatus",
+        "label": "Employment Status",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "All",
+            "count": 2890
+          },
+          {
+            "label": "Employed",
+            "count": 480
+          },
+          {
+            "label": "Self-Employed/ Entrepreneur",
+            "count": 276
+          },
+          {
+            "label": "Unemployed",
+            "count": 82
+          }
+        ]
+      },
+      {
+        "identifier": "isStudent",
+        "label": "Student",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "No",
+            "count": 3468
+          },
+          {
+            "label": "Yes",
+            "count": 260
+          }
+        ]
+      },
+      {
+        "identifier": "occupation",
+        "label": "Occupation",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "All",
+            "count": 292
+          },
+          {
+            "label": "Construction Worker",
+            "count": 274
+          },
+          {
+            "label": "Farmer",
+            "count": 236
+          },
+          {
+            "label": "Unorganized Worker",
+            "count": 179
+          },
+          {
+            "label": "Fishermen",
+            "count": 84
+          },
+          {
+            "label": "Student",
+            "count": 76
+          },
+          {
+            "label": "Artists",
+            "count": 68
+          },
+          {
+            "label": "Artisans, Spinners & Weavers",
+            "count": 66
+          },
+          {
+            "label": "Organized Worker",
+            "count": 39
+          },
+          {
+            "label": "Ex Servicemen",
+            "count": 24
+          },
+          {
+            "label": "Journalist",
+            "count": 22
+          },
+          {
+            "label": "Sportsperson",
+            "count": 20
+          },
+          {
+            "label": "Safai Karamchari",
+            "count": 14
+          },
+          {
+            "label": "Coir Worker",
+            "count": 6
+          },
+          {
+            "label": "Teacher / Faculty",
+            "count": 6
+          },
+          {
+            "label": "Health Worker",
+            "count": 2
+          },
+          {
+            "label": "Khadi Artisan",
+            "count": 2
+          },
+          {
+            "label": "Street Vendor",
+            "count": 2
+          },
+          {
+            "label": "Dairy Farmer",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "identifier": "applicationMode",
+        "label": "Application Mode",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "Offline",
+            "count": 2147
+          },
+          {
+            "label": "Online",
+            "count": 1888
+          },
+          {
+            "label": "Online - via CSC",
+            "count": 143
+          }
+        ]
+      },
+      {
+        "identifier": "schemeType",
+        "label": "Scheme Type",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "Central Sector Scheme",
+            "count": 446
+          },
+          {
+            "label": "Centrally Sponsored Scheme",
+            "count": 83
+          }
+        ]
+      }
+    ],
+    "hits": {
+      "items": [
+        {
+          "id": "mRSX1pIBL4KEf1-W7xrF",
+          "fields": {
+            "beneficiaryState": [
+              "Jammu and Kashmir"
+            ],
+            "schemeShortTitle": "FAFEJKBOCWWB",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Social welfare & Empowerment"
+            ],
+            "schemeName": "Financial Assistance for Funeral Expenses (JKBOCWWB)",
+            "schemeCloseDate": null,
+            "slug": "fafejkbocwwb",
+            "briefDescription": "The \u201cFinancial Assistance for Funeral Expenses\u201d scheme by the BOCW Welfare Board, Labour Department, Jammu and Kashmir, is a welfare scheme that provides financial assistance to the nominees of a deceased registered member for covering funeral expenses.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "general": {
+                "gte": 18,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "st": {
+                "gte": 18,
+                "lte": 60
+              },
+              "female": {
+                "gte": 18,
+                "lte": 60
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Building Worker",
+              "Construction Worker",
+              "Labour",
+              "Death",
+              "Funeral Expenses"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "lRRDw5IBL4KEf1-W9hoG",
+          "fields": {
+            "beneficiaryState": [
+              "Maharashtra"
+            ],
+            "schemeShortTitle": "FAFND",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Social welfare & Empowerment"
+            ],
+            "schemeName": "Financial Assistance for Natural Death",
+            "schemeCloseDate": null,
+            "slug": "fafnd",
+            "briefDescription": "The scheme \u201cFinancial Assistance for Natural Death\u201d was launched by the Maharashtra Building & Other Construction Workers Welfare Board (MBOCWW), Labour Department Maharashtra. Under the scheme, the Board provides financial assistance of \u20b92,00,000/- to the legal heir of a registered worker who dies.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "general": {
+                "gte": 18,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "st": {
+                "gte": 18,
+                "lte": 60
+              },
+              "female": {
+                "gte": 18,
+                "lte": 60
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Financial Assistance",
+              "Natural Death",
+              "Construction Worker",
+              "Legal Heir"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "oxSv8ZIBL4KEf1-W9xoA",
+          "fields": {
+            "beneficiaryState": [
+              "Maharashtra"
+            ],
+            "schemeShortTitle": "RMSCITC",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Education & Learning"
+            ],
+            "schemeName": "Reimbursement of the MS-CIT Course",
+            "schemeCloseDate": null,
+            "slug": "rmscitc",
+            "briefDescription": "The Reimbursement of the MS-CIT Course scheme was launched by the Maharashtra Building And Other Construction Workers Welfare Board (MBOCWW), Labour Department Maharashtra. ",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 30
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 30
+              },
+              "general": {
+                "gte": 18,
+                "lte": 30
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 30
+              },
+              "st": {
+                "gte": 18,
+                "lte": 30
+              },
+              "female": {
+                "gte": 18,
+                "lte": 30
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 30
+              }
+            },
+            "tags": [
+              "Financial Assistance",
+              "Reimbursement",
+              "Construction Worker",
+              "Student",
+              "IT Courses"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "_DKrzpIBISXYddfJvJnU",
+          "fields": {
+            "beneficiaryState": [
+              "Jammu and Kashmir"
+            ],
+            "schemeShortTitle": "SEJKBOCWWB",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Education & Learning"
+            ],
+            "schemeName": "Schooling Education (JKBOCWWB)",
+            "schemeCloseDate": null,
+            "slug": "sejkbocwwb",
+            "briefDescription": "The scheme \"Schooling Education\" by the Building and Other Construction Workers Welfare Board, Labour Dept., J&K, provides financial assistance for the education of children of registered construction workers, from Class Nursery/1st to 5th, and from Class 6th to 8th.",
+            "age": {
+              "ews": {
+                "gte": 2,
+                "lte": 15
+              },
+              "sc": {
+                "gte": 2,
+                "lte": 15
+              },
+              "general": {
+                "gte": 2,
+                "lte": 15
+              },
+              "obc": {
+                "gte": 2,
+                "lte": 15
+              },
+              "st": {
+                "gte": 2,
+                "lte": 15
+              },
+              "female": {
+                "gte": 2,
+                "lte": 15
+              },
+              "widowed": {
+                "gte": 2,
+                "lte": 15
+              }
+            },
+            "tags": [
+              "Worker",
+              "Construction",
+              "Education",
+              "Financial Assistance",
+              "Children",
+              "Student"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "oBSa8ZIBL4KEf1-WphrU",
+          "fields": {
+            "beneficiaryState": [
+              "Tamil Nadu"
+            ],
+            "schemeShortTitle": "LSMPCIFL",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Banking,Financial Services and Insurance"
+            ],
+            "schemeName": "Large Sized Multi Purpose Coop. Society For Interest Free Loan",
+            "schemeCloseDate": null,
+            "slug": "lsmpcifl",
+            "briefDescription": "The scheme provides interest-free loans to citizens through a cooperative society. The maximum loan amount offered is \u20b945,000/-, with zero interest charged.\n",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 55
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 55
+              },
+              "general": {
+                "gte": 18,
+                "lte": 55
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 55
+              },
+              "st": {
+                "gte": 18,
+                "lte": 55
+              },
+              "female": {
+                "gte": 18,
+                "lte": 55
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 55
+              }
+            },
+            "tags": [
+              "Interest Free Loan",
+              "Cooperative Society",
+              "Financial Assistance"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "nRST8ZIBL4KEf1-WwxqD",
+          "fields": {
+            "beneficiaryState": [
+              "Tamil Nadu"
+            ],
+            "schemeShortTitle": "ECSSL",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Banking,Financial Services and Insurance"
+            ],
+            "schemeName": "Employees Cooperative Societies Surety Loan",
+            "schemeCloseDate": null,
+            "slug": "ecssl",
+            "briefDescription": "The scheme provides loans up to \u20b91,50,000/- at an interest rate of 14%. It is aimed at assisting citizens by offering financial support through surety loans from the Employees Cooperative Societies.\n",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 55
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 55
+              },
+              "general": {
+                "gte": 18,
+                "lte": 55
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 55
+              },
+              "st": {
+                "gte": 18,
+                "lte": 55
+              },
+              "female": {
+                "gte": 18,
+                "lte": 55
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 55
+              }
+            },
+            "tags": [
+              "Surety Loan",
+              "Employees Cooperative Societies"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "TlUnw5IBKcqa7QfWBG5y",
+          "fields": {
+            "beneficiaryState": [
+              "Tamil Nadu"
+            ],
+            "schemeShortTitle": "DCCVFRMC",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Banking,Financial Services and Insurance",
+              "Business & Entrepreneurship"
+            ],
+            "schemeName": "District Central Cooperative Banks and through its Branches: For Revamped Micro Credit Loan for Women Vendors of Flower, Vegetable, Fruit etc.",
+            "schemeCloseDate": null,
+            "slug": "dccvfrmc",
+            "briefDescription": "The scheme provides revamped micro credit loans through District Central Cooperative Banks to support women vendors selling flowers, vegetables, fruits etc. Loans range from  \u20b9100/- to  \u20b95,000/- with an interest rate of 11%.\n",
+            "age": {
+              "female": {
+                "gte": 18,
+                "lte": 55
+              }
+            },
+            "tags": [
+              "Micro Credit Loan",
+              "Women",
+              "Flower Vendors",
+              "Vegetable Vendors",
+              "Fruit Vendors",
+              "Business"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "Y1VFGZMBKcqa7QfWSW4b",
+          "fields": {
+            "beneficiaryState": [
+              "Tamil Nadu"
+            ],
+            "schemeShortTitle": "PCARDFPD",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Banking,Financial Services and Insurance"
+            ],
+            "schemeName": "Primary Cooperative Agriculture and Rural Development Bank: For Poultry Development",
+            "schemeCloseDate": null,
+            "slug": "pcardfpd",
+            "briefDescription": "The scheme offers loans to farmers for poultry development and cattle development, with funding of up to \u20b914,800/- for 200 birds or \u20b917,000/- for 2 cows, with an interest rate of 14.5% to 16.5%.\n\n",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 55
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 55
+              },
+              "general": {
+                "gte": 18,
+                "lte": 55
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 55
+              },
+              "st": {
+                "gte": 18,
+                "lte": 55
+              },
+              "female": {
+                "gte": 18,
+                "lte": 55
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 55
+              }
+            },
+            "tags": [
+              "Poultry Development",
+              "Cattle Development",
+              "Loan",
+              "Farmer",
+              "Agriculture And Rural Development Bank"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "BjKOC5MBISXYddfJoppH",
+          "fields": {
+            "beneficiaryState": [
+              "Madhya Pradesh"
+            ],
+            "schemeShortTitle": "GUSGBL",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Agriculture,Rural & Environment"
+            ],
+            "schemeName": "Goat Unit Scheme On Grants And Bank Loans",
+            "schemeCloseDate": null,
+            "slug": "gusgbl",
+            "briefDescription": "The scheme provides financial support through grants and bank loans to farmers to purchase (10+1) goat units for milk and meat production. The scheme covers a 40% subsidy for general applicants and 60% for SC/ST beneficiaries, based on a total unit cost of \u20b977,456/-.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 55
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 55
+              },
+              "general": {
+                "gte": 18,
+                "lte": 55
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 55
+              },
+              "st": {
+                "gte": 18,
+                "lte": 55
+              },
+              "female": {
+                "gte": 18,
+                "lte": 55
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 55
+              }
+            },
+            "tags": [
+              "Animal Husbandry",
+              "Agriculture",
+              "Loan",
+              "Goat Breeding"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "sBQ6GZMBL4KEf1-WRhoW",
+          "fields": {
+            "beneficiaryState": [
+              "Maharashtra"
+            ],
+            "schemeShortTitle": "IGTEICM",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Women and Child",
+              "Social welfare & Empowerment"
+            ],
+            "schemeName": "Incentive given to Encourage Inter caste Marriages",
+            "schemeCloseDate": null,
+            "slug": "igteicm",
+            "briefDescription": "The \"Incentive for Encouraging Inter-Caste Marriages\" scheme is implemented by the Department of Social Justice & Special Assistance, Government of Maharashtra, and funded jointly by the State and Central Government (50:50). The scheme provides financial incentives to support inter-caste marriages.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "general": {
+                "gte": 18,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "st": {
+                "gte": 18,
+                "lte": 100
+              },
+              "female": {
+                "gte": 18,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Intercaste",
+              "Marriage",
+              "Financial Assistance",
+              "Bride",
+              "Groom"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "CjIpEZMBISXYddfJyppZ",
+          "fields": {
+            "beneficiaryState": [
+              "Maharashtra"
+            ],
+            "schemeShortTitle": "IGOAPSM",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Social welfare & Empowerment"
+            ],
+            "schemeName": "Indira Gandhi National Old Age Pension Scheme (Maharashtra)",
+            "schemeCloseDate": null,
+            "slug": "igoapsm",
+            "briefDescription": "The scheme \"Indira Gandhi National Old Age Pension\" is a social welfare scheme by the Social Justice & Special Assistance Department, Government of Maharashtra. In this scheme, \u20b9600 per month is provided to elderly individuals aged 65 years and above from BPL families.",
+            "age": {
+              "ews": {
+                "gte": 65,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 65,
+                "lte": 100
+              },
+              "general": {
+                "gte": 65,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 65,
+                "lte": 100
+              },
+              "st": {
+                "gte": 65,
+                "lte": 100
+              },
+              "female": {
+                "gte": 65,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 65,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Pension",
+              "Old Age",
+              "Below The Poverty Line",
+              "Senior Citizen",
+              "BPL"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "rBTID5MBL4KEf1-WOhrh",
+          "fields": {
+            "beneficiaryState": [
+              "Madhya Pradesh"
+            ],
+            "schemeShortTitle": "FPY",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Agriculture,Rural & Environment"
+            ],
+            "schemeName": "Fal Podharopan Yojana",
+            "schemeCloseDate": null,
+            "slug": "fpy",
+            "briefDescription": "The objective of this scheme is to expand the area under fruit plantation in the district and increase the fruit production. This scheme is implemented in all the 52 districts of the state.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "general": {
+                "gte": 18,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "st": {
+                "gte": 18,
+                "lte": 100
+              },
+              "female": {
+                "gte": 18,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Fruit",
+              "Plantation",
+              "Farm",
+              "Farmer",
+              "Plant",
+              "Crop",
+              "Agriculture",
+              "Horticulture"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "DTJKGZMBISXYddfJWZq4",
+          "fields": {
+            "beneficiaryState": [
+              "Maharashtra"
+            ],
+            "schemeShortTitle": "VNTBDS",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Social welfare & Empowerment"
+            ],
+            "schemeName": "Vasantrao Naik Tanda / Basti Development Scheme",
+            "schemeCloseDate": null,
+            "slug": "vntbds",
+            "briefDescription": "The scheme \"Vasantrao Naik Tanda/Basti Development\" is implemented by the Govt. of Maharashtra. The scheme provides essential amenities to the Tandas and Bastis of Vimukta Jatis and Nomadic Tribes. The scheme focuses on improving access to drinking water, electrification, latrines, drainage, etc.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "general": {
+                "gte": 18,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "st": {
+                "gte": 18,
+                "lte": 100
+              },
+              "female": {
+                "gte": 18,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Development",
+              "Water",
+              "Electrification",
+              "Latrine",
+              "Toilet",
+              "Amenities"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "FDI2RJMBISXYddfJvZrD",
+          "fields": {
+            "beneficiaryState": [
+              "Jammu and Kashmir"
+            ],
+            "schemeShortTitle": "IGNDPSJAK",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Social welfare & Empowerment",
+              "Health & Wellness"
+            ],
+            "schemeName": "Indira Gandhi National Disability Pension Scheme (Jammu and Kashmir)",
+            "schemeCloseDate": null,
+            "slug": "igndpsjak",
+            "briefDescription": "Launched on 15th August 1995, the \"Indira Gandhi National Disability Pension Scheme\"is a pension scheme by the Department Of Social Welfare  Jammu and Kashmir. In this scheme, a pension of \u20b91000/- is provided to differently-abled individuals from 'Below Poverty Line'.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "general": {
+                "gte": 18,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "st": {
+                "gte": 18,
+                "lte": 100
+              },
+              "female": {
+                "gte": 18,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Below Poverty Line",
+              "Disability",
+              "Pension",
+              "Social Welfare"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "bVUrQ5MBKcqa7QfWkm5A",
+          "fields": {
+            "beneficiaryState": [
+              "Tamil Nadu"
+            ],
+            "schemeShortTitle": "PCAARDJL",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Banking,Financial Services and Insurance"
+            ],
+            "schemeName": "Primary Cooperative Agriculture and Rural Development Bank: Jewel Loans",
+            "schemeCloseDate": null,
+            "slug": "pcaardjl",
+            "briefDescription": "The scheme offers jewel loans to farmers, enabling them to access up to \u20b92,00,000/- at an interest rate of 11.5% for agricultural purposes.\n\n",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 55
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 55
+              },
+              "general": {
+                "gte": 18,
+                "lte": 55
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 55
+              },
+              "st": {
+                "gte": 18,
+                "lte": 55
+              },
+              "female": {
+                "gte": 18,
+                "lte": 55
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 55
+              }
+            },
+            "tags": [
+              "Banking",
+              "Financial Assistance",
+              "Farmer"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "alV_QpMBKcqa7QfWDm42",
+          "fields": {
+            "beneficiaryState": [
+              "Karnataka"
+            ],
+            "schemeShortTitle": "IFTSMST",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Social welfare & Empowerment"
+            ],
+            "schemeName": "Incentive For The Simple Marriage (Scheduled Tribe)",
+            "schemeCloseDate": null,
+            "slug": "iftsmst",
+            "briefDescription": "The scheme \"Incentive for the Simple Marriage\" was launched by the Tribal Welfare Department, Government of Karnataka. The scheme provides an incentive of \u20b950,000/- to ST individuals residing in Karnataka who marry another ST individual on or after 11th August 2015.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "general": {
+                "gte": 18,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "st": {
+                "gte": 18,
+                "lte": 100
+              },
+              "female": {
+                "gte": 18,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Marriage",
+              "Schedule Tribe",
+              "Incentive",
+              "Couple",
+              "Spouse",
+              "ST"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "vRRrQ5MBL4KEf1-WSxpH",
+          "fields": {
+            "beneficiaryState": [
+              "Madhya Pradesh"
+            ],
+            "schemeShortTitle": "FASMP",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Health & Wellness",
+              "Social welfare & Empowerment"
+            ],
+            "schemeName": "Funeral Assistance Scheme (Madhya Pradesh)",
+            "schemeCloseDate": null,
+            "slug": "fasmp",
+            "briefDescription": "Launched on 13th August 2013, the \"Funeral Assistance Scheme\" by the Department of Social Justice and Empowerment, Govt. Madhya Pradesh provides \u20b93,000/- for the last rites of destitute or unclaimed bodies.  The scheme also supports families registered under labour schemes.",
+            "age": {
+              "sc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "general": {
+                "gte": 18,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "st": {
+                "gte": 18,
+                "lte": 100
+              },
+              "female": {
+                "gte": 18,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Funeral",
+              "Poor",
+              "Death",
+              "Financial Assistance"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "ZFVSGZMBKcqa7QfWkW5h",
+          "fields": {
+            "beneficiaryState": [
+              "Mizoram"
+            ],
+            "schemeShortTitle": "SDP",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Social welfare & Empowerment"
+            ],
+            "schemeName": "State Disability Pension",
+            "schemeCloseDate": null,
+            "slug": "sdp",
+            "briefDescription": "The Social Welfare & Tribal Affairs Department, Government of Mizoram launched the State Disability Pension scheme. It provides a monthly pension of \u20b9350 to 200 eligible individuals who are completely blind or bedridden.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "general": {
+                "gte": 18,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "st": {
+                "gte": 18,
+                "lte": 100
+              },
+              "female": {
+                "gte": 18,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Pension",
+              "Disability",
+              "Blind",
+              "Bedridden",
+              "Financial Assistance"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "tRRWGZMBL4KEf1-W2xqv",
+          "fields": {
+            "beneficiaryState": [
+              "Mizoram"
+            ],
+            "schemeShortTitle": "SSCH",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Social welfare & Empowerment",
+              "Housing & Shelter"
+            ],
+            "schemeName": "State Senior Citizens Home",
+            "schemeCloseDate": null,
+            "slug": "ssch",
+            "briefDescription": "The Social Welfare & Tribal Affairs Department, Government of Mizoram launched the State Senior Citizens Home for the homeless aged persons. It provides shelter and facilities to homeless elderly individuals aged 60 and above, who lack family support.",
+            "age": {
+              "ews": {
+                "gte": 60,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 60,
+                "lte": 100
+              },
+              "general": {
+                "gte": 60,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 60,
+                "lte": 100
+              },
+              "st": {
+                "gte": 60,
+                "lte": 100
+              },
+              "female": {
+                "gte": 60,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 60,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Senior Citizen",
+              "Social Welfare",
+              "Shelter",
+              "Old Age Home"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "uxRAQ5MBL4KEf1-WQxrY",
+          "fields": {
+            "beneficiaryState": [
+              "Tamil Nadu"
+            ],
+            "schemeShortTitle": "DIBAFC",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Social welfare & Empowerment"
+            ],
+            "schemeName": "Distribution of Iron Boxes at Free of Cost",
+            "schemeCloseDate": null,
+            "slug": "dibafc",
+            "briefDescription": "The scheme provides complimentary iron boxes to support individuals from Backward Classes (BC), Most Backward Classes (MBC), and Denotified Communities (DNCs) engaged in washing work, aiming to improve their livelihood.\n\n",
+            "age": {
+              "obc": {
+                "gte": 18,
+                "lte": 55
+              }
+            },
+            "tags": [
+              "Social Empowerment",
+              "Backward Classes",
+              "Most Backward Classes",
+              "Denotified Communities"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "FjJpi5MBISXYddfJBZr2",
+          "fields": {
+            "beneficiaryState": [
+              "Bihar"
+            ],
+            "schemeShortTitle": "MBYSVY",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Agriculture,Rural & Environment"
+            ],
+            "schemeName": "Mukhyamantri Bagwani Mission: Strawberry Vikas Yojana",
+            "schemeCloseDate": null,
+            "slug": "mbysvy",
+            "briefDescription": "The scheme aims to promote strawberry cultivation across 20 districts in Bihar. It provides subsidies on seedlings, packaging materials, and equipment to support farmers in enhancing strawberry production.\n",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "general": {
+                "gte": 18,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "st": {
+                "gte": 18,
+                "lte": 60
+              },
+              "female": {
+                "gte": 18,
+                "lte": 60
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Agriculture",
+              "Subsidy",
+              "Plant Supply",
+              "Financial Assistance",
+              "Strawberry Development"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "GTLCi5MBISXYddfJuJpx",
+          "fields": {
+            "beneficiaryState": [
+              "Bihar"
+            ],
+            "schemeShortTitle": "MBYAVY",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Agriculture,Rural & Environment"
+            ],
+            "schemeName": "Mukhyamantri Bagwani Mission: Aam Vikas Yojana",
+            "schemeCloseDate": null,
+            "slug": "mbyavy",
+            "briefDescription": "The Scheme aims to expand plantain cultivation across all districts in Bihar. Farmers can receive subsidies for up to 10 acres and access high-quality tissue-cultured plants for cultivation.\n",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "general": {
+                "gte": 18,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "st": {
+                "gte": 18,
+                "lte": 60
+              },
+              "female": {
+                "gte": 18,
+                "lte": 60
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Agriculture",
+              "Subsidy",
+              "Plant Supply",
+              "Financial Assistance",
+              "Mango Development"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "zBS_ppMBL4KEf1-WOhrf",
+          "fields": {
+            "beneficiaryState": [
+              "Jharkhand"
+            ],
+            "schemeShortTitle": "MMSY-J",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Skills & Employment"
+            ],
+            "schemeName": "Mukhymantri Sarthi Yojana - Jharkhand",
+            "schemeCloseDate": null,
+            "slug": "mmsy-j",
+            "briefDescription": "The \"Mukhymantri Sarthi Yojana\" aims to provide industry-relevant skill development training for youth in Jharkhand, aligning with NSQF standards. Implemented by Jharkhand Skill Development Mission Society (JSDMS) across all 24 districts, it offers free training to enhance employability. ",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 35
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 35
+              },
+              "general": {
+                "gte": 18,
+                "lte": 35
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 35
+              },
+              "st": {
+                "gte": 18,
+                "lte": 35
+              },
+              "female": {
+                "gte": 18,
+                "lte": 35
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 35
+              }
+            },
+            "tags": [
+              "Financial Assistance",
+              "Training",
+              "Employment",
+              "Skill Development"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "4RTu6pMBL4KEf1-WABqF",
+          "fields": {
+            "beneficiaryState": [
+              "Bihar"
+            ],
+            "schemeShortTitle": "BSAKMAID",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Health & Wellness",
+              "Social welfare & Empowerment"
+            ],
+            "schemeName": "Bihar Shatabdi Asangathit Karyakshetra Kamagaar Evan Shilpakar Samajik Suraksha Yojana: Medical Assistance for Incurable Diseases",
+            "schemeCloseDate": null,
+            "slug": "bsakmaid",
+            "briefDescription": "\u201cMedical Assistance for Incurable Diseases\u201d under the \u201cBihar Shatabdi Asangathit Karyakshetra Kamagaar Evan Shilpakar Samajik Suraksha Yojana\u201d by the Labour Resources Dept., provides financial assistance ranging from \u20b97,500/- to \u20b930,000/- to workers or craftsmen suffering from incurable diseases.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 65
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 65
+              },
+              "general": {
+                "gte": 18,
+                "lte": 65
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 65
+              },
+              "st": {
+                "gte": 18,
+                "lte": 65
+              },
+              "female": {
+                "gte": 18,
+                "lte": 65
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 65
+              }
+            },
+            "tags": [
+              "Social Security",
+              "Unorganised Worker",
+              "Craftsmen",
+              "Incurable Diseases",
+              "Medical Assistance"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "3RT2ypMBL4KEf1-WhhpS",
+          "fields": {
+            "beneficiaryState": [
+              "Bihar"
+            ],
+            "schemeShortTitle": "BSAKAD",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Social welfare & Empowerment",
+              "Health & Wellness"
+            ],
+            "schemeName": "Bihar Shatabdi Asangathit Karyakshetra Kamagaar Evan Shilpakar Samajik Suraksha Yojana: Accidental Death",
+            "schemeCloseDate": null,
+            "slug": "bsakad",
+            "briefDescription": "The component \u201cAccidental Death\u201d under the \u201cBihar Shatabdi Asangathit Karyakshetra Kamagaar Evan Shilpakar Samajik Suraksha Yojana\u201d launched by the Labour Resources Department, Bihar, provides financial assistance of \u20b91,00,000/- to the families of workers or craftsmen in case of accidental death.\n\n",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 65
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 65
+              },
+              "general": {
+                "gte": 18,
+                "lte": 65
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 65
+              },
+              "st": {
+                "gte": 18,
+                "lte": 65
+              },
+              "female": {
+                "gte": 18,
+                "lte": 65
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 65
+              }
+            },
+            "tags": [
+              "Social Security",
+              "Unorganised Worker",
+              "Craftsmen"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "k1WWzZMBKcqa7QfWSW7a",
+          "fields": {
+            "beneficiaryState": [
+              "Madhya Pradesh"
+            ],
+            "schemeShortTitle": "BAEPSICODOULDWACT",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Social welfare & Empowerment"
+            ],
+            "schemeName": " Burial and Ex-gratia Payment Scheme in Case of Death of Unregistered Laborer During Work at Construction Site",
+            "schemeCloseDate": null,
+            "slug": "baepsicodouldwact",
+            "briefDescription": "Launched in 2014, the \"Funeral and Ex-gratia Payment Scheme for Unregistered Laborers\" is a welfare scheme by the M.P. Building and Other Construction Workers Welfare Board, Government of Madhya Pradesh, providing funeral assistance and ex-gratia payments in case of death or permanent disability.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "general": {
+                "gte": 18,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "st": {
+                "gte": 18,
+                "lte": 60
+              },
+              "female": {
+                "gte": 18,
+                "lte": 60
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Building Worker",
+              "Construction Workers",
+              "Unregistered Laborer",
+              "Death"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "mFWy35MBKcqa7QfWo24o",
+          "fields": {
+            "beneficiaryState": [
+              "Madhya Pradesh"
+            ],
+            "schemeShortTitle": "CMBOCWHRS",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Housing & Shelter"
+            ],
+            "schemeName": "Chief Minister's Building and Other Construction Workers Housing (Rural) Scheme",
+            "schemeCloseDate": null,
+            "slug": "cmbocwhrs",
+            "briefDescription": "Launched in 2013, the \"Chief Minister's Building and Other Construction Workers Housing (Rural) Scheme\" provides permanent houses to registered construction workers in rural areas of Madhya Pradesh.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "general": {
+                "gte": 18,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "st": {
+                "gte": 18,
+                "lte": 60
+              },
+              "female": {
+                "gte": 18,
+                "lte": 60
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Worker",
+              "Construction",
+              "Financial Assistance",
+              "Housing",
+              "Labour"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "3hSZzZMBL4KEf1-Waxoy",
+          "fields": {
+            "beneficiaryState": [
+              "Madhya Pradesh"
+            ],
+            "schemeShortTitle": "MSSMPBOCWWB",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Social welfare & Empowerment",
+              "Women and Child"
+            ],
+            "schemeName": "Maternity Support Scheme (MPBOCWWB)",
+            "schemeCloseDate": null,
+            "slug": "mssmpbocwwb",
+            "briefDescription": "The \"Maternity Support Scheme\" by the MPBOCW Welfare Board, Labour Department, Government of Madhya Pradesh provides an amount of \u20b916,000/- as maternity allowance, payable in two installments.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "general": {
+                "gte": 18,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "st": {
+                "gte": 18,
+                "lte": 60
+              },
+              "female": {
+                "gte": 18,
+                "lte": 60
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Building Worker",
+              "Construction Workers",
+              "Labour",
+              "Maternity",
+              "Financial Assistance"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "MDKR35MBISXYddfJPJp8",
+          "fields": {
+            "beneficiaryState": [
+              "Madhya Pradesh"
+            ],
+            "schemeShortTitle": "SHST",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Education & Learning"
+            ],
+            "schemeName": "Senior Hostel (Scheduled Tribes)",
+            "schemeCloseDate": null,
+            "slug": "shst",
+            "briefDescription": "Launched on 1st January 1966, the scheme \"Senior Hostel (Scheduled Tribes)\" by the Tribal Welfare and Scheduled Caste (SC) Department, Government of Madhya Pradesh provides free accommodation and mess facilities to students from studying in Class 9th to 12th in a government/recognized school.",
+            "age": {
+              "ews": {
+                "gte": 14,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 14,
+                "lte": 100
+              },
+              "general": {
+                "gte": 14,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 14,
+                "lte": 100
+              },
+              "st": {
+                "gte": 14,
+                "lte": 100
+              },
+              "female": {
+                "gte": 14,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 14,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Hostel",
+              "Student",
+              "Scheduled Tribe",
+              "Scholarship",
+              "Meal"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "6RRg8ZMBL4KEf1-WGBqd",
+          "fields": {
+            "beneficiaryState": [
+              "Puducherry"
+            ],
+            "schemeShortTitle": "RS-MESIFAI",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Business & Entrepreneurship"
+            ],
+            "schemeName": "\"Rent Subsidy\" under \"Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries\"",
+            "schemeCloseDate": null,
+            "slug": "rs-mesifai",
+            "briefDescription": "This scheme aims to support SC/ST and women entrepreneurs who have initiated production on or after 27-3-2002 in a rented building. It provides rent subsidy for the first five years from the commencement of commercial production on a tapering basis, with a max ceiling of \u20b95,000 per month.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "general": {
+                "gte": 18,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "st": {
+                "gte": 18,
+                "lte": 100
+              },
+              "female": {
+                "gte": 18,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Rent",
+              "Subsidy",
+              "Entrepreneur",
+              "Industry",
+              "Building"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "oFXSEJQBKcqa7QfWXG7e",
+          "fields": {
+            "beneficiaryState": [
+              "Jharkhand"
+            ],
+            "schemeShortTitle": "JSBCPMSS-3",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Education & Learning"
+            ],
+            "schemeName": "Jharkhand State Backward Classes Pre-Matric Scholarship Scheme",
+            "schemeCloseDate": null,
+            "slug": "jsbcpmss-3",
+            "briefDescription": "The \"Jharkhand State Backward Classes Pre-Matric Scholarship Scheme\" aims to enhance educational opportunities and participation among students belonging to backward classes in Jharkhand. It provides financial assistance to reduce dropout rates from classes 1 to 10 and promote equality in education.",
+            "age": {
+              "ews": {
+                "gte": 5,
+                "lte": 15
+              },
+              "sc": {
+                "gte": 5,
+                "lte": 15
+              },
+              "general": {
+                "gte": 5,
+                "lte": 15
+              },
+              "obc": {
+                "gte": 5,
+                "lte": 15
+              },
+              "st": {
+                "gte": 5,
+                "lte": 15
+              },
+              "female": {
+                "gte": 5,
+                "lte": 15
+              },
+              "widowed": {
+                "gte": 5,
+                "lte": 15
+              }
+            },
+            "tags": [
+              "Financial Assistance",
+              "Scholarship",
+              "Pre-Matric",
+              "Other Backward Class"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "6BS07pMBL4KEf1-WexrR",
+          "fields": {
+            "beneficiaryState": [
+              "Jharkhand"
+            ],
+            "schemeShortTitle": "CMDRS",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Agriculture,Rural & Environment"
+            ],
+            "schemeName": "Chief Minister Drought Relief Scheme",
+            "schemeCloseDate": null,
+            "slug": "cmdrs",
+            "briefDescription": "The Chief Minister Drought Relief Scheme aims to provide relief and financial assistance to families affected by drought in designated areas. The scheme ensures financial security, livelihood support, and basic resources for drought-hit communities.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "general": {
+                "gte": 18,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "st": {
+                "gte": 18,
+                "lte": 100
+              },
+              "female": {
+                "gte": 18,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Financial Assistance",
+              "Farmer",
+              "Drought"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "6xTD8ZMBL4KEf1-WHBrA",
+          "fields": {
+            "beneficiaryState": [
+              "Puducherry"
+            ],
+            "schemeShortTitle": "CATRHPE",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Education & Learning"
+            ],
+            "schemeName": "Cash Award to Top Ranking Holders in Public Examinations",
+            "schemeCloseDate": null,
+            "slug": "catrhpe",
+            "briefDescription": "Through the \"Cash Award to Top Ranking Holders in Public Examinations\" scheme, cash awards of \u20b950,000/-, \u20b930,000/- and \u20b920,000/- are granted to the 1st, 2nd and 3rd Rank Holders respectively from SSLC/ SSC/ HSC Exam, and Intermediate (2nd Year) Public Examinations.",
+            "age": {
+              "ews": {
+                "gte": 12,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 12,
+                "lte": 100
+              },
+              "general": {
+                "gte": 12,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 12,
+                "lte": 100
+              },
+              "st": {
+                "gte": 12,
+                "lte": 100
+              },
+              "female": {
+                "gte": 12,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 12,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Cash",
+              "Award",
+              "Rank",
+              "Scholarship",
+              "Exam",
+              "School",
+              "College"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "qFXoFJQBKcqa7QfWem6n",
+          "fields": {
+            "beneficiaryState": [
+              "Madhya Pradesh"
+            ],
+            "schemeShortTitle": "ASST",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Education & Learning",
+              "Housing & Shelter"
+            ],
+            "schemeName": "Ashram Schools (Scheduled Tribes)",
+            "schemeCloseDate": null,
+            "slug": "asst",
+            "briefDescription": "The scheme \"Ashram Schools\" was launched on 1st January 1966 by the Tribal Welfare and Scheduled Caste (SC) Department of Madhya Pradesh. The scheme provides free accommodation, mess, and education facilities to Scheduled Tribe students.",
+            "age": {
+              "ews": {
+                "gte": 14,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 14,
+                "lte": 100
+              },
+              "general": {
+                "gte": 14,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 14,
+                "lte": 100
+              },
+              "st": {
+                "gte": 14,
+                "lte": 100
+              },
+              "female": {
+                "gte": 14,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 14,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Scheduled Tribe",
+              "Student",
+              "Education",
+              "Hostel"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "9xR4FZQBL4KEf1-W_Bpt",
+          "fields": {
+            "beneficiaryState": [
+              "Madhya Pradesh"
+            ],
+            "schemeShortTitle": "FDOTBTS",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Education & Learning"
+            ],
+            "schemeName": "Free Distribution of Text Books to Students",
+            "schemeCloseDate": null,
+            "slug": "fdotbts",
+            "briefDescription": "Launched on 1st January 2008, the scheme \"Free Distribution of Textbooks to Students\" by the School Education Department, Government of Madhya Pradesh, provides free textbooks to students studying in classes 9th to 12th in government schools.",
+            "age": {
+              "ews": {
+                "gte": 14,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 14,
+                "lte": 60
+              },
+              "general": {
+                "gte": 14,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 14,
+                "lte": 60
+              },
+              "st": {
+                "gte": 14,
+                "lte": 60
+              },
+              "female": {
+                "gte": 14,
+                "lte": 60
+              },
+              "widowed": {
+                "gte": 14,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Student",
+              "Book",
+              "School",
+              "Education"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "5RRP7pMBL4KEf1-Wbhp9",
+          "fields": {
+            "beneficiaryState": [
+              "Rajasthan"
+            ],
+            "schemeShortTitle": "GVYR",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Housing & Shelter"
+            ],
+            "schemeName": "Gaushala Vikas Yojana",
+            "schemeCloseDate": null,
+            "slug": "gvyr",
+            "briefDescription": "This initiative provides financial assistance to registered gaushalas for building permanent infrastructure. Under this scheme, up to \u20b910,000,00/- can be provided, with 90% of the funding from the state government and 10% contributed by the gaushala.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 65
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 65
+              },
+              "general": {
+                "gte": 18,
+                "lte": 65
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 65
+              },
+              "st": {
+                "gte": 18,
+                "lte": 65
+              },
+              "female": {
+                "gte": 18,
+                "lte": 65
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 65
+              }
+            },
+            "tags": [
+              "Cattle Welfare",
+              "Animal Husbandry"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "OzLGEZQBISXYddfJCpoP",
+          "fields": {
+            "beneficiaryState": [
+              "Bihar"
+            ],
+            "schemeShortTitle": "MYUYB",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Business & Entrepreneurship"
+            ],
+            "schemeName": "Mukhyamantri Yuva Udyami Yojana",
+            "schemeCloseDate": null,
+            "slug": "myuyb",
+            "briefDescription": "This is a flagship scheme of the Bihar government aimed at promoting entrepreneurship and self-employment among the youth by providing financial assistance of up to \u20b910,00,000/- for setting up businesses.",
+            "age": {
+              "general": {
+                "gte": 18,
+                "lte": 50
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 50
+              }
+            },
+            "tags": [
+              "Entrepreneurship",
+              "Youth",
+              "Business",
+              "Self Employment"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "kVUHy5MBKcqa7QfW2m79",
+          "fields": {
+            "beneficiaryState": [
+              "Tamil Nadu"
+            ],
+            "schemeShortTitle": "IOFHS",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Social welfare & Empowerment"
+            ],
+            "schemeName": "Issuance of Free House Sites",
+            "schemeCloseDate": null,
+            "slug": "iofhs",
+            "briefDescription": "This scheme provides free residential land sites to eligible individuals from the Backward Classes (BC), Most Backward Classes (MBC), and Denotified Communities (DNC) who do not own a house or land, helping them secure housing stability.\n\n",
+            "age": {
+              "obc": {
+                "gte": 18,
+                "lte": 65
+              }
+            },
+            "tags": [
+              "Social Empowerment",
+              "Backward Classes",
+              "Most Backward Classes",
+              "Denotified Communities"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "NjIa7pMBISXYddfJe5qK",
+          "fields": {
+            "beneficiaryState": [
+              "Bihar"
+            ],
+            "schemeShortTitle": "PMSSB",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Education & Learning"
+            ],
+            "schemeName": "Post-Matric Scholarship Scheme-Bihar",
+            "schemeCloseDate": null,
+            "slug": "pmssb",
+            "briefDescription": "The \u201cPost-Matric Scholarship Scheme-Bihar\u201d aims to provide financial assistance to eligible students from Extremely Backward Classes (EBC) and Other Backward Classes (OBC) for their post-secondary education.\n",
+            "age": {
+              "obc": {
+                "gte": 15,
+                "lte": 18
+              }
+            },
+            "tags": [
+              "Scholarship",
+              "Post-Matric",
+              "Higher Education Support",
+              "Backward Classes",
+              "Other Backward Classes",
+              "Minority Welfare"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "VDI6NZQBISXYddfJlppp",
+          "fields": {
+            "beneficiaryState": [
+              "Goa"
+            ],
+            "schemeShortTitle": "IRBAD-GBOCWWB",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Social welfare & Empowerment"
+            ],
+            "schemeName": "Interim Relief to the Beneficiaries Affected by Disaster (GBOCWWB)",
+            "schemeCloseDate": null,
+            "slug": "irbad-gbocwwb",
+            "briefDescription": "Through \"Interim Relief to the Beneficiaries Affected by Disaster (GBOCWWB)\" , the beneficiaries of the Board who are affected by disasters, catastrophes or natural calamities are extended immediate relief of up to \u20b910,00,000/-. This shall include cash payment to beneficiaries of the affected area.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "general": {
+                "gte": 18,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "st": {
+                "gte": 18,
+                "lte": 60
+              },
+              "female": {
+                "gte": 18,
+                "lte": 60
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Disaster",
+              "Calamity",
+              "Catastrophe",
+              "Relief",
+              "Worker"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "rlXNJpQBKcqa7QfWZ25i",
+          "fields": {
+            "beneficiaryState": [
+              "Jharkhand"
+            ],
+            "schemeShortTitle": "SGVY",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Social welfare & Empowerment"
+            ],
+            "schemeName": "Shaheed Gram Vikas Yojana",
+            "schemeCloseDate": null,
+            "slug": "sgvy",
+            "briefDescription": "The scheme \"Shaheed Gram Vikas Yojana\" by the Welfare Department, Government of Jharkhand, aims to develop villages linked to tribal freedom fighters. It provides housing, infrastructure, and other facilities to eligible Scheduled Tribes and Scheduled Castes.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "general": {
+                "gte": 18,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "st": {
+                "gte": 18,
+                "lte": 60
+              },
+              "female": {
+                "gte": 18,
+                "lte": 60
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Financial Assistance",
+              "Fighters",
+              "Housing",
+              "Education"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "RzJKJpQBISXYddfJt5og",
+          "fields": {
+            "beneficiaryState": [
+              "Jharkhand"
+            ],
+            "schemeShortTitle": "JSECASP",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Sports & Culture"
+            ],
+            "schemeName": "Jharkhand Sports Excellence Cash Award Scheme to Players",
+            "schemeCloseDate": null,
+            "slug": "jsecasp",
+            "briefDescription": "The \u201cJharkhand Sports Excellence Cash Award Scheme to Players\u201d aims to provide cash awards to athletes for exceptional achievements in national and international competitions, as per the Jharkhand Sports Policy, 2022.",
+            "age": {
+              "ews": {
+                "gte": 5,
+                "lte": 40
+              },
+              "sc": {
+                "gte": 5,
+                "lte": 40
+              },
+              "general": {
+                "gte": 5,
+                "lte": 40
+              },
+              "obc": {
+                "gte": 5,
+                "lte": 40
+              },
+              "st": {
+                "gte": 5,
+                "lte": 40
+              },
+              "female": {
+                "gte": 5,
+                "lte": 40
+              },
+              "widowed": {
+                "gte": 5,
+                "lte": 40
+              }
+            },
+            "tags": [
+              "Financial Assistance",
+              "Award",
+              "Sportsperson",
+              "Athletes"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "tlXcNpQBKcqa7QfWuG4p",
+          "fields": {
+            "beneficiaryState": [
+              "Madhya Pradesh"
+            ],
+            "schemeShortTitle": "BCSMAS",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Education & Learning"
+            ],
+            "schemeName": "Backward Class Students Meritorious Award Scheme",
+            "schemeCloseDate": null,
+            "slug": "bcsmas",
+            "briefDescription": "\"Backward Classes Student Merit Award Scheme\" aims to recognize and reward academic excellence among backward-class students. Monetary awards are provided to one boy and one girl student from backward classes who secure the highest marks at the district level in class 10th and 12th board exams.",
+            "age": {
+              "ews": {
+                "gte": 15,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 15,
+                "lte": 60
+              },
+              "general": {
+                "gte": 15,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 15,
+                "lte": 60
+              },
+              "st": {
+                "gte": 15,
+                "lte": 60
+              },
+              "female": {
+                "gte": 15,
+                "lte": 60
+              },
+              "widowed": {
+                "gte": 15,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Backward Class",
+              "Student",
+              "Meritorious",
+              "Examination",
+              "Award",
+              "Education"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "-xRiJpQBL4KEf1-WAxqC",
+          "fields": {
+            "beneficiaryState": [
+              "Jharkhand"
+            ],
+            "schemeShortTitle": "JSPS",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Sports & Culture"
+            ],
+            "schemeName": "Jharkhand Sportsperson Pension Scheme",
+            "schemeCloseDate": null,
+            "slug": "jsps",
+            "briefDescription": "The \u201cJharkhand Sportsperson Pension Scheme\u201d aims to provide financial support to retired athletes for their lifelong contribution to sports. Athletes, including Arjuna, Dronacharya, and Dhyan Chand awardees, Olympic participants, and Commonwealth or Asian Games medalists, receive a monthly pension.",
+            "age": {
+              "ews": {
+                "gte": 40,
+                "lte": 50
+              },
+              "sc": {
+                "gte": 40,
+                "lte": 50
+              },
+              "general": {
+                "gte": 40,
+                "lte": 50
+              },
+              "obc": {
+                "gte": 40,
+                "lte": 50
+              },
+              "st": {
+                "gte": 40,
+                "lte": 50
+              },
+              "female": {
+                "gte": 40,
+                "lte": 50
+              },
+              "widowed": {
+                "gte": 40,
+                "lte": 50
+              }
+            },
+            "tags": [
+              "Financial Assistance",
+              "Sportsperson",
+              "Pension"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "VzLrNpQBISXYddfJjZpY",
+          "fields": {
+            "beneficiaryState": [
+              "Madhya Pradesh"
+            ],
+            "schemeShortTitle": "MPPTEAS",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Education & Learning"
+            ],
+            "schemeName": "Madhya Pradesh Professional Talent Examination Award Scheme",
+            "schemeCloseDate": null,
+            "slug": "mppteas",
+            "briefDescription": "\"M.P. Professional Talent Examination Award Scheme\" aims to recognize and reward backward-class students who excel in professional entrance examinations. Monetary awards are provided to backward-class students who secure the top three positions in entrance examinations like PET, PPT, and MCA.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "general": {
+                "gte": 18,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "st": {
+                "gte": 18,
+                "lte": 100
+              },
+              "female": {
+                "gte": 18,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Examination",
+              "Award",
+              "Backward Class",
+              "Student",
+              "Education"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "CBTfNZQBL4KEf1-W7Rt3",
+          "fields": {
+            "beneficiaryState": [
+              "Madhya Pradesh"
+            ],
+            "schemeShortTitle": "AAYMP",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Social welfare & Empowerment"
+            ],
+            "schemeName": "Aahar Anudan Yojana",
+            "schemeCloseDate": null,
+            "slug": "aaymp",
+            "briefDescription": "The scheme \"Aahar Anudan Yojana\" provides monthly assistance of \u20b91,000 to students, girls, and women from backward tribes like Baiga, Bharia, and Saharia. The scheme aims to combat malnutrition among special tribal families by ensuring access to nutritious food through financial assistance.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "general": {
+                "gte": 18,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "st": {
+                "gte": 18,
+                "lte": 100
+              },
+              "female": {
+                "gte": 18,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Women",
+              "Food",
+              "Financial Assistance",
+              "Child Care",
+              "Meal",
+              "Nutrition"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "sVXtKpQBKcqa7QfWcW4e",
+          "fields": {
+            "beneficiaryState": [
+              "Gujarat"
+            ],
+            "schemeShortTitle": "PSGG",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Health & Wellness",
+              "Women and Child"
+            ],
+            "schemeName": "Poshan Sudha",
+            "schemeCloseDate": null,
+            "slug": "psgg",
+            "briefDescription": "This scheme is a government initiative to provide nutrition and healthcare support to pregnant and lactating mothers in tribal districts of Gujarat.\n\n",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 45
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 45
+              },
+              "general": {
+                "gte": 18,
+                "lte": 45
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 45
+              },
+              "st": {
+                "gte": 18,
+                "lte": 45
+              },
+              "female": {
+                "gte": 18,
+                "lte": 45
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 45
+              }
+            },
+            "tags": [
+              "Pregnant Women",
+              "Child",
+              "Nutritional Support"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "UzK0K5QBISXYddfJfpqu",
+          "fields": {
+            "beneficiaryState": [
+              "Bihar"
+            ],
+            "schemeShortTitle": "SJY",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Education & Learning",
+              "Business & Entrepreneurship"
+            ],
+            "schemeName": "Satat Jeevikoparjan Yojana (SJY)",
+            "schemeCloseDate": null,
+            "slug": "sjy",
+            "briefDescription": "\"Satat Jeevikoparjan Yojana (SJY)\" is a flagship program launched by the Government of Bihar to uplift ultra-poor households through comprehensive livelihood support, skill-building, and financial inclusion.\n\n",
+            "age": {
+              "sc": {
+                "gte": 18,
+                "lte": 45
+              },
+              "st": {
+                "gte": 18,
+                "lte": 45
+              }
+            },
+            "tags": [
+              "Livelihood Support",
+              "Capacity Building",
+              "Rural Development",
+              "Skill Upgradation",
+              "Training"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "DRSYP5QBL4KEf1-WfRvk",
+          "fields": {
+            "beneficiaryState": [
+              "All"
+            ],
+            "schemeShortTitle": "DOTPLI SCHEME",
+            "level": "Central",
+            "nodalMinistryName": "Ministry Of Communication",
+            "schemeCategory": [
+              "Science, IT & Communications"
+            ],
+            "schemeName": "Production Linked Incentive Scheme (PLI) For Promoting Telecom & Networking Products Manufacturing In India",
+            "schemeCloseDate": null,
+            "slug": "dot-pli-scheme",
+            "briefDescription": "Production Linked Incentive (PLI) Scheme aims to boost domestic manufacturing, investments and export in the telecom and networking products The PLI Scheme will be implemented within the overall financial limits of \u20b9 12,195 Crores only (Rupees Twelve Thousand One Hundred and Ninety-Five Crore only) ",
+            "age": {
+              "ews": {
+                "gte": 0,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 0,
+                "lte": 100
+              },
+              "general": {
+                "gte": 0,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 0,
+                "lte": 100
+              },
+              "st": {
+                "gte": 0,
+                "lte": 100
+              },
+              "female": {
+                "gte": 0,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 0,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Production Linked Incentive Scheme",
+              "Telecom Equipments",
+              "Networking Products",
+              "Electronic Manufacturing",
+              "Make In India"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "vVVMTpQBKcqa7QfW6W56",
+          "fields": {
+            "beneficiaryState": [
+              "All"
+            ],
+            "schemeShortTitle": "PMFBY",
+            "level": "Central",
+            "nodalMinistryName": "Ministry Of Agriculture and Farmers Welfare",
+            "schemeCategory": [
+              "Agriculture,Rural & Environment",
+              "Banking,Financial Services and Insurance"
+            ],
+            "schemeName": "Pradhan Mantri Fasal Bima Yojna (PMFBY)",
+            "schemeCloseDate": null,
+            "slug": "pmfby",
+            "briefDescription": "Pradhan Mantri Fasal Bima Yojana was launched in  2016 with the aim to support farmers by providing an affordable comprehensive risk cover for crops.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "general": {
+                "gte": 18,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "st": {
+                "gte": 18,
+                "lte": 100
+              },
+              "female": {
+                "gte": 18,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Crop",
+              "Farmer",
+              "Insurance",
+              "Agriculture",
+              "Premium"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "XTJBS5QBISXYddfJGJrE",
+          "fields": {
+            "beneficiaryState": [
+              "All"
+            ],
+            "schemeShortTitle": "NAI",
+            "level": "Central",
+            "nodalMinistryName": "Ministry Of Agriculture and Farmers Welfare",
+            "schemeCategory": [
+              "Agriculture,Rural & Environment"
+            ],
+            "schemeName": "National Agriculture Insurance Scheme",
+            "schemeCloseDate": null,
+            "slug": "nai",
+            "briefDescription": "The National Agriculture Insurance Scheme (NAIS) was introduced by the Government of India to provide comprehensive insurance coverage and financial support to farmers against crop losses due to natural calamities, pests, and diseases.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 70
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 70
+              },
+              "general": {
+                "gte": 18,
+                "lte": 70
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 70
+              },
+              "st": {
+                "gte": 18,
+                "lte": 70
+              },
+              "female": {
+                "gte": 18,
+                "lte": 70
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 70
+              }
+            },
+            "tags": [
+              "Farmers",
+              "Crop Insurance",
+              "Agriculture Subsidy",
+              "Natural Disaster Coverage"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "CxT2NpQBL4KEf1-WqRtV",
+          "fields": {
+            "beneficiaryState": [
+              "Madhya Pradesh"
+            ],
+            "schemeShortTitle": "FEOTTEUYOBCAMC",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Education & Learning"
+            ],
+            "schemeName": "Free Employment Oriented Training to Educated Unemployed Youth of Backward Class and Minority Class",
+            "schemeCloseDate": null,
+            "slug": "feotteuyobcamc",
+            "briefDescription": "\"Free Employment Oriented Training to Educated Unemployed Youth of Backward Class and Minority Class\" aims to provide quality pre-examination training for various employment-oriented competitive examinations to talented but economically disadvantaged young men and women.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 90
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 90
+              },
+              "general": {
+                "gte": 18,
+                "lte": 90
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 90
+              },
+              "st": {
+                "gte": 18,
+                "lte": 90
+              },
+              "female": {
+                "gte": 18,
+                "lte": 90
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 90
+              }
+            },
+            "tags": [
+              "Employment",
+              "Educated",
+              "Backward Class",
+              "Minority",
+              "Training"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "wFWmTpQBKcqa7QfWfG6l",
+          "fields": {
+            "beneficiaryState": [
+              "Assam"
+            ],
+            "schemeShortTitle": "AABY",
+            "level": "Central",
+            "nodalMinistryName": "Ministry Of Labour and Employment",
+            "schemeCategory": [
+              "Social welfare & Empowerment"
+            ],
+            "schemeName": "Aam Aadmi Bima Yojana",
+            "schemeCloseDate": null,
+            "slug": "aaby",
+            "briefDescription": "The Aam Aadmi Bima Yojana (AABY) is a social security scheme for rural landless households implemented by the Ministry of Labour & Employment, Government of India. The scheme provides insurance coverage to the head of the household or an earning member of the family in the age group of 18 to 59.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 59
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 59
+              },
+              "general": {
+                "gte": 18,
+                "lte": 59
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 59
+              },
+              "st": {
+                "gte": 18,
+                "lte": 59
+              },
+              "female": {
+                "gte": 18,
+                "lte": 59
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 59
+              }
+            },
+            "tags": [
+              "Bima",
+              "Insurance",
+              "Labour Welfare",
+              "DBT",
+              "Incentive"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "YDIeWZQBISXYddfJbJqO",
+          "fields": {
+            "beneficiaryState": [
+              "Gujarat"
+            ],
+            "schemeShortTitle": "AGMSMECISMS",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Business & Entrepreneurship"
+            ],
+            "schemeName": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Interest Subsidy to Micro, Small and Medium Enterprise (Manufacturing Sector)",
+            "schemeCloseDate": null,
+            "slug": "agmsmecisms",
+            "briefDescription": "The \"Aatmanirbhar Gujarat Scheme for assistance to MSMEs\" aims to empower the state's dynamic MSME sector, which significantly contributes to employment, GDP, and exports.\n\n",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "general": {
+                "gte": 18,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "st": {
+                "gte": 18,
+                "lte": 60
+              },
+              "female": {
+                "gte": 18,
+                "lte": 60
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Business",
+              "Entrepreneurship",
+              "MSMEs",
+              "Interest Subsidy"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "xFU_WZQBKcqa7QfWa27e",
+          "fields": {
+            "beneficiaryState": [
+              "Gujarat"
+            ],
+            "schemeShortTitle": "AGMSMEZED",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Business & Entrepreneurship"
+            ],
+            "schemeName": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Financial Support to MSMEs in ZED Certification",
+            "schemeCloseDate": null,
+            "slug": "agmsmezed",
+            "briefDescription": "The \"Aatmanirbhar Gujarat Scheme for assistance to MSMEs\" aims to empower the state's dynamic MSME sector, which significantly contributes to employment, GDP, and exports.\n",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "general": {
+                "gte": 18,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "st": {
+                "gte": 18,
+                "lte": 60
+              },
+              "female": {
+                "gte": 18,
+                "lte": 60
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Business",
+              "Entrepreneurship",
+              "MSMEs",
+              "ZED Certification"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "wlUrWZQBKcqa7QfWUm4e",
+          "fields": {
+            "beneficiaryState": [
+              "Gujarat"
+            ],
+            "schemeShortTitle": "AGMSMECSGST",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Business & Entrepreneurship"
+            ],
+            "schemeName": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Net SGST reimbursement to Micro, Small and Medium Manufacturing Enterprise (MSMEs):",
+            "schemeCloseDate": null,
+            "slug": "agmsmecsgst",
+            "briefDescription": "The \"Aatmanirbhar Gujarat Scheme for assistance to MSMEs\" aims to empower the state's dynamic MSME sector, which significantly contributes to employment, GDP, and exports.\n",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "general": {
+                "gte": 18,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "st": {
+                "gte": 18,
+                "lte": 60
+              },
+              "female": {
+                "gte": 18,
+                "lte": 60
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Business",
+              "Entrepreneurship",
+              "MSMEs",
+              "Interest Subsidy"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "IRTxXZQBL4KEf1-Wyxvs",
+          "fields": {
+            "beneficiaryState": [
+              "Puducherry"
+            ],
+            "schemeShortTitle": "PIBESCHC",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Agriculture,Rural & Environment"
+            ],
+            "schemeName": "Production Incentive / Back-Ended Subsidy for Cultivation of Horticulture Crops",
+            "schemeCloseDate": null,
+            "slug": "pibeschc",
+            "briefDescription": "Through this scheme, the farmers who possess farmer's identity cards / authenticated land records/documents are provided with One-Time Assistance/ Bi\u2010Annual Assistance/ Annual Assistance for the Cultivation of Horticulture Crops such as Mango, Guava, and Sapota.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "general": {
+                "gte": 18,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "st": {
+                "gte": 18,
+                "lte": 100
+              },
+              "female": {
+                "gte": 18,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Subsidy",
+              "Horticulture",
+              "Crop",
+              "Incentive",
+              "Farmer"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "FRRYVJQBL4KEf1-WexuE",
+          "fields": {
+            "beneficiaryState": [
+              "Gujarat"
+            ],
+            "schemeShortTitle": "AGMSMECIS",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Business & Entrepreneurship"
+            ],
+            "schemeName": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance of Capital Investment Subsidy to Micro enterprises",
+            "schemeCloseDate": null,
+            "slug": "agmsmecis",
+            "briefDescription": "The \"Aatmanirbhar Gujarat Scheme for assistance to MSMEs\" aims to empower the state's dynamic MSME sector, which significantly contributes to employment, GDP, and exports.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "general": {
+                "gte": 18,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "st": {
+                "gte": 18,
+                "lte": 60
+              },
+              "female": {
+                "gte": 18,
+                "lte": 60
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Business",
+              "Entrepreneurship",
+              "Capital Investment Subsidy",
+              "MSMEs"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "HhRjXZQBL4KEf1-WLBtI",
+          "fields": {
+            "beneficiaryState": [
+              "Madhya Pradesh"
+            ],
+            "schemeShortTitle": "COGFGS",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Agriculture,Rural & Environment"
+            ],
+            "schemeName": "Construction of Godown for Grain Storage",
+            "schemeCloseDate": null,
+            "slug": "cogfgs",
+            "briefDescription": "Launched on 24th December 2013, the scheme \"Construction of Warehouse for Grain Storage\" by the Panchayat and Rural Development Department, Government of Madhya Pradesh aims to provide modern and scientific food grain storage facilities under Food Security Act 13 to applicants in rural areas.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "general": {
+                "gte": 18,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "st": {
+                "gte": 18,
+                "lte": 100
+              },
+              "female": {
+                "gte": 18,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Agriculture",
+              "Farmer",
+              "Food Security",
+              "Godown",
+              "Storage"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "ZDIHW5QBISXYddfJIZrL",
+          "fields": {
+            "beneficiaryState": [
+              "Jharkhand"
+            ],
+            "schemeShortTitle": "JPSS",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Social welfare & Empowerment",
+              "Transport & Infrastructure"
+            ],
+            "schemeName": "Jharkhand Petrol Subsidy Scheme",
+            "schemeCloseDate": null,
+            "slug": "jpss",
+            "briefDescription": "The scheme \"Petrol Subsidy Scheme\" implemented by the Food, Public Distribution & Consumer Affairs Department, Government of Jharkhand, aims to provide a petrol subsidy of \u20b9250 per month for two-wheelers to eligible NFSA/Jharkhand State Food Security Scheme beneficiaries.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "general": {
+                "gte": 18,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "st": {
+                "gte": 18,
+                "lte": 60
+              },
+              "female": {
+                "gte": 18,
+                "lte": 60
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Subsidy",
+              "Petrol",
+              "Rural",
+              "Two-wheelers"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "HBQVW5QBL4KEf1-WZxve",
+          "fields": {
+            "beneficiaryState": [
+              "Jharkhand"
+            ],
+            "schemeShortTitle": "MGBUY",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Health & Wellness"
+            ],
+            "schemeName": "Mukhyamantri Gambhir Bimari Upchar Yojana",
+            "schemeCloseDate": null,
+            "slug": "mgbuy",
+            "briefDescription": "The scheme \"Mukhyamantri Gambhir Bimari Upchar Yojana\" by the Department of Health, Medical Education & Family Welfare, Government of Jharkhand, provides medical grants of up to \u20b95,00,000/- for the treatment of critical illnesses and supports acid attack victims.",
+            "age": {
+              "ews": {
+                "gte": 5,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 5,
+                "lte": 100
+              },
+              "general": {
+                "gte": 5,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 5,
+                "lte": 100
+              },
+              "st": {
+                "gte": 5,
+                "lte": 100
+              },
+              "female": {
+                "gte": 5,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 5,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Financial Assistance",
+              "Illnesses",
+              "Medical",
+              "Hospital"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "xlVNWZQBKcqa7QfWtm5u",
+          "fields": {
+            "beneficiaryState": [
+              "Gujarat"
+            ],
+            "schemeShortTitle": "SSG",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Sports & Culture"
+            ],
+            "schemeName": "Shaktidoot Scheme",
+            "schemeCloseDate": null,
+            "slug": "ssg",
+            "briefDescription": "The \"Shaktidoot Scheme\", an initiative by the Gujarat Government in 2006, supports talented sportspersons in achieving excellence at national and international levels by providing need-based sports facilities and financial assistance.\n\n",
+            "age": {
+              "ews": {
+                "gte": 5,
+                "lte": 20
+              },
+              "sc": {
+                "gte": 5,
+                "lte": 20
+              },
+              "general": {
+                "gte": 5,
+                "lte": 20
+              },
+              "obc": {
+                "gte": 5,
+                "lte": 20
+              },
+              "st": {
+                "gte": 5,
+                "lte": 20
+              },
+              "female": {
+                "gte": 5,
+                "lte": 20
+              },
+              "widowed": {
+                "gte": 5,
+                "lte": 20
+              }
+            },
+            "tags": [
+              "Sports Excellence",
+              "Sports Training",
+              "Sports Nutrition",
+              "Athlete Financial Aid"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "JBRfaJQBL4KEf1-W-Rs2",
+          "fields": {
+            "beneficiaryState": [
+              "All"
+            ],
+            "schemeShortTitle": "JRFST",
+            "level": "Central",
+            "nodalMinistryName": "Ministry of Education",
+            "schemeCategory": [
+              "Education & Learning",
+              "Science, IT & Communications"
+            ],
+            "schemeName": "Junior Research Fellowship In Engineering & Technology",
+            "schemeCloseDate": null,
+            "slug": "jrfst",
+            "briefDescription": "The scheme \"Junior Research Fellowship in Engineering & Technology\" by the University Grants Commission (UGC), Department of Higher Education is meant for candidates who wish to pursue research leading to a Ph.D. degree in engineering and technology.",
+            "age": {
+              "sc": {
+                "gte": 18,
+                "lte": 45
+              },
+              "ews": {
+                "gte": 18,
+                "lte": 40
+              },
+              "general": {
+                "gte": 18,
+                "lte": 40
+              },
+              "st": {
+                "gte": 18,
+                "lte": 45
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 40
+              },
+              "widow": {
+                "gte": 18,
+                "lte": 45
+              },
+              "female": {
+                "gte": 18,
+                "lte": 45
+              },
+              "pvtg": {
+                "gte": 18,
+                "lte": 45
+              },
+              "transgender": {
+                "gte": 18,
+                "lte": 40
+              }
+            },
+            "tags": [
+              "Fellowship",
+              "Science"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "21V-cpQBKcqa7QfW024A",
+          "fields": {
+            "beneficiaryState": [
+              "Gujarat"
+            ],
+            "schemeShortTitle": "AGMSMEAE",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Business & Entrepreneurship"
+            ],
+            "schemeName": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Saving in Consumption of Energy and Water ",
+            "schemeCloseDate": null,
+            "slug": "agmsmeae",
+            "briefDescription": "The \"Aatmanirbhar Gujarat Scheme for assistance to MSMEs\" aims to empower the state's dynamic MSME sector, which significantly contributes to employment, GDP, and exports.\n\n",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "general": {
+                "gte": 18,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "st": {
+                "gte": 18,
+                "lte": 60
+              },
+              "female": {
+                "gte": 18,
+                "lte": 60
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Business",
+              "Entrepreneurship",
+              "MSMEs",
+              "Energy Conservation",
+              "Water Conservation"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "LBSOcpQBL4KEf1-WdRuj",
+          "fields": {
+            "beneficiaryState": [
+              "Gujarat"
+            ],
+            "schemeShortTitle": "AGMSMESAPC",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Business & Entrepreneurship"
+            ],
+            "schemeName": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Power Connection Charges",
+            "schemeCloseDate": null,
+            "slug": "agmsmesapc",
+            "briefDescription": "The \"Aatmanirbhar Gujarat Scheme for assistance to MSMEs\" aims to empower the state's dynamic MSME sector, which significantly contributes to employment, GDP, and exports.\n",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "general": {
+                "gte": 18,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "st": {
+                "gte": 18,
+                "lte": 60
+              },
+              "female": {
+                "gte": 18,
+                "lte": 60
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Business",
+              "Entrepreneurship",
+              "Subsidy",
+              "Power Connection"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "ajLxXZQBISXYddfJ7Zob",
+          "fields": {
+            "beneficiaryState": [
+              "Puducherry"
+            ],
+            "schemeShortTitle": "DHKURA",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Agriculture,Rural & Environment"
+            ],
+            "schemeName": "Distribution of Horticulture Kit to Urban and Rural Areas",
+            "schemeCloseDate": null,
+            "slug": "dhkura",
+            "briefDescription": "Through this scheme, all the horticulture growers in rural & urban areas are provided with a horticulture kit worth \u20b9 3,000 per kit to urban and rural areas, during Aadipattam/Thaipattam, through the Additional Director of Agriculture (Horticulture).",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "general": {
+                "gte": 18,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "st": {
+                "gte": 18,
+                "lte": 100
+              },
+              "female": {
+                "gte": 18,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Horticulture",
+              "Agriculture",
+              "Farmer",
+              "Subsidy",
+              "DBT"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "IhRPaJQBL4KEf1-WLRsD",
+          "fields": {
+            "beneficiaryState": [
+              "Haryana"
+            ],
+            "schemeShortTitle": "HPMSM",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Education & Learning"
+            ],
+            "schemeName": "Haryana Pre Matric Scholarship For Minority",
+            "schemeCloseDate": null,
+            "slug": "hpmsm",
+            "briefDescription": "Launched in June 2006 under the Prime Minister's New 15 Point Programme for the Welfare of Minorities, the \"Pre-Matric Scholarship for Students Belonging to the Minority Communities\" is a Centrally Sponsored Scheme by the Ministry of Minority Affairs, Government of India.",
+            "age": {
+              "ews": {
+                "gte": 4,
+                "lte": 80
+              },
+              "sc": {
+                "gte": 4,
+                "lte": 80
+              },
+              "general": {
+                "gte": 4,
+                "lte": 80
+              },
+              "obc": {
+                "gte": 4,
+                "lte": 80
+              },
+              "st": {
+                "gte": 4,
+                "lte": 80
+              },
+              "female": {
+                "gte": 4,
+                "lte": 80
+              },
+              "widowed": {
+                "gte": 4,
+                "lte": 80
+              }
+            },
+            "tags": [
+              "Minority",
+              "Scholarship",
+              "Education",
+              "Student",
+              "Tuition Fees",
+              "Admission Fees",
+              "Allowance"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "2VXhbZQBKcqa7QfWSm5k",
+          "fields": {
+            "beneficiaryState": [
+              "Madhya Pradesh"
+            ],
+            "schemeShortTitle": "PESMP",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Education & Learning"
+            ],
+            "schemeName": "Primary Education Scholarship (Madhya Pradesh)",
+            "schemeCloseDate": null,
+            "slug": "pesmp",
+            "briefDescription": "The \"Primary Education Scholarship\" scheme provides \u20b9150/- annually to students from De-notified, Nomadic, and Semi-Nomadic communities who are studying in classes 1st to 5th.  The scholarship distribution is managed through the Directorate of Public Education, Government of Madhya Pradesh.",
+            "age": {
+              "ews": {
+                "gte": 6,
+                "lte": 10
+              },
+              "sc": {
+                "gte": 6,
+                "lte": 10
+              },
+              "general": {
+                "gte": 6,
+                "lte": 10
+              },
+              "obc": {
+                "gte": 6,
+                "lte": 10
+              },
+              "st": {
+                "gte": 6,
+                "lte": 10
+              },
+              "female": {
+                "gte": 6,
+                "lte": 10
+              },
+              "widowed": {
+                "gte": 6,
+                "lte": 10
+              }
+            },
+            "tags": [
+              "Student",
+              "Education",
+              "Scholarship",
+              "Studying"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "2lW1bpQBKcqa7QfWS27U",
+          "fields": {
+            "beneficiaryState": [
+              "Madhya Pradesh"
+            ],
+            "schemeShortTitle": "ROSCH",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Housing & Shelter"
+            ],
+            "schemeName": "Running of Scheduled Caste Hostel",
+            "schemeCloseDate": null,
+            "slug": "rosch",
+            "briefDescription": "The \"Running of Scheduled Caste Hostels\" scheme by the Tribal Welfare and Scheduled Caste (SC) Department, Government of Madhya Pradesh, aims to provide housing and a conducive study environment for Scheduled Caste students. Separate junior, senior, and college hostels are operated for boys & girls.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "general": {
+                "gte": 18,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "st": {
+                "gte": 18,
+                "lte": 60
+              },
+              "female": {
+                "gte": 18,
+                "lte": 60
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Hostel",
+              "Housing",
+              "Scheduled Caste",
+              "Student"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "2FWAaZQBKcqa7QfWFG5b",
+          "fields": {
+            "beneficiaryState": [
+              "Telangana"
+            ],
+            "schemeShortTitle": "LICF",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Agriculture,Rural & Environment",
+              "Banking,Financial Services and Insurance"
+            ],
+            "schemeName": "\u20b9 5 Lakh Insurance Cover To Farmers",
+            "schemeCloseDate": null,
+            "slug": "farmer-insurance",
+            "briefDescription": "Launched on 15 August 2018, the scheme \"\u20b95 Lakh Insurance Cover for Farmers\" is an Insurance Scheme by the Department of Agriculture, Government of Telangana. This scheme provides \u20b95 lakh insurance coverage to all farmers aged between 18 and 60 years.",
+            "age": {
+              "general": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "LIC",
+              "Insurance Coverage",
+              "Financial",
+              "Security"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "6FXdgZQBKcqa7QfWdG5O",
+          "fields": {
+            "beneficiaryState": [
+              "All"
+            ],
+            "schemeShortTitle": "JRFSHSS",
+            "level": "Central",
+            "nodalMinistryName": "Ministry of Education",
+            "schemeCategory": [
+              "Education & Learning",
+              "Science, IT & Communications"
+            ],
+            "schemeName": "Junior Research Fellowship In Sciences, Humanities, And Social Sciences",
+            "schemeCloseDate": null,
+            "slug": "jrfshss",
+            "briefDescription": "The scheme of Junior Research Fellowship in Sciences, Humanities, and Social Science by UGC, Dept. of Education, is open to candidates who qualify for the National Eligibility Test-Junior Research Fellowship(NET-JRF) of the UGC and the UGC-Council of Scientific and Industrial Research (UGC-CSIR).",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "general": {
+                "gte": 18,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "st": {
+                "gte": 18,
+                "lte": 100
+              },
+              "female": {
+                "gte": 18,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Fellowship",
+              "Research",
+              "Junior",
+              "University",
+              "Students"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "51WrgZQBKcqa7QfWZ27T",
+          "fields": {
+            "beneficiaryState": [
+              "Puducherry"
+            ],
+            "schemeShortTitle": "SFSTSUFPC",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Education & Learning"
+            ],
+            "schemeName": "Scheme of Free Supply of Textbooks, Stationery, Uniforms and Footwears to Poor Children",
+            "schemeCloseDate": null,
+            "slug": "sfstsufpc",
+            "briefDescription": "Through this scheme, textbooks, notebooks, Uniforms, dictionaries, stationery, etc. are provided free of cost to all students studying in LKG to 12th Standard of all Government and Government-aided Private Schools. The objective of this scheme is to achieve 100% student enrolment.",
+            "age": {
+              "ews": {
+                "gte": 3,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 3,
+                "lte": 100
+              },
+              "general": {
+                "gte": 3,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 3,
+                "lte": 100
+              },
+              "st": {
+                "gte": 3,
+                "lte": 100
+              },
+              "female": {
+                "gte": 3,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 3,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Stationery",
+              "Uniform",
+              "Student",
+              "Book",
+              "Student"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "fTKqgZQBISXYddfJBJow",
+          "fields": {
+            "beneficiaryState": [
+              "Puducherry"
+            ],
+            "schemeShortTitle": "DVSMFMFC",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Agriculture,Rural & Environment"
+            ],
+            "schemeName": "Distribution of Vegetable Seeds Minikit & Fruits Minikit at Free of Cost",
+            "schemeCloseDate": null,
+            "slug": "dvsmfmfc",
+            "briefDescription": "\u201cDistribution of Vegetable Seeds Minikit & Fruits Minikit at Free of Cost\" was launched by the Dept of Agriculture and Farmer's Welfare, UT of Puducherry. All the horticulture growers of rural & urban areas are provided with vegetable seeds minikit & fruits minikit worth \u20b9250/\u2010 free of cost.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "general": {
+                "gte": 18,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "st": {
+                "gte": 18,
+                "lte": 100
+              },
+              "female": {
+                "gte": 18,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Seed",
+              "Crop",
+              "Farmer",
+              "Fruit",
+              "Vegetable"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "NBRUfpQBL4KEf1-WaRua",
+          "fields": {
+            "beneficiaryState": [
+              "Gujarat"
+            ],
+            "schemeShortTitle": "AGSMRSD",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Business & Entrepreneurship"
+            ],
+            "schemeName": "Aatmanirbhar Gujarat Scheme for Assistance to Mega Industries: Reimbursement of Stamp Duty and Registration Fees",
+            "schemeCloseDate": null,
+            "slug": "agsmrsd",
+            "briefDescription": "The \"Aatmanirbhar Gujarat Scheme for Assistance to Mega Industries\" aims to strengthen the overall industrial ecosystem in the State and also enable a larger set of manufacturing companies to emulate the adoption of clean energy and make them future-ready to compete in global markets.\n\n",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "general": {
+                "gte": 18,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "st": {
+                "gte": 18,
+                "lte": 60
+              },
+              "female": {
+                "gte": 18,
+                "lte": 60
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Business",
+              "Entrepreneurship",
+              "Mega Industries",
+              "Thrust Manufacturing Sector"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "MRTHcpQBL4KEf1-WGRvd",
+          "fields": {
+            "beneficiaryState": [
+              "Jharkhand"
+            ],
+            "schemeShortTitle": "RFDS",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Agriculture,Rural & Environment"
+            ],
+            "schemeName": "Reservoir Fisheries Development Scheme",
+            "schemeCloseDate": null,
+            "slug": "rfds",
+            "briefDescription": "The scheme \"Reservoir Fisheries Development Scheme\" by the Department of Fisheries, Government of Jharkhand, enhances fish production and livelihood opportunities for registered fisheries cooperatives through the provision of fish fingerlings, boats, and nets.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "general": {
+                "gte": 18,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "st": {
+                "gte": 18,
+                "lte": 60
+              },
+              "female": {
+                "gte": 18,
+                "lte": 60
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Financial Assistance",
+              "Fisheries",
+              "Subsidy",
+              "Development"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "31W8cpQBKcqa7QfWtW5C",
+          "fields": {
+            "beneficiaryState": [
+              "Jharkhand"
+            ],
+            "schemeShortTitle": "SSDSDS",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Social welfare & Empowerment"
+            ],
+            "schemeName": "Sona Sobaran Dhoti Saree Distribution Scheme",
+            "schemeCloseDate": null,
+            "slug": "ssdsds",
+            "briefDescription": "The \"Sona Sobaran Dhoti Saree Distribution Scheme\" by the Department of Food, Public Distribution and Consumer Affairs, Government of Jharkhand, provides one dhoti/lungi and one saree at a subsidized rate to NFSA and JSFSS beneficiaries to ensure clothing accessibility for low-income families",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "general": {
+                "gte": 18,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "st": {
+                "gte": 18,
+                "lte": 100
+              },
+              "female": {
+                "gte": 18,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Clothes",
+              "Saree",
+              "Subsidized Rate"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "eDKucpQBISXYddfJkpqc",
+          "fields": {
+            "beneficiaryState": [
+              "Jharkhand"
+            ],
+            "schemeShortTitle": "SDS",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Social welfare & Empowerment"
+            ],
+            "schemeName": "Sugar Distribution Scheme",
+            "schemeCloseDate": null,
+            "slug": "sds",
+            "briefDescription": "The \"Sugar Distribution Scheme\" by the Department of Food, Public Distribution and Consumer Affairs, Government of Jharkhand, aims to provide subsidized sugar to AAY households under NFSA, ensuring access to essential food commodities at affordable rates.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "general": {
+                "gte": 18,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "st": {
+                "gte": 18,
+                "lte": 60
+              },
+              "female": {
+                "gte": 18,
+                "lte": 60
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Sugar",
+              "Subsidized Rate",
+              "Food"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "4VXgcpQBKcqa7QfWQW4c",
+          "fields": {
+            "beneficiaryState": [
+              "Madhya Pradesh"
+            ],
+            "schemeShortTitle": "CMHS",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Social welfare & Empowerment"
+            ],
+            "schemeName": "Chief Minister Help Scheme",
+            "schemeCloseDate": null,
+            "slug": "cmhs",
+            "briefDescription": "Launched on 02-10-2019, the Chief Minister Help Scheme under the Tribal Welfare and Scheduled Caste (SC) Department, Madhya Pradesh, provides food distribution and material aid to Scheduled Tribe beneficiaries whose family members are not in government service.",
+            "age": {
+              "ews": {
+                "gte": 0,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 0,
+                "lte": 100
+              },
+              "general": {
+                "gte": 0,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 0,
+                "lte": 100
+              },
+              "st": {
+                "gte": 0,
+                "lte": 100
+              },
+              "female": {
+                "gte": 0,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 0,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Children",
+              "Birth",
+              "Death",
+              "Family"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "OBTHjZQBL4KEf1-WdxvM",
+          "fields": {
+            "beneficiaryState": [
+              "All"
+            ],
+            "schemeShortTitle": "AICTE - SPICES",
+            "level": "Central",
+            "nodalMinistryName": "Ministry of Education",
+            "schemeCategory": [
+              "Education & Learning"
+            ],
+            "schemeName": "AICTE - Scheme For Promoting Interests, Creativity And Ethics Among Students",
+            "schemeCloseDate": null,
+            "slug": "aicte-spices",
+            "briefDescription": "AICTE-SPICES scheme provides financial support to institutions for developing students' clubs for the well-rounded development of students by promoting their interests, creativity, and ethics. This club should serve as a model for other clubs in the institution and also those in other institutions.",
+            "age": {
+              "ews": {
+                "gte": 0,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 0,
+                "lte": 100
+              },
+              "general": {
+                "gte": 0,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 0,
+                "lte": 100
+              },
+              "st": {
+                "gte": 0,
+                "lte": 100
+              },
+              "female": {
+                "gte": 0,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 0,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Student",
+              "Institution"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "7lUUk5QBKcqa7QfWiW5i",
+          "fields": {
+            "beneficiaryState": [
+              "Jharkhand"
+            ],
+            "schemeShortTitle": "KSYJ",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Agriculture,Rural & Environment"
+            ],
+            "schemeName": "Kisan Samriddhi Yojana Jharkhand",
+            "schemeCloseDate": null,
+            "slug": "ksyj",
+            "briefDescription": "The \"Kisan Samriddhi Yojana\" by the Department of Agriculture, Animal Husbandry & Cooperative, Government of Jharkhand, promotes solar-powered irrigation systems to reduce agricultural costs and dependency on fossil fuels. Farmers receive up to 90% subsidy for solar units under this initiative.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "general": {
+                "gte": 18,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "st": {
+                "gte": 18,
+                "lte": 60
+              },
+              "female": {
+                "gte": 18,
+                "lte": 60
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Farmers",
+              "Subsidy",
+              "Solar Units",
+              "Self-help Group"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "6lWfkZQBKcqa7QfWGm4e",
+          "fields": {
+            "beneficiaryState": [
+              "Gujarat"
+            ],
+            "schemeShortTitle": "AGSLITSNGR",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Business & Entrepreneurship"
+            ],
+            "schemeName": "Aatmanirbhar Gujarat Scheme for assistance to Large Industries and Thrust Sector: Net SGST Reimbursement",
+            "schemeCloseDate": null,
+            "slug": "agslitsngr",
+            "briefDescription": "The \"Aatmanirbhar Gujarat Scheme for assistance to Large Industries and Thrust Sector\"  aims to provide incentives to attract increased investments in the manufacturing sector to create more employment opportunities in Gujarat.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "general": {
+                "gte": 18,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "st": {
+                "gte": 18,
+                "lte": 60
+              },
+              "female": {
+                "gte": 18,
+                "lte": 60
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Business",
+              "Entrepreneurship",
+              "Large Industries",
+              "Thrust Sector",
+              "Net SGST Reimbursement"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "OhSgkZQBL4KEf1-WiRue",
+          "fields": {
+            "beneficiaryState": [
+              "Gujarat"
+            ],
+            "schemeShortTitle": "AGSLITSIS",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Business & Entrepreneurship"
+            ],
+            "schemeName": "Aatmanirbhar Gujarat Scheme for assistance to Large Industries and Thrust Sector: Assistance of Interest Subsidy",
+            "schemeCloseDate": null,
+            "slug": "agslitsis",
+            "briefDescription": "The \"Aatmanirbhar Gujarat Scheme for assistance to Large Industries and Thrust Sector\"  aims to provide incentives to attract increased investments in the manufacturing sector to create more employment opportunities in Gujarat.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "general": {
+                "gte": 18,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "st": {
+                "gte": 18,
+                "lte": 60
+              },
+              "female": {
+                "gte": 18,
+                "lte": 60
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Business",
+              "Entrepreneurship",
+              "Large Industries",
+              "Thrust Sector",
+              "Interest Subsidy"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "PRQck5QBL4KEf1-WYhug",
+          "fields": {
+            "beneficiaryState": [
+              "Jharkhand"
+            ],
+            "schemeShortTitle": "DOKOS",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Social welfare & Empowerment"
+            ],
+            "schemeName": "Distribution of Kerosene Oil Scheme",
+            "schemeCloseDate": null,
+            "slug": "dokos",
+            "briefDescription": "The \"Distribution of Kerosene Oil Scheme\" by the Department of Food, Public Distribution and Consumer Affairs, Government of Jharkhand, supports NFSA beneficiaries and others by providing 1 liter of kerosene oil at subsidized rates.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "general": {
+                "gte": 18,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "st": {
+                "gte": 18,
+                "lte": 60
+              },
+              "female": {
+                "gte": 18,
+                "lte": 60
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Kerosene Oil",
+              "Subsidized Rate",
+              "National Food Security Act"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "6VXTjJQBKcqa7QfWH24h",
+          "fields": {
+            "beneficiaryState": [
+              "West Bengal"
+            ],
+            "schemeShortTitle": "BAY",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Housing & Shelter"
+            ],
+            "schemeName": "Banglar Awaas Yojana (BAY)",
+            "schemeCloseDate": null,
+            "slug": "bay",
+            "briefDescription": "\"Banglar Awaas Yojana (BAY)\" provides financial assistance to houseless households and those living in kutcha or dilapidated houses, helping them build pucca houses with essential amenities. The scheme offers financial assistance with additional support for toilets and unskilled workdays.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 65
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 65
+              },
+              "general": {
+                "gte": 18,
+                "lte": 65
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 65
+              },
+              "st": {
+                "gte": 18,
+                "lte": 65
+              },
+              "female": {
+                "gte": 18,
+                "lte": 65
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 65
+              }
+            },
+            "tags": [
+              "Housing",
+              "Citizen Empowerment"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "hTIYk5QBISXYddfJ2JqJ",
+          "fields": {
+            "beneficiaryState": [
+              "Jharkhand"
+            ],
+            "schemeShortTitle": "FBDS",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Education & Learning"
+            ],
+            "schemeName": "Free Bicycle Distribution Scheme",
+            "schemeCloseDate": null,
+            "slug": "fbds",
+            "briefDescription": "The \"Free Bicycle Distribution Scheme\" by the Welfare Department, Government of Jharkhand, aims to provide financial aid for bicycle purchases to Scheduled Caste (SC) students studying in Class 8th. Each student receives \u20b93000 through DBT.",
+            "age": {
+              "sc": {
+                "gte": 12,
+                "lte": 14
+              }
+            },
+            "tags": [
+              "Financial Assistance",
+              "Bicycle",
+              "Student",
+              "Scheduled Caste"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "8VU-k5QBKcqa7QfWHm6l",
+          "fields": {
+            "beneficiaryState": [
+              "Arunachal Pradesh",
+              "Assam",
+              "Manipur",
+              "Nagaland",
+              "Tripura",
+              "Meghalaya",
+              "Mizoram",
+              "Sikkim"
+            ],
+            "schemeShortTitle": "A-GAINER",
+            "level": "Central",
+            "nodalMinistryName": "Ministry of Education",
+            "schemeCategory": [
+              "Education & Learning",
+              "Transport & Infrastructure"
+            ],
+            "schemeName": "AICTE - Grant For Augmenting Infrastructure In North Eastern Region",
+            "schemeCloseDate": null,
+            "slug": "a-gainer",
+            "briefDescription": "The scheme \"AICTE - Grant for Augmenting Infrastructure in North Eastern Region (GAINER)\" was introduced by AICTE to enhance the functional efficiency of the technical institutes located in far-flung areas of North East India, by addressing deficiencies in water, electricity, and internet.",
+            "age": {
+              "ews": {
+                "gte": 0,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 0,
+                "lte": 100
+              },
+              "general": {
+                "gte": 0,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 0,
+                "lte": 100
+              },
+              "st": {
+                "gte": 0,
+                "lte": 100
+              },
+              "female": {
+                "gte": 0,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 0,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Grant",
+              "Infrastructure"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "PhROk5QBL4KEf1-W7htt",
+          "fields": {
+            "beneficiaryState": [
+              "All"
+            ],
+            "schemeShortTitle": "NAOSPASA-BIRCARSADU",
+            "level": "Central",
+            "nodalMinistryName": "Ministry Of Social Justice and Empowerment",
+            "schemeCategory": [
+              "Social welfare & Empowerment"
+            ],
+            "schemeName": "National Awards For Outstanding Services In The Field Of Prevention Of Alcoholism And Substance (Drug) Abuse: Best Integrated Rehabilitation Centre For Addicts (IRCA) For Providing Rehabilitation Services To Alcoholics And Drug Users",
+            "schemeCloseDate": null,
+            "slug": "naospasa-bircarsadu",
+            "briefDescription": "The Scheme of \"National Awards for Outstanding Services in the field of Prevention of Alcoholism and Substance (Drug) Abuse\" by the MoSJE, GoI shall be applicable to Institutions and Individuals working in the field of Prevention of Alcoholism and Substance (Drug) Abuse.",
+            "age": {
+              "ews": {
+                "gte": 0,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 0,
+                "lte": 100
+              },
+              "general": {
+                "gte": 0,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 0,
+                "lte": 100
+              },
+              "st": {
+                "gte": 0,
+                "lte": 100
+              },
+              "female": {
+                "gte": 0,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 0,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Rehabilitation",
+              "Drug Abuse",
+              "Alcoholism",
+              "Award"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "VBTmyZQBL4KEf1-WBhvI",
+          "fields": {
+            "beneficiaryState": [
+              "Himachal Pradesh"
+            ],
+            "schemeShortTitle": "FAFMHPBOCWWB",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Social welfare & Empowerment"
+            ],
+            "schemeName": "Financial Assistance for Marriage (HPBOCWWB)",
+            "schemeCloseDate": null,
+            "slug": "fafmhpbocwwb",
+            "briefDescription": "The Financial Assistance for Marriage scheme under the Himachal Pradesh Building and Other Construction Workers Welfare Board provides \u20b951,000/- for the marriage of a registered unmarried beneficiary and \u20b951,000/- per child for the marriage of up to two children of a married beneficiary.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "general": {
+                "gte": 18,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "st": {
+                "gte": 18,
+                "lte": 60
+              },
+              "female": {
+                "gte": 18,
+                "lte": 60
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Construction Workers",
+              "Building Worker",
+              "Labour",
+              "Marriage",
+              "Financial Support"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "9VW4pZQBKcqa7QfWLW7D",
+          "fields": {
+            "beneficiaryState": [
+              "Madhya Pradesh"
+            ],
+            "schemeShortTitle": "SKAAETI",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Skills & Employment"
+            ],
+            "schemeName": "Strengthening Skills, Arts and Employment through ITIs",
+            "schemeCloseDate": null,
+            "slug": "skaaeti",
+            "briefDescription": "The \"Strengthening Skills, Arts, and Employment through ITIs\" initiative by the Department of De-notified, Nomadic, and Semi-Nomadic Welfare, Government of Madhya Pradesh, aims to connect these skills with modern technology, short-term, employment-oriented training has been provided through ITIs.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 70
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 70
+              },
+              "general": {
+                "gte": 18,
+                "lte": 70
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 70
+              },
+              "st": {
+                "gte": 18,
+                "lte": 70
+              },
+              "female": {
+                "gte": 18,
+                "lte": 70
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 70
+              }
+            },
+            "tags": [
+              "Student",
+              "Employment",
+              "Nomadic",
+              "Training",
+              "Skill",
+              "Arts"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "nTLAyZQBISXYddfJipoX",
+          "fields": {
+            "beneficiaryState": [
+              "Gujarat"
+            ],
+            "schemeShortTitle": "SACEICBSPV",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Business & Entrepreneurship"
+            ],
+            "schemeName": "Scheme of Assistance for Common Environment Infrastructure: Common Boiler\u00a0Project by SPV\u00a0Constituted by\u00a0Minimum 10\u00a0MSMEs",
+            "schemeCloseDate": null,
+            "slug": "saceicbspv",
+            "briefDescription": "The scheme \"Scheme of Assistance for Common Environment Infrastructure\" under the Gujarat Industrial Policy aims to provide incentives for environmental compliance to ensure long-term economic and ecological balance.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "general": {
+                "gte": 18,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "st": {
+                "gte": 18,
+                "lte": 60
+              },
+              "female": {
+                "gte": 18,
+                "lte": 60
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Entrepreneurship"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "izK5pZQBISXYddfJq5oY",
+          "fields": {
+            "beneficiaryState": [
+              "Madhya Pradesh"
+            ],
+            "schemeShortTitle": "EWASFSWODNC",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Social welfare & Empowerment"
+            ],
+            "schemeName": "Excellent Work Award Scheme for Social Worker of De-Notified Communities",
+            "schemeCloseDate": null,
+            "slug": "ewasfswodnc",
+            "briefDescription": "The \"Excellent Work Award Scheme for Social Workers of De-notified Communities\" by the Government of Madhya Pradesh awards \u20b91,00,000/- to a social worker from De-notified, Nomadic, and Semi-Nomadic communities for outstanding contributions to their social and economic upliftment.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "general": {
+                "gte": 18,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "st": {
+                "gte": 18,
+                "lte": 100
+              },
+              "female": {
+                "gte": 18,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Award",
+              "Social Worker",
+              "Financial Assistance",
+              "Denotified"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "oDLmyZQBISXYddfJcZp2",
+          "fields": {
+            "beneficiaryState": [
+              "Himachal Pradesh"
+            ],
+            "schemeShortTitle": "HFSHPBOCWWB",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Housing & Shelter"
+            ],
+            "schemeName": "Hostel Facility Scheme (HPBOCWWB)",
+            "schemeCloseDate": null,
+            "slug": "hfshpbocwwb",
+            "briefDescription": "The Hostel Facility Scheme, introduced by the HPBOCWWB , provides financial assistance ranging from \u20b915,000 to \u20b920,000 annually. This support covers accommodation, boarding, and food expenses for the children of registered worker while they reside in a hostel.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "general": {
+                "gte": 18,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "st": {
+                "gte": 18,
+                "lte": 60
+              },
+              "female": {
+                "gte": 18,
+                "lte": 60
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Construction Workers",
+              "Building Worker",
+              "Labour",
+              "Financial Assistance",
+              "Hostel"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "91W-pZQBKcqa7QfWEG6x",
+          "fields": {
+            "beneficiaryState": [
+              "Madhya Pradesh"
+            ],
+            "schemeShortTitle": "GIS",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Agriculture,Rural & Environment"
+            ],
+            "schemeName": "Gopal Incentive Scheme",
+            "schemeCloseDate": null,
+            "slug": "gis",
+            "briefDescription": "The \"Gopal Incentive Scheme\" by the Animal Husbandry Department, Government of Madhya Pradesh, promotes the rearing of Indian high-breed cattle and boosts milk production, benefiting animal breeders and livestock farmers with access to Indian advanced breed cows.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "general": {
+                "gte": 18,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "st": {
+                "gte": 18,
+                "lte": 100
+              },
+              "female": {
+                "gte": 18,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Cows",
+              "Animal",
+              "Awards",
+              "Farmers"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "EFWd2ZQBKcqa7QfWjG-S",
+          "fields": {
+            "beneficiaryState": [
+              "All"
+            ],
+            "schemeShortTitle": "PRE-SC",
+            "level": "Central",
+            "nodalMinistryName": "Ministry Of Social Justice and Empowerment",
+            "schemeCategory": [
+              "Education & Learning",
+              "Social welfare & Empowerment"
+            ],
+            "schemeName": "Centrally-Sponsored Scheme Of Pre-Matric Scholarship For Scheduled Caste Students Studying In Classes 9th & 10th",
+            "schemeCloseDate": null,
+            "slug": "pre-sc",
+            "briefDescription": "A scholarship scheme by Ministry of Social Justice & Empowerment for regular, full-time students from Scheduled Castes studying in Class 9th and 10th in a Govt. School / a School recognized by Govt. / CBSE / State Board of Secondary Education.",
+            "age": {
+              "ews": {
+                "gte": 10,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 10,
+                "lte": 100
+              },
+              "general": {
+                "gte": 10,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 10,
+                "lte": 100
+              },
+              "st": {
+                "gte": 10,
+                "lte": 100
+              },
+              "female": {
+                "gte": 10,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 10,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Pre Matric",
+              "Scholarship",
+              "Scheduled Caste",
+              "Student",
+              "Social Welfare",
+              "Person With Disability"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "uOgR7pQBmj2DbQGr6nAK",
+          "fields": {
+            "beneficiaryState": [
+              "Gujarat"
+            ],
+            "schemeShortTitle": "SACEIASRE",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Business & Entrepreneurship",
+              "Agriculture,Rural & Environment"
+            ],
+            "schemeName": "Scheme of Assistance for Common Environment Infrastructure: Scheme of Assistance for Strengthening the Regulation and Environmental Compliance",
+            "schemeCloseDate": null,
+            "slug": "saceiasre",
+            "briefDescription": "The scheme \"Scheme of Assistance for Common Environment Infrastructure\" under the Gujarat Industrial Policy aims to provide incentives for environmental compliance to ensure long-term economic and ecological balance.\n\n",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "general": {
+                "gte": 18,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "st": {
+                "gte": 18,
+                "lte": 60
+              },
+              "female": {
+                "gte": 18,
+                "lte": 60
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Entrepreneurship",
+              "Environment Infrastructure",
+              "Environmental Compliance"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "WhTE2ZQBL4KEf1-WIBuF",
+          "fields": {
+            "beneficiaryState": [
+              "Madhya Pradesh"
+            ],
+            "schemeShortTitle": "KBY-MP",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Women and Child",
+              "Skills & Employment",
+              "Health & Wellness"
+            ],
+            "schemeName": "Kishori Balika Yojana (Madhya Pradesh)",
+            "schemeCloseDate": null,
+            "slug": "sfagmp",
+            "briefDescription": "The scheme \"Kishori Balika Yojana\" by the Department of Women and Child Development, Government of Madhya Pradesh aims to provide vocational, health, and hygiene training to adolescent girls. Through this scheme, training and material assistance are provided to the girls.",
+            "age": {
+              "ews": {
+                "gte": 11,
+                "lte": 18
+              },
+              "sc": {
+                "gte": 11,
+                "lte": 18
+              },
+              "general": {
+                "gte": 11,
+                "lte": 18
+              },
+              "obc": {
+                "gte": 11,
+                "lte": 18
+              },
+              "st": {
+                "gte": 11,
+                "lte": 18
+              },
+              "female": {
+                "gte": 11,
+                "lte": 18
+              },
+              "widowed": {
+                "gte": 11,
+                "lte": 18
+              }
+            },
+            "tags": [
+              "Girl",
+              "Anganwadi",
+              "Development",
+              "Training",
+              "Workshop",
+              "Skill",
+              "Health",
+              "Vocational",
+              "Education"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "VhS2y5QBL4KEf1-WKBtK",
+          "fields": {
+            "beneficiaryState": [
+              "Andhra Pradesh"
+            ],
+            "schemeShortTitle": "IDP-ANDHRA",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Social welfare & Empowerment"
+            ],
+            "schemeName": "INDIRAMMA Disabled Pension (Rural)",
+            "schemeCloseDate": null,
+            "slug": "idp-andhra",
+            "briefDescription": "\"INDIRAMMA Disabled Pension (Rural)\" scheme aims to disburse monthly pensions to the individuals 18 years or above in age and having a disability of 40% or above. To be eligible, they should be from a BPL family, be a resident of the district, and not be covered under any other Pension Scheme.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "general": {
+                "gte": 18,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "st": {
+                "gte": 18,
+                "lte": 100
+              },
+              "female": {
+                "gte": 18,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Disability",
+              "Pension",
+              "Below Poverty Line",
+              "BPL",
+              "Rural",
+              "Village"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "ZLoW7pQBcPc1V3UoV_5O",
+          "fields": {
+            "beneficiaryState": [
+              "Gujarat"
+            ],
+            "schemeShortTitle": "SETCTFES",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Skills & Employment"
+            ],
+            "schemeName": "Scheme for Enhancement of\u00a0Technical Competence and\u00a0Manpower: Scheme of Financial Assistance for Tuition Fees for Enhancement of Skill",
+            "schemeCloseDate": null,
+            "slug": "setctfes",
+            "briefDescription": "The \"Scheme for Enhancement of Technical Competence and Manpower\" under the Gujarat Industrial Policy aims to bridge the industry\u2019s skill gap, boost employment, and align workforce training with evolving technology and business needs.\n\n",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "general": {
+                "gte": 18,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "st": {
+                "gte": 18,
+                "lte": 60
+              },
+              "female": {
+                "gte": 18,
+                "lte": 60
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Technical Competence",
+              "Manpower Solution",
+              "Industries",
+              "Skill Development"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "WBQd1ZQBL4KEf1-WXhuB",
+          "fields": {
+            "beneficiaryState": [
+              "Andhra Pradesh"
+            ],
+            "schemeShortTitle": "IWP-URBAN",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Social welfare & Empowerment",
+              "Women and Child"
+            ],
+            "schemeName": "INDIRAMMA Widow Pension (Urban)",
+            "schemeCloseDate": null,
+            "slug": "iwp-urban",
+            "briefDescription": "\"INDIRAMMA Widow Pension (Urban)\" scheme aims to provide monthly pensions to widows irrespective of their age. To be eligible, they should be from a BPL family, be a resident of a district of Andhra Pradesh, and not be covered under any other Pension Scheme.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "general": {
+                "gte": 18,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "st": {
+                "gte": 18,
+                "lte": 100
+              },
+              "female": {
+                "gte": 18,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Widow",
+              "Woman",
+              "Urban",
+              "Below Poverty Line",
+              "BPL",
+              "Pension"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "MECU75QBnv3TTa_s03cl",
+          "fields": {
+            "beneficiaryState": [
+              "Chhattisgarh"
+            ],
+            "schemeShortTitle": "DWIS",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Social welfare & Empowerment"
+            ],
+            "schemeName": "Disabled Marriage Incentive Scheme",
+            "schemeCloseDate": null,
+            "slug": "dwis",
+            "briefDescription": "The objective of the scheme is to provide financial assistance for marriage with a view to social rehabilitation of persons with disabilities who do not fall under the category of income tax payers.",
+            "age": {
+              "female": {
+                "gte": 18,
+                "lte": 45
+              },
+              "male": {
+                "gte": 21,
+                "lte": 45
+              }
+            },
+            "tags": [
+              "Financial Assistance",
+              "Marriage",
+              "Disability",
+              "Spouse",
+              "Incentive"
+            ]
+          },
+          "highlight": {}
+        }
+      ],
+      "page": {
+        "total": 3728,
+        "totalPages": 38,
+        "pageNumber": 27,
+        "from": 2700,
+        "size": 100
+      }
+    },
+    "sortedBy": "multiple_sort"
+  }
+}

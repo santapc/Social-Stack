@@ -1,0 +1,54 @@
+{
+  "scheme_id": "66f53e27e7ac90a290103648",
+  "slug": "vtd",
+  "scheme_name": "Vocational Training to the Dependents",
+  "scheme_short_title": "VTD",
+  "state": "Andhra Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Labour Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Skills & Employment"
+  ],
+  "sub_categories": [
+    "Voctional education",
+    "Training and Skill Up-gradation"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Vocational Training",
+    "Construction Worker",
+    "Dependents"
+  ],
+  "brief_description": "The \"Vocational Training to the Dependents\" provides a residential skill training program for 15,000 dependents of registered construction workers. The program focuses on enhancing the employability of dependents through training in various trades.",
+  "detailed_description": "The &quot;Vocational Training to the Dependents&quot; was launched by the A.P. Building &amp; Other Construction Workers Welfare Board provides a residential skill training program for 15,000 dependents of registered construction workers and covers the training cost, boarding, and lodging, with no financial burden on the government. The program focuses on enhancing the employability of dependents through training in various trades. The training is conducted by APMES Society under the Employment &amp; Training Department and includes placement-linked support.",
+  "benefits": [
+    "Cost of training to each trainee \u20b915,000/-. Free boarding and lodging for trainees. Placement-linked training, ensuring better job prospects."
+  ],
+  "eligibility_criteria": "The applicant should be a dependent (spouse or adolescent child) of a registered construction worker. The worker should be registered with the A.P. Building & Other Construction Workers Welfare Board.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step-1: The interested applicant should visit (during office hours) the A.P. Building & Other Construction Workers Welfare Board and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step-2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3: Submit the duly filled and signed application form along with the documents to the Assistant Labour Officer/Assistant Commissioner of Labour.",
+        "Step-4: Request a receipt or acknowledgement from the Assistant Labour Officer/Assistant Commissioner of Labour to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://apbocwwb.ap.nic.in/APBOCWW3/2016LETF_MS14.PDF"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://apbocwwb.ap.nic.in/apbocwwbhome.jsp"
+    }
+  ],
+  "documents_required": "Aadhaar Card of the Applicant & Worker. Registration Certificate with the Welfare Board. Bank Account Details.\nAny Other Documents if required."
+}

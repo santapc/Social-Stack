@@ -1,0 +1,56 @@
+{
+  "scheme_id": "67d78a5f622d293942a384f3",
+  "slug": "isecvcani",
+  "scheme_name": "Incentive Scheme For The Electricity Consumers Under Various Categories In Andaman & Nicobar Islands",
+  "scheme_short_title": "ISECVCANI",
+  "state": "Andaman and Nicobar Islands",
+  "level": "State/ UT",
+  "nodal_department": "Electricity Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Utility & Sanitation",
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Electricity",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Electricity",
+    "Consumer",
+    "Incentive",
+    "Energy"
+  ],
+  "brief_description": "\"Incentive Scheme For The Electricity Consumers Under Various Categories In Andaman & Nicobar Islands\" aims to reduce power consumption through demand side management and promote green energy adoption. The scheme offers monetary incentives to consumers who achieve at least 30% energy savings.",
+  "detailed_description": "Launched in 2018, the scheme &quot;Incentive Scheme For The Electricity Consumers Under Various Categories In Andaman &amp; Nicobar Islands&quot; by the Electricity Department, Andaman &amp; Nicobar Administration aims to encourage energy conservation among electricity consumers and promote adoption of green energy initiatives. The scheme offers monetary incentives ranging from \u20b915,000/- to \u20b975,000/- to consumers who achieve significant energy savings. Eligible participants include domestic, commercial, and industrial consumers with properly functioning meters and up-to-date bill payments. The scheme is implemented by the Electricity Department of Andaman &amp; Nicobar Islands through an evaluation committee headed by the Commissioner-cum-Secretary (Power).",
+  "benefits": [
+    "Prize Money for Domestic Consumers (Green Energy & Energy Conservation)",
+    "First Prize: \u20b975,000/-; Second Prize: \u20b950,000/-; Third Prize: \u20b930,000/-",
+    "Prize Money for Domestic Consumers (Energy Conservation)",
+    "First Prize: \u20b950,000/-; Second Prize: \u20b930,000/-; Third Prize: \u20b915,000/-",
+    "Prize Money for Commercial Consumers",
+    "First Prize: \u20b975,000/-; Second Prize: \u20b950,000/-; Third Prize: \u20b930,000/-",
+    "Prize Money for Industrial Consumers",
+    "First Prize: \u20b975,000/-; Second Prize: \u20b950,000/-; Third Prize: \u20b930,000/-"
+  ],
+  "eligibility_criteria": "The consumers those have installed Solar Water Heating System, Rooftop Solar & Ground Mounted Solar for their domestic requirements will be considered under Green Energy. The consumers whose energy meters are in running condition. The calculation of saving done by the consumer shall be on the basis of past three months average consumption. The consumers having electricity bill paid up to date will only be considered. Ownership of the meter should be in the name of the beneficiary who should be present at the time of evaluation, if called by the department. Only those consumers will be eligible whose minimum energy savings are more than 30%. The highest savings done by the consumers would be eligible for the prizes. In case the percentage saving is equal for more than one consumer, say Mr. A & Mr. B both are with 40% saving, then the winner will be selected by drawing of lots.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "The \"Incentive Scheme For The Electricity Consumers Under Various Categories In Andaman & Nicobar Islands\" does not require any formal application process. Eligible consumers with functioning meters and paid-up bills will be automatically considered for incentives based on their energy savings as evaluated by the department's committees."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://vidyut.andaman.gov.in/doc/24-01-2024_38DIS.pdf"
+    }
+  ],
+  "exclusions": "Consumers With Stop/tampered Meter. Consumers Billed on Average Basis. Consumers Having Outstanding Dues. Consumers Under Disconnection During the Month of Evaluation. Consumers Physically Not Present in Their Residence. Consumers With Disputed Ownership of the Electric Connection.",
+  "documents_required": "Proof of Identity of the Consumer Proof of Ownership of the Electric Connection Up-to-date Electricity Bill Payment Receipts Documentation of Solar Water Heating System, Rooftop Solar & Ground Mounted Solar Installations (for Green Energy Category) Electricity Consumption Records for the Past Three Months"
+}

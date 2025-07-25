@@ -1,0 +1,49 @@
+{
+  "scheme_id": "65e59907da55878ebe1087c6",
+  "slug": "mry",
+  "scheme_name": "Mukhyamantri Rajshri Yojana",
+  "scheme_short_title": "MRY",
+  "state": "Rajasthan",
+  "level": "State/ UT",
+  "nodal_department": "Women and Child Development Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Women and Child"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Women",
+    "Children",
+    "Development",
+    "Financial"
+  ],
+  "brief_description": "The Mukhyamantri Rajshri Yojana is a program launched by the Rajasthan government in June 2016. It aims to improve the overall development of girls in the state by providing financial assistance for their health and education.",
+  "detailed_description": "Mukhyamantri Rajshri Yojana has been started on June 01, 2016 by the Rajasthan Government to develop positive thinking towards girls to improve their health and educational level and to make them self-reliant. The benefit of this scheme will be given to all those girls of the state who were born after June 1, 2016. This scheme have the following objective 1. Promote the education of girls. 1. Improve the health and social status of girls. 1. Encourage a positive mindset towards girls in society. 1. Address gender bias.",
+  "benefits": [
+    "Financial Benefits are",
+    "Time to provide benefits | Amount of profit\nAt the time of birth | \u20b92,500/-\n1 year after vaccination | \u20b92,500/-\nOn admission to first class | \u20b94,000/-\nOn taking admission in sixth class | \u20b95,000/-\nOn taking admission in the tenth class | \u20b911,000/-\nOn taking admission in class 12th | \u20b925,000/-"
+  ],
+  "eligibility_criteria": "The girl child must be a resident of Rajasthan. She must be born on or after June 1, 2016. The girl child must be born in a government or private medical institution registered with Janani Suraksha Yojana (JSY). Only two girl child will be eligible. Girl's parents must have an Aadhar Card and a Bhamashah Card.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Anganwadi workers, Saathins, and Asha Sahyoginis should obtain the Bhamashah card and linked bank account details from pregnant women during their ANC or MCBN checkups and provide them to the nearest government hospital. The beneficiary's details should be entered in the RCH register by the concerned ANM. Ensure 100% online entry in the PCTS software before delivery. During home visits, every Anganwadi worker and Asha Sahyogini should obtain Bhamashah card details from women. Additionally, on MCHN Days (vaccination days) at health centers and Anganwadi centers, motivate pregnant women who haven't obtained a Bhamashah card yet to do so. Beneficiary women who are not enrolled in Bhamashah should be motivated by all ANMs, Anganwadi workers, Saathins, and Asha Sahyoginis to obtain a Bhamashah card from their nearest e-Mitra center and provide the details to the nearest Anganwadi center or government hospital. Intensive publicity regarding the above should be conducted through field workers and honorary workers of the Women and Child Development Department and the Medical, Health, and Family Welfare Department."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/W_CD/MRY/DOC_261_956c47af-f8b6-4c8f-aa22-c1d1d20c1d03.pdf"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://schemes.rajasthan.gov.in/scheme/detail/261"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Bhamashah/Aadhaar card of parents. Aadhaar card of the beneficiary girl. Birth certificate of girl child. School admission certificate. Mobile number. 12th class mark sheet (If applicable). Passport size photograph etc."
+}

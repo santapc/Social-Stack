@@ -1,0 +1,66 @@
+{
+  "scheme_id": "682c566c6e3fd3b163f404a7",
+  "slug": "pduaydcw",
+  "scheme_name": "Pandit Dindayal Upadhyay Awas Yojana-Developing Caste Welfare",
+  "scheme_short_title": "PDUAYDCW",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Empowerment Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Housing & Shelter"
+  ],
+  "sub_categories": [
+    "Housing"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Housing",
+    "Socially And Educationally Backward Class",
+    "Economically Backward Class",
+    "Nomadic Exempted Caste"
+  ],
+  "brief_description": "The \"Pandit Dindayal Upadhyay Awas Yojana-Developing Caste Welfare\" provides financial assistance of up to \u20b91,20,000/- to socially and educationally backward classes, economically backward classes, and nomadic exempted castes for constructing houses across Gujarat.",
+  "detailed_description": "The &amp;quot;Pandit Dindayal Upadhyay Awas Yojana-Developing Caste Welfare&amp;quot; is a welfare scheme by the Social Justice and Empowerment Department of Gujarat. The scheme aims to provide financial aid of up to \u20b91,20,000/- to eligible beneficiaries from the socially and educationally backward classes (SEBC), economically backward classes (EBC), and nomadic exempted castes (NEC) for constructing new houses. The scheme prioritizes Below Poverty Line (BPL) households, most backward classes, and nomadic communities.",
+  "benefits": [
+    "Financial Assistance: Up to \u20b91,20,000/- for house construction."
+  ],
+  "eligibility_criteria": "The applicant must belong to the Socially and Educationally Backward Class (SEBC)/ Economically Backward Class (EBC) or Nomadic Exempted Caste. The applicant must be a permanent resident of Gujarat. The applicant must have a total annual family income not exceeding \u20b96,00,000/-. The applicant must have legal ownership of land or a valid allotment order for the construction of a house.\n\n",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process:",
+        "Step 1: Go to the   eSamajKalyan portal and navigate to the \"Pandit Dindayal Upadhyay Awas Yojana-Developing Caste Welfare\" section under the menu option.",
+        "Step 2: Click on Apply Now.",
+        "Step 3: Click on \"New User? Please Register Here\".",
+        "Step 4: Enter the required details and click Register.",
+        "Application Process:",
+        "Step 1: Enter your User ID, Password, and Captcha Code, then click \"Login\".",
+        "Step 2: Read the scheme details carefully and click OK.",
+        "Step 3: If your permanent address is correct, confirm it. Otherwise, enter your correct address.",
+        "Step 4: Click Save & Next to proceed. Upload the relevant documents.",
+        "Step 5: If you need to make changes, click \"No, Cancel\". If all details are correct, click \"Yes, Submit\".",
+        "Step 6: Click Save Application. Note down your Application Number for future reference. You can also take a printout by clicking Print Application.",
+        "Check Application Status:  Click here ."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Scheme No. 407)",
+      "url": "https://mariyojana.gujarat.gov.in/MoreDetails.aspx"
+    },
+    {
+      "title": "Guidelines 2",
+      "url": "https://mariyojana.gujarat.gov.in/MoreDetails.aspx"
+    },
+    {
+      "title": "User Manual",
+      "url": "https://esamajkalyan.gujarat.gov.in/HelpManual/Citizen-HelpManual.pdf"
+    }
+  ],
+  "documents_required": "Aadhaar Card. Bank Passbook/Cancelled Cheque. Caste Certificate. Income Certificate. Land Ownership Aadhaar. Land Ownership Acknowledgment Form. Title Deed/Sanad Deed (as applicable). Map of land signed by Talati-cum-Mantri. Allotment order of land/house (if received under a poverty scheme). Permission letter for building construction. Certificate from the Circle Inspector for housing assistance. Certificate from City or Gram Panchayat Talati-cum-Mantri."
+}

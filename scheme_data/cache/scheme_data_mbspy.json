@@ -1,0 +1,59 @@
+{
+  "scheme_id": "6752da6f4d7e442115f22cd2",
+  "slug": "mbspy",
+  "scheme_name": "Mukhyamantri Balika (Snatak) Protsahan Yojana",
+  "scheme_short_title": "MBSPY",
+  "state": "Bihar",
+  "level": "State/ UT",
+  "nodal_department": "Education Department",
+  "dbt_scheme": true,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Education",
+    "Women Empowerment",
+    "Scholarship",
+    "Graduation"
+  ],
+  "brief_description": "The scheme aims to encourage higher education among girls in Bihar by providing a one-time incentive of \u20b925,000/- to eligible graduate students of the state.",
+  "detailed_description": "The \"Mukhyamantri Balika (Snatak) Protsahan Yojana\", is a component of the \"Mukhyamantri Kanya Utthan Yojna\", launched by the Department of Education, Bihar. The scheme aims to promote higher education and empower girls by making them self-reliant. A lump sum incentive of \u20b925,000/- is awarded to girl students from Bihar who have successfully graduated from recognized institutions within the state. The amount is directly transferred to the beneficiary&amp;#39;s bank account.",
+  "benefits": [
+    "Financial Incentive: \u20b925,000/- as a one-time allowance."
+  ],
+  "eligibility_criteria": "The applicant must be a resident of Bihar. The applicant must have graduated or obtained an equivalent degree (including Alim or Shastri) after April 25, 2018, from a government-recognized or affiliated institution within Bihar. The scheme applies to graduates from general, technical, or professional courses. The applicant must have an account in any nationalized bank, recognized private bank or India Postal Payment Bank located in Bihar.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process:",
+        "Step 1: Visit the Registration page .",
+        "Step 2: Enter all the mandatory details and create a new password. Validate the Captcha code.",
+        "Step 3: Click on \"Submit\" to generate the login ID and Password.",
+        "Application Process:",
+        "Step 1: Visit the Login page .",
+        "Step 2: Enter all the mandatory details and upload all the required documents.",
+        "Step 3: Recheck all entries before final submission, no modifications can be made in the application after final submission.",
+        "Step 4: Click on \"Submit\" and take a printout of a copy of the submitted application.",
+        "Check application Details: Click Here. ",
+        "Payment Done Information:  Click Here. ",
+        "Helpdesk:",
+        "For technical problems: Click Here .",
+        "Note: If the name of the concerned college is not in the list, the applicant should contact the Registrar of their University and request to add its name."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://medhasoft.bih.nic.in/SnatakStudent/(S(dym3bdrzp51hjvjkft4hpem5))/pdf/Advt.pdf"
+    }
+  ],
+  "documents_required": "Photo of Student [Photo size should be less than 50 KB. (Prescribed size: 200 x 230 px)]. Signature of Student [Signature size should be less than 20 KB. (Prescribed size: 140 x 60 px)]. Aadhaar Card of Student [Upload only Black & White Scan PDF file of the document and the size of the file should be 500 kb or less]. Permanent Residential Certificate of Bihar [Upload only Black & White Scan PDF file of the document and the size of the file should be 500 kb or less]. First Page of Bank Pass Book [Upload only Black & White Scanned PDF file of the document and the size of the file should be 500 kb or less]. Graduation Certificate/Passing Marksheet [ Upload only Black & White Scan PDF file of the document and file size should be 500 kb or less]."
+}

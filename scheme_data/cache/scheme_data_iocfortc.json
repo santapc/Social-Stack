@@ -1,0 +1,55 @@
+{
+  "scheme_id": "66055b7bc90f6c8098795a3d",
+  "slug": "iocfortc",
+  "scheme_name": "Concession in Railway Travel",
+  "scheme_short_title": "CRT",
+  "state": "Tamil Nadu",
+  "level": "State/ UT",
+  "nodal_department": "Art and Culture Department",
+  "implementing_agency": "Tamil Nadu Eyal Isai Nataka Mandram",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Sports & Culture",
+    "Transport & Infrastructure"
+  ],
+  "sub_categories": [
+    "Financial assistance",
+    "Culture",
+    "Public transport and private vehicles"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Artist",
+    "Travel",
+    "Railway",
+    "Culture"
+  ],
+  "brief_description": "The scheme \"Concession in Railway Travel\" was launched by the Dept. of Art & Culture, Tamil Nadu. Under the scheme, individual artists and troupes are allowed to travel in the train on concession by the Railways. A concession certificate will be issued by Mandram.",
+  "detailed_description": "The scheme &quot;Concession in Railway Travel&quot; was launched by the Department of Art and Culture, Tamil Nadu. Under the scheme, individual artists and troupes consisting of more than three artists are allowed to travel in the train on concession by the Railways. A concession certificate will be issued by the Mandram.",
+  "benefits": [
+    "75% concession in Second Class Fare. 50% concession in First Class Fare."
+  ],
+  "eligibility_criteria": "The applicant should be an individual artist or a troupe consisting of more than three artists. The applicant should undertake the journey by train. The purpose of the journey should be to deliver a cultural performance (public programme) in the outstation. The distance between the place from which the cultural troupe is to start and the place of performance should be beyond 300 km as fixed by the Indian Railways.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "The advertisement is published in the newspapers, calling for applications by the Tamil Nadu Eyal Isai Nataka Mandram.",
+        "Step 1: The interested applicant should visit (during office hours) the office Mandram and request a hard copy of the prescribed format of the application form from the concerned staff.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents to the Tamil Nadu Eyal Isai Nataka  Mandram.",
+        "Step 4: Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.tn.gov.in/rti/proactive/inftour/handbook_artculture.pdf"
+    }
+  ],
+  "documents_required": "Bio-Data of the Artist. Proof of Identity. Train Ticket. Confirmation letter obtained from the programme organizer or advertisement details. Any other document, required by the Department."
+}

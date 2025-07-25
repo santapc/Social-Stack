@@ -1,0 +1,52 @@
+{
+  "scheme_id": "67938de75a78cba8a74e3423",
+  "slug": "shspt",
+  "scheme_name": "Special Health Scheme for Primitive Tribes",
+  "scheme_short_title": "SHSPT",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Department of Scheduled Tribe, Scheduled Caste, Minority and Backward Class Welfare",
+  "implementing_agency": "Tribal Welfare Commissioner, Ranchi",
+  "dbt_scheme": false,
+  "categories": [
+    "Health & Wellness"
+  ],
+  "sub_categories": [
+    "Health care providers and access",
+    "Health promotion",
+    "Emergency medical assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Medical",
+    "Financial Assistance",
+    "Primitive Tribal",
+    "Healthcare"
+  ],
+  "brief_description": "The \"Special Health Scheme for Primitive Tribes\" scheme by the Welfare Department, Government of Jharkhand, aims to improve healthcare services for primitive tribal communities. Financial assistance of \u20b938,41,632 is provided for targeted healthcare benefits.",
+  "detailed_description": "The &quot;Special Health Scheme for Primitive Tribes&quot; scheme by the Welfare Department, Government of Jharkhand, aims to improve healthcare access and outcomes for primitive tribal communities. Through this scheme, financial assistance of \u20b938,41,632 is allocated for health-related services and programs to ensure better medical support and infrastructure for the targeted groups.",
+  "benefits": [
+    "Focused healthcare services for primitive tribal communities. Distribution of funds to districts such as Dumka, Sahebganj, Pakur, and Godda. Utilization for better medical facilities, treatments, and preventive care programs. Priority to regions with high tribal populations and pressing health needs."
+  ],
+  "eligibility_criteria": "The applicant should belong to a primitive tribal community. The applicant should reside in districts covered under the scheme, including Dumka, Sahebganj, Pakur, and Godda.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 01: Visit the district welfare office in your region and obtain the application form for the Special Health Scheme for Primitive Tribes.",
+        "Step 02: Fill in the required details, including personal, income, and community information.",
+        "Step 03: Attach the necessary documents.",
+        "Step 04: Submit the completed form to the welfare officer and keep the acknowledgment receipt for future reference."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.jharkhand.gov.in/PDepartment/ViewDoc?id=D030DO004SD001115012019054624647"
+    }
+  ],
+  "documents_required": "Proof of Identity (Aadhaar Card/Voter ID/Driving License) Proof of Residence (Ration Card/Utility Bill) Community Certificate Medical Reports Any Other Document If Required"
+}

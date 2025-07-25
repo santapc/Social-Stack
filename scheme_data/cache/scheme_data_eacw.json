@@ -1,0 +1,87 @@
+{
+  "scheme_id": "65ae597066a1d73a218215b3",
+  "slug": "eacw",
+  "scheme_name": "Educational Allowances to the Children of Widows",
+  "scheme_short_title": "EACW",
+  "state": "Puducherry",
+  "level": "State/ UT",
+  "nodal_department": "Women and Child Development Department, Puducherry",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Financial assistance",
+    "Assistance to Widows",
+    "Financial Assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Widow",
+    "Allowance",
+    "Student",
+    "Education",
+    "Financial Assistance"
+  ],
+  "brief_description": "\"Educational Allowances to the Children of Widows\" by the Dept of Women & Child Development, Govt of Pondicherry, was introduced to provide financial assistance (\u20b925 to \u20b9125) for the education of poor widows' children up to higher secondary or equivalent.",
+  "detailed_description": "Launched in 2010, the scheme \"Educational Allowances to the Children of Widows\" by the Department of Women &amp; Child Development, Government of Pondicherry, was introduced to provide financial assistance for the education of poor widows&#39; children up to higher secondary or equivalent. Through this scheme, an annual amount ranging from \u20b925 to \u20b9125 is given based on the student&#39;s standard.",
+  "benefits": [
+    "Financial assistance ranging from \u20b925 to \u20b9125 for the purchase of textbooks, notebooks, etc."
+  ],
+  "eligibility_criteria": "The applicant should be a citizen of India. The applicant should be a native of the Union Territory of Pondicherry by birth or continuous residence for not less than 3 years. The applicant should be a widow. The annual income of the applicant should not exceed \u20b924,000. The child of the applicant should be a Student. The child of the applicant should have obtained not less than 50% marks in every class.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the Office/ Sub-Office of the Department of Women and Child Development, and request the hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "OR",
+        "The interested applicant should take print of the prescribed format of the application form.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents to the Deputy Director (Women Development) or the Child Development Project Officer (depending on the location), at least 30 days before the proposed marriage date.",
+        "Step 4: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Visit the Official Website of the e-District Portal of the Government of Puducherry.",
+        "Step 2: At the top right corner of the home page, click \" Login \". In the login screen, click \" Register a New Membership \".",
+        "Step 3: On the Registration Page, fill in all the mandatory fields: Username, Password, Confirm Password, Personal Details (Full Name, First Name, Email Address, Address, Current Address, Gender, Date of Birth, Mobile Number). Agree to the declaration. Fill in the Captcha Code, and click \"Signup\".",
+        "Step 4: Visit the Official Website of the e-District Portal of the Government of Puducherry.",
+        "Step 5: At the top right corner of the home page, click \" Login \". In the login screen, provide your Username and Password, fill in the Captcha Code, and click \"Sign In\".",
+        "Step 6: On the next screen, a list of schemes by the Government of Puducherry will be displayed Department-wise.",
+        "Step 7: Click on the scheme you wish to apply for. You will be taken to its online application form.",
+        "Step 8: In the application form, fill in all the mandatory fields (marked with a red asterisk) and upload all the mandatory documents (self-attest if required).",
+        "Step 9: Tick the declaration stating \"I hereby declare that the above-mentioned details are true and correct as per the best of my Knowledge\". Submit the application and note the application number for tracking your application . The application number will also be received on your Registered Mobile Number / Registered Email ID.",
+        "*Track Your Application  here ",
+        "* Access the User Manual for Online Application  here "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://py.gov.in/sites/default/files/womenrtimanual.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://wcd.py.gov.in/contact-us"
+    },
+    {
+      "title": "Office Locations",
+      "url": "https://wcd.py.gov.in/office-locations"
+    },
+    {
+      "title": "Grievance Redressal",
+      "url": "https://wcd.py.gov.in/ta/central-public-grievance-redress-and-monitoring-system"
+    },
+    {
+      "title": "Track Your Application",
+      "url": "https://edistrict.py.gov.in/User/TrackApplication.aspx"
+    }
+  ],
+  "documents_required": "1. Aadhaar Card.\n2. Residence Certificate from the Revenue Department.\n3. Income Certificate from the Revenue Department.\n4. Passport-sized Photograph.\n5. Declaration/Undertaking (if any).\n6. Study Certificate from the School.\nIn the absence of an Aadhaar Card; the applicant is required to provide his/her Aadhaar Enrolment ID along with ANY ONE of the following documents -\n1. Bank or Post Office Passbook with Photo.\n2. Permanent Account Number (PAN) Card.\n3. Passport.\n4. Ration Card.\n5. Voter Identity Card.\n6. MGNREGA Card.\n7. Kisan Photo Passbook.\n8. Driving license issued by the Licensing Authority under the Motor Vehicles Act, 1988 (59 of 1988).\n9. Certificate of identity having a photo of such person issued by a Gazetted Officer or a Tehsildar on an official letterhead.\n10. Any other document as specified by the Department."
+}

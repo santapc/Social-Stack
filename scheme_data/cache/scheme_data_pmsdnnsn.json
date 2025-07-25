@@ -1,0 +1,64 @@
+{
+  "scheme_id": "6787e0946fc4765b7e167169",
+  "slug": "pmsdnnsn",
+  "scheme_name": "Post Metric Scholarship (Denotified, Nomadic and Semi-Nomadic)",
+  "scheme_short_title": "PMSDNNSN",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Department of De-notified, Nomadic and Semi-nomadic Welfare Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Education",
+    "Denotified",
+    "Nomadic",
+    "Student",
+    "School",
+    "College"
+  ],
+  "brief_description": "The \"Post-Metric Scholarship\" scheme, implemented by the Department of Denotified, Nomadic, and Semi-Nomadic Welfare, Government of Madhya Pradesh, provides financial assistance to students from class 11 to college level, including medical, engineering, science other courses.",
+  "detailed_description": "The &quot;Post-Metric Scholarship&quot; scheme, implemented by the Department of Denotified, Nomadic, and Semi-Nomadic Welfare, Government of Madhya Pradesh, provides financial assistance to students from class 11th to college level, including medical, engineering, science, ayurveda, unani, homeopathy, agriculture, commerce, and other courses. For classes 11th and 12th, the maximum fee reimbursement is \u20b9210/- and \u20b91,110/-, respectively, which includes \u20b9210/- (Department of Education) and \u20b9900/- (Board of Secondary Education Examination Fee). Faculty-wise full or half fee reimbursement is determined by the sanctioning authority as per eligibility within the prescribed maximum limits.",
+  "benefits": [
+    "Fee Reimbursement for Class 11th: Upto \u20b9210/-. Fee Reimbursement for Class 12th: Upto \u20b91,110/-.",
+    "*The sanctioning authority: determines the full/half fee reimbursement faculty-wise, based on eligibility within the maximum limit."
+  ],
+  "eligibility_criteria": "The applicant should be from a Denotified, Nomadic, or Semi-Nomadic Community. The applicant should be from a family with an annual income of less than or equal to \u20b92,50,000/-. The applicant should be a Student. The applicant should be enrolled in a government institution where the mandatory fees, including prescribed tuition and examination fees, are paid. The applicant should not have failed in any academic year.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration",
+        "Step 1: Visit the \" Samarth Portal \".",
+        "Step 2: Navigate to the top right corner of the homepage and click \" Registration\". ",
+        "Step 3: On the registration page, provide the mandatory details. (the fields marked with * are mandatory). If required, verify your Mobile Number and/or Email ID via OTP. Finally, click \"Register\".",
+        "Application",
+        "Step 1: Visit the \" Samarth Portal \".  ",
+        "Step 2:  Use the credentials you created during registration to log in.",
+        "Step 3:  Navigate to the online application form of the scheme you intend to apply for.",
+        "Step 4:  In the application form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size.",
+        "Step 5:  Carefully review all the information provided. Make any necessary corrections.",
+        "Step 6:  Acknowledge and agree to the terms and conditions, declaration, and privacy policy (if any).",
+        "Step 7:  Click the \"Submit\" to submit your application."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://samarth.mp.gov.in/Public/Pages/SchemeDetail?ID=1"
+    },
+    {
+      "title": "Registration",
+      "url": "https://samarth.mp.gov.in/Images/Icons/20.png"
+    }
+  ],
+  "documents_required": "Passport-size Photograph Aadhaar Card Domicile Certificate Caste Certificate Samagra ID Bank Account Details"
+}

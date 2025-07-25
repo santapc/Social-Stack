@@ -1,0 +1,72 @@
+{
+  "scheme_id": "6763f419c903566dc4a5b66e",
+  "slug": "jhst",
+  "scheme_name": "Junior Hostel (Scheduled Tribes)",
+  "scheme_short_title": "JHST",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Tribal Welfare and Scheduled Caste (SC) Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Education",
+    "Student",
+    "Scheduled Tribe",
+    "Hostel"
+  ],
+  "brief_description": "Launched on 1st January 1966, the scheme \"Junior Hostel\" by the Tribal Welfare and Scheduled Caste (SC) Department, Government of Madhya Pradesh provides free accommodation and mess facilities to students studying in classes 6th to 8th.",
+  "detailed_description": "Launched on 1st January 1966, the scheme &quot;Junior Hostel&quot; by the Tribal Welfare and Scheduled Caste (SC) Department, Government of Madhya Pradesh provides free accommodation and mess facilities to students studying in classes 6th to 8th. <br> <br> <br> <br>",
+  "benefits": [
+    "Free Accommodation and Mess Facilities."
+  ],
+  "eligibility_criteria": "The applicant should be from the Scheduled Tribes (ST) category. The applicant should be a native of Madhya Pradesh. The applicant should be a student of class 6th to 8th. The applicant should be studying in a government or recognized school. The applicant should have passed the previous year's examination.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration",
+        "Step 1: The applicant should visit the Madhya Pradesh Tribal Affairs & Scheduled Caste Welfare Automation System MPTAAS portal. ",
+        "Step 2: Click on \"New Beneficiary Profile Registration .\"",
+        "Step 3: Fill in all the required details. Fields marked with * are mandatory. Complete the form by entering all necessary information.",
+        "Step 4: Upload all required documents, such as ID proof and other relevant certificates.",
+        "Step 5: After completing the form and uploading the documents, click \"Submit\".",
+        "Step 6: After successful payment and submission, you will receive a registration number.",
+        "Login",
+        "Step 1: The applicant should visit the Madhya Pradesh Tribal Affairs & Scheduled Caste Welfare Automation System MPTAAS portal. ",
+        "Step 2: Enter your user ID, password, and captcha code, then click \"Login.\"",
+        "Step 3: Choose the scheme you wish to apply for to avail the benefits.",
+        "Step 4: Enter all required information and upload the necessary documents as prompted.",
+        "Step 5: Finally, click on \"Submit Application\" to complete the process."
+      ]
+    },
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the Hostel Superintendent Block Education Officer Principal District Coordinator/Assistant Commissioner, and request the hard copy of the prescribed format of the application form from the concerned authority.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the authority.",
+        "Step 4: Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE: Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=896"
+    },
+    {
+      "title": "Registration",
+      "url": "https://www.tribal.mp.gov.in/mptaas"
+    }
+  ],
+  "documents_required": "Passport-size Photograph Aadhaar card Domicile certificate of Madhya Pradesh Caste certificate Previous class passing certificate/marksheet Samagra ID Bank account details/Bank Passbook Other necessary documents if required"
+}

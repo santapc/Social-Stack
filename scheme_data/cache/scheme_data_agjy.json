@@ -1,0 +1,51 @@
+{
+  "scheme_id": "672c655fcef677932c624067",
+  "slug": "agjy",
+  "scheme_name": "Atal Graha Jyoti Yojana",
+  "scheme_short_title": "AGJY",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Energy Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Utility & Sanitation"
+  ],
+  "sub_categories": [
+    "Electricity"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Energy Subsidy",
+    "Electricity",
+    "Bill Reduction",
+    "Domestic Consumers"
+  ],
+  "brief_description": "The scheme provides subsidized electricity bills to domestic consumers with monthly consumption up to 150 units, promoting energy conservation and reducing electricity costs for eligible beneficiaries.",
+  "detailed_description": "The &amp;quot;Atal Graha Jyoti Yojana&amp;quot;, launched by the Energy Department, Government of Madhya Pradesh, aims to provide financial relief to domestic consumers with low energy consumption by subsidizing their electricity bills. The scheme benefits those whose monthly electricity consumption does not exceed 150 units. The subsidy is provided through the billing system, ensuring easy access for eligible consumers. The scheme was earlier known as &amp;quot;Indira Graha Jyoti Yojana&amp;quot;.",
+  "benefits": [
+    "Reduced Electricity Bills: Consumers with a monthly consumption of up to 150 units receive a subsidized bill, minimizing their energy expenses. Note: The benefit is automatically applied through the billing system for eligible consumers."
+  ],
+  "eligibility_criteria": "The applicant must be a resident of Madhya Pradesh. The applicant must be a domestic consumer with a monthly electricity consumption of up to 150 units. The applicant must have an approved load of 1 kilowatt for their electricity connection.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Automatic Enrollment: The scheme benefits are automatically applied to eligible consumers through the billing system. "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://dhar.nic.in/scheme/%E0%A4%87%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0%E0%A4%BE-%E0%A4%97%E0%A5%83%E0%A4%B9-%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%A4%E0%A4%BF-%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE/"
+    },
+    {
+      "title": "Guidelines (Name Change)",
+      "url": "https://energy.mp.gov.in/sites/default/files/Name%20change%20order.pdf"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Proof of Identity. Proof of Address. Electricity Bill."
+}

@@ -1,0 +1,72 @@
+{
+  "scheme_id": "686cca0a848c2b33797ec861",
+  "slug": "fsl",
+  "scheme_name": "Foreign Study Loan",
+  "scheme_short_title": "FSL",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Empowerment Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning",
+    "Banking,Financial Services and Insurance"
+  ],
+  "sub_categories": [
+    "International education",
+    "Scholarships and student finance",
+    "Universities and higher education",
+    "Banking and money",
+    "Loan"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Education",
+    "Loan",
+    "Foreign",
+    "Student",
+    "University"
+  ],
+  "brief_description": "The scheme aims to provide financial assistance to students from non-reserved categories for pursuing higher studies abroad in medical and post-graduation courses. It offers loans up to \u20b915,00,000/- at 4% simple interest per annum to eligible students.",
+  "detailed_description": "The scheme &quot;Foreign Study Loan&quot; implemented by the Gujarat Unreserved Educational and Economical Development Corporation (GUEEDC), Social Justice and Empowerment Department, Government of Gujarat, provides financial assistance to students from non-reserved categories pursuing higher studies abroad. The scheme provides overseas study loans of up to \u20b915,00,000/- for specific courses, including Bachelor of Medicine, Bachelor of Surgery, post-graduation courses (valid even if obtained after diploma), post-graduation diploma, and equivalent courses after Class 12th. To be eligible, the applicant must have scored 60% or more in Class 12 and belong to a family with an annual income of \u20b96,00,000/- or less. The loan carries simple interest at the rate of 4% per annum with repayment terms varying based on the loan amount. <br>",
+  "benefits": [
+    "Loan Amount: Up to \u20b915,00,000/- for overseas study.",
+    "Interest Rate: Simple interest at 4% per annum.",
+    "Repayment Grace Period: 1 year after completion of study before repayment begins.",
+    "Flexible Repayment: Borrower can repay the loan before the stipulated time limit.",
+    "Repayment Schedule",
+    "For loans up to \u20b95,00,000/-: Equal monthly installments over 5 years. For loans above \u20b95,00,000/-: Equal monthly installments over 6 years."
+  ],
+  "eligibility_criteria": "The applicant must belong to the non-reserved category. The applicant must be pursuing higher studies abroad. The applicant must be enrolled in Bachelor of Medicine, Bachelor of Surgery, post-graduation courses (valid even if obtained after diploma), post-graduation diploma, or equivalent courses after Class 12th. The applicant must have scored 60% or more in Class 12th. The applicant must belong to a family with an annual income of \u20b96,00,000/- or less.\n",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Register on the Official Portal",
+        "Open the official website . Navigate to the \"How to Apply\" section and select \"Foreign Study Loan.\" You will be redirected to the e-SamajKalyan Portal. On the home page, under the tab \u2018Citizen Login', click on New User \u2018 Please Register Here '. Enter your Full Name as per Aadhaar Card, Gender, Date of Birth, Aadhaar Card Number, Email ID, Caste etc. and then click on \u2018Register'. Log in using your credentials once registration is complete.",
+        "Step 2: Access and Fill Out the Application Form",
+        "After logging in, locate the application Form. Enter personal, academic, and family information in the respective modules: Name, gender, category, address, educational background, institution details, passport number, family income, occupation of guardians, and bank details (to be used for loan disbursement). Use dropdown selections in the \"Patrata Column\" (\u0aaa\u0abe\u0aa4\u0acd\u0ab0\u0aa4\u0abe\u0aa8\u0ac0 \u0a95\u0acb\u0ab2\u0aae) to correctly indicate your eligibility parameters. It is mandatory to select from the dropdown so that your application is processed under the right criteria.",
+        "Step 3: Prepare and Upload Required Documents",
+        "Scan and upload clear, legible documents in the upload section. Ensure each file is within the portal's size and format limitations (usually PDF, JPEG or PNG) and named properly to avoid confusion during review.",
+        "Step 4: Review and Final Submission",
+        "Carefully review each module. Use the preview option to examine the application before final submission. Save a local PDF copy of the completed form for your records. Click \"Final Submit\".",
+        "Step 5: Application Verification by GUEEDC",
+        "Upon submission, your application and uploaded documents will be reviewed by GUEEDC officials. You may be contacted via phone or email if: Any clarification is required, Additional documents are needed, or Corrections must be made. Maintain active communication channels and respond promptly to any such requests.",
+        "Loan Sanction and Disbursement",
+        "If the application is accepted, a formal sanction letter will be issued. You may be asked to sign an agreement accepting the terms and repayment conditions of the loan. The sanctioned loan amount will be disbursed directly into your verified bank account. If any post-sanction verification or usage confirmation is required, comply as per instructions provided by GUEEDC."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://gueedc.gujarat.gov.in/foreign-education-scheme.html"
+    },
+    {
+      "title": "User Manual - Online Application Process",
+      "url": "https://gueedc.gujarat.gov.in/Documents/how-to-apply/Videsh-Abhyas-Loan.pdf"
+    }
+  ],
+  "documents_required": "Class 12th Mark Sheet (showing 60% or more marks) Family Income Certificate (showing annual income of \u20b96,00,000/- or less) Property Documents (for loans up to \u20b97,50,000/-: property worth one and a half times the loan amount) Immovable Property Documents (for loans above \u20b97,50,000/-: for mortgage in favor of the Corporation) Five Post-Dated Cheques (signed in favor of the Corporation) Course Admission Documents (for overseas higher studies) Identity Proof Address Proof"
+}

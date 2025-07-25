@@ -1,0 +1,69 @@
+{
+  "scheme_id": "66e5b318dfc57d5fce923341",
+  "slug": "fasbbocwwb",
+  "scheme_name": "Financial Assistance for Studies (BBOCWWB)",
+  "scheme_short_title": "FASBBOCWWB",
+  "state": "Bihar",
+  "level": "State/ UT",
+  "nodal_department": "Labour Resources Department",
+  "implementing_agency": "Bihar Building & Other Construction Workers Welfare Board",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Student",
+    "Financial Assistance",
+    "Labour",
+    "Building Worker",
+    "Construction Worker",
+    "Unorganized Workers"
+  ],
+  "brief_description": "The scheme is implemented by the Bihar Building & Other Construction Workers Welfare Board, Labour Resources Department, Govt. of Bihar. Under this scheme, educational financial support is provided to the children of registered workers who have been members of the Board for at least one year.",
+  "detailed_description": "The &amp;quot;Financial Assistance for Studies&amp;quot; scheme is implemented by the Bihar Building &amp;amp; Other Construction Workers Welfare Board (BBOCWWB), under the Labour Resources Department, Government of Bihar. Under this scheme, educational financial support is provided to the children of registered workers who have been members of the Board for at least one year. It covers full tuition fees for students admitted to prestigious government institutes like IIT, IIM, and AIIMS. Additionally, the scheme offers one-time financial assistance for pursuing B.Tech or equivalent courses, Polytechnic/Nursing diplomas, or ITI courses in government institutions.",
+  "benefits": [
+    "Under this scheme, the following financial assistance is provided to the children of registered building and construction workers: Full tuition fees are covered for admission to prestigious government institutes like IIT, IIM, AIIMS, etc. A one-time financial assistance of \u20b920,000/- is provided upon admission to a B.Tech. or equivalent course in a government institution. A one-time financial assistance of \u20b910,000/- is provided for pursuing a Polytechnic, Nursing, or equivalent diploma course in a government institution. A one-time financial assistance of \u20b95,000/- is provided for pursuing an ITI or equivalent course in a government institution."
+  ],
+  "eligibility_criteria": "1. The worker should be engaged in building or construction work. 2. The worker should be registered with the Bihar Building & Other Construction Workers Welfare Board. 3. The registered worker should have a minimum of one year of continuous membership. 4. The worker's membership should be active at the time of application. 5. The children of registered workers should be pursuing or have been admitted to one of the following regular technical or professional courses: \u2022 Admission to prestigious government institutes like IIT, IIM, AIIMS, etc. \u2022 Admission to a B.Tech or equivalent course in a government institution. \u2022 Pursuing a Polytechnic, Nursing, or equivalent diploma course in a government institution. \u2022 Pursuing an ITI or equivalent course in a government institution",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration of a Construction Worker under BBOCWWB: Step 1: Visit the Official Website of the Bihar Building and Other Construction Workers Welfare Board. Step 2: On the homepage, click on \"Labour Registration\". Step 3: If you are not registered, click on \" Apply for New Registration \". Step 4: Enter your Aadhar card number and name, then click \"Authenticate\". Step 5: A dashboard will appear. Enter all required details, ensuring that all fields marked with an asterisk (*) are filled in correctly. Step 6: Click on \"Submit\" and proceed to pay the application fee online. Step 7: You will receive your construction worker registration number upon successful registration. Apply for Scheme Benefits: Step 1: Visit the Official Website of the Bihar Building and Other Construction Workers Welfare Board. Step 2: Click on \"Scheme Application\" and select \" Apply for Scheme \". Step 3: Enter your registration number and click \"Show\" to view your details. Step 4: Select the scheme you wish to apply for to avail the benefits. Step 5: Enter all required information and upload the necessary documents. Step 6: Click on \"Submit Application\" to complete the process. Application Tracking: Applicant can track their application status online through the official website of the Bihar Building and Other Construction Workers Welfare Board. Relevant updates will be sent to the registered mobile number."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://bocw.bihar.gov.in/Website/pdf/Brochure.pdf"
+    },
+    {
+      "title": "Labour Registration",
+      "url": "https://bocw.bihar.gov.in/Website/LabourReg.aspx"
+    },
+    {
+      "title": "Scheme Application",
+      "url": "https://bocw.bihar.gov.in/Website/SchemeApply.aspx"
+    },
+    {
+      "title": "Check Scheme Application Status",
+      "url": "https://bocw.bihar.gov.in/Registration/ApplicationStatus.aspx"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://bocw.bihar.gov.in/WebLink/NotificationDoc/00001240_Doc.pdf"
+    },
+    {
+      "title": "Registration Form",
+      "url": "https://bocw.bihar.gov.in/WebLink/NotificationDoc/00001241_Doc.pdf"
+    }
+  ],
+  "documents_required": "Identity proof i.e. Aadhaar Card Identity proof of student/child Receipt of Admission/Proof of enrollment Receipt of Payment of tuition fee by the educational institution Proof of residence Ration Card Bank account details Caste Certificate (If applicable) Undertaking/declaration Any other documents as required"
+}

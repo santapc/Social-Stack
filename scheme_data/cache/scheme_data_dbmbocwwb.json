@@ -1,0 +1,71 @@
+{
+  "scheme_id": "65e73e24938a0b13cca572bf",
+  "slug": "dbmbocwwb",
+  "scheme_name": "Death Benefit (MBOCWWB)",
+  "scheme_short_title": "DB(MBOCWWB)",
+  "state": "Meghalaya",
+  "level": "State/ UT",
+  "nodal_department": "Labour and Employment Department",
+  "implementing_agency": "Meghalaya Building & Other Construction Workers Welfare Board",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Crisis/Disaster/Accident"
+  ],
+  "target_beneficiaries": [
+    "Family"
+  ],
+  "tags": [
+    "Death",
+    "Building Worker",
+    "Construction Worker",
+    "Labour",
+    "Financial Assistance"
+  ],
+  "brief_description": "Under the scheme, financial assistance shall be provided to the nominees or dependents of registered construction workers in the event of their natural or accidental death during the course of employment.",
+  "detailed_description": "The scheme \"Death Benefit\" is a social security scheme, implemented by the Meghalaya Building and Other Construction Workers Welfare Board (MBOCWWB), Labour Department, Government of Meghalaya. Under the scheme, financial assistance shall be provided to the nominees or dependents of registered construction workers in the event of their natural or accidental death during the course of employment.",
+  "benefits": [
+    "Under the scheme, an amount of \u20b92,00,000/- shall be given to the nominees or dependents of registered construction workers towards death benefit, in case of natural death. If the death is due to an accident during the course of employment, the nominee or dependent of registered construction workers shall be given \u20b93,00,000/- towards death benefit. The amount of \u20b92,00,000/- for Natural Death & \u20b95,00,000/- for Accidental Death shall be given to the nominees or dependents of registered construction workers who are not covered under any insurance scheme. There shall be no bar for the nominee to claim any other death or accidental death benefit under any insurance scheme covering the beneficiaries (i.e. PMJJBY/PMSBY/etc.)."
+  ],
+  "eligibility_criteria": "The applicant should be a legal nominee or dependent of the deceased worker. The deceased worker should have been a resident of the Meghalaya. The deceased worker should have been engaged in any building or other construction work. The deceased worker should have been registered under the Meghalaya Building & Other Construction Workers Welfare Board. The financial assistance shall be given to the nominees or dependents of deceased registered workers in the event of their natural or accidental death during their course of employment.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Online Worker Registration Process (Portal): Step 01: The applicants may visit the online Portal: https://megbocwwb.gov.in/bocw_services/login.htm  Step 02: The applicant can register by creating a new account, on the home page click on the \u2018Worker' button and enter all the mandatory information. Step 03: After filling in all the details, click on \u2018Register'. Step 04: After successful registration, the applicant will see the message \"Registered Successfully\". Application Process for Death Benefit: Step 01: Visit the online Portal: https://megbocwwb.gov.in/bocw_services/login.htm  Step 02: Enter your User ID (Registered Mobile Number), Password, and Enter Security Code. Click on Login. Step 03: After successful login, click on the \"Death Benefit\" scheme from the Dashboard. Step 04: Fill in all the required information and necessary enclosures. Step 05: Click \u2018Submit' to apply for benefits. Application Process to Track/Update: Step 01: Visit the online Portal: https://megbocwwb.gov.in/bocw_services/login.htm  Step 02: Enter your User ID (Registered Mobile Number), Password, and Enter Security Code. Click on Login. Step 03: From the menu, click on \u2018Track Application Status'. Step 04: Click on \u2018View Details' to view your application. Step 05: Click on \u2018Application History' to view the application history. Step 06: Click on \u2018Update' to update your application. Note: Once your application is under process or processed, you cannot update it. (Worker's User Manual )"
+      ]
+    },
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 01: A nominee who is entitled to a death benefit under the rule shall submit to the Secretary or any other officer authorized by him an application in Form No. XL . Step 02: A Certificate regarding the death/accident death issued by Registrar of Births & Deaths shall be produced along with the application and the other documents specified by the BOARD. Step 03: The Secretary or the Officer authorized by him may on receipt of the application conduct an enquiry with regard to the eligibility of the applicant Step 04: If the Secretary or the Officer authorized by him is satisfied that the person who has applied for financial assistance is entitled to such benefit he may sanction the amount. Note: A person aggrieved by any decision taken may file an appeal before the BOARD within 60 days from the date of receipt of the order under the sub-rule and the decision of the BOARD thereon shall be final."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://megbocwwb.gov.in/schemes_death"
+    },
+    {
+      "title": "Amendment Notification-2017",
+      "url": "https://meglc.gov.in/acts/MBOCW%20Amendment%20Rules%202017.pdf"
+    },
+    {
+      "title": "Amendment Notification-2019",
+      "url": "https://meglc.gov.in/acts/Amendment%20-rules-bocw-2018.pdf"
+    },
+    {
+      "title": "Online Application Portal",
+      "url": "https://megbocwwb.gov.in/bocw_services/login.htm"
+    },
+    {
+      "title": "Application Form For Death Benefit",
+      "url": "https://megbocwwb.gov.in/forms/benefit/deathbenefit.pdf"
+    }
+  ],
+  "exclusions": "&lt;br&gt;",
+  "documents_required": "MBOCWWB ID Card of worker Death Certificate Challan/Receipt of the Monthly Subscription paid Nominee's ID Proof may be Voter ID, Licence or others Bank Passbook Applicant Address Proof Medical Certificate Nominee's Consent Letters Guardian Certificate (in case Applicant is Minor) Any other documents as required"
+}

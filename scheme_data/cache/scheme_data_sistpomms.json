@@ -1,0 +1,63 @@
+{
+  "scheme_id": "68592b14d377c6d9362a5b20",
+  "slug": "sistpomms",
+  "scheme_name": "Special Incentive to ST (P)/OBC/MOBC Meritorious Students",
+  "scheme_short_title": "SISTPOMMS",
+  "state": "Assam",
+  "level": "State/ UT",
+  "nodal_department": "Welfare of Plain Tribes and Backward Classes Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Incentive",
+    "Student",
+    "School",
+    "Education",
+    "Scheduled Tribe",
+    "Other Backward Class",
+    "Merit"
+  ],
+  "brief_description": "The scheme aims to provide financial grants to meritorious ST (P)/OBC/MOBC students in Assam who secure high marks in Matriculation, 10+2, Graduation, or Post Graduation. Benefits include fixed monetary assistance ranging from \u20b910,000/- to \u20b925,000/- based on educational level.",
+  "detailed_description": "The scheme &quot;Special Incentive to ST (P)/OBC/MOBC Meritorious Students&quot; by the Directorate of Welfare of Plains Tribes and Backward Classes, Government of Assam, aims to provide financial assistance to meritorious students from Scheduled Tribes (Plains), Other Backward Classes, and More Other Backward Classes communities in Assam. The scheme offers monetary grants to students who achieve high academic marks in Matriculation, 10+2, Graduation, or Post Graduation examinations. To be eligible, the applicant must belong to the ST (P)/OBC/MOBC community and meet the specified percentage criteria for their respective educational level. The scheme is implemented by the Directorate of Welfare of Plains Tribes and Backward Classes, Assam. Applications for this scheme are accepted offline through prescribed formats advertised in print and electronic media.",
+  "benefits": [
+    "Financial Assistance",
+    "\u20b910,000/- for students passing Matriculation (Class X) with 80% or above. \u20b915,000/- for students passing 10+2 with 75% or above. \u20b920,000/- for Graduation students with 70% or above. \u20b925,000/- for Post Graduation students with 65% or above.",
+    "Disbursement Conditions",
+    "Benefits are granted on a first-come, first-served basis, subject to fund availability. The Selection Committee may lower cut-off marks if insufficient applications are received. Financial assistance is transferred to the bank accounts of selected beneficiaries."
+  ],
+  "eligibility_criteria": "1. The applicant must belong to the Scheduled Tribe (Plain) / Other Backward Class / More Other Backward Class community of Assam.\n2. The applicant must qualify as one of the following:\nSecured 80% or above in Matriculation (Class 10th). Secured 75% or above in 10+2 examination. Secured 70% or above in Graduation. Secured 65% or above in Post Graduation.\n*The applicant cannot claim the benefit as a right; approval depends on fund availability and Selection Committee discretion.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The Directorate of Welfare of Plains Tribes and Backward Classes, Assam, will advertise the scheme in print and electronic media, along with the prescribed format of the application form.",
+        "Step 2: The interested applicant should take print of the prescribed format of the application form.",
+        "Step 3: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 4: Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the Director, WPT & BC, Assam.",
+        "*Applicants are advised to retain a copy of the submitted application and acknowledgment for future reference.",
+        "Scrutiny and Approval",
+        "Step 1: Applications are scrutinized by the Selection Committee.",
+        "Step 2: Approved beneficiaries are selected based on merit and fund availability."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://directoratetribalaffairsplain.assam.gov.in/how-to/apply-for-special-incentive-to-st-p-meritorious-students"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://directorwptbc.assam.gov.in/sites/default/files/swf_utility_folder/departments/directorate_wpt_uneecopscloud_com_oid_4/menu/document/application_form_degree_p.g_0.pdf"
+    }
+  ],
+  "documents_required": "Caste Certificate. Marksheet of Matriculation/10+2/Graduation/Post Graduation. Bank Account Details with IFSC Code. Voter ID or Aadhaar Card."
+}

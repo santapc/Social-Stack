@@ -1,0 +1,46 @@
+{
+  "scheme_id": "676cfe5cd82a9cd9aa428b53",
+  "slug": "mgpny",
+  "scheme_name": "Mukhyamantri Gramin Peyjal Nishchay Yojana",
+  "scheme_short_title": "MGPNY",
+  "state": "Bihar",
+  "level": "State/ UT",
+  "nodal_department": "Health Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Utility & Sanitation"
+  ],
+  "sub_categories": [
+    "Water supply"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Water Supply",
+    "Drinking Water",
+    "Rural Development"
+  ],
+  "brief_description": "The scheme aims to provide pure drinking water through pipelines to every rural household in Bihar. This initiative started in 2016 with a focus on community involvement, local governance, and sustainable water management.",
+  "detailed_description": "The Chief Minister Rural Drinking Water Nishchay Yojana was launched in 2016 to ensure every rural household in Bihar has access to safe drinking water through a piped supply system. The scheme is implemented in phases by Gram Panchayats, covering 5,013 Panchayats where water quality is not compromised or is not already being handled by the Public Health Engineering Department. The water supply aims for a maximum of 70 liters per person per day, with strong community participation in operation and maintenance.",
+  "benefits": [
+    "Improved Access to Clean Drinking Water: Provides safe and clean drinking water to rural households, ensuring better health and hygiene. Continuous Water Supply: Ensures a reliable and uninterrupted supply of water to rural areas throughout the year. Reduction in Waterborne Diseases: Helps in reducing the incidence of waterborne diseases by providing purified drinking water."
+  ],
+  "eligibility_criteria": "The applicant must be a resident of a rural area in Bihar. The applicant must not already have a piped water supply connection. The applicant should belong to a household requiring access to safe drinking water. The applicant must comply with the guidelines set by the Gram Panchayat. The applicant should be willing to contribute to the operation and maintenance of the water supply system. ",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: Visit the Gram Panchayat office. Step 2: Fill in the application form with the required personal and household details. Step 3: Submit supporting documents such as identity proof and address proof. Step 4: The application will be reviewed for eligibility. Step 5: Upon approval, the household will be included in the piped water supply scheme."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://bvm.bihar.gov.in/cache/sc_guidline/scheme-guidelines-mukhyamantri-gramin-peyjal-nishchay-yojana.pdf"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Identity proof (Aadhaar card, Voter ID, etc.). Address proof. Water requirement and consumption details. Residential proof of the Gram Panchayat. Any other documents (if required)."
+}

@@ -1,0 +1,68 @@
+{
+  "scheme_id": "682c62696e3fd3b163f41543",
+  "slug": "maygskdc",
+  "scheme_name": "Mahila Adhikarita Yojana (Gujarat Safai Kamdar Development Corporation)",
+  "scheme_short_title": "MAYGSKDC",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Empowerment Department",
+  "implementing_agency": "Gujarat Safai Kamdar Development Corporation",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Loan"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Social Welfare",
+    "Women Empowerment",
+    "Loan",
+    "Subsidy"
+  ],
+  "brief_description": "\"Mahila Adhikarita Yojana\" introduced by the Social Justice and Empowerment Department, Gujarat, is a centrally sponsored financial support scheme offering loans of \u20b920,000/- at a subsidized interest rate to women sweepers and their dependents to promote self-reliance and upliftment.",
+  "detailed_description": "&amp;quot;Mahila Adhikarita Yojana&amp;quot; introduced by the Social Justice and Empowerment Department, Gujarat, is a centrally sponsored financial support scheme targeting women sweepers and their dependents. Under this scheme, eligible beneficiaries are provided a loan of \u20b920,000 at a low interest rate of 5%, with a repayment period of 5 years. This initiative aims to empower women engaged in sanitation work by providing them with the financial means to pursue economic activities and improve their quality of life. The scheme is being implemented by the Gujarat Safai Kamdar Development Corporation.",
+  "benefits": [
+    "Loan Assistance: An amount of \u20b920,000/- at 5% interest rate, with a repayment period of 5 years."
+  ],
+  "eligibility_criteria": "The applicant must be a woman sweeper or a dependent of a woman sweeper. The applicant must be a resident of Gujarat. \n",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process:",
+        "Step 1: Go to the   eSamajKalyan portal and navigate to the \"Gujarat Safai Kamdar Development Corporation\" section under the Corporation menu.",
+        "Step 2: Click on \"Mahila Adhikarita Yojana\" and then Apply Now.",
+        "Step 3: Click on \"New User? Please Register Here\".",
+        "Step 4: Enter the required details and click Register.",
+        "Application Process:",
+        "Step 1: Enter your User ID, Password, and Captcha Code, then click \"Login\".",
+        "Step 2: Read the scheme details carefully and click OK.",
+        "Step 3: If your permanent address is correct, confirm it. Otherwise, enter your correct address.",
+        "Step 4: Click Save & Next to proceed. Upload the relevant documents.",
+        "Step 5: If you need to make changes, click \"No, Cancel\". If all details are correct, click \"Yes, Submit\".",
+        "Step 6: Click Save Application. Note down your Application Number for future reference. You can also take a printout by clicking Print Application.",
+        "Check Application Status:  Click here ."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Scheme No. 319)",
+      "url": "https://mariyojana.gujarat.gov.in/MoreDetails.aspx"
+    },
+    {
+      "title": "Guidelines 2",
+      "url": "https://esamajkalyan.gujarat.gov.in/index.aspx?ServiceID=wbt7oLAClfC7TIFZdb9BMw=="
+    },
+    {
+      "title": "User Manual",
+      "url": "https://esamajkalyan.gujarat.gov.in/HelpManual/Citizen-HelpManual.pdf"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Proof of Residence (any one of Electricity Bill/Licence/Lease Agreement/Electoral Card/Ration Card). Guarantee Sheet. Disability Certificate (If applicable). Specimen of Applicant's Gross Annual Income (Certificate from Competent Authority). Ration Card (to upload both pages with name and number of ration card applicant). Certificate regarding being a sweeper/ dependent of a sweeper. Aadhaar Card. BPL Certificate. Certificate of death of husband. Copy of passbook page showing bank account details or canceled cheque. Election Card."
+}

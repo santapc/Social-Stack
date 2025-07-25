@@ -1,0 +1,52 @@
+{
+  "scheme_id": "68554464261391702fac1152",
+  "slug": "rsahps",
+  "scheme_name": "Rural Sports and Health Promotion Scheme",
+  "scheme_short_title": "RSAHPS",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "Department of Youth Welfare and Provincial Protection Corps",
+  "dbt_scheme": false,
+  "categories": [
+    "Health & Wellness",
+    "Sports & Culture"
+  ],
+  "sub_categories": [
+    "Health promotion",
+    "Financial assistance",
+    "Sports & fitness",
+    "Aids/Appliances"
+  ],
+  "target_beneficiaries": [
+    "Joint Liability Groups (JLGS)",
+    "Self Help Groups (SHGS)"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Health Promotion",
+    "Sports Promotion",
+    "Youth",
+    "Mangal Dal"
+  ],
+  "brief_description": "The scheme promotes fitness among rural youth by providing financial assistance to the mangal dals for setting up open gyms in each Gram Panchayat.",
+  "detailed_description": "The scheme &amp;quot;Rural Sports and Health Promotion Scheme&amp;quot; was launched by the Department of Youth Welfare and Provincial Protection Corps, Government of Uttarakhand. The scheme aims to promote physical fitness and well-being among rural youth by establishing open gyms in village communities. An amount is provided to Mangal Dals for the installation of community fitness equipment (open gyms) in each Gram Panchayat.",
+  "benefits": [
+    "A one-time financial grant of \u20b917,960/- is allocated per gram panchayat for installing open gym/community fitness equipment to encourage fitness and well-being."
+  ],
+  "eligibility_criteria": "The applicant should be a Gram Panchayat located within the state of Uttarakhand. The applicant should identify and allocate space within the village for the construction of an open gym.\nNote: The allocated amount is distributed to the Mangal Dal associated with the Gram Panchayat.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: At the Gram Panchayat level, a suitable location is identified for setting up the open gym, and a proposal is approved by the Gram Sabha. Step 2: The approved proposal is then submitted to the Regional Youth Welfare and Provincial Rakshak Dal Officer along with the required documents. Step 3: Once verified and approved, the allocated amount is disbursed to the Mangal Dal associated with the Gram Panchayat."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Page No. 106)",
+      "url": "https://cdnbbsr.s3waas.gov.in/s339e6f67916920d9419b3d92cf1e9a958/uploads/2025/03/202503051772421971.pdf"
+    }
+  ],
+  "documents_required": "Approved proposal by the Gram Sabha Site Selection Details for Open Gym Bank Account Details of the Mangal Dal (for fund transfer) Any Other Document if Required"
+}

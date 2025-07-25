@@ -1,0 +1,72 @@
+{
+  "scheme_id": "67600ca80d37cf0e56e9e160",
+  "slug": "cmbaocwump",
+  "scheme_name": "Chief Minister's Building and Other Construction Workers Urban Housing Scheme (MPBOCWWB)",
+  "scheme_short_title": "CMBAOCWUMP",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Labour Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Housing & Shelter"
+  ],
+  "sub_categories": [
+    "Shelter, integrated support and assistance",
+    "Housing"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Worker",
+    "Construction",
+    "Financial Assistance",
+    "Housing",
+    "Labour",
+    "Urban"
+  ],
+  "brief_description": "The scheme was revised in 2018, the \"Chief Minister's Building and Other Construction Workers Urban Housing Scheme,\" to provide an additional \u20b91,00,000 assistance to eligible construction workers in urban areas, along with grants from the Central and State Governments.",
+  "detailed_description": "The &quot;Chief Minister&#39;s Building and Other Construction Workers Urban Housing Scheme&quot; by the Labour Department, Govt. of Madhya Pradesh provides \u20b91,00,000 in assistance to eligible urban construction workers, along with Central and State Government grants. This scheme also supports workers eligible under the Pradhan Mantri Awas Yojana.",
+  "benefits": [
+    "\u20b91,00,000/- assistance to construction workers."
+  ],
+  "eligibility_criteria": "For Registration\nThe applicant should be a resident of Madhya Pradesh. The applicant should be a Building/ Construction Worker. The applicant should be between 18 and 60 years. The applicant should have engaged in any building or other construction work for at least 90 days during the preceding 12 months. The registration of the applicant should be renewed annually.\nFor Application\nThe construction workers with valid identity cards and registration as beneficiaries under the Act before the publication of the scheme in the Gazette. The construction workers registered after the publication of the scheme in the Gazette will be eligible to receive benefits after 1 year from the registration date. The beneficiaries must be registered under the Act to qualify for the scheme.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the Commissioner Municipal Corporation / Chief Municipal Officer Nagar palika / Nagar Panchayat and request the hard copy of the prescribed format of the application form from the concerned authority.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the authority.",
+        "Step 4: Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE: Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    },
+    {
+      "mode": "Online",
+      "steps": [
+        "(For Registration Only)",
+        "Step 1: Go to the Shram Seva Portal (MPBOCWWB) official website. ",
+        "Step 2: On the homepage, find and click on \"Registration of Construction Worker.\"",
+        "Step 3: Select the option \" Apply online for registration as a beneficiary.\"",
+        "Step 4: Enter your Composite Member ID and Samagra Family ID, then click Get Details.",
+        "Step 5: Your family or beneficiary details will be displayed on the screen.",
+        "Step 8: Complete the form by entering all required details (marked with *).",
+        "Step 9: Upload all necessary documents, such as ID proof and other relevant certificates.",
+        "Step 10: After completing the form and uploading the documents, click Submit and pay the application fee online.",
+        "Step 11: You will receive a registration number after successful payment and submission."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://labour.mp.gov.in/Public/Pages/Schemes/MukhyamantriBhavanAvasYojna.aspx"
+    },
+    {
+      "title": "Labour Registration",
+      "url": "https://labour.mp.gov.in/Public/Registration/BeneficiaryRegistrationRequest.aspx"
+    }
+  ],
+  "documents_required": "Identity Proof (e.g., Aadhaar Card) Passport-size Photograph Proof of Residence (e.g., Utility bill, Voter ID, etc.) Ration Card (optional) Bank Account Details (e.g., Copy of Bank Passbook) Caste Certificate (if applicable) Undertaking/Declaration Age Certificate Valid Identity Cards Employment Certificate Signature Any other documents as required"
+}

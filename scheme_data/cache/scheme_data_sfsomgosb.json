@@ -1,0 +1,53 @@
+{
+  "scheme_id": "6773a5ed5fe21d75995b61bd",
+  "slug": "sfsomgosb",
+  "scheme_name": "Scheme for Supply of Male Goat on Subsidy Basis",
+  "scheme_short_title": "SFSOMGOSB",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Animal Husbandry Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Animal husbandry"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Animal",
+    "Goat",
+    "Insurance",
+    "Financial Assistance",
+    "Subsidy"
+  ],
+  "brief_description": "\"Male Goat Supply Scheme on Grant Basis\" aims to improve the breed of indigenous/local goats throughout the state. Through this scheme, one male goat of an improved breed (Jamnapari, Barbari, or Sirohi Bakra) is provided to goat farmers of all categories on a grant basis.",
+  "detailed_description": "The scheme &quot;Male Goat Supply Scheme on Grant Basis&quot; by the Animal Husbandry Department, Government of Madhya Pradesh aims to improve the breed of indigenous/local goats throughout the state. Through this scheme, one male goat of an improved breed (Jamnapari, Barbari, or Sirohi Bakra) is provided to goat farmers of all categories on a grant basis. The applications for this scheme are processed through a multi-level approval system involving Gram Sabha, Janpad Panchayat, and District Panchayat. The scheme is implemented across all districts of the state.",
+  "benefits": [
+    "Male Goat Package",
+    "One improved breed male goat: \u20b97,500/- Insurance coverage (2.75% sum insured for one year): \u20b9206/- Mineral mixture: \u20b9394/- Training booklet and monitoring card: \u20b9200/- Total package value: \u20b98,300/-",
+    "Grant Component",
+    "Government contribution: 75% of total cost Beneficiary contribution: 25% of total cost"
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Madhya Pradesh. The applicant should be actively involved in goat rearing. The applicant must be a goat rearer of any category. The applicant must possess a minimum of 5 goats.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Initial Approval by the beneficiaries in Gram Sabha.",
+        "Secondary Approval by the Janpad Panchayat for Gram Sabha-approved beneficiaries.",
+        "Final Approval by the Agriculture Standing Committee of the District Panchayat.",
+        "The interested applicants should contact the nearest Veterinary Officer of the concerned District Incharge of Animal Dispensary / Deputy Director of Veterinary."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://mpdah.gov.in/schemes/view/UFpqN1UvTGpzSFdSK0RxcHlLT24vdz09"
+    }
+  ],
+  "documents_required": "Identity Proof (Aadhaar Card, etc) Proof of Goat Ownership Residence/Address Proof Bank Account Details"
+}

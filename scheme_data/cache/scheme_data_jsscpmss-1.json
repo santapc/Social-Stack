@@ -1,0 +1,73 @@
+{
+  "scheme_id": "676d0c94d82a9cd9aa42aa40",
+  "slug": "jsscpmss-1",
+  "scheme_name": "Jharkhand State Scheduled Caste Pre-Matric Scholarship Scheme",
+  "scheme_short_title": "JSSCPMSS-1",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Department of Scheduled Tribe, Scheduled Caste, Minority and Backward Class Welfare",
+  "dbt_scheme": true,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Scholarship",
+    "Pre-Matric",
+    "Student",
+    "Scheduled Caste"
+  ],
+  "brief_description": "The \"Jharkhand State Scheduled Caste Pre-Matric Scholarship Scheme\" enhances the participation of Scheduled Caste students in pre-matric education and provides them with equal educational opportunities. The scheme aims to encourage students to continue their education and reduce dropout rates.......",
+  "detailed_description": "The &quot;Jharkhand State Scheduled Caste Pre-Matric Scholarship Scheme&quot; was launched by the Department of Scheduled Tribe, Scheduled Caste, Minority and Backward Class Welfare, Government of Jharkhand. The scheme aims to enhance the participation of Scheduled Caste students in education by providing financial support. It focuses on students from Class 1st to 10th who are studying in state government schools in Jharkhand. The scheme intends to reduce dropout rates and ensure equal education opportunities.",
+  "benefits": [
+    "Financial assistance to cover educational expenses:",
+    "S.NO | Class | Rate for Hostel (For 10 months)\n1 | 1 st to 5 th | \u20b91,500/- | \u20b91,500/-\n2 | 6 th to 8 th | \u20b92,000/- | \u20b92,500/-\n3 | 9 th to 10 th | \u20b94,500/- | \u20b94,500/-",
+    "NOTE:",
+    "Direct transfer of scholarships to beneficiaries' bank accounts via PFMS. Residential students receive higher scholarship amounts compared to non-residential students. Class 9 th and 10 th scholarships are funded jointly by the state (40%) and central (60%) governments."
+  ],
+  "eligibility_criteria": "The applicant/parents/guardians should be a native of Jharkhand. The applicant should be a student. The applicant must belong to the Scheduled Caste Jharkhand. The applicant must be enrolled in a state government-recognized school. There is no income limit for students from Class 1 st to 8 th . The applicant's annual family income should not exceed \u20b92,50,000/- for Class 9 th and 10 th .",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Application Process for Student:",
+        "Document Preparation:",
+        "Ensure all required documents are ready, including Aadhaar, caste certificate, income certificate (if applicable), and Aadhaar-linked bank account details.",
+        "Submission to School:",
+        "Submit the required documents and information to the school principal for entry into the e-Kalyan portal.",
+        "Aadhaar Authentication:",
+        "Ensure Aadhaar authentication is completed to generate a unique ID for the application.",
+        "Application Process for Schools (Principal/INO Role):",
+        "Login Setup:",
+        "Principals or headmasters (Institute Nodal Officers) register schools using their UDISE code on the e-Kalyan portal .",
+        "Student Registration:",
+        "The school head enters eligible students' details (name, DOB, Aadhaar).",
+        "New students must be registered immediately upon enrollment.",
+        "Aadhaar Authentication:",
+        "A unique ID is generated post-verification and is valid for subsequent years.",
+        "Approval Workflow:",
+        "Applications are verified by District Nodal Officers (DNOs) and forwarded to the District Level Approval Committee.",
+        "Approved applications are sent to the State Nodal Officer (SNO) for integration and payment processing.",
+        "Scholarship Disbursement:",
+        "Payments are made through the Aadhaar Payment Bridge System (APBS) or PFMS/NACH for non-linked accounts."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://ekalyan.cgg.gov.in/downloads/Pre_Matric_Scholarship_sankalp_2022.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://ekalyan.cgg.gov.in/"
+    }
+  ],
+  "documents_required": "Aadhaar Card (mandatory for authentication). Caste Certificate. Income Certificate (for classes 9 th to 10 th ). Bank Passbook with Aadhaar-linked account details. Admission or Enrollment Certificate from the school.\nNOTE: The income certificate for Class 9 th remains valid for Class 10 th ."
+}

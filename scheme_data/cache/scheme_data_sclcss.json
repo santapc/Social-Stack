@@ -1,0 +1,64 @@
+{
+  "scheme_id": "659e854b6093f0fa331b8e16",
+  "slug": "sclcss",
+  "scheme_name": "Special Credit Linked Capital Subsidy Scheme (SCLCSS) for Scheduled Caste/Scheduled Tribe",
+  "scheme_short_title": "SCLCSS",
+  "level": "Central",
+  "dbt_scheme": false,
+  "categories": [
+    "Business & Entrepreneurship"
+  ],
+  "sub_categories": [
+    "Setting up / start-up / entrepreneurship"
+  ],
+  "target_beneficiaries": [
+    "Business Entity"
+  ],
+  "tags": [
+    "Plant & Machinery",
+    "Equipment",
+    "Subsidy",
+    "Financial Assistance",
+    "Scheduled Caste",
+    "Scheduled Tribe",
+    "Business & Entrepreneurship"
+  ],
+  "brief_description": "Special Credit Linked Capital Subsidy Scheme (SCLCSS) for Scheduled Caste / Scheduled scheme aims to facilitate capital subsidy to SC/ST MSEs for purchasing of plant & machinery/equipment through institutional finance (bank loan).",
+  "detailed_description": "Launched by the Ministry Of Micro, Small &amp;amp; Medium Enterprises, Special Credit Linked Capital Subsidy Scheme (SCLCSS) for Scheduled Caste / Scheduled Tribe is a sub scheme under National Scheduled Caste and Scheduled Tribe Hub (NSSH) scheme. This scheme aims to facilitate capacity augmentation of existing SC/ST MSEs and for creation on new enterprises among SC/ST communities, 25 percent capital subsidy is provided for purchase of plant &amp;amp; machinery / equipment through institutional finance (bank loan). <br>",
+  "benefits": [
+    "25% subsidy to SC/ST MSEs on institutional finance for procurement of Plant & Machinery/equipment (i.e. a subsidy cap of \u20b9 25,00,000/-) without any sector-specific restrictions is provided."
+  ],
+  "eligibility_criteria": "Sole proprietorships, partnerships, co-operatives, private/public limited companies owned by SC/ST entrepreneurs in manufacturing or service sectors. Must have valid Udyam Registration. SC/ST units graduated from small to medium scale within 3 years of graduation. New industries graduating to medium scale due to loan. ",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "The eligible SC/ST MSEs need to submit the application along with the required documents to their Prime Lending Institution (PLI). This is the bank from which they have availed the term loan for procuring plant and machinery/equipment. The Nodal banks/agencies notified by the Ministry of MSME will then upload the claim application of the SC/ST MSEs on a dedicated MIS Portal. The nodal banks/agencies will only consider proposals for credit that has been approved by their respective branches. For other eligible Primary Lending Institutions (PLIs), SIDBI and NABARD will be the nodal agencies for releasing the subsidy under SCLCSS."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.scsthub.in/sites/default/files/training/NSSH_Guidelines_SCLCSS.pdf"
+    },
+    {
+      "title": "Guidelines-iI",
+      "url": "https://www.scsthub.in/content/special-credit-linked-capital-subsidy-scheme"
+    },
+    {
+      "title": "Circular",
+      "url": "https://www.scsthub.in/sites/default/files/K-02-12-2021-SME%20-%20timeline%20for%20one%20year.PDF"
+    },
+    {
+      "title": "Timeline For Applications",
+      "url": "https://www.scsthub.in/sites/default/files/resources/K-02-12-2021-SME-dt_11-04-2021.PDF"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://www.scsthub.in/sites/default/files/Application_Form_SCLCSS.pdf"
+    }
+  ],
+  "exclusions": "Units availing subsidy under SCLCSS shall not be allowed to avail any other subsidy for procurement of the same plant & machinery and equipment from any other scheme of Central / State Government and vice-versa. Fabricated or second-hand machinery.",
+  "documents_required": "Self-certified copy of UAM & GST Self-certified copy of PAN card - In case of proprietorship, PAN card of SC/ST proprietor ought to be submitted Self-certified copy of Caste certificate of proprietor/ all partners/ directors Details of shareholding in case of partnership / Pvt. Ltd / LLP firm. In case of partnership concerns, shareholding of the enterprise would be required to ascertain status of the MSE as SC/ST MSE (shareholding of SC/ST entrepreneur to be > 51%). Attested copy of Partnership Deed for Partnership Firm / Memorandum and Article of Association in case of LLP/Private Limited Company are required Attested or original copy (signature with stamp) of payment receipt and system generated GST invoice for total amount paid to respective testing center or laboratory for availing various testing services NABL/ BIS attested copy of final testing report received from the laboratory duly stamped and signed for all tests availed by SC-ST MSE unit Proof of transferred amount as reimbursement by NSSHO/ NSIC through PFMS under the scheme, where any such assistance is availed earlier with in the same financial year Cancelled Cheque of the current account of the enterprise from which the testing charges have been debited"
+}

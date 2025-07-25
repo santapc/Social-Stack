@@ -1,0 +1,51 @@
+{
+  "scheme_id": "673b3349a741096d774e39c9",
+  "slug": "mgpy",
+  "scheme_name": "Mukhyamantri Gram Parivahan Yojana",
+  "scheme_short_title": "MGPY",
+  "state": "Bihar",
+  "level": "State/ UT",
+  "nodal_department": "Transport Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Vehicle Purchase Grant",
+    "E-Rickshaw Subsidy",
+    "Healthcare Transportation",
+    "E-Mobility Promotion"
+  ],
+  "brief_description": "The Scheme provides financial assistance for purchasing vehicles to enhance transportation facilities in rural areas. It includes grants for regular vehicles, e-rickshaws, and ambulances under specified conditions.",
+  "detailed_description": "The &amp;quot;Mukhyamantri Gram Parivahan Yojana&amp;quot; launched by the Transport Department, Government of Bihar, aimed at improving transportation facilities in all panchayats of the state. It offers financial assistance to beneficiaries for purchasing vehicles.",
+  "benefits": [
+    "Standard vehicles: 50% of the purchase price or up to \u20b91,00,000/-. E-rickshaws: 50% of the purchase price or up to \u20b970,000/-. Ambulances: 50% of the purchase price or up to \u20b92,00,000/-."
+  ],
+  "eligibility_criteria": "The applicant must be a resident of the state. The applicant must belong to a rural area. The applicant should not have benefited from a similar scheme previously. For ambulance purchases, applicants must be willing to use it for public health services.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process: Step-1: Visit the official Website . Click on the \"Registration\" button. Step-2: Enter your Mobile Number, New Password, Email, and Driving License No. Step-3: Click on \"Register\" to complete the registration process.  Application Process: Step-1: Login with your registered Mobile Number and Password. Step-2: On the Application page, fill in all the required details and upload the relevant documents. Step-3: Then click on the declaration form and click on \"Submit\". Step-4: Once all details are filled in correctly, click on \"Print Application\" to get a copy of the application form."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://state.bihar.gov.in/cache/16/Smart%20City/Mukhyamantri%20Gram%20Parivahan%20Yojana/9613-7-8-24.pdf"
+    },
+    {
+      "title": "User Manual",
+      "url": "http://mmgpy.bihar.gov.in/attachments/instruction.pdf"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Proof of Address. Proof of Birth. Caste Certificate. Aadhaar Details (Optional). Driving License. Marksheets of qualified exams."
+}

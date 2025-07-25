@@ -1,0 +1,69 @@
+{
+  "scheme_id": "680b173aaafacc2850966428",
+  "slug": "ignwpsp",
+  "scheme_name": "Indira Gandhi National Widow Pension Scheme (Punjab)",
+  "scheme_short_title": "IGNWPSP",
+  "state": "Punjab",
+  "level": "State/ UT",
+  "nodal_department": "Department of Social Security and Development of Women and Children",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Pension",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Pension",
+    "Widow",
+    "Woman",
+    "Female"
+  ],
+  "brief_description": "\"Indira Gandhi National Widow Pension Scheme (IGNWPS)\" provides a pension of \u20b9300/- per month to widows aged 40 years and above. After attaining the age of 80 years, the pension amount increases to \u20b9500/- per month.",
+  "detailed_description": "The &quot;Indira Gandhi National Widow Pension Scheme (IGNWPS)&quot; is implemented by the Department of Social Security and Development of Women and Children, Government of Punjab. Under this scheme, widows aged 40 years and above receive a pension of \u20b9300/- per month. After attaining the age of 80 years, the pension amount increases to \u20b9500/- per month.",
+  "benefits": [
+    "Pension of \u20b9300/- per month for widows aged 40 to 79 years. Pension of \u20b9500/- per month for widows aged 80 years and above."
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Punjab. The applicant should be a widow. The age of the applicant should be above 40 years in age. The applicant should belong to a Below Poverty Line (BPL) family.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1:  The interested applicant should visit the District Social Security Officer and request a hard copy of the prescribed format of the application form from the concerned staff.",
+        "Step 2:  In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:  Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the District Social Security Officer .",
+        "Step 4:  Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Register on the UMANG Portal",
+        "Visit the official website of UMANG. In the top right corner of the landing page, click \"Register.\" You will be taken to the Registration Page. Fill in all the mandatory fields.",
+        "Step 2: Mobile Number Verification and MPIN Creation",
+        "You will be redirected to the mobile number verification page. Enter your mobile number and get it verified via OTP. Create an MPIN to complete the registration process. You will be taken to the UMANG homepage. Login using your Mobile Number and MPIN.",
+        "Step 3: Accessing Services on UMANG",
+        "Visit the \" National Social Assistance Programme (NSAP) \" page on UMANG and click \"Apply Online\".",
+        "Step 4: Completing the Application",
+        "In the application form, fill in all the mandatory fields and upload all the required documents in the specified format and size.",
+        "Step 5: Review and Confirmation",
+        "Carefully review all the information provided and the documents uploaded. Make any necessary corrections, if required. Acknowledge and agree to the terms and conditions, declaration, and privacy policy, if any.",
+        "Step 6: Submitting the Application",
+        "Click the \"Submit\" or \"Apply\" button to submit your application. You'll receive a confirmation message upon successful submission of the application."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sswcd.punjab.gov.in/en/indira-gandhi-national-widow-pension-scheme-ignwps-0"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Identity Proof i.e. Voter ID Card, Driving License Death Certificate of Husband Residence Proof Proof of Age Below Poverty Line (BPL) Card/ Related Documents Caste Certificate, if Applicable Address Proof Bank Passbook/ Bank Account Details Any Other Documents as Required"
+}

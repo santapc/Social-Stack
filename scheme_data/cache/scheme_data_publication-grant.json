@@ -1,0 +1,56 @@
+{
+  "scheme_id": "686e41118a1ff1233bd2ae27",
+  "slug": "publication-grant",
+  "scheme_name": "Scheme of Publication Grant/Subsidy for Publication of Doctoral Thesis/Research Report/ Papers Presented in Seminars/Conferences, etc.",
+  "scheme_short_title": "PUBLICATION GRANT",
+  "level": "Central",
+  "nodal_department": "Department Of Higher Education",
+  "implementing_agency": "Indian Council Of Social Science Research",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Universities and higher education"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "ICSSR Grants",
+    "Doctoral Thesis Support",
+    "Research Promotion",
+    "Academic Publishing",
+    "Social Science Research"
+  ],
+  "brief_description": "The Indian Council of Social Science Research (ICSSR), under the Ministry of Education, Government of India, provides financial assistance for the publication of high-quality doctoral theses, research project/fellowship reports, and seminar/conference papers in the field of social sciences.",
+  "detailed_description": "The Indian Council of Social Science Research (ICSSR), under the Ministry of Education, Government of India, provides financial assistance for the publication of high-quality doctoral theses, research project/fellowship reports, and seminar/conference papers in the field of social sciences. The maximum grant offered is Rs. 2,00,000, and manuscripts are evaluated by subject experts. The final publication must follow ICSSR publishing standards and is to be completed within one year from the date of grant. ICSSR pays the publisher directly and mandates submission of copies, royalty terms, and quality assurance. The publication must acknowledge ICSSR support. <br>",
+  "benefits": [
+    "1. Grant up to Rs. 2,00,000 for publishing the approved manuscript.",
+    "2. Direct payment to the publisher upon submission of required documents.",
+    "3. Includes cost of printing, editorial work, and production.",
+    "4. Royalty to be paid to the author (minimum 10% on actual sales).",
+    "5. ICSSR may purchase additional copies with a 25% discount."
+  ],
+  "eligibility_criteria": "1. Manuscripts must be based on social science research.\n2. Doctoral theses must be approved within the last 3 years.\n3. The author must have at least one research paper published in a reputed journal.\n4. Reports must be from ICSSR/non-ICSSR-funded projects/fellowships or seminar papers of quality.\n",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "ICSSR funded Research Reports",
+        "S. No. | Step | Action | Documents Required\n1. | Receipt of Manuscript | PRS Division receives manuscripts/reports from other ICSSR divisions. | Final ICSSR-funded Manuscript/Report\n2. | Expert Evaluation | PRS sends the manuscript for review by a subject expert. | Evaluation Report by Expert\n3. | Recommendations | Expert feedback forms the basis for approval. | Evaluation Report\n4. | Minutes Preparation | PRS prepares Minutes with expert recommendation. | Minutes of the meeting\n5. | Approvals | Minutes approved by Member Secretary and ICSSR Council.",
+        "6. | Publishers | Manuscript is sent to ICSSR empanelled publishers as per subject and Quotations are invited. | Publisher Quotations Manuscript Copy\n7. | Selection of Publisher | Best-suited publisher is selected based on quotation and domain expertise. | Comparative Quotation Sheet, Selection Note\n8. | Agreement & Sanction | Publisher submits Agreement and agreement is signed. | Agreement Copy\n9. | Final Editing & Review | Publisher shares edited version which is further reviewed by PRS and author. | Final Edited Copy, Author's Approval\n10. | Final Publication |  | Buy Back 100 copies",
+        "S. No | Step | Action | Documents Required\n1. | Application Submission | Applicant submits application on prescribed form (year-round). | Application Form, Annexure-I: Abstract, Annexure-II: CV, Annexure-III: Hardbound Manuscript, Annexure-IV: SC/ST Certificate (if applicable), Published Research Papers\n2. | Preliminary Scrutiny | PRS verifies eligibility, publication record, and document completeness. | Application and all other documents\n3. | Expert Evaluation | PRS sends manuscript to expert for academic review | Evaluation Report\n4. | Recommendations | Based on expert's opinions, PRS prepares recommendations. | Expert Report\n5. | Minutes Preparation | Recommendation is documented and sent for approval.",
+        "6. | Approvals | Member Secretary and ICSSR Council approve publication. | Signed Minutes\n7. | Applicants are informed | Applicants are informed about recommendation/non-recommendation of their manuscripts. | \n8. | Publisher Selection | ICSSR sends manuscripts to publishers for interest and quotes. | Publisher Quotations\n9. | Award of Publication Work | Best publisher is selected. | Comparative Quotation Sheet, Selection Note\n10. | Agreement & Sanction | Publisher submits agreement and agreement is signed. | Agreement Copy\n11. | Editing & Review | Publisher shares final edited draft; reviewed by author and PRS. | Final Draft, Author's Consent",
+        "12. | Final Publication | "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Publication Grant",
+      "url": "https://icssr.org/doctoral-theses-research-reports-etc"
+    }
+  ],
+  "exclusions": "1. Incomplete applications or missing documentation.\n"
+}

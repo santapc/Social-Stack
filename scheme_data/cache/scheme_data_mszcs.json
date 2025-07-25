@@ -1,0 +1,99 @@
+{
+  "scheme_id": "6597d9c0a733b1d7327708e9",
+  "slug": "mszcs",
+  "scheme_name": "MSME Sustainable (ZED) Certification Scheme",
+  "scheme_short_title": "MSZCS",
+  "level": "Central",
+  "implementing_agency": "Quality Council Of India (QCI)",
+  "dbt_scheme": false,
+  "categories": [
+    "Business & Entrepreneurship"
+  ],
+  "sub_categories": [
+    "Waste and environmental impact"
+  ],
+  "target_beneficiaries": [
+    "Business Entity"
+  ],
+  "tags": [
+    "Certification",
+    "Incentives",
+    "Rewards",
+    "Zero Defect Zero Effect",
+    "Business & Entreurprneurship"
+  ],
+  "brief_description": "MSME Sustainable (ZED) Certification Scheme is an extensive drive to create awareness amongst MSMEs about Zero Defect Zero Effect (ZED) practices and motivate and incentivize them for ZED Cerficaon while also encouraging them to become MSME Champions.",
+  "detailed_description": "Launched by the Ministry Of Micro, Small &amp; Medium Enterprises , MSME Sustainable (ZED) Certification Scheme is an extensive drive to create awareness amongst MSMEs about Zero Defect Zero Effect (ZED) practices and motivate and incentivize them for ZED Cerficaon while also encouraging them to become MSME Champions. <br> **Objective:** The ZED Certication envisages promotion of Zero Defect Zero Effect (ZED) practices amongst MSMEs so as to: - Encourage and enable MSMEs for manufacturing of quality products using latest technology, tools &amp; to constantly upgrade their processes for achievement of high quality and high productivity with the least effect on the environment. - Develop an Ecosystem for ZED Manufacturing in MSMEs, for enhancing competitiveness and enabling exports. - Promote adoption of ZED practices and recognising the efforts of successful MSMEs. - Encourage MSMEs to achieve higher ZED Certification levels through graded incentives. - Increase public awareness on demanding Zero Defect and Zero Effect products through the MSME Sustainable (ZED) Certification. - Identify areas to improve upon, thereby assisting the Government in policy decisions and investment prioritization. <br>",
+  "benefits": [
+    "Cost of Certification:",
+    "\u2022 Certification Level 1: BRONZE: \u20b9 10,000/-",
+    "\u2022 Certification Level 2: SILVER: \u20b9 40,000/-",
+    "\u2022 Certification Level 3: GOLD: \u20b9 90,000/-",
+    "Subsidy on cost of ZED certification:",
+    "\u2022 Joining Reward of \u20b9 10,000/- (Bronze will become free if availed)",
+    "\u2022 80-60-50% for Micro, Small & Medium Enterprises Additional subsidy:",
+    "\u2022 10% for Women/SC/ST owned MSMEs OR MSMEs in North Eastern Region (NER)/Himalayan/Left Wing Extremism(LWE)/Island territories/aspirational districts.",
+    "\u2022 5% for MSMEs which are also a part of the SFURTI OR Micro & Small Enterprises - Cluster Development Programme (MSE-CDP) of the Ministry",
+    "Additional subsidy:",
+    "\u2022 10% for Women/SC/ST owned MSMEs OR MSMEs in NER/Himalayan/LWE/Island territories/aspirational districts.",
+    "\u2022 5% for MSMEs which are also a part of the SFURTI OR Micro & Small Enterprises - Cluster Development Programme (MSE-CDP) of the Ministry.",
+    "Financial Assistance in Testing/Quality/Product Certification:",
+    "\u2022 Up to 75% of the total cost of Testing/Certification, with the maximum ceiling of subsidy being \u20b9. 50,000/-.",
+    "Handholding Support :",
+    "\u2022 Up-to \u20b9 2,000,00/- for consultancy for all ZED certified",
+    "MSMEs.",
+    "Support in Technology Upgradation for Zero Effect Solutions:",
+    "\u2022 Up-to \u20b9 3,000,00/- lakhs for all ZED certified MSMEs.",
+    "MSME KAWACH (Knowledge Acquisition through WASH for an Accelerated COVID-19 Handling) Certification:",
+    "\u2022 After taking ZED Pledge, MSMEs can avail support for their preparedness to mitigate COVID 19 risks after obtaining Certification based on WASH Standard.",
+    "Graded incentives:",
+    "MSMEs can avail graded incentives as prescribed for the three ZED Certification Levels. Wherever possible, the incentives provided by States will be linked through API integration with the ZED portal to ensure interoperability"
+  ],
+  "eligibility_criteria": "Should be a Micro, Small and Medium Enterprises (MSMEs) unit. Should be registered in Udyam portal. ",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration:",
+        "Step 01: Visit the official website. ",
+        "Step 02: Click on Register Now button under Zed Certification window.",
+        "Step 03: First time user click on Register Now button to register.",
+        "Step 04: Click on Proceed .",
+        "Step 05: Provide Udyam Registration Number and associated Mobile Number for Validation then Click on Proceed button.",
+        "Step 06: Select Plant Location and its Associated Plant Activity then Click on Proceed.",
+        "Step 07: Provide and Confirm Email ID, then Click on proceed.",
+        "Step 08: Click on Proceed to take pledge.",
+        "Step 09: ZED ID & Password and ZED Pledge Certificate will be sent on the email ID provided.",
+        "Login:",
+        "Step 01: Visit the official website. ",
+        "Step 02: Click on Register Now button under Zed Certification window.",
+        "Step 03: Click on Log In button.",
+        "Step 04: Provide login credentials which has already been sent to the registered Email ID , and click on Log In .",
+        "Step 05: Access to user dashboard and collect various joining rewards."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.dcmsme.gov.in/Guidelines_MSME%20Sustainable(ZED)%20Certification%20Scheme.pdf"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://zed.msme.gov.in/faqs"
+    },
+    {
+      "title": "User Manual For Registration",
+      "url": "https://zed.msme.gov.in/uploads/User_Manual_for_ZED_Registration_20.04.2022_2022.pdf"
+    },
+    {
+      "title": "Verify ZED Certificate",
+      "url": "https://zed.msme.gov.in/verify-zed-certificate"
+    },
+    {
+      "title": "Model And Standard",
+      "url": "https://zed.msme.gov.in/uploads/MSME_Sustainable_(ZED)_Model_and_Standard.pdf"
+    }
+  ],
+  "documents_required": "Udyam Registration Number of the Enterprise. Mobile Number that is associated with the Udyam Registration. Valid Email ID (Login credentials and information/document will be sent on the Unit Email ID) "
+}

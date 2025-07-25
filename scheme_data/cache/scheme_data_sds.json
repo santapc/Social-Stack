@@ -1,0 +1,46 @@
+{
+  "scheme_id": "6787b6d56fc4765b7e162947",
+  "slug": "sds",
+  "scheme_name": "Sugar Distribution Scheme",
+  "scheme_short_title": "SDS",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Food, Public Distribution and Consumer affairs Department",
+  "implementing_agency": "Directorate Of Food And Consumer Affairs",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Food Security / Public Distribution System"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Sugar",
+    "Subsidized Rate",
+    "Food"
+  ],
+  "brief_description": "The \"Sugar Distribution Scheme\" by the Department of Food, Public Distribution and Consumer Affairs, Government of Jharkhand, aims to provide subsidized sugar to AAY households under NFSA, ensuring access to essential food commodities at affordable rates.",
+  "detailed_description": "The &quot;Sugar Distribution Scheme&quot; by the Department of Food, Public Distribution and Consumer Affairs, Government of Jharkhand, aims to provide sugar at subsidized rates to the households under the Antyodaya Anna Yojana (AAY) scheme of the National Food Security Act (NFSA), 2013. Under this scheme, beneficiaries are ensured access to essential commodities at affordable prices to enhance food security.",
+  "benefits": [
+    "Subsidized Sugar Distribution: Eligible households receive sugar at reduced prices to improve affordability and accessibility. Targeted Beneficiaries: Focus on households under the Antyodaya Anna Yojana (AAY) for effective support to vulnerable sections. Disbursement: Monthly distribution ensures consistent support to beneficiaries."
+  ],
+  "eligibility_criteria": "The applicant must be a resident of Jharkhand. The applicant must belong to a household holding an Antyodaya Anna Yojana (AAY) ration card under the NFSA. The applicant should provide Aadhaar authentication or an Aadhaar number for identity verification.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Visit the nearest ration shop or designated enrollment center with the required documents. If Aadhaar is not available, apply for Aadhaar enrollment at an authorized center. Submit the Aadhaar number or Aadhaar Enrolment Identification Slip during registration. Verify the eligibility and documents with the designated officer. Collect the sugar from the distribution center as per the monthly schedule."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.jharkhand.gov.in/Home/ViewDoc?id=D009DO003SD00625102023010317649"
+    }
+  ],
+  "documents_required": "Aadhaar Card or Aadhaar Enrolment ID Slip. Bank or Post Office Passbook with Photo. Permanent Account Number (PAN) Card. Passport (if applicable). Ration Card. Voter Identity Card. MGNREGA Job Card. Kisan Photo Passbook. Driving License. Certificate of Identity with Photo (issued by a Gazetted Officer or Tehsildar)."
+}

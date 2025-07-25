@@ -1,0 +1,52 @@
+{
+  "scheme_id": "67714ba30c0f73c674c1d7df",
+  "slug": "jimwgs",
+  "scheme_name": "Jharkhand International Migrant Workers Grant Scheme",
+  "scheme_short_title": "JIMWGS",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Labour, Employment, Training and Skill Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance",
+    "Rehabilitation"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Deceased Worker",
+    "Abroad",
+    "Death"
+  ],
+  "brief_description": "The \"Chief Minister Jharkhand International Migrant Worker Grant Scheme\" aims to provide financial assistance to the dependents of Jharkhand residents who pass away while working abroad. This scheme ensures timely support to families affected by unforeseen tragedies during overseas employment.",
+  "detailed_description": "The &quot;Chief Minister Jharkhand International Migrant Worker Grant Scheme&quot; was launched by the Department of Labour, Employment &amp; Training, Government of Jharkhand. The scheme aims aims to provide financial assistance of \u20b95,00,000/- to the dependents of Jharkhand residents who pass away while working abroad. This scheme ensures timely support to families affected by unforeseen tragedies during overseas employment. <br> > ***Objective:*** - Covers accidental deaths, acts of violence, or natural causes. - Assistance includes cases of deaths caused by animal attacks, road accidents, and terrorism. - Coverage extends to nuclear radiation and war-related deaths.",
+  "benefits": [
+    "Financial assistance of \u20b95,00,000/- to dependents of deceased workers."
+  ],
+  "eligibility_criteria": "The applicant should be a dependent of the deceased workers. The deceased must be a Jharkhand resident and an Indian citizen. The family's annual income should not exceed \u20b972,000/-. The deceased age should be between 15 to 65 years. Eligible dependents include spouses, children, parents, or legal heirs. Death must be certified by the Ministry of External Affairs, Government of India.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the District Commissioner's office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "OR",
+        "Download the application form from the official website.",
+        "Step 2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents to the District Commissioner's office.",
+        "Step 4: Request a receipt or acknowledgment from the District Commissioner's office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://shramadhan.jharkhand.gov.in/ftp/WebAdmin/documents/International_migrant_workers_scheme_notification.pdf"
+    }
+  ],
+  "documents_required": "Death Certificate. Copy of FIR/Post-mortem Report (if applicable). Copy of the deceased migrant's passport and visa. Income Certificate of the dependent. Residence Certificate of the deceased migrant in Jharkhand. Two Self-attested Photographs of the dependent/claimant."
+}

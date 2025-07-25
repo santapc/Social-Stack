@@ -1,0 +1,56 @@
+{
+  "scheme_id": "67162042835cbb1e57f52298",
+  "slug": "fatlclnbsmec",
+  "scheme_name": "Financial Assistance to the Teachers/Lecturers Children who taken loan from Nationalised Banks for studying Medical/Engineering Courses",
+  "scheme_short_title": "FATLCLNBSMEC",
+  "state": "Karnataka",
+  "level": "State/ UT",
+  "nodal_department": "Department of School Education",
+  "dbt_scheme": true,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance",
+    "Education and training grants, fellowship, stipend"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Children",
+    "Teachers",
+    "Lecturers",
+    "Medical",
+    "Engineering Courses"
+  ],
+  "brief_description": "The \"Financial Assistance to the Teachers/Lecturers Children who taken loan from Nationalised Banks for studying Medical/Engineering Courses\" aims to provide financial assistance to the children of teachers/lecturers working in govt. & aided primary, secondary, graduate, & post-graduate institution.",
+  "detailed_description": "The \"Financial Assistance to the Teachers/Lecturers Children who taken loan from Nationalised Banks for studying Medical/Engineering Courses\" aims to provide financial assistance to the children of teachers/lecturers working in government and aided primary, secondary, graduate, and post-graduate institutions. This assistance helps reduce the financial burden on families by covering interest charges on educational loans for vocational courses in medicine and engineering, including postgraduate courses.",
+  "benefits": [
+    "One-time financial assistance up to \u20b950,000/- covers the interest component of educational loans availed from nationalized banks. ",
+    "Note: The sanctioned amount is directly transferred to the borrower's bank account."
+  ],
+  "eligibility_criteria": "The applicant parent should be a teacher/lecturer working in a government or aided institution with life membership of the Welfare Fund. The student must have passed each year or semester of the course on the first attempt. The student should have studied from 1 st to 10 th standard in government or aided schools in Karnataka. The applicant should have availed educational loan from a nationalized bank for professional education in medicine or engineering. The educational loan should be taken for courses within India. Only one child per family can avail of the financial assistance. Assistance is only available for final-year students in vocational medical, engineering, or postgraduate programs. ",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step-1: Download the prescribed application form the official website .",
+        "Step-2: Fill in the student and teacher's details in the application form.",
+        "Step-3: Attach the required documents (certified mark sheets, loan details, teacher's HRMS copy, proof of schooling, etc.).",
+        "Step-4: Get the proposal recommended by the Controlling Officer and the head of the concerned institution.",
+        "Step-5: Submit the complete application along with all certified documents to the Karnataka State Teachers' Welfare Fund office.",
+        "Step-6: Request a receipt or acknowledgment from the Karnataka State Teachers' Welfare Fund office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://schooleducation.karnataka.gov.in/uploads/schooledu_pdfs/tbfpdfs/TBFProfCourseCircular_201819.pdf"
+    }
+  ],
+  "exclusions": "The retired teacher's children are not eligible for this scheme.",
+  "documents_required": "Certified Mark Sheets of all years/semesters. Proof of Educational Loan (availed from a nationalized bank) Fee Payment Receipt Teacher's life membership (LMS) card attested by the head of the institution. Proof of school attendance (from 1st to 10th standard) certified by the head of the school and Taluk Constituent Education Officer. HRMS Copy or recruitment approval for teachers from aided institutions. Bank Passbook (Attested by a notary) Loan Details (including loan account number and interest paid)"
+}

@@ -1,0 +1,38 @@
+{
+  "scheme_id": "64410036ecfd2fb2b25ade27",
+  "slug": "dfbs",
+  "scheme_name": "Delhi Family Benefit Scheme",
+  "scheme_short_title": "DFBS",
+  "state": "Delhi",
+  "level": "State",
+  "nodal_department": "Social Welfare Department",
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "target_beneficiaries": [
+    "Family"
+  ],
+  "brief_description": "Family Benefit Scheme (NFBS) to assist those Below Poverty Line (BPL) families whose alone bread earner expires due to natural or accidental causes.",
+  "detailed_description": "**Detailed** The scheme provides for one-time assistance to the family members of the deceased primary breadwinner (male/female) of a household. **Objectives** 1. To provide social assistance to needy families in the case of the Death of the primary breadwinner of the household. 1. The beneficiaries&#39; home must be a BPL cardholder. 1. The applicant's home must have a singly operated account in any Bank or Post Office for receiving the payment through cheque. 1. The above condition may be relaxed in the case of minors, mentally challenged applicants, or those who come under the responsibility of Legal Guardianship as per the rules of the National Trust. 1. To strengthen the social security of the benefited families. <br>",
+  "benefits": [
+    "Benefits",
+    "One Time assistance of Rs 20,000/- is remitted to the bank account of the beneficiary as per the Aadhaar number/ account number of the beneficiary through PFMS portal."
+  ],
+  "eligibility_criteria": "Eligibility The age of the deceased should be between 18 to 60 years, i.e. death of the \"bread earner\" occurred while he/she was in the age group 18-60 years. \"Bread earner\" is defined as the member of the household whose earnings contributed the largest proportion to the total household income. Resident of Delhi for more than 5 years before the date of application The family income of the applicant should not be more than Rs 1,00,000/ per annum. The applicant should have an Aadhaar number The applicant should have a \u2018singly-operated' account in any Bank in the National Capital Territory of Delhi only for receiving the payment through Public Financial Management System (PFMS).",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Application process",
+        "Application to be made online on the e-District portal www.edistrict.delhigovt.nic.in by registering through citizen log-in or by approaching the concerned District Social Welfare Office. An Aadhaar number is mandatory for filling up the application- without Aadhaar, the application portal will not work. Self-attested documentary."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://edistrict.delhigovt.nic.in/eDownload/Eligibility/Guideline_2606.pdf"
+    }
+  ],
+  "documents_required": "List of required documents\nAge proof. Residence proof. Bank a/c number (Single a/c). This provision may be relaxed in the case of minors who can have a bank account under guardianship. Death certificate of the bread earner. One passport-size photo of the applicant. Income self-declaration in the format given on the portal itself."
+}

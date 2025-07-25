@@ -1,0 +1,60 @@
+{
+  "scheme_id": "677269910c0f73c674c30c83",
+  "slug": "cmrpvls",
+  "scheme_name": "Chief Minister Rural Path Vendor Loan Scheme",
+  "scheme_short_title": "CMRPVLS",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Panchayat and Rural Development Department",
+  "dbt_scheme": true,
+  "categories": [
+    "Business & Entrepreneurship"
+  ],
+  "sub_categories": [
+    "Loan"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Loan",
+    "Trader",
+    "Business",
+    "Financial Assistance",
+    "Vendor",
+    "Rural"
+  ],
+  "brief_description": "\"Chief Minister Rural Path Vendor Loan Scheme\" by the Panchayat and Rural Development Department, Government of Madhya Pradesh provides working capital assistance of up to \u20b910,000, promotes regular loan repayment, and trains entrepreneurs in business practices. The scheme targets small traders.",
+  "detailed_description": "&quot;Chief Minister Rural Path Vendor Loan Scheme&quot; by the Panchayat and Rural Development Department, Government of Madhya Pradesh provides working capital assistance of up to \u20b910,000, promotes regular loan repayment, and trains entrepreneurs in business practices. Street vendors (rehri wala, cycle wala, thela wala, etc) are an integral part of the rural informal economy. They provide various kinds of goods and services to the rural people at their homes at reasonable prices. They sell items like ice cream, fruits, samosa/kachori, bread-biscuits, chicken &amp; eggs, clothes, small utensils, shoes &amp; slippers, brooms, etc. They provide services like barbering, tool repair, etc. in rural areas. <br> Low-cost equipment or working capital is made available to poor migrant workers/ small traders of rural areas of the state in the form of loans through banks. Entrepreneurship Development (EDP) training is to be provided to rural migrant workers through the &quot;Self Employment Training Institute (RSET)&quot; for setting up new businesses. After training, the loan is provided by banks for setting up the business.",
+  "benefits": [
+    "Low-cost equipment or working capital is made available to poor migrant workers/ small traders of rural areas of the state in the form of loans through banks. Entrepreneurship Development Training is to be provided to rural migrant workers through the \"Self Employment Training Institute (RSET)\" for setting up new businesses. After training, an Interest-free loan of \u20b910,000/- is provided by banks for setting up the business."
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Madhya Pradesh. The applicant should be a resident of a rural area. The applicant should be a small trader or vendor from the rural poor class. The applicant should not have defaulted on any prior government loans.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Visit the Street Vendor Portal and click \"Register\".",
+        "Step 2: Verify your mobile number via OTP. Then select the \"Rural Path Vendor\" option.",
+        "Step 3: Verify your Aadhaar number by providing the OTP received on your Aadhaar-linked mobile number. (If your mobile number is not linked to Aadhaar, visit a kiosk for biometric verification). You will be taken to the online application page.",
+        "Step 4: In the online application form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size. Carefully review all the information. Make any necessary corrections.",
+        "Step 5: Click the \"Submit\" or \"Apply\" button to submit your application. You'll receive a confirmation message on SMS."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=602"
+    },
+    {
+      "title": "Registration",
+      "url": "https://kamgarsetu.mp.gov.in/"
+    },
+    {
+      "title": "User Manual For Registration",
+      "url": "https://kamgarsetu.mp.gov.in/Content/User-Manual-Registration.pdf"
+    }
+  ],
+  "documents_required": "Aadhaar Number Mobile Number linked to Aadhaar Samagra ID Bank Account Details"
+}

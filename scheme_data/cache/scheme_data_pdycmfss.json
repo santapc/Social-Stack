@@ -1,0 +1,55 @@
+{
+  "scheme_id": "6787cdd26fc4765b7e16511f",
+  "slug": "pdycmfss",
+  "scheme_name": "PVTGs Dakia Yojana (Chief Minister's Food Security Scheme)",
+  "scheme_short_title": "PDY(CMFSS)",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Food, Public Distribution and Consumer affairs Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Food Security / Public Distribution System"
+  ],
+  "target_beneficiaries": [
+    "Individual",
+    "Family"
+  ],
+  "tags": [
+    "Food",
+    "PVTG",
+    "Doorstep Delivery"
+  ],
+  "brief_description": "The \"PVTGs Dakia Yojana (Chief Minister's Food Security Scheme)\" by the Welfare Department, Government of Jharkhand. The scheme aims to ensure food security for Particularly Vulnerable Tribal Groups (PVTGs). It provides subsidized food grains to enhance their living conditions.",
+  "detailed_description": "The &quot;PVTGs Dakia Yojana (Chief Minister&#39;s Food Security Scheme)&quot; by the Welfare Department, Government of Jharkhand, aims to ensure food security for Particularly Vulnerable Tribal Groups (PVTGs). Under this scheme, subsidized food grains are provided to PVTG families to improve their living conditions.",
+  "benefits": [
+    "Food Security for PTG Families:",
+    "Free provision of 35 kg of wheat and rice per family per month at \u20b91 per kg.",
+    "Direct Village-Level Distribution:",
+    "Food grains are distributed at the village level by Block Welfare Officers.",
+    "Support for National Food Security:",
+    "Complements the \"Antyodaya Yojana\" by including all PVTG families in Jharkhand."
+  ],
+  "eligibility_criteria": "The applicant must belong to Particularly Vulnerable Tribal Groups (PVTGs). The applicant's family must be enrolled under the \"Antyodaya Yojana.\" The family should reside in designated PVTG areas or remote locations.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "To avail the benefits of the scheme, the eligible applicant may visit the nearest Block Welfare Office with all the relevant documents."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (New)",
+      "url": "https://jharkhandsfc.in/pdf/intrn_rprt/report_rohan_raj.pdf"
+    },
+    {
+      "title": "Guidelines (Old)",
+      "url": "https://www.jharkhand.gov.in/Home/ViewDoc?id=D030DO004SD001115012019014114455"
+    }
+  ],
+  "documents_required": "Aadhaar Card (If applicable). Ration Card (If applicable)."
+}

@@ -1,0 +1,52 @@
+{
+  "scheme_id": "650683637243a4f0303eaf73",
+  "slug": "vdrry",
+  "scheme_name": "Vishvakarma Durghatana Mrtyu par Antyeshti Evan Anugrah Raashi Bhugataan Yojana",
+  "scheme_short_title": "VDRRY",
+  "state": "Chhattisgarh",
+  "level": "State",
+  "nodal_department": "Labour Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual",
+    "Family"
+  ],
+  "tags": [
+    "Death Benefits",
+    "Construction Worker",
+    "Financial Assistance"
+  ],
+  "brief_description": "Chhattisgarh state Government started a scheme \"Vishvakarma Durghatana Mrtyu Par Antyeshti Evan Anugrah Raashi Bhugataan Yojana\" for labor workers.",
+  "detailed_description": "Chhattisgarh state Government started a scheme &quot;Vishvakarma Durghatana Mrtyu Par Antyeshti Evan Anugrah Raashi Bhugataan Yojana&quot; for labor workers. Under this scheme, benefits will be provided to the workers and their family members. The main objective of starting the scheme is to provide financial help to the workers of the state. If any accident happens to a worker while working, then he or his family members are provided financial assistance under this scheme.",
+  "benefits": [
+    "Financial Assistance under following circumstances",
+    "In the case of normal death \u20b9 25,000/- and Funeral assistance of \u20b9 5,000/- In the case of accidental death: \u20b9 1,00,00/- and Funeral assistance of \u20b9 5,000/- In case of permanent disability: \u20b9 75,000/-"
+  ],
+  "eligibility_criteria": "Age should be between 18 to 60 years. The construction worker should be registered as a beneficiary under Section 12 of the Act. Payment of funeral assistance and ex-gratia is not provided in case of death caused by deliberate suicide or consumption of intoxicating substances or substances or death due to fighting with each other in violation of law in order to commit crime. The benefit of the scheme will be given only on the death of the registered worker and not on the death or accident of the family member.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "In case of normal death/accidental death/permanent disability, the application will be accepted for one year from the date of death/ accident. The application under the scheme will have to be submitted within the time limit in any choice center or labor office of the concerned area.. It will be mandatory to attach a scanned copy of the registration certificate."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Details",
+      "url": "https://cglabour.nic.in/BOCW/ApplicationSchemes.aspx"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://cglabour.nic.in/mrityu.pdf"
+    }
+  ],
+  "exclusions": "Funeral assistance and ex-gratia payments are not offered for deaths resulting from intentional suicide, the consumption of intoxicating substances, or fatalities resulting from unlawful altercations intended to commit a crime.",
+  "documents_required": "Death certificate. Hospital Certificate. Police FIR copy. Bank passbook photo copy."
+}

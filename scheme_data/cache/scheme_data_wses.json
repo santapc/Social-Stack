@@ -1,0 +1,51 @@
+{
+  "scheme_id": "66c899c268f0b662fd9765f4",
+  "slug": "wses",
+  "scheme_name": "Women Self Employment Scheme",
+  "scheme_short_title": "WSES",
+  "state": "Himachal Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Department of Social Justice and Empowerment",
+  "dbt_scheme": false,
+  "categories": [
+    "Women and Child",
+    "Business & Entrepreneurship"
+  ],
+  "sub_categories": [
+    "Financial Assistance",
+    "Setting up / start-up / entrepreneurship"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Women",
+    "Business",
+    "Self-Employment"
+  ],
+  "brief_description": "The \"Women Self Employment Scheme\" encourages women to become self-reliant and supports their efforts in establishing small-scale industries or trade ventures, thereby improving their economic status & promoting self-employment opportunities across the state providing them financial assistance.",
+  "detailed_description": "The &quot;Women Self Employment Scheme&quot; was launched by the Department of Social Justice and Empowerment, Government of Himachal Pradesh. The scheme aims to provide financial assistance to women to start small businesses or trades. This scheme encourages women to become self-reliant and supports their efforts in establishing small-scale industries or trade ventures, thereby improving their economic status and promoting self-employment opportunities across the state. <br> > ***Purpose:*** The assistance will be given for establishing Tea stall/ Karyana shops/ Pan bidi/cigarette shops/Stationery shop/Tea biscuit shop/Tailor shop/Wool/Khadi/Embroidery shop/Poultary farm/ Maniyari shop/ and any other income generation activities/needs base/identified at local level.",
+  "benefits": [
+    "Financial Assistance of \u20b95,000/- provides women to help them start small businesses or trade activities."
+  ],
+  "eligibility_criteria": "The applicant should be a woman. The applicant should set up their own business trade, and small industry to earn their livelihood. The applicant's annual income does not exceed \u20b935,000/-. Physically handicapped individuals are also eligible to apply under this scheme. ",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the District Welfare Officer and request a hard copy of the prescribed format of the application form (Annexure-I) from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents to the District Welfare Officer.",
+        "Step 4: Request a receipt or acknowledgment from the District Welfare Officer to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://himachal.nic.in/WriteReadData/l892s/176_l892s/Self%20Employment%20to%20Women-12980152.pdf"
+    }
+  ],
+  "documents_required": "Income Certificate. Bond Form. Aadhaar card. Any other document if required."
+}

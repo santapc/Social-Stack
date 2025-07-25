@@ -1,0 +1,72 @@
+{
+  "scheme_id": "642e4a5cc0dc428bd8a81360",
+  "slug": "hdps",
+  "scheme_name": "Haryana Divyang Pension Scheme",
+  "scheme_short_title": "HDPS",
+  "state": "Haryana",
+  "level": "State",
+  "nodal_department": "Social Justice and Empowerment Department",
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Pension"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Pension",
+    "Disabled Person",
+    "Divyang",
+    "PwD"
+  ],
+  "brief_description": "This is a State scheme under which disabled persons of Haryana domicile with a minimum 60% disability and are 18 years of age and above, are given pension as per eligibility criteria laid down in the rules of the scheme.",
+  "detailed_description": "The \"Haryana Divyang Pension Scheme\" was introduced by the Government of Haryana in the financial year 1981-82 to provide social security to disabled individuals in the state. The scheme aims to support disabled persons who are unable to sustain themselves through their own resources and require financial assistance from the state. Under this scheme, disabled persons who are domiciles of Haryana, have a minimum of 60% disability, and are 18 years of age or older, are eligible for a pension based on the criteria outlined in the scheme's rules.",
+  "benefits": [
+    "Under this scheme, financial assistance of \u20b93,000/- per month is provided as a pension to disabled persons with a minimum of 60% disability."
+  ],
+  "eligibility_criteria": "1. The applicant should be a domicile of Haryana and should have been residing in the state for at least 3 years at the time of submitting the application. 2. The applicant should be 18 years of age or older. 3. The applicant's self-income from all sources should not exceed the minimum wage for unskilled labour as notified by the Labour Department. 4. The applicant should have a disability ranging from 60% to 100%. 5. The applicant should have one of the following disabilities: \u2022 Blindness \u2022 Low vision \u2022 Leprosy cured \u2022 Hearing impairment \u2022 Locomotor disability \u2022 Intellectual disability (Mental Retardation) \u2022 Mental illness",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process on Antyodaya-SARAL Portal: Step 1: The eligible applicant may apply online through the Official Portal- Antyodaya-SARAL Portal . Step 2: If the applicant is not registered on the portal, he/she gets registered there. Step 3: For registration, click \" New User \" under \u2018Sign In Here' and fill in all the mandatory details i.e. Name, Email ID, Mobile Number, Password & State. Click on \u2018Submit'. Step 4: Verify your mobile number and email ID through the received OTP and complete the registration process. Login to apply for the scheme: Step 1: To avail the benefits of the scheme, visit the Official Antyodaya-SARAL Portal and log in through the email ID used while registering. Step 2: Enter Password & Captcha and click on \u2018Login'. Step 3: After successful login, click on \u2018Apply for Services' and then \u2018View all Available Services'. Step 4: Now, you can search for the scheme and click on \u2018Proceed to Apply' to fill out the application form. Step 5: Fill in all the mandatory details and upload all the mandatory documents. Step 6: Preview the application form and click on \u2018Submit'. Tracking of Application: Applicants can track their applications through the Official Antyodaya-SARAL Portal by entering their Department Name, Scheme Name, and Application Reference ID."
+      ]
+    },
+    {
+      "mode": "Online - via CSC",
+      "steps": [
+        "The eligible applicant may apply for the benefits of scheme through e-disha Center and Atal Seva Kendra."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Scheme Details-1",
+      "url": "https://socialjusticehry.gov.in/haryana-divyang-pension-schemes/"
+    },
+    {
+      "title": "Scheme Details-2",
+      "url": "https://haryana.gov.in/scheme/disability-pension-scheme/"
+    },
+    {
+      "title": "Scheme Details-3",
+      "url": "https://cdnbbsr.s3waas.gov.in/s37b7a53e239400a13bd6be6c91c4f6c4e/uploads/2020/05/2020051430.pdf"
+    },
+    {
+      "title": "Notification-1",
+      "url": "https://cdnbbsr.s3waas.gov.in/s392bbd31f8e0e43a7da8a6295b251725f/uploads/2021/07/2021072344.pdf"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://cdnbbsr.s3waas.gov.in/s392bbd31f8e0e43a7da8a6295b251725f/uploads/2024/02/20240219896257206.pdf"
+    },
+    {
+      "title": "Notification- 2",
+      "url": "https://cdnbbsr.s3waas.gov.in/s392bbd31f8e0e43a7da8a6295b251725f/uploads/2023/04/2023042469.pdf"
+    }
+  ],
+  "exclusions": "1. \"Pension\" wherever occurring in any Government notification concerning Social Security Benefits means and includes, income received or accrued from accumulated earnings, including schemes: \u2022 Provident Funds, or \u2022 Annuities from any source including Commercial Banks, Financial Institutions or Insurance.",
+  "documents_required": "Identity proof i.e. Aadhaar Card Passport-size photograph Domicile certificate Disability certificate of 60% & above Proof of age Proof of address Income proof/certificate Ration Card Any other documents as required"
+}

@@ -1,0 +1,51 @@
+{
+  "scheme_id": "645b43de4358152a4789f95f",
+  "slug": "wdenp",
+  "scheme_name": "Widow/Abandoned/Single Woman Pension Scheme",
+  "scheme_short_title": "WDENP",
+  "state": "Himachal Pradesh",
+  "level": "State",
+  "nodal_department": "Department of Social Justice and Empowerment",
+  "dbt_scheme": true,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Pension",
+    "Financial assistance",
+    "Assistance to Widows"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Widow Pension",
+    "Financial Assistance"
+  ],
+  "brief_description": "Widow/Abandoned/Single Woman Pension Scheme of Himachal Pradesh Government aims to provide financial help to widows, abandoned women, and unmarried women shall be entitled to receive pension for a sum of Rs.1,150/-per month.",
+  "detailed_description": "**Widow/Abandoned/Single Woman Pension Scheme** is a scheme under the Social Welfare and Empowerment Department, Government of Himachal Pradesh. The scheme aims to provide financial help to widows, abandoned women, and unmarried women shall be entitled to receive pension for a sum of Rs.1,150/-per month. The scheme aims to improve the quality of life of these women who are unable to support themselves financially.",
+  "benefits": [
+    "Financial assistance of Rs.1,150/- per month to eligible widows, deserted women, and unmarried women. The pension amount is disbursed directly to the beneficiary's bank account. It helps improve the standard of living of eligible women and reduces their financial burden. Provides a sense of security and support to eligible women."
+  ],
+  "eligibility_criteria": "Applicant must be a resident of Himachal Pradesh. Applicant must be a widow, deserted woman, or unmarried woman. Applicant's annual income should not exceed Rs. 35,000.\n",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Eligible women may download or obtain the application form for the Widow/Abandoned/Single Woman Pension Scheme and submit to respective Gram Panchayat or block development office. Fill out the application form with accurate personal and income details. Attach the required documents such as income certificate, identity proof, age proof, and bank account details. Submit the completed application form along with the necessary documents to the respective Gram Panchayat or block development office."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "http://esomsa.hp.gov.in/sites/default/files/Notification_SSP_0.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "http://esomsa.hp.gov.in/sites/default/files/scan0001-44250128_0.pdf"
+    }
+  ],
+  "documents_required": "Recommendation from the concerned Gram Panchayat. Copy of the Parivar Register Aadhaar Card. Bank Account."
+}

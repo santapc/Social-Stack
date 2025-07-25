@@ -1,0 +1,67 @@
+{
+  "scheme_id": "67629fbef41779c1f97102d8",
+  "slug": "pmssb",
+  "scheme_name": "Post-Matric Scholarship Scheme-Bihar",
+  "scheme_short_title": "PMSSB",
+  "state": "Bihar",
+  "level": "State/ UT",
+  "nodal_department": "Minority Welfare Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Scholarship",
+    "Post-Matric",
+    "Higher Education Support",
+    "Backward Classes",
+    "Other Backward Classes",
+    "Minority Welfare"
+  ],
+  "brief_description": "The \"Post-Matric Scholarship Scheme-Bihar\" aims to provide financial assistance to eligible students from Extremely Backward Classes (EBC) and Other Backward Classes (OBC) for their post-secondary education.",
+  "detailed_description": "The \"Post-Matric Scholarship Scheme-Bihar\" is designed to support students from disadvantaged communities by covering their educational expenses for post-secondary courses. The scholarship is intended for students belonging to categories from Extremely Backward Classes (EBC) and Other Backward Classes (OBC). This initiative promotes access to higher education and helps reduce the financial burden on families from these communities. &lt;br&gt;",
+  "benefits": [
+    "Scholarship and maintenance allowance will be payable on the basis of the criteria prescribed in the resolution issued by the Government of India from time to time."
+  ],
+  "eligibility_criteria": "The applicant should be a permanent resident of Bihar state. The caste of the applicant should be included in the list of Backward Class and Extremely Backward Class issued by the state government. The applicant should be studying in higher classes after passing the Matriculation/Entry Examination. The family's annual income must not exceed the below-mentioned limit: Extremely Backward Classes (EBC): \u20b92,50,000/-. Other Backward Classes (OBC): \u20b93,00,000/-. The scholarship will be awarded to only two (2) sons of the applicant's parents. This rule will not apply to daughters.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration:",
+        "Step 1: Visit the official Post-Matric Scholarship Portal .",
+        "Step 2: Click on \"New Students Registration\".",
+        "Step 3: Verify your Aadhaar details and mobile number.",
+        "Login:",
+        "Step 1: Visit the official Post-Matric Scholarship Portal .",
+        "Step 2 : Click on \"Login For Already Registered Students\". Log in using the required credentials.",
+        "Step 3: After getting the applied scholarship details, enter personal details, mobile verification and bank account details. Also, it will be mandatory to enter the details of the institute, course and certificates correctly.",
+        "Step 4: Verify all details and submit the application.",
+        "Step 5: Download and print the submitted application for future reference.",
+        "Helpdesk:",
+        "Mobile:",
+        "+91-9534547098",
+        "+91-8986294256",
+        "Mail: postmatricbiharhelp2223@gmail.com"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://pmsonline.bih.nic.in/pmsedu2223/(S(05cddllei4wwdyhxtllm3h04))/pms/SamplePdf/PMSPPORTAL2021_Guidelines.pdf"
+    },
+    {
+      "title": "User Manual",
+      "url": "https://www.pmsonline.bih.nic.in/pmsedubcebc2223/(S(gea1x5cmci00rssuy1dqb3tu))/PMS/SamplePdf/StudentRegistration.pptx"
+    }
+  ],
+  "exclusions": "After passing one level course, studying in another equivalent course will not be entitled to scholarship, for example, after passing I.S.C. examination, studying in I.A., after passing B.A. examination, studying in B.Com. and after doing M.Sc., studying in M.A. class will not be given scholarship.",
+  "documents_required": "Proof of identity (Aadhaar Card). Caste certificate. Domicile certificate. Income certificate of the family. Bank account details. Admission letter and fee receipt from the educational institution. Bonafide certificate. Last Exam Passing Marksheet. Passport-size photographs. Any other documents (if required). Note: File size of each document should be less than 400kb and scanned in Black and White. "
+}

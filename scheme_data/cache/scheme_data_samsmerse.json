@@ -1,0 +1,61 @@
+{
+  "scheme_id": "67b5bfebd6a94de2eee25392",
+  "slug": "samsmerse",
+  "scheme_name": "Scheme for Assistance to Micro, Small and Medium Enterprises (MSME): Rehabilitation of Sick Enterprises",
+  "scheme_short_title": "SAMSMERSE",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Industries and Mines Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Business & Entrepreneurship"
+  ],
+  "sub_categories": [
+    "Setting up / start-up / entrepreneurship"
+  ],
+  "target_beneficiaries": [
+    "Business Entity",
+    "Industries"
+  ],
+  "tags": [
+    "Business",
+    "Entrepreneurship",
+    "MSMEs",
+    "Start Up"
+  ],
+  "brief_description": "The \"Scheme for Assistance to Micro, Small and Medium Enterprises (MSME)\" launched by the Industries and Mines Department aims to position Gujarat as a global business hub, promoting sustainable manufacturing, MSME growth, and export competitiveness.",
+  "detailed_description": "The scheme &amp;quot;Scheme for Assistance to Micro, Small and Medium Enterprises (MSME)&amp;quot; is an umbrella scheme launched by the Industries and Mines Department, Gujarat. It aims to empower the state&amp;#39;s dynamic MSME sector, which significantly contributes to employment, GDP, and exports. Effective from August 7th, 2020 to August 6th, 2025, this initiative supports entrepreneurs and strengthens MSMEs, making them globally competitive. The component &amp;quot;Rehabilitation of Sick Enterprises&amp;quot; aims to support MSME sick industrial enterprises that meet the RBI&amp;#39;s criteria for sickness.",
+  "benefits": [
+    "Financial Reimbursement: 50% of the cost of preparing the Draft Rehabilitation Scheme is reimbursed, up to a maximum of \u20b91,00,000/-."
+  ],
+  "eligibility_criteria": "The enterprise must be an MSME (Micro, Small, or Medium Enterprise). The enterprise must satisfy the RBI guidelines for sickness. The application must be submitted with audited balance sheets for verification.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process:",
+        "Step-1: Visit the Investor Facilitation Portal (IFP) portal. Click on \"New Investor Registration\" to access the registration form.",
+        "Step-2: Fill in the Registration Form. Click on \"Submit\".",
+        "Step-3: Verify the E-mail ID using the link sent on your registered E-mail ID.",
+        "Step-4: After verification, you will be registered successfully.",
+        "Post-Registration Process:",
+        "Step-1: Visit the Investor Facilitation Portal (IFP) portal. Click on \"Login\".",
+        "Step-2: Enter the email address and password you used during registration.",
+        "Step-3: Click the \"Login\" button to access your account.",
+        "Step-4: Now fill in the required details and mandatory documents about your business to complete the application process.",
+        "Helpdesk: Contact Here. "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://ic.gujarat.gov.in/documents/commondoc/2020/3-GR_02092020.pdf"
+    },
+    {
+      "title": "Online Application Portal",
+      "url": "https://ifp.gujarat.gov.in/IC/digigov.htm?actionFlag=loadCitizenRegPage"
+    }
+  ],
+  "documents_required": "For General Purpose Registration: Application form in prescribed format Copy of constitution of enterprise i.e partnership deed/ Article of Association/ Memorandum of Association, ROC certificate etc. Copy of EM Part II registration or Udhyog Aadhar. Last three years Audited Balance Sheet and Profit Loss account. CA certificate for fulfillment of RBI guideline of sick unit by the Enterprise  For Assistance for Diagnostic Study Report: Letter of Government Department / Bank/ Financial Institution who recommended to prepare diagnostic study report for rehabilitation of enterprise. Copy of letter of confirmation by Expert/ Expert Agency agreed to prepare diagnostic study report with cost for preparation of report. Copy of receipt of payment by Expert/ Expert Agency. Copy of diagnostic study report submitted by Expert/ Expert Agency."
+}

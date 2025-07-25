@@ -1,0 +1,71 @@
+{
+  "scheme_id": "680a02cb41f9fb65ecb3453f",
+  "slug": "ignoapsp",
+  "scheme_name": "Indira Gandhi National Old Age Pension Scheme (Punjab)",
+  "scheme_short_title": "IGNOAPSP",
+  "state": "Punjab",
+  "level": "State/ UT",
+  "nodal_department": "Department of Social Security and Development of Women and Children",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Pension",
+    "Old Age",
+    "Below Poverty Line",
+    "BPL",
+    "Senior Citizen"
+  ],
+  "brief_description": "In this scheme, persons aged between 60 and 79 years receive a pension of \u20b9200/- per month, while those aged 80 years and above receive \u20b9500/- per month. The scheme applies only to persons belonging to the Below Poverty Line (BPL) category.",
+  "detailed_description": "The &quot;Indira Gandhi National Old Age Pension Scheme (IGNOAPS)&quot; is a social welfare initiative by the Department of Social Security and Development of Women and Children, Government of Punjab. In this scheme, persons aged between 60 and 79 years receive a pension of \u20b9200/- per month, while those aged 80 years and above receive \u20b9500/- per month. The scheme applies only to persons belonging to the Below Poverty Line (BPL) category.",
+  "benefits": [
+    "\u20b9200/- month, for persons aged 60 to 79 years. \u20b9500/- month, for persons aged 80 years and above."
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Punjab. The applicant should be 60 years of age or older. The applicant should be from a Below Poverty Line (BPL) family. The applicant should not be receiving pension benefits under any social security scheme.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1:  The interested applicant should visit the District Social Security Officer and request a hard copy of the prescribed format of the application form from the concerned staff.",
+        "Step 2:  In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:  Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the District Social Security Officer .",
+        "Step 4:  Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Register on the UMANG Portal",
+        "Visit the official website of UMANG. In the top right corner of the landing page, click \"Register.\" You will be taken to the Registration Page. Fill in all the mandatory fields.",
+        "Step 2: Mobile Number Verification and MPIN Creation",
+        "You will be redirected to the mobile number verification page. Enter your mobile number and get it verified via OTP. Create an MPIN to complete the registration process. You will be taken to the UMANG homepage. Login using your Mobile Number and MPIN.",
+        "Step 3: Accessing Services on UMANG",
+        "Visit the \" National Social Assistance Programme (NSAP) \" page on UMANG and click \"Apply Online\".",
+        "Step 4: Completing the Application",
+        "In the application form, fill in all the mandatory fields and upload all the required documents in the specified format and size.",
+        "Step 5: Review and Confirmation",
+        "Carefully review all the information provided and the documents uploaded. Make any necessary corrections, if required. Acknowledge and agree to the terms and conditions, declaration, and privacy policy, if any.",
+        "Step 6: Submitting the Application",
+        "Click the \"Submit\" or \"Apply\" button to submit your application. You'll receive a confirmation message upon successful submission of the application."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sswcd.punjab.gov.in/en/indira-gandhi-national-old-age-pension-schemes-ignoaps-0"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://nsap.nic.in/circular.do?method=faq"
+    }
+  ],
+  "documents_required": "Identity Proof (Voter ID Card, Driving License) Residence Proof Proof of Age Below Poverty Line (BPL) Card Address Proof Bank Account Details"
+}

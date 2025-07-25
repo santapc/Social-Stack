@@ -1,0 +1,57 @@
+{
+  "scheme_id": "67604dde9179d18db5f5af0d",
+  "slug": "gsccs",
+  "scheme_name": "Guruji Student Credit Card (GSCC) Scheme",
+  "scheme_short_title": "GSCCS",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Higher and Techical Education Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning",
+    "Banking,Financial Services and Insurance"
+  ],
+  "sub_categories": [
+    "Loan",
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Student",
+    "Loan",
+    "Higher Education",
+    "Interest Rate"
+  ],
+  "brief_description": "Under this scheme, a financial support initiative by the Jharkhand Government to help students pursue higher education without financial constraints. Under this scheme, eligible students can avail of education loans up to \u20b915,00,000 at a subsidized 4% simple interest rate, with additional benefits.",
+  "detailed_description": "The Guruji Student Credit Card (GSCC) Scheme was launched by the Department of Higher and Technical Education, Government of Jharkhand. The scheme aims to provide financial support to students pursue higher education without financial constraints. Under this scheme, eligible students can avail education loans up to \u20b915 lakhs at a subsidized 4% simple interest rate, with additional benefits for female students.",
+  "benefits": [
+    "Education loans up to \u20b915,00,000/- at a subsidized 4% interest rate. Long Repayment Term: Maximum repayment tenure of up to 15 years. No Processing Fees: No additional fees for loan processing, sanctioning, or disbursement. "
+  ],
+  "eligibility_criteria": "The applicant should be a student. The student should be an Indian national. The student should have completed class 10th to pursue a diploma and class 10th and 12th to pursue undergraduate or higher courses from a recognized school in Jharkhand. The student should have secured admission in institutions like IITs, IIMs, IIESTs, ISIs, NLUs, AIIMSs, NITs, XLRI, IISCs, BITS, SPA, NID, IIFTs, ICFAI Business School etc within and outside of the state (within India) which are ranked up to 200 in the overall list or ranked up to 100 in their respective individual category of NIRF Rankings or have been accredited grade either \"A\" or above by NAAC. The student should not be aged more than 40 (forty) years at the time of application for loan. The student should not be a prior beneficiary of the scheme. The student should not have availed education loan from any State Co-operative Banks, Central Co-operative Banks, District Central Co-operative Banks, or any Public or Private sector Banks for the course in which he/she is applying for a loan under the Scheme.\n",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process:",
+        "Interested candidate visits the official website GSCCS: Student Credit Card Scheme \u2013 Jharkhand Click on \"Registration\" and fill name, email id, captcha, verify the OTP. After verification, you get a registration number via SMS.",
+        "Login Process:",
+        "Enter user ID, Password and captcha Click on \"Login\", after that fill the application form basic detail, address Upload profile photo and signature Click on \"Submit\" and you will get application id",
+        "Loan Process:",
+        "Student MLI (Member lending institution) Selection: Student selects an MLI from the onboarded list for loan processing. Loan Approval by MLI: MLI reviews and approves/rejects the loan application, specifying loan amount and disbursement timeline. Loan Details Upload by MLI: MLI uploads loan details including amount, duration, and repayment period, along with the sanction letter. Interest Subvention Block by Corpus Bank: Corpus Bank blocks the required interest subvention amount based on the disbursed loan. Course Fee Disbursement by MLI: MLI disburses the institutional expense to the institution's account as per the student's payment schedule. Interest Subvention Payment to MLI: The portal auto-pays the MLI the interest subvention amount at the agreed frequency. Repayment Schedule Upload by MLI: MLI uploads the repayment schedule and raises an interest subvention request to DHTE. Loan Status Validation by Portal: The portal auto-validates the loan status for all stakeholders, showing interest payment updates. Interest Disbursement by Corpus Bank: DHTE sends a request to Corpus Bank for disbursement of interest subvention to the MLI."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://gscc.jharkhand.gov.in/sample%20files/guruji_guidelines.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://gscc.jharkhand.gov.in/"
+    }
+  ],
+  "documents_required": "Aadhaar Card. Colour Passport-size Photograph. Admission Document/Letter. Ration Card. Resident Certificate. Income Certificate. Caste Certificate. Bank Passbook. Birth Certificate. "
+}

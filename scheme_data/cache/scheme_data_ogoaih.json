@@ -1,0 +1,50 @@
+{
+  "scheme_id": "6838084bb0d5cc1154aa2c27",
+  "slug": "ogoaih",
+  "scheme_name": "Government-Run Old Age and Infirm Homes",
+  "scheme_short_title": "GROAIH",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "Department Of Social Welfare",
+  "dbt_scheme": false,
+  "categories": [
+    "Housing & Shelter",
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Shelter",
+    "Shelter, integrated support and assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Old-age Home",
+    "Infirm Home",
+    "Senior Citizen",
+    "Shelter"
+  ],
+  "brief_description": "Under this scheme, free residential, food, clothing, and healthcare are provided to destitute elderly individuals above 60 years in state-run residential facilities.",
+  "detailed_description": "The \"Government-Run Old Age and Infirm Homes\" scheme was launched by the Department of Social Welfare, Government of Uttarakhand. It aims to provide shelter and essential care to destitute elderly residents of the state. Under this scheme, senior citizens are provided free accommodation, meals, clothing, and healthcare in state-run residential facilities. Currently, four homes are operational in the districts of Chamoli, Bageshwar, Uttarkashi &amp;amp; Dehradun.",
+  "benefits": [
+    "The following facilities are provided to elderly individuals in government-run Old Age and Infirm Homes: Free accommodation Free nutritious meals Free clothing Free medical care, etc."
+  ],
+  "eligibility_criteria": "The applicant must be a permanent resident of Uttarakhand. The applicant should be a male or female. The applicant's age must be 60 years or above. There is no income ceiling for eligibility. The applicant must not have a communicable disease (certified by a government doctor).",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Application Process:",
+        "Step 1: The eligible applicant should visit (during office hours) the District Magistrate, District Social Welfare Officer, or Superintendent of the concerned government shelter home and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications. Step 2: In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attested, if required). Step 3: Submit the duly filled and signed application form along with the documents to The District Magistrate, or The District Social Welfare Officer, or Superintendent of the concerned government shelter home. Post-application Process: Step 1: The district magistrate directs the revenue department to conduct a verification process. Step 2: The revenue inspector inspects and reports, followed by the tehsildar's recommendation. Step 3: Based on all verifications, the district magistrate issues an official order for residence at the shelter. Step 4: The beneficiary is admitted into the government shelter home thereafter.",
+        "Note: If the applicant undergoes a medical examination by a government doctor to confirm a non-contagious health status."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Page No. 20)",
+      "url": "https://cdnbbsr.s3waas.gov.in/s339e6f67916920d9419b3d92cf1e9a958/uploads/2025/03/202503051772421971.pdf"
+    }
+  ],
+  "documents_required": "Copy of Aadhaar Card Copy of Family Register Verification note by Gram Pradhan (rural) or Ward Member (urban) Medical Certificate declaring non-infectious condition Revenue Inspector's Report and Tehsildar's Recommendation"
+}

@@ -1,0 +1,58 @@
+{
+  "scheme_id": "676153bad3ff44f8f1b7f6e0",
+  "slug": "mnny",
+  "scheme_name": "Mukhyamantri Nijee Nalkup Yojana",
+  "scheme_short_title": "MNNY",
+  "state": "Bihar",
+  "level": "State/ UT",
+  "nodal_department": "Minor Water Resources Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Land and water resources"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Agriculture",
+    "Irrigation",
+    "Borewell",
+    "Farmer"
+  ],
+  "brief_description": "The scheme provides financial assistance to support farmers in ensuring water availability through borewell construction and motor pump installation.",
+  "detailed_description": "The \"Mukhyamantri Nijee Nalkup Yojana\" launched by the Minor Water Resources Department, Bihar, aims to provide financial support to farmers for borewell construction and motor pump installation to ensure water availability for irrigation purposes. It focuses on helping farmers in underprivileged regions with limited irrigation infrastructure. &lt;br&gt;",
+  "benefits": [
+    "Subsidy for Borewell Construction:",
+    "Category | Subsidy Amount (Per Meter) | Depth Allowed\nGeneral | \u20b9600/- | 15-70 meters\nBackward/Most Backward Classes | \u20b9840/- | 15-70 meters\nScheduled Caste/Tribe Category | \u20b9900/- | 15-70 meters",
+    "Subsidy for Motor Pump Installation:",
+    "The amount of subsidy will be payable to General Category, Backward/Extremely Backward Classes and Scheduled Caste/Tribe Classes at the rate of 50%, 70% and 80% respectively on the cost of 2HP, 3HP, 5HP motor pump at the rate of maximum \u20b920000/-, \u20b925000/- and \u20b930,000/- respectively."
+  ],
+  "eligibility_criteria": "Farmers identified under the Saat Nischay-2 \"Irrigation Water to Every Field\" after a joint technical survey are eligible. Farmers must own at least 0.40 acre (40 decimal) of land. Priority will be given to small and marginal farmers. There should not be an existing borewell at the site. No previous grants or financial assistance have been taken for borewell construction at the same site by the Farmer. The grant is valid for one borewell and one motor pump set per farmer. Borewell must be dug to a depth of 15-70 meters and with 4-6 inch diameter to qualify for the grant. ",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Application Process: Step 1: Visit the application page . Step 2: After entering your personal information, verify your mobile number and Aadhaar number. Step 3: Upload relevant documents (in JPEG/PNG format). Step 4: Read the declaration given below carefully and tick the points. Step 5: Once the application is submitted, no changes will be made. Claim Process: After approval, it will be mandatory for the farmer to dig a borewell at the applied site within 60 days and upload the subsidy claim on the portal . Notes: Beneficiary farmers can claim for boring and motor pumps as per their convenience on different dates or on a single date within the prescribed period. Before digging the boring, during digging and after digging the boring, the farmer will have to take photographs of the site where water is flowing, which will be mandatory to upload on the portal at the time of submitting the claim. Photos of the installation of the motor pump and of the water flow after the installation of the pump must be uploaded on the portal. Only after physical verification and depth measurement with the representatives of the department, the work of installation of the motor pump will be done by the farmer and the photo will be uploaded on the portal. All the materials used in the tube-well should be manufactured in the country and their quality should be as per Indian standards."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://mwrd.bih.nic.in/mnny/pdf_file/karyanwayananudeshfinal.pdf"
+    },
+    {
+      "title": "Declaration Form",
+      "url": "https://mwrd.bih.nic.in/mnny/pdf_file/GhoshanaPatraAsahmati.pdf"
+    },
+    {
+      "title": "Physical Verification Form",
+      "url": "https://mwrd.bih.nic.in/mnny/pdf_file/BhautikStyapanPatra.pdf"
+    }
+  ],
+  "exclusions": "Applications from over-exploited and critical blocks/panchayats identified by the Central Ground Water Board will not be considered.\n\n",
+  "documents_required": "For Application: Aadhaar Card Land Holding Certificate (LPC) which is not earlier than 01/01/2023. Caste certificate issued by the competent authority. Photograph (of self and the marked location).  Declaration Form . For Claim: GST voucher of the motor pump. GST Voucher of Pipe. "
+}

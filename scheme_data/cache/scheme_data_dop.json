@@ -1,0 +1,48 @@
+{
+  "scheme_id": "678771bcd667626b5f09163a",
+  "slug": "dop",
+  "scheme_name": "Distribution of Pulses",
+  "scheme_short_title": "DOP",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Food, Public Distribution and Consumer affairs Department",
+  "implementing_agency": "Directorate Of Food And Consumer Affairs",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Food Security / Public Distribution System"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Pulse",
+    "NFSA",
+    "JSFSS",
+    "Food",
+    "Subsidized Rate"
+  ],
+  "brief_description": "The scheme \"Distribution of Pulses\" by the Department of Food, Public Distribution, and Consumer Affairs, Government of Jharkhand, aims to ensure food security by providing pulses at affordable rates to eligible households under NFSA and JSFSS.",
+  "detailed_description": "The scheme &quot;Distribution of Pulses&quot; by the Department of Food, Public Distribution, and Consumer Affairs, Government of Jharkhand, aims to provide pulses at affordable rates to eligible households, ensuring nutritional support and food security. Under this scheme, pulses at subsidized rates are made available to beneficiaries holding AAY and PHH cards under NFSA and Green Cards under JSFSS.",
+  "benefits": [
+    "Subsidized pulses are provided to the households. The scheme supports food security by reducing the cost of essential pulses for low-income families. Benefits are delivered monthly through designated ration shops. Households holding AAY and PHH cards under NFSA and Green Cards under JSFSS are given Pulses."
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Jharkhand. The applicant should hold an Antyodaya Anna Yojana (AAY) or Priority Household (PHH) card under NFSA or a Green Card under JSFSS.\n",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Visit the nearest ration shop or designated enrollment center with the required documents. If Aadhaar is not available, apply for Aadhaar enrollment at an authorized center. Submit the Aadhaar number or Aadhaar Enrolment Identification Slip during registration. Verify the eligibility and documents with the designated officer. Collect the pulses from the distribution center as per the monthly schedule. "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.jharkhand.gov.in/Home/ViewDoc?id=D009DO003SD00625102023010522864"
+    }
+  ],
+  "documents_required": "Aadhaar Card or Aadhaar Enrolment Identification Slip. Bank or Post Office Passbook with Photo. Permanent Account Number (PAN) Card. Passport (if available). Ration Card. Voter Identity Card. MGNREGA Card. Kisan Photo Passbook. Driving License issued under the Motor Vehicles Act, 1988. Certificate of Identity with a photo issued by a Gazetted Officer or Tehsildar on official letterhead."
+}

@@ -1,0 +1,59 @@
+{
+  "scheme_id": "67738e6c5fe21d75995b389b",
+  "slug": "mmssyj",
+  "scheme_name": "Mukhyamantri Swasthya Sahayata Yojana Jharkhand",
+  "scheme_short_title": "MMSSYJ",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Department of Scheduled Tribe, Scheduled Caste, Minority and Backward Class Welfare",
+  "dbt_scheme": false,
+  "categories": [
+    "Health & Wellness"
+  ],
+  "sub_categories": [
+    "Children\u2019s health and immunization",
+    "Health promotion",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Health",
+    "Rural",
+    "Scheduled Tribe",
+    "Scheduled Caste",
+    "Backward Class"
+  ],
+  "brief_description": "The scheme \"Mukhyamantri Swasthya Sahayata Yojana\" by the Scheduled Tribes, Scheduled Castes, Minorities, & Backward Classes Welfare Department, Govt. of Jharkhand, aims to provide medical financial aid to beneficiaries. It covers illnesses, surgeries, & nutritional support during & after treatment.",
+  "detailed_description": "The &quot;Mukhyamantri Swasthya Sahayata Yojana&quot; was launched by the Department of Scheduled Tribe, Scheduled Caste, Minority and Backward Class Welfare, Government of Jharkhand, and aims to provide financial assistance for medical treatment to eligible beneficiaries. Through this scheme, monetary support is provided to alleviate financial burdens caused by illnesses, surgeries, or other medical needs.",
+  "benefits": [
+    "The grant under the scheme will be given in the following manner:",
+    "If the beneficiary is an adult, then in this case the grant under the scheme",
+    "S.No | Illness | Criteria | Grant Amount\n1 | Any kind of illness or surgery | If the duration of treatment in the hospital/clinic is less than 7 days | \u20b93,000/-\n |  | If the duration of treatment in the hospital/clinic is more than 7 days | \u20b95,000/-\n2 | COVID-19 | If the patient is treated at home | \u20b95,000/-\n |  | If the patient is treated in a hospital | \u20b910,000/-\n3 | Cancer |  | \u20b925,000/-",
+    "If the beneficiary is a minor, then in this situation, the grant under the scheme",
+    "S.No | Illness | Criteria | Grant Amount\n1 | Any kind of illness or surgery | If the duration of treatment in the hospital/clinic is less than 7 days | \u20b91,500/-\n |  | If the duration of treatment in the hospital/clinic is more than 7 days | \u20b92,500/-\n2 | COVID-19 | If the patient is treated at home | \u20b92,500/-\n |  | If the patient is treated in a hospital | \u20b95,000/-\n3 | Cancer |  | \u20b915,000/-",
+    "NOTE: Funds are directly transferred to beneficiaries' bank accounts via PFMS (Public Financial Management System)."
+  ],
+  "eligibility_criteria": "The applicant must be a resident of Jharkhand. The applicant must belong to the Scheduled Tribe, Scheduled Caste, or Backward Class categories. The applicant must be suffering from the illness or surgery. Applicants already availing financial assistance from other government schemes are ineligible. The applicant must be a holder of one of the following ration cards:\nPriority Household Ration Card (PHH) Antyodaya Ration Card Green Card",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the Block Office, District Welfare Office, or Project Director (ITDA) Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents to the Block Office, District Welfare Office, or Project Director (ITDA) Office.",
+        "Step 4: Request a receipt or acknowledgment from the District Differently Abled Welfare Officer to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.jharkhand.gov.in/Home/ViewDoc?id=D030DO003SD00305072022014649904"
+    }
+  ],
+  "exclusions": "Benefits are not available for pregnancy and maternity-related expenses.",
+  "documents_required": "Ration Card Copy (Priority Household, Antyodaya, or Green Card). Caste Certificate (Issued online). Birth Certificate (For age verification). Medical Certificate (Issued by a Chief Medical Officer or Civil Surgeon for illness or surgery). COVID-19 certification (if applicable). Aadhaar Card Copy. Bank Account Details (First-page photocopy of passbook)."
+}

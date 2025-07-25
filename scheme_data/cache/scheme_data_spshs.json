@@ -1,0 +1,58 @@
+{
+  "scheme_id": "672c5560cef677932c622af2",
+  "slug": "spshs",
+  "scheme_name": "Savitribai Phule Self-Help Scheme",
+  "scheme_short_title": "SPSHS",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Co-operation Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Banking,Financial Services and Insurance",
+    "Business & Entrepreneurship",
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Loan",
+    "Investment",
+    "Micro finance",
+    "Setting up / start-up / entrepreneurship"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Business Loan",
+    "Self Employment",
+    "Women Entrepreneurship",
+    "Scheduled Caste",
+    "Below Poverty Level",
+    "SC",
+    "BPL"
+  ],
+  "brief_description": "The scheme provides financial support to unemployed women from the Scheduled Caste (SC) category in the state to help them start businesses in industry, service, or trade sectors.",
+  "detailed_description": "The &amp;quot;Savitribai Phule Self-Help Scheme&amp;quot;, managed by the District Intermediate Cooperative Development Committee, supports women entrepreneurs from the SC category in Madhya Pradesh by offering margin money assistance of up to \u20b915,000/- (50% of the project cost, with a maximum project cost of \u20b950,000/-). This financial aid can help them start small businesses across various sectors.",
+  "benefits": [
+    "Margin Money Assistance: Provides financial support covering 50% of the project cost, up to a maximum of \u20b915,000/-."
+  ],
+  "eligibility_criteria": "The applicant must be a woman. The applicant must be a resident of Madhya Pradesh. The applicant must belong to the Scheduled Caste (SC) category. The applicant's age should be between 18 to 55 years. The applicant must be literate. The applicant should be currently unemployed. The applicant must fall under the Below Poverty Line (BPL) category. The applicant should not have any outstanding defaults with any nationalized bank, cooperative bank, or other financial institution.",
+  "application_process": [
+    {
+      "mode": "Online - via CSC",
+      "steps": [
+        "Step 1: Visit an online center in your district.",
+        "Step 2: Apply through the official portal: https://scwelfare.mponline.gov.in ",
+        "Step 3: Submit the necessary documents for verification.",
+        "Step 4: Await approval and financial disbursement upon successful application."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://khargone.nic.in/en/scheme/savitribai-phule-self-help-scheme/"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Proof of Identity. Proof of Address. Age Proof (18-55 years) Caste Certificate (SC). Literacy Certificate (if applicable). Proof of Unemployment. Below Poverty Line (BPL) Certificate. Any other documents (if required)."
+}

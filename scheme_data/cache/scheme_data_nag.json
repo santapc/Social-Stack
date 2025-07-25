@@ -1,0 +1,61 @@
+{
+  "scheme_id": "682c5c9a6e3fd3b163f40d32",
+  "slug": "nag",
+  "scheme_name": "Nalanda Award",
+  "scheme_short_title": "NAG",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Empowerment Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "NGO",
+    "Government Organisation"
+  ],
+  "tags": [
+    "Social Welfare",
+    "Nalanda Award"
+  ],
+  "brief_description": "The \"Nalanda Award\" implemented by the Social Justice and Empowerment Department, Gujarat, recognizes organizations for exceptional work in the field of social welfare, particularly for the socially and educationally disadvantaged sections.",
+  "detailed_description": "The &amp;quot;Nalanda Award&amp;quot; implemented by the Social Justice and Empowerment Department, Gujarat, aims to honor organizations that have significantly contributed to the upliftment of socially and educationally backward communities. This state-level recognition encourages continued efforts in the field of social welfare and highlights best practices that can be replicated across the state.",
+  "benefits": [
+    "Financial assistance to the selected organization."
+  ],
+  "eligibility_criteria": "The organization must have made outstanding contributions in the field of social welfare. The welfare work should benefit socially and educationally backward classes (SEBC).\n\n",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process:",
+        "Step 1: Go to the   eSamajKalyan portal and navigate to the \"Nalanda Award\" section under the menu option.",
+        "Step 2: Click on Apply Now.",
+        "Step 3: Click on \"New User? Please Register Here\".",
+        "Step 4: Enter the required details and click Register.",
+        "Application Process:",
+        "Step 1: Enter your User ID, Password, and Captcha Code, then click \"Login\".",
+        "Step 2: Read the scheme details carefully and click OK.",
+        "Step 3: If your permanent address is correct, confirm it. Otherwise, enter your correct address.",
+        "Step 4: Click Save & Next to proceed. Upload the relevant documents.",
+        "Step 5: If you need to make changes, click \"No, Cancel\". If all details are correct, click \"Yes, Submit\".",
+        "Step 6: Click Save Application. Note down your Application Number for future reference. You can also take a printout by clicking Print Application.",
+        "Check Application Status:  Click here ."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Scheme No. 371)",
+      "url": "https://mariyojana.gujarat.gov.in/MoreDetails.aspx"
+    },
+    {
+      "title": "User Manual",
+      "url": "https://esamajkalyan.gujarat.gov.in/HelpManual/Citizen-HelpManual.pdf"
+    }
+  ],
+  "documents_required": "Aadhaar Card. Bank Pass Book/Cancelled Cheque. Passport Size Photos."
+}

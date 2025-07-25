@@ -1,0 +1,61 @@
+{
+  "scheme_id": "658eb377a733b1d7326efd15",
+  "slug": "wpwb",
+  "scheme_name": "Widow Pension-West Bengal",
+  "scheme_short_title": "WPWB",
+  "state": "West Bengal",
+  "level": "State/ UT",
+  "nodal_department": "Women and Child Development and Social Welfare Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Pension",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Social Welfare",
+    "Pension"
+  ],
+  "brief_description": "The West Bengal government's Women and Child Development and Social Welfare Department launched the \"Widow Pension\" scheme in 2010. This program aims to support widows facing economic hardship within the state.",
+  "detailed_description": "In 2010, the West Bengal state government, through the Women and Child Development and Social Welfare Department, launched a compassionate initiative called the &quot;Widow Pension&quot; scheme. This program aims to provide financial support to widows facing economic hardship within the state. <br> <br>",
+  "benefits": [
+    "Financials assistance of \u20b91,000/- per Month through DBT mode to the beneficiaries."
+  ],
+  "eligibility_criteria": "The beneficiary must be widow girl/woman. The beneficiary should attain the age of 60 years or more. The beneficiary must be a citizen of India and a resident of West Bengal. The beneficiary family income must not exceed \u20b9 1,000/- per month. The beneficiary must not be maintained by any of her relative. The beneficiary must have been a resident of West Bengal for at least ten years on the date of making the application. Professional beggars and mendicants are not eligible for the pension.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Application Form( Form-P) for Pension may be obtained free of cost from following offices namely:",
+        "Office of the Block Development Officer or the Executive Officer of the concerned Panchayat Samity in case of the applicant resides in the rural areas under the said Panchayat Samity. Office of the Sub-Divisional Officer in case of the applicant resides in Municipal / Notified areas outside the areas of Kolkata Municipal Corporation. Office of the Controller of Vagrancy, West Bengal situated at Purta Bhawan, Bidhan Nagar, Kolkata-700091, in case of the applicant resides within the areas under Kolkata Municipal Corporation.",
+        "Required information for application form",
+        "Person Details. Contact Details. Type of Disability and disability percentage. Bank Account Details. Required documents Copy of Aadhaar self-attested. Copy of Ration Card. Copy of Voter Id. Copy of Disability Certificate. Copy of Income Certificate. Copy of Husband's Death Certificate. Copy of Bank Pass Book. Nomination Form (In case of death). Passport Size photograph.",
+        "Application Form for Pension shall be addressed to:-",
+        "The District Magistrate of the concerned District and shall be submitted to the Block Development Officer or the Executive Officer of the Panchayat Samity in case of the applicant residing in the rural areas under a Panchayat Samity. The District magistrate of the concerned District and Shall be submitted to the Sub-Divisional Officer in case of the applicant residing in Municipal / Notified areas outside the areas of Kolkata Municipal Corporation. The Controller of Vagrancy, West Bengal and shall be submitted to the Controller Vagrancy West Bengal in case of the applicant residing within the areas under Kolkata Municipal Corporation."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://wbswpension.gov.in/pages/wcd_about_scheme.php"
+    },
+    {
+      "title": "Guidelines (2021)",
+      "url": "https://cdn.s3waas.gov.in/s3fc3cf452d3da8402bebb765225ce8c0e/uploads/2021/07/2021072064.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://wbswpension.gov.in/readwrite/miscellaneous/form-P.pdf"
+    }
+  ],
+  "exclusions": "An applicant who is already a recipient of a pension under another scheme, such as the Disability Pension, Old Age Pension, or Farmers' Pension, is not eligible for the Widow Pension.",
+  "documents_required": "Copy of Aadhaar self-attested. Copy of Ration Card. Copy of Voter Id. Copy of Disability Certificate. Copy of Income Certificate. Copy of Husband's Death Certificate. Copy of Bank Pass Book. Nomination Form (In case of death). Passport Size photograph."
+}

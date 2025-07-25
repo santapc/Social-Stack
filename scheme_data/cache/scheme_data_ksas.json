@@ -1,0 +1,50 @@
+{
+  "scheme_id": "6799ef41e128bbaf34feca71",
+  "slug": "ksas",
+  "scheme_name": "Kharmore Sonchidia Award Scheme",
+  "scheme_short_title": "KSAS",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Forest Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Wildlife and biodiversity",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Award",
+    "Bird",
+    "Farmer",
+    "Financial Assistance"
+  ],
+  "brief_description": "In the scheme \"Kharmore Sonchidia Award\" by the Forest Department, Government of Madhya Pradesh, the farmers are rewarded with \u20b95,000/- if a Kharmor bird is sighted in the private land of the farmer and \u20b910,000/- if a Golden bird is sighted in the private land of the farmer.",
+  "detailed_description": "In the scheme &quot;Kharmore Sonchidia Award&quot; by the Forest Department, Government of Madhya Pradesh, the farmers are rewarded with \u20b95,000/- if a Kharmor bird is sighted in the private land of the farmer and \u20b910,000/- if a Golden bird is sighted in the private land of the farmer. The farmers are rewarded provided they ensure the protection of the birds, their eggs, and their habitat on their private land.",
+  "benefits": [
+    "Reward of \u20b95,000/- on Sighting of Kharmor Bird",
+    "Installment 1: \u20b91,000/- if sighted in July-August Installment 2: \u20b94,000/- if sighted in the same area in September-October",
+    "Reward of \u20b910,000/- on Sighting of Golden Bird",
+    "Installment 1: \u20b92,000/- for the first sighting Installment 2: \u20b98,000/- if sighted again in the same area"
+  ],
+  "eligibility_criteria": "The applicant should be a farmer or landowner. The applicant should own private land. Either Kharmor Bird or Golden Bird should have been sighted on the applicant's land. The applicant should have ensured the protection of the birds, their eggs, and their habitat without causing harm.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "The interested farmer should make an appeal to the Concerned Divisional Forest Officer/Deputy Director."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=303"
+    }
+  ],
+  "documents_required": "Identity Proof Proof of Land Ownership Photographic Evidence of Bird Sighting (if applicable) Verification Report from the Forest Department Bank Account Details"
+}

@@ -1,0 +1,59 @@
+{
+  "scheme_id": "6844a896f3864db2fbe7d250",
+  "slug": "daedsuk",
+  "scheme_name": "Chief Minister State Livestock Mission: Draft Animal Entrepreneurship Development Scheme",
+  "scheme_short_title": "DAEDSUK",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "Department Of Animal Husbandry",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment",
+    "Business & Entrepreneurship"
+  ],
+  "sub_categories": [
+    "Animal husbandry",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Mule",
+    "Self Employment",
+    "Loan",
+    "Entrepreneurship",
+    "Subsidy"
+  ],
+  "brief_description": "The scheme aims to promote self-employment at local level by providing interest subsidies on bank loans for setting up mule units for transport & related activities. Under this scheme, residents of Uttarakhand are eligible for a 90% interest subsidy on loans taken to establish unit with 1 or 2 mule.",
+  "detailed_description": "The \"Draft Animal Entrepreneurship Development Scheme\" is a scheme under the Chief Minister State Livestock Mission, introduced by the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to promote self-employment at the local level by providing interest subsidies on bank loans (for up to three years) for setting up mule units for transport and related activities. Under this scheme, residents of Uttarakhand are eligible for a 90% interest subsidy on loans taken to establish units with one or two mules.",
+  "benefits": [
+    "The applicant will receive a 90% interest subsidy on the bank loan taken for setting up mule units. The details of financial assistance for establishing one-mule and two-mule units are as follows:",
+    "Sl. No. | Description |  1 Mule  |  2 Mule \n1 | Cost of mule (including insurance premium and transportation) | \u20b91,00,000/- per mule | \u20b92,00,000/- (\u20b91,00,000/- per mule)\n2 | Margin Money @ 10% of project cost | \u20b910,000/- | \u20b920,000/-\n3 | Bank Loan | \u20b990,000/- | \u20b91,80,000/-\n4 | Estimated Interest Rate (per annum) | 11% | 11%\n5 | Loan Repayment Period | 3 Years | 3 Years"
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Uttarakhand.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "To apply, interested individuals can contact the nearest government veterinary hospital/animal service centers and submit their application in the prescribed format.",
+        "Note: The applicant should visit the nearest local veterinary hospital along with the consent letter for loan approval from the bank."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://ahd.uk.gov.in/scheme/chief-minister-state-livestock-mission/"
+    },
+    {
+      "title": "1 Mule",
+      "url": "https://cdnbbsr.s3waas.gov.in/s31fb2a1c37b18aa4611c3949d6148d0f8/uploads/2018/08/202503192102537903.pdf"
+    },
+    {
+      "title": "2 Mules",
+      "url": "https://cdnbbsr.s3waas.gov.in/s31fb2a1c37b18aa4611c3949d6148d0f8/uploads/2018/08/202503191985989885.pdf"
+    }
+  ],
+  "documents_required": "Identity proof Proof of residence Consent Letter for loan approval from the bank Bank account details Any other documents as required"
+}

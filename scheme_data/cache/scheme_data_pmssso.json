@@ -1,0 +1,78 @@
+{
+  "scheme_id": "6726fe9007ebeb8df56bbcb7",
+  "slug": "pmssso",
+  "scheme_name": "Pre Matric Scholarship Scheme (Saral Vidya Sahay) for SC and OBC (V to VIII)",
+  "scheme_short_title": "PMSSSO",
+  "state": "Goa",
+  "level": "State/ UT",
+  "nodal_department": "Social Welfare Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Student",
+    "Schedule Caste",
+    "Other Backward Class",
+    "Stipend",
+    "Scholarship",
+    "Pre Matric",
+    "School"
+  ],
+  "brief_description": "\"Pre Matric Scholarship Scheme (Saral Vidya Sahay) for SC and OBC (V to VIII)\" was introduced by the Directorate of Social Welfare, Government of Goa. The scheme aims to support parents of children belonging to Scheduled Castes and Other Backward Classes for the education of their wards.",
+  "detailed_description": "&quot;Pre Matric Scholarship Scheme (Saral Vidya Sahay) for SC and OBC (V to VIII)&quot; was introduced by the Directorate of Social Welfare, Government of Goa. The scheme aims to support parents of children belonging to Scheduled Castes and Other Backward Classes for the education of their wards studying at the Pre-Matric stage. Through this scheme, financial assistance is provided to help improve participation, minimize dropout rates, especially during the transition from primary to next level and elementary to secondary stage, enhance performance, and increase chances of progressing to Post-matric education. The applications for this scheme are accepted online. The scheme is being implemented by the Chief Minister Scholarship Portal, Government of Goa.",
+  "benefits": [
+    "1. As per \"Stipend under Saral Vidya Sahay Scheme\"",
+    "\u20b9325/- per month for 11 months (\u20b93,575/- per annum)",
+    "2. As per \"Meritorious Scholarship Scheme\"",
+    "For Classes 5th to 6th: \u20b9900/- per annum For Classes 7th to 8th: \u20b91,000/- per annum"
+  ],
+  "eligibility_criteria": "The applicant should be studying in classes 5th to 8th on a full-time basis.\nThe applicant should belong to a Scheduled Caste or Other Backward Class. The applicant's parent/guardian's annual income should not exceed \u20b91,20,000/-.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "For Registration",
+        "Step 1:  Visit the Official Website of the Chief Minister Scholarship Portal, Government of Goa.",
+        "Step 2:  At the top right corner of the landing page, click \"Register\". You will be taken to the registration page .",
+        "Step 3:  On the registration page, under the \"Student Registration\" section, click \"Click Here\".",
+        "In the Student Registration Form, fill in the following fields:",
+        "Student's Name, Gender, Category, Date of Birth (DD-MM-YYYY), Aadhaar Number, House Number, Waddo/Street, Village Panchayat/Municipality, District, Taluka, Assembly/Constituency, City/Town/Village, PIN Code, Mobile Number, Email ID.",
+        "Step 4:  Create a password ranging between 8 to 15 characters and confirm the same.",
+        "Step 5:  Click \"Register\" and then click \"Yes\" to the Confirmation Popup.",
+        "For Application",
+        "Step 1:  Upon successful registration, visit the Official Website of the Chief Minister Scholarship Portal, Government of Goa.",
+        "Step 2:  At the top right corner of the landing page, click \" Login \".",
+        "Step 3:  On the login page, fill in your username, password, captcha code, and click \"Login\".",
+        "Step 4:  Upon logging in, a list of eligible schemes will be displayed. Click the scheme that you intend to apply for.",
+        "Step 5:  In the \"Apply\" section on the side navigation bar, click \"Fresh Application\".",
+        "Step 6:  Fill in all the mandatory fields of the Application Form and upload all the required documents in the specified format and size and click \"Submit\".",
+        "Post Application Process",
+        "1. After successful submission of the application, your school/institution will verify the application and submit it to the directorate for further scrutiny.",
+        "2. In case of an issue in the application form or documents uploaded, the school/institution can send back the application to the student for necessary corrections and resubmission.",
+        "Track Your Application",
+        "Step 1:  In the side navigation bar, click \" Track Application \".",
+        "Step 2:  On the next page, provide your Aadhaar Number and Date of Birth, and click \"Submit\".",
+        "Contact Us",
+        " https://cmscholarship.goa.gov.in/fcontactus.aspx "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guideline",
+      "url": "https://cmscholarship.goa.gov.in/SchemesDetails.aspx#PreStateSW"
+    },
+    {
+      "title": "User Manual",
+      "url": "https://cmscholarship.goa.gov.in/UserGuid.aspx"
+    }
+  ],
+  "documents_required": "Aadhaar Card\nCaste Certificate (Issued by Sub-Divisional Magistrate) Income Certificate (Issued by Village Panchayat Secretary, attested by Sarpanch and countersigned by Block Development Officer/Municipality or by Mamlatdar) Previous Class Marksheet/Certificate Bank Passbook Passport Size Photo"
+}

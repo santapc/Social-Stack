@@ -1,0 +1,64 @@
+{
+  "scheme_id": "66b88a3b0d7fcba784567ff4",
+  "slug": "mbs-t",
+  "scheme_name": "Maternity Benefit Scheme - Telangana",
+  "scheme_short_title": "MBS-T",
+  "state": "Telangana",
+  "level": "State/ UT",
+  "nodal_department": "Labour, Employment Training and Factories Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Financial assistance",
+    "Pregnancy Care"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Maternity",
+    "Financial Assistance",
+    "Construction Workers"
+  ],
+  "brief_description": "The \"Maternity Benefit Scheme\" was launched by the Telangana Building & Other Construction Workers Welfare Board, LET&F (Labour) Department, Telangana. The scheme provides financial assistance to registered women workers, as well as the wives & daughters of registered workers to support them.",
+  "detailed_description": "The &quot;Marriage Gift Scheme&quot; is a welfare initiative implemented by the Telangana Building and Other Construction Workers Welfare Board (TB&amp;OCWWB), LET&amp;F (Labour) Department, Telangana. The scheme provides financial assistance to registered women workers, as well as the wives and daughters of registered workers, to support them during and after pregnancy.",
+  "benefits": [
+    "Financial Assistance:",
+    "A total amount of \u20b930,000/- per delivery is provided, limited to two deliveries. ",
+    "Payment Breakdown:",
+    "\u20b910,000/- is paid during the 7 th month of pregnancy to compensate for wage loss during the later stages of pregnancy. \u20b920,000/- is paid after the delivery."
+  ],
+  "eligibility_criteria": "For construction workers themselves (Women only)\nThe construction worker should be registered under the Telangana Building & Other Construction Workers Welfare Board. The construction worker should be a woman. The construction worker should have been registered for at least 12 months before the date of delivery. The construction work can get this assistance only twice.\n\nFor wife/daughters of construction workers\nThe construction workers should be registered under the Telangana Building & Other Construction Workers Welfare Board. The construction worker can receive the scheme benefits twice for up to two daughters. The construction worker should have been registered for at least 12 months before the date of delivery. If both parents are registered workers, only one parent is eligible for the scheme amount.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Application Process:",
+        "Step 1: The interested applicant visits to the official website and click on \"Downloads\" for the application form .  ",
+        "Step 2 : In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents to the concerned officer in the labour department.",
+        "Step 4: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE:",
+        "Applications must be submitted within one year from the date of delivery."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://tbocwwb.telangana.gov.in/newsite/pdf_files/2017LETF_MS12.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://tbocwwb.telangana.gov.in/index.html"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://tbocwwb.telangana.gov.in/newsite/forms/MaternityBenefit.pdf"
+    }
+  ],
+  "documents_required": "Passport-size Photograph. Registration Card under BOCW Act (Attested copy). Renewal Challan Copy. Delivery Certificate issued by the PHC/ Local area hospital or Medical Officer of the Pvt. Hospital (Attested copy). Pre-home Delivery Certificate issued by the Panchayat Secretary in case of delivery in a Village. Birth Certificate of the child. Advance Stamped Receipt. 1 st page of Bank pass book (Attested copy)."
+}

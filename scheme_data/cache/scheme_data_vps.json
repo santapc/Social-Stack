@@ -1,0 +1,75 @@
+{
+  "scheme_id": "650d382e7846de4ead1a56e2",
+  "slug": "vps",
+  "scheme_name": "Viswakarma Pension Scheme",
+  "scheme_short_title": "VPS",
+  "state": "Kerala",
+  "level": "State",
+  "nodal_department": "Backward Classes Development Department",
+  "implementing_agency": "Backward Classes Development Department, Government Of Kerala",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Pension"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Pension",
+    "Viswakarma Community",
+    "Carpenters",
+    "Wood Worker",
+    "Goldsmiths",
+    "Iron Worker",
+    "Stone Worker",
+    "Moosari"
+  ],
+  "brief_description": "The Scheme \"Viswakarma Pension\" was launched by the Backward Classes Development Department, Government of Kerala to give the pension to traditional workers of Viswakarma Communities.",
+  "detailed_description": "The Scheme \"Viswakarma Pension\" was launched by the Backward Classes Development Department, Government of Kerala to give a pension to traditional workers of Viswakarma Communities (Carpenters (wood, iron, stone), Goldsmiths, Moosari) who have completed 60 years of age in the Kerala State.",
+  "benefits": [
+    "The monthly pension amount of \u20b91100/- will be given to the persons belonging to the traditional Viswakarma Communities."
+  ],
+  "eligibility_criteria": "1. The applicant should be a permanent resident of the Kerala State.\n2. The applicant should belong to the traditional Viswakarma Community of Kerala State.\n3. The age of the applicant should be more than 60 years.\n4. The annual family income of the applicant should be \u20b91,00,000/-.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 01: The applicant should visit the Official Website of the Backward Classes Development Department, Government of Kerala, and download the application form . Step 02: Fill out the application form completely and send it along with all the relevant documents to the following addresses: Director, Backward Classes Development Department Ayyankali Bhavan, 4th Floor, Kanakanagar Vellayambalam, KawdiarP.O, Thiruvananthapuram- 695003, Kerala"
+      ]
+    },
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 01: The applicant should visit the official website of the Backward Classes Development Department, Government of Kerala. Step 02: If not registered, click on \u2018Registration' and fill in all the mandatory details. Step 03: After successful registration, click on the \u2018 Login ' button & select the scheme name \"Viswakarma Pension\".",
+        "Step 04: Click on the \u2018Apply' button & fill in all the mandatory details in the application form.",
+        "Step 05: Upload all the relevant documents and submit the application form."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://bcdd.kerala.gov.in/en/schemes/development-schemes/viswakarma-pension/"
+    },
+    {
+      "title": "Online Portal",
+      "url": "http://www.eep.bcdd.kerala.gov.in/"
+    },
+    {
+      "title": "Notification",
+      "url": "https://bcdd.kerala.gov.in/wp-content/uploads/2021/07/Viswakarma-Pension-Notification-1.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://bcdd.kerala.gov.in/wp-content/uploads/2021/07/Viswakarma-Pension-Application-Form-2.pdf"
+    },
+    {
+      "title": "Government Orders",
+      "url": "https://bcdd.kerala.gov.in/wp-content/uploads/2018/11/16-01.pdf"
+    }
+  ],
+  "documents_required": "1. Copy of the Identity proof\n2. Proof of age\n3. Photo of the applicant\n4. Copy of the ration card\n5. Caste Certificate\n6. Income Certificate\n7. Residence proof\n8. Physical Disability Certificate, if applicable\n9. Copy of Bank Passbook\n10. Any other document, if required"
+}

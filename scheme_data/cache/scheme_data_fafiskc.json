@@ -1,0 +1,45 @@
+{
+  "scheme_id": "67ff4898321976fb6b05929a",
+  "slug": "fafiskc",
+  "scheme_name": "COP-34 Financial Assistance to Farmer for Interest Subvention (Kishan Credit Card Interest Asst.)",
+  "scheme_short_title": "FAFISKC",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Agriculture, Farmers Welfare and Cooperation Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Agriculture",
+    "Farmer",
+    "Interest Subvention"
+  ],
+  "brief_description": "Under this scheme, financial assistance in the form of interest subvention is provided to farmers who repay their crop loans on time, helping them improve their agricultural productivity and economic well-being.",
+  "detailed_description": "The scheme &amp;quot;COP-34 Financial Assistance to Farmer for Interest Subvention (Kishan Credit Card Interest Asst.)&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to support farmers by offering a 4% interest subvention on crop loans up to \u20b93 lakh, provided the loan is repaid on time. This assistance helps farmers reduce their financial burden, improve crop yield, and enhance their income. It also encourages responsible financial practices among farmers.",
+  "benefits": [
+    "Name of Component | Standard of Assistance | Minimum Time Limit (in Year) for Reclaiming Benefits\nCOP-34, Financial assistance to farmer for Interest Subvention | 4% interest subvention on timely repayment of crop loan taken by farmers up to \u20b93,00,000/- | only once in a financial year"
+  ],
+  "eligibility_criteria": "The applicant must be a farmer. The farmer should have taken a short-term crop loan during the Kharif season (1st April to 30th September) from any of the following: Primary Agricultural Credit Cooperative Society District Central Cooperative Bank Nationalized Bank Gramin Bank Private Bank The farmer should have repaid the loan on time.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "The bank from which the crop loan has been availed by the farmer has to submit the integrated interest subvention proposal of its area of operation to the Registrar, Co-operative Societies, Gujarat State, Gandhinagar."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=TcbRZ0q1rHWZZhnQq2CmQw==&domain=v4lc2tu73R/9lWYKO76SRg=="
+    }
+  ],
+  "documents_required": "Kisan Credit Card (KCC) loan documents. Proof of timely repayment. Farmer's identity proof (Aadhaar card, etc.). Land ownership or cultivation document. Any other documents as required."
+}

@@ -1,0 +1,53 @@
+{
+  "scheme_id": "68413f8332fd2a73f792ce19",
+  "slug": "pegadeds",
+  "scheme_name": "Payment of Ex-Gratia Amount on Death of the UPNL Employee During Service",
+  "scheme_short_title": "PEGADUPNLEDS",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "State Sainik Board",
+  "implementing_agency": "Uttarakhand Purv Sainik Kalyan Nigam Limited",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Family"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Ex-gratia",
+    "Dependents",
+    "Death",
+    "UPNL"
+  ],
+  "brief_description": "The scheme aims to provide financial assistance to the legal dependent of the deceased UPNAL employee, who was duly nominated during the service period to receive the ex-gratia amount. Under this scheme, an ex-gratia amount of \u20b91,00,000/- is provided from the UPNAL fund to eligible beneficiaries.",
+  "detailed_description": "The scheme &amp;#39;Payment of Ex-Gratia Amount on Death of a UPNAL Employee During Service&amp;#39; is implemented by Uttarakhand Purv Sainik Kalyan Nigam Limited. The scheme aims to provide financial assistance to the legal dependent of the deceased UPNAL employee, who was duly nominated during the service period to receive the ex-gratia amount. Under this scheme, an ex-gratia amount of \u20b91,00,000/- is provided from the UPNAL fund to eligible beneficiaries.",
+  "benefits": [
+    "A one-time payment of \u20b91,00,000/- provided to the family/legal dependent of the deceased UPNL employee."
+  ],
+  "eligibility_criteria": "The applicant should be the legal dependent of the deceased UPNAL employee. The deceased employee should have been a resident of Uttarakhand. The death should have occurred while the employee was in active service with UPNAL. The applicant should have been officially nominated by the deceased employee during their service period to receive the ex-gratia amount.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the UPNL Headquarters Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications. Step 2: In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attested, if required). Step 3: Submit the duly filled and signed application form along with the relevant documents to the UPNL Headquarters Office."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Page No. 22)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://upnl.co.in/"
+    }
+  ],
+  "exclusions": "If the applicant has already received the ex-gratia payment earlier, they are not eligible again.",
+  "documents_required": "Death Certificate of the Deceased Employee Service Certificate (issued by the department of the deceased employee in the prescribed format) Aadhaar Card of the Dependent Bank Passbook Copy of the Dependent Photograph of the Dependent Certified Copy of Family Register Aadhaar Cards of All Family Members No Objection Certificate (NOC) from Other Dependents (on \u20b910 affidavit) along with a declaration that they have not received the ex-gratia payment earlier"
+}

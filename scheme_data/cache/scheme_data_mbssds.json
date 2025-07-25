@@ -1,0 +1,83 @@
+{
+  "scheme_id": "67273b519c0322bd68724132",
+  "slug": "mbssds",
+  "scheme_name": "Merit Based Scholarship Scheme for Dhangar Students",
+  "scheme_short_title": "MBSSDS",
+  "state": "Goa",
+  "level": "State/ UT",
+  "nodal_department": "Social Welfare Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Goa",
+    "Scholarship",
+    "Award",
+    "Dangar",
+    "Student",
+    "Social Welfare",
+    "Education",
+    "School"
+  ],
+  "brief_description": "\"Merit Based Scholarship Scheme for Dhangar Students\" by the Directorate of Social Welfare, Government of Goa aims to motivate students by providing merit-based awards and financial incentives (ranging from \u20b95,000/- to \u20b920,000/-) to high-performing students who are economically weak.",
+  "detailed_description": "&quot;Merit Based Scholarship Scheme for Dhangar Students&quot; by the Directorate of Social Welfare, Government of Goa aims to motivate students by providing merit-based awards and financial incentives to high-performing students who are economically weak. Through this scheme, monetary scholarships ranging from \u20b95,000 to \u20b920,000 are provided to Dhangar students based on their academic performance in SSC and HSSC board examinations. The applications for this scheme are accepted online. The scheme is being implemented by the Chief Minister Scholarship Portal, Government of Goa.",
+  "benefits": [
+    "Financial Award",
+    "First 5 Rank Holders from SSC: \u20b920,000 each First 5 Rank Holders from HSSC (Science Stream): \u20b920,000/- each First 5 Rank Holders from HSSC (Commerce Stream): \u20b920,000/- each First 5 Rank Holders from HSSC (Arts Stream): \u20b920,000/- each First 5 Rank Holders from HSSC (Vocational Stream): \u20b920,000/- each Certificate of Appreciation Felicitation in a Public Ceremony",
+    "Mode of Disbursement",
+    "The amount of Financial Award is disbursed through Electronic Bank Transfer.",
+    "Merit-based Awards",
+    "Marks between 50% to 59.99%: \u20b95,000/- Marks between 60% to 69.99%: \u20b98,000/- Marks between 70% to 74.9%: \u20b910,000/- Marks 75% and above: \u20b915,000/-"
+  ],
+  "eligibility_criteria": "For Rank Holders Category\nThe applicant must belong to the Dhangar community. The applicant must be among the top 5 rank holders in their respective examination (SSC or HSSC). The applicant has no income ceiling restrictions.\nFor Merit-based Awards\nThe applicant must belong to the Dhangar community. The applicant's annual family income should be less than \u20b92,00,000/-. The applicant must achieve the minimum qualifying percentage as per the benefit slabs.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "For Registration",
+        "Step 1:  Visit the Official Website of the Chief Minister Scholarship Portal, Government of Goa.",
+        "Step 2:  At the top right corner of the landing page, click \"Register\". You will be taken to the registration page .",
+        "Step 3:  On the registration page, under the \"Student Registration\" section, click \"Click Here\".",
+        "In the Student Registration Form, fill in the following fields:",
+        "Student's Name, Gender, Category, Date of Birth (DD-MM-YYYY), Aadhaar Number, House Number, Waddo/Street, Village Panchayat/Municipality, District, Taluka, Assembly/Constituency, City/Town/Village, PIN Code, Mobile Number, Email ID.",
+        "Step 4:  Create a password ranging between 8 to 15 characters and confirm the same.",
+        "Step 5:  Click \"Register\" and then click \"Yes\" to the Confirmation Popup.",
+        "For Application",
+        "Step 1:  Upon successful registration, visit the Official Website of the Chief Minister Scholarship Portal, Government of Goa.",
+        "Step 2:  At the top right corner of the landing page, click \" Login \".",
+        "Step 3:  On the login page, fill in your username, password, captcha code, and click \"Login\".",
+        "Step 4:  Upon logging in, a list of eligible schemes will be displayed. Click the scheme that you intend to apply for.",
+        "Step 5:  In the \"Apply\" section on the side navigation bar, click \"Fresh Application\".",
+        "Step 6:  Fill in all the mandatory fields of the Application Form and upload all the required documents in the specified format and size and click \"Submit\".",
+        "Post Application Process",
+        "1. After successful submission of the application, your school/institution will verify the application and submit it to the directorate for further scrutiny.",
+        "2. In case of an issue in the application form or documents uploaded, the school/institution can send back the application to the student for necessary corrections and resubmission.",
+        "Track Your Application",
+        "Step 1:  In the side navigation bar, click \" Track Application \".",
+        "Step 2:  On the next page, provide your Aadhaar Number and Date of Birth, and click \"Submit\".",
+        "Contact Us",
+        " https://cmscholarship.goa.gov.in/fcontactus.aspx "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guideline",
+      "url": "https://cmscholarship.goa.gov.in/SchemesDetails.aspx"
+    },
+    {
+      "title": "User Manual",
+      "url": "https://cmscholarship.goa.gov.in/UserGuid.aspx"
+    }
+  ],
+  "documents_required": "Aadhaar Card\nSocial Status Certificate (Attested) Income Certificate Educational Qualification Certificates (Attested) Residence Certificate Bank Account Details of Student Birth Certificate or Proof of Goan Origin Passport Size Photograph"
+}

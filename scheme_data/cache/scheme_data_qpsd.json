@@ -1,0 +1,47 @@
+{
+  "scheme_id": "66ecfa6a8738f8968e6c9f26",
+  "slug": "qpsd",
+  "scheme_name": "Quality Paddy Seed Distribution",
+  "scheme_short_title": "QPSD",
+  "state": "Tamil Nadu",
+  "level": "State/ UT",
+  "nodal_department": "Agriculture Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Agriculture",
+    "Farmer",
+    "Paddy",
+    "Seed Production"
+  ],
+  "brief_description": "The \"Quality Paddy Seed Distribution\" Scheme offers a subsidy of \u20b95/- per kg on certified paddy seeds.",
+  "detailed_description": "The scheme \"Quality Paddy Seed Distribution\", introduced on 22nd August 2011 by the Agriculture-Farmers Welfare Department, Tamil Nadu, offers a subsidy of \u20b95/- per kg on certified paddy seeds. Farmers can avail this benefit when purchasing seeds from Agricultural Extension Centers. This initiative helps reduce the cost burden on farmers, encouraging them to use high-quality paddy seeds for improved crop yields.",
+  "benefits": [
+    "Financial Assistance: \u20b95/- per kg subsidy on certified paddy seeds. "
+  ],
+  "eligibility_criteria": "The beneficiary should be a Farmer. The beneficiary should be a resident of Tamil Nadu. The beneficiary must purchase certified paddy seeds from Agricultural Extension Centers.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: Collect the application form from the nearest Agricultural Office. Step 2: Fill out the application form with the required details and attach mandatory documents (self-attested, if required). Step 3: Submit the form to the concerned office: Village Level: Submit the application to the Assistant Agricultural Officer. Block Level: Submit to the Agricultural Officer or Deputy Agricultural Officer. District Level: Submit to the Joint Director of Agriculture."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.tn.gov.in/scheme/data_view/19244"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Proof of identity (Aadhar card, Voter ID). Land ownership documents or lease agreement. Any other documents (if required)."
+}

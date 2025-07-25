@@ -1,0 +1,61 @@
+{
+  "scheme_id": "67700fbba35b8c7eea549fc9",
+  "slug": "jsecasp",
+  "scheme_name": "Jharkhand Sports Excellence Cash Award Scheme to Players",
+  "scheme_short_title": "JSECASP",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Department of Sports & Youth Affairs",
+  "dbt_scheme": false,
+  "categories": [
+    "Sports & Culture"
+  ],
+  "sub_categories": [
+    "Sports"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Award",
+    "Sportsperson",
+    "Athletes"
+  ],
+  "brief_description": "The \"Jharkhand Sports Excellence Cash Award Scheme to Players\" aims to provide cash awards to athletes for exceptional achievements in national and international competitions, as per the Jharkhand Sports Policy, 2022.",
+  "detailed_description": "The \"Jharkhand Sports Excellence Cash Award Scheme to Players\" was launched by the Department of Sports &amp; Youth Affairs, Government of Jharkhand. The scheme aims to provide cash awards to athletes for exceptional achievements in national and international competitions, as per the Jharkhand Sports Policy, 2022. Encourages sports participation and enhances Jharkhand&#39;s reputation nationally and internationally.",
+  "benefits": [
+    "Cash Awards for Medal",
+    "S. No | Competition | Gold | Silver | Bronze | Partnership\n1 | Summer/Winter Olympic Games | \u20b95,00,00,000/- | \u20b93,00,00,000/- | \u20b92,00,00,000/- | \u20b97,00,000/-\n2 | Paralympic Games | \u20b925,00,000/- | \u20b915,00,000/- | \u20b910,00,000/- | \u20b91,50,000/-\n3 | Youth Olympic Games | \u20b925,00,000/- | \u20b915,00,000/- | \u20b910,00,000/- | \u20b91,50,000/-\n4 | World Cup/World Championship Senior (every 4 years) | \u20b950,00,000/- | \u20b935,00,000/- | \u20b915,00,000/- | \u20b92,00,000/-\n | World Cup/World Championship Junior (every 4 years) | \u20b925,00,000/- | \u20b915,00,000/- | \u20b910,00,000/- | \u20b91,00,000/-\n | World Cup/World Championship Sub-junior (every 4 years) | \u20b910,00,000/- | \u20b97,00,000/- | \u20b95,00,000/- | \u20b950,000/-\n5 | World Cup/World Championship Senior (held every 1 year to 2 years) | \u20b915,00,000/- | \u20b910,00,000/- | \u20b97,00,000/- | \u20b91,50,000/-\n | World Cup/World Championship Junior (held every 1 year to 2 years) | \u20b910,00,000/- | \u20b97,00,000/- | \u20b95,00,000/- | \u20b91,00,000/-\n | World Cup/World Championship Sub-junior (held every 1 year to 2 years) | \u20b97,00,000/- | \u20b95,00,000/- | \u20b93,00,000/- | \u20b950,000/-\n6 | Asia Cup | \u20b915,00,000/- | \u20b912,00,000/- | \u20b910,00,000/- | \u20b91,00,000/-\n7 | Asian Games | \u20b940,00,000/- | \u20b925,00,000/- | \u20b912,00,000/- | \u20b91,50,000/-\n8 | Commonwealth Games (Every 4 years) | \u20b940,00,000/- | \u20b925,00,000/- | \u20b912,00,000/- | \u20b91,50,000/-\n9 | Intercontinental Championship | \u20b97,00,000/- | \u20b95,00,000/- | \u20b93,00,000/- | \u20b940,000/-\n10 | Asian Championships/Commonwealth Championships Senior | \u20b97,00,000/- | \u20b95,00,000/- | \u20b93,00,000/- | \u20b950,000/-\n | \u20b95,00,000/- | \u20b93,00,000/- | \u20b92,00,000/- | \u20b950,000/-\n11 | World University Games/Championships | \u20b97,00,000/- | \u20b95,00,000/- | \u20b93,00,000/- | -\n12 | Other International Tournaments (participation of at least 8 countries) Senior | \u20b91,00,000/- | \u20b975,000/- | \u20b950,000/- | -\n | Other International Tournaments (participation of at least 8 countries) Junior | \u20b950,000/- | \u20b935,000/- | \u20b915,000/- | -\n | Other International Tournaments (participation of at least 8 countries) Sub-junior | \u20b925,000/- | \u20b915,000/- | \u20b910,000/- | -\n13 | SAF Games Senior | \u20b93,00,000/- | \u20b92,00,000/- | \u20b91,00,000/-",
+    " | \u20b91,50,000/- | \u20b91,00,000/- | \u20b975,000/- | -\n14 | International Veteran Championships | \u20b950,000/- | \u20b930,000/- | \u20b920,000/- | -\n15 | World Marathon | \u20b91,50,000/- | \u20b91,00,000/- | \u20b975,000/- | -\n16 | National Games | \u20b95,00,000/- | \u20b93,00,000/- | \u20b92,00,000/- | -\n17 | National Championships/ Inter Zone Senior | \u20b91,50,000/- | \u20b91,00,000/- | \u20b975,000/- | -\n | National Championships/ Inter Zone Junior | \u20b91,00,000/- | \u20b975,000/- | \u20b960,000/- | -\n | National Championships/ Inter Zone Sub-junior | \u20b975,000/- | \u20b960,000/- | \u20b950,000/- | -\n18 | All India Inter University Competition/ Championship | \u20b91,00,000/- | \u20b975,000/- | \u20b950,000/- | -\n19 | National School Competition | \u20b975,000/- | \u20b960,000/- | \u20b950,000/- | -\n20 | Khelo India Games | \u20b975,000/- | \u20b960,000/- | \u20b950,000/- | -\n21 | Special Olympics (International) Disability Sports Competition | \u20b97,00,000/- | \u20b95,00,000/- | \u20b93,00,000/-",
+    "22 | World Marathon Divyang Games Competition | \u20b92,00,000/- | \u20b91,50,000/- | \u20b91,00,000/- | \u20b950,000/-\n23 | Asian/ Commonwealth Disabled Sports Competition | \u20b91,50,000/- | \u20b91,00,000/- | \u20b975,000/- | -\n24 | Special Olympics (National) Divyang Sports Competition | \u20b91,00,000/- | \u20b975,000/- | \u20b950,000/- | -",
+    "Special awards for breaking records a new world record, a new Asian record, and a new national record in individual events:",
+    "World Record: \u20b95,00,000/- Asian Record: \u20b93,00,000/- National Record: \u20b92,00,000/-",
+    "Maximum Cash Award for Exceptional Achievements:",
+    "Up to \u20b910,00,000/- subject to the Chief Minister's approval."
+  ],
+  "eligibility_criteria": "The applicant should be a sportsperson. The Athletes must represent Jharkhand in competitions recognized by national/international Olympic committees. The Athletes must have secured a medal or participated in such competitions. The record-setting athletes are eligible for additional cash incentives. Awards for one competition are based on the highest achievement if multiple medals are won. \n",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step-1: The interested applicant downloads the application form from the official website.",
+        "Step-2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3: Submit the duly filled and signed application form along with the documents to the District Sports Officer.",
+        "Step-4: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sports.jharkhand.gov.in/notice_docs/2fab3f58Sankalp%20Cash%20Award%20REVISED.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://sports.jharkhand.gov.in/Home.aspx"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Non-colorful Passport-size Photo Documents related to participation/medal achievements in the listed competitions. Identity Proof of the Applicant (Aadhaar, Voter ID, PAN Card, Driving License, Passport, or any other valid ID) Residential Address Proof (Aadhaar, Local Resident Certificate, Voter ID, Driving License, Passport, or Ration Card)"
+}

@@ -1,0 +1,80 @@
+{
+  "scheme_id": "6772e6e09b44dc3a5aaf2dc2",
+  "slug": "cmhs",
+  "scheme_name": "Chief Minister Help Scheme",
+  "scheme_short_title": "CMHS",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Tribal Welfare and Scheduled Caste (SC) Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Children",
+    "Birth",
+    "Death",
+    "Family"
+  ],
+  "brief_description": "Launched on 02-10-2019, the Chief Minister Help Scheme under the Tribal Welfare and Scheduled Caste (SC) Department, Madhya Pradesh, provides food distribution and material aid to Scheduled Tribe beneficiaries whose family members are not in government service.",
+  "detailed_description": "The scheme was launched on 02-10-2019, the Chief Minister Help Scheme under the Tribal Welfare and Scheduled Caste (SC) Department, Madhya Pradesh, provides food distribution and material aid to Scheduled Tribe families. Ration assistance is offered on the birth of a child or the death of a family member, with eligibility requiring that no family member is employed in government service.",
+  "benefits": [
+    "On Birth of a Child: 50 kg of wheat, rice, and cooking utensils.",
+    "On the Death of a Family Member:",
+    "1 quintal of rice for the following districts: Mandla, Dindori, Balaghat, Shahdol, Anuppur and Umaria. 1 quintal of wheat for the following districts: Jhabua, Alirajpur, Barwani, Ratlam, Hoshangabad, Betul, Sidhi, Seoni, Chhindwara, Dhar, Khargone, Khandwa, Burhanpur, Sheopur."
+  ],
+  "eligibility_criteria": "The applicant should be from the Scheduled Tribe category. There should have either been a birth of a child OR the death of a member of the applicant's family. No member from the applicant's family should be employed in government service (Class 1/2/3) or a higher category post. In the case of the birth of a child in the applicant's family, the benefits can only be availed for the first or second child of a couple.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the Village Panchayat Secretary (Gram Panchayat Sacheev), provide all the required information to the staff. If required, provide copies of the mandatory documents (self-attest, if required).",
+        "Step 2: The Village Panchayat Secretary (or the staff designated by the Village Panchayat Secretary) will apply online on behalf of the interested applicant.",
+        "*Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    },
+    {
+      "mode": "Online",
+      "steps": [
+        "Once all the required information is received from the interest applicant, the Village Panchayat Secretary (or the staff designated by the Village Panchayat Secretary) is required to perform the following steps:",
+        "Step 1: Log In to the Samagra Portal",
+        "Open your web browser and go to the State Population Registration System portal here. Click on the \"Login\" button at the top right corner of the page. Enter your \"\u0917\u094d\u0930\u093e\u092e \u092a\u0902\u091a\u093e\u092f\u0924 \u0938\u091a\u093f\u0935\" (Gram Panchayat Secretary) user ID and password, then click on the \"Login\" button.",
+        "Step 2: Birth Registration",
+        "Click on the \"Birth Registration\" link in the main menu. Enter the family's Samagra ID in the provided field and press the \"Enter\" key. Fill in the required information in the form that appears. Check the box labeled \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u092e\u0926\u0926 \u092f\u094b\u091c\u0928\u093e \u0915\u093e \u0932\u093e\u092d \u0932\u0947\u0928\u0947 \u0939\u0947\u0924\u0941\" (To avail the benefits of the Chief Minister's Assistance Scheme). Click on the \"Submit\" button to complete the registration.",
+        "OR",
+        "Step 2: Death Registration",
+        "Click on the \"Death Registration\" link in the main menu. Enter the deceased member's Samagra ID in the provided field and press the \"Enter\" key. The details of the deceased member will be displayed on the screen. Fill in the required information in the form that appears. Check the box labeled \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u092e\u0926\u0926 \u092f\u094b\u091c\u0928\u093e \u0915\u093e \u0932\u093e\u092d \u0932\u0947\u0928\u0947 \u0939\u0947\u0924\u0941\" (To avail the benefits of the Chief Minister's Assistance Scheme). Click on the \"Submit\" button to complete the registration.",
+        "Step 3: Correction in Caste Details",
+        "If the caste is incorrectly recorded, click on the \"Caste Correction\" link in the main menu. Select the correct caste from the dropdown menu. Upload the caste certificate by clicking on the \"Choose File\" button and selecting the file from your computer. Click on the \"Submit\" button to save the changes.",
+        "Step 4: Selection for \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u092e\u0926\u0926 \u092f\u094b\u091c\u0928\u093e\" Benefits",
+        "During the birth or death registration process, check the box labeled \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u092e\u0926\u0926 \u092f\u094b\u091c\u0928\u093e \u0915\u093e \u0932\u093e\u092d \u0932\u0947\u0928\u0947 \u0939\u0947\u0924\u0941\" (To avail the benefits of the Chief Minister's Assistance Scheme). Follow the displayed options related to the scheme.",
+        "Step 5: Issuance of Assistance Certificate",
+        "Click on the \"Generate Assistance Certificate\" button in the main menu. The certificate will be generated and displayed on the screen. Print the certificate by clicking on the \"Print\" button. The Gram Panchayat Secretary will sign the printed certificate and hand it over to the concerned family. The family member can present this certificate at the \"\u0909\u091a\u093f\u0924 \u092e\u0942\u0932\u094d\u092f \u0915\u0940 \u0926\u0941\u0915\u093e\u0928\" (Fair Price Shop) to receive grains.",
+        "Step 6: Reprint Assistance Certificate",
+        "Click on the \"Reprint Assistance Certificate\" link in the main menu. Enter the family's Samagra ID in the provided field and press the \"Enter\" key. The certificate will be displayed on the screen. Print the certificate by clicking on the \"Print\" button.",
+        "The vendor at the \"\u0909\u091a\u093f\u0924 \u092e\u0942\u0932\u094d\u092f \u0915\u0940 \u0926\u0941\u0915\u093e\u0928\" (Fair Price Shop) will click on the \"\u092e\u0926\u0926 \u092f\u094b\u091c\u0928\u093e\" (Assistance Scheme) option on the POS machine.",
+        "Enter the family's Samagra ID in the provided field and press the \"Enter\" key. Select the family member from the displayed list. Print the receipt by clicking on the \"Print\" button.",
+        "Finally, the intended beneficiary will receive the grains based on the printed receipt.",
+        "Contact for Assistance",
+        "For any issues, contact the departmental helpdesk at 1800-2333-951 or email helpdesk.tribal@mp.gov.in."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=604"
+    },
+    {
+      "title": "User Manual",
+      "url": "https://www.tribal.mp.gov.in/CMS/Uploaded%20Document/Schemes/UserManaual_Madad.pdf"
+    }
+  ],
+  "documents_required": "Aadhaar Card Domicile Certificate Caste Certificate Death Certificate / Birth Certificate Samagra ID of the Family Bank Account Details"
+}

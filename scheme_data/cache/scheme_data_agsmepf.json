@@ -1,0 +1,71 @@
+{
+  "scheme_id": "6788eed4d667626b5f0b35bf",
+  "slug": "agsmepf",
+  "scheme_name": "Aatmanirbhar Gujarat Scheme for Assistance to Mega Industries: EPF Reimbursement",
+  "scheme_short_title": "AGSMEPF",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Industries and Mines Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Business & Entrepreneurship"
+  ],
+  "sub_categories": [
+    "Setting up / start-up / entrepreneurship"
+  ],
+  "target_beneficiaries": [
+    "Business Entity",
+    "Industries"
+  ],
+  "tags": [
+    "Business",
+    "Entrepreneurship",
+    "Mega Industries",
+    "Thrust Manufacturing Sector",
+    "EPF Reimbursement"
+  ],
+  "brief_description": "The \"Aatmanirbhar Gujarat Scheme for Assistance to Mega Industries\" aims to strengthen the overall industrial ecosystem in the State and also enable a larger set of manufacturing companies to emulate the adoption of clean energy and make them future-ready to compete in global markets.",
+  "detailed_description": "The &amp;quot;Aatmanirbhar Gujarat Scheme for Assistance to Mega Industries&amp;quot; is an umbrella scheme launched by the Industries and Mines Department, Gujarat. It aims to empower the state&amp;#39;s dynamic mega-industry sector, which significantly contributes to employment, GDP, and exports. Effective from October 5, 2022, to October 4, 2032, this initiative supports growth, investments, and the vision of &amp;quot;Aatmanirbhar Gujarat&amp;quot; and &amp;quot;Aatmanirbhar Bharat.&amp;quot; The component &amp;quot;EPF Reimbursement&amp;quot; offers financial support to eligible Mega Industrial Units in Gujarat by reimbursing the employer&amp;#39;s contribution to the Employees' Provident Fund (EPF) for new employees.",
+  "benefits": [
+    "Reimbursement: 100% reimbursement of employer's statutory EPF contribution. Incentive Ceiling: 12% of basic salary + DA or \u20b91800/- per month, whichever is lower."
+  ],
+  "eligibility_criteria": "The mega industry must operate as a manufacturing unit. The unit must have a minimum investment of \u20b92,500/- crore in plant and machinery. The unit must provide direct employment to at least 2,500 persons. The unit must belong to one of the thrust sectors as defined in the Guidelines (Refer Page No. 9). Only new employees who do not have a Universal Account Number (UAN) before joining the unit are eligible. The reimbursement is only for incremental employee count post-expansion.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process:",
+        "Step-1: Visit the Investor Facilitation Portal (IFP) portal. Click on \"New Investor Registration\" to access the registration form.",
+        "Step-2: Fill in the Registration Form. Click on \"Submit\".",
+        "Step-3: Verify the E-mail ID using the link sent on your registered E-mail ID.",
+        "Step-4: After verification, you will be registered successfully.",
+        "Post-Registration Process:",
+        "Step-1: Visit the Investor Facilitation Portal (IFP) portal. Click on \"Login\".",
+        "Step-2: Enter the email address and password you used during registration.",
+        "Step-3: Click the \"Login\" button to access your account.",
+        "Step-4: Now fill in the required details and mandatory documents about your business to complete the application process.",
+        "Helpdesk: Contact Us. "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines 1",
+      "url": "https://ic.gujarat.gov.in/documents/commondoc/2022/Atmanirbhar%20Gujarat%20Scheme%20for%20assistance%20to%20Mega%20Industries.pdf"
+    },
+    {
+      "title": "Guidelines 2",
+      "url": "https://ic.gujarat.gov.in/documents/commondoc/2023/2.Aatmanirbhar%20Gujarat%20Scheme%20for%20assistance%20to%20Mega%20Industries%20Guideline.pdf"
+    },
+    {
+      "title": "Guidelines 3",
+      "url": "https://cmogujarat.gov.in/sites/default/files/2023-01/AatmaNirbhar-Gujarat_Industrial-Policy_0.pdf"
+    },
+    {
+      "title": "Online Application Portal",
+      "url": "https://ifp.gujarat.gov.in/IC/digigov.htm?actionFlag=loadCitizenRegPage"
+    }
+  ],
+  "exclusions": "Units that have already availed EPF reimbursement under any central or state government scheme are not eligible for the scheme for that period. Employees with a prior UAN before joining the unit are not eligible.",
+  "documents_required": "Provisional Eligibility Certificate issued under the Scheme (If Applicable). Final Eligibility Certificate issued under the Scheme (If Obtained). Proof of new UAN account for each employee for whom the assistance is to be claimed (one time for every unique UAN). Summary and Detailed Employment Statement. Attendance Register / Salary Register for last month of Claim Period. Salary Slip of all Employees for which EPF Reimbursement Claimed. Payments proof of EPF. Copy of Bank Statement for salary payment. Valid CCA from G.P.C.B. (If applicable). Attendance / Salary Register for the Last Month of Claim Period. Employment Statement for the Last Month of the claim Period (in Prescribed Format). Details of Apprentice (If applicable). Authority Letter duly certified with Board Resolution, Directors / Partners / Owner. (Authorised Person should be any Director/Partner/at-least Employee of the Company). Affidavit in prescribed format."
+}

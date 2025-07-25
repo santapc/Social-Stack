@@ -1,0 +1,89 @@
+{
+  "scheme_id": "67456b6cb63acbe8ffb83d0b",
+  "slug": "pshpbocwwb",
+  "scheme_name": "Pension Scheme (HPBOCWWB)",
+  "scheme_short_title": "PSHPBOCWWB",
+  "state": "Himachal Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Labour and Employment Department, Himachal Pradesh",
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Pension",
+    "Financial assistance",
+    "Citizen empowerment"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Building",
+    "Construction",
+    "Labour",
+    "Pension",
+    "Senior Citizen",
+    "Worker"
+  ],
+  "brief_description": "The \"Pension Scheme\" by the Building and Other Construction Workers Welfare Board, Labour Department, Himachal Pradesh provides registered beneficiaries with a minimum pension of \u20b91,000/- per month upon reaching 60 years of age.",
+  "detailed_description": "The &quot;Pension Scheme,&quot; launched by the Himachal Pradesh Building and Other Construction Workers Welfare Board (HPBOCWWB) under the Government of Himachal Pradesh, provides financial support to registered construction workers. Once they reach the age of 60, beneficiaries are entitled to a monthly pension, with a guaranteed minimum amount of \u20b91,000/-.",
+  "benefits": [
+    "Pension amount \u20b91,000/- per month."
+  ],
+  "eligibility_criteria": "For Registration as a Building/Construction Worker:\nThe applicant must be a resident of Himachal Pradesh. The applicant must be a Building or Construction Worker. The age of the applicant should be between 18 and 60 years. The applicant should have worked in building or construction activities for at least 90 days in the preceding 12 months. The registration must be renewed annually.\n\nEligibility Criteria for Pension Scheme:\nThe worker should be registered as a Building or Construction worker with the \"Himachal Pradesh Building and Other Construction Workers Welfare Board\". The worker's membership with the Welfare Board must be active. The worker should be 60 years of age or older. The beneficiary should have been a continuous member of the Board for three years before attaining the age of 60 years.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "The Registration Process for Building and Other Construction Workers is as follows:",
+        "Step 1: The interested applicant should visit the Labor Welfare Office (during office hours) and request a hard copy of the prescribed application form from the concerned authority.",
+        "Step 2: In the application form , fill in all the mandatory fields, paste a passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attested, if required).",
+        "Step 3: Submit the duly filled and signed application form along with a wage slip or appointment letter from the employer, verifying 90 days of construction work. If unavailable, a certificate from a local authority (such as a councilor, executive officer, or Panchayat Secretary) can be submitted to verify employment.",
+        "Step 4: After submitting the documents and payment, the worker will receive an acknowledgment receipt confirming their registration.",
+        "NOTE 1: Ensure that the application is submitted within the prescribed period, if any.",
+        "NOTE 2: After three years, the worker must visit the office to pay a renewal fee and submit proof of 90 days of work each year to maintain eligibility for benefits.",
+        "NOTE 3: A one-time registration fee must be paid at the office, and it will be valid for three years."
+      ]
+    },
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process for Building and Other Construction Workers:",
+        "Step 1: The applicant must visit the official website of the Himachal Pradesh Building and Other Construction Workers Welfare Board.",
+        "Step 2: If you are a new user then click worker services , click on \" New Registration .\"",
+        "Step 3: Once the dashboard appears, locate and complete the form by entering all required details. Mandatory fields are marked with an asterisk (*), ensuring that all essential information is provided.",
+        "Step 4: Attach all necessary documents, including ID proof and any other relevant certificates, as specified. Ensure the documents are clear and meet the format requirements.",
+        "Step 5: After completing the form and uploading the documents, click on the \"Submit\" button. You will be directed to the payment gateway to pay the application fee online.",
+        "Step 6: Upon successful payment and submission, a registration number will be generated. This number serves as confirmation of your application and can be used for future reference.",
+        "Scheme Application Process:",
+        "Step 1: The applicant must visit the official website of the Himachal Pradesh Building and Other Construction Workers Welfare Board.",
+        "Step 2: Click on the option \" Apply for Benefits. \"",
+        "Step 3: Enter your beneficiary details and date of birth, then click \"Search\" to view your information.",
+        "Step 4: Select the scheme you wish to apply for to avail of the benefits.",
+        "Step 5: Enter all required information and upload the necessary documents as prompted.",
+        "Step 6: Finally, click on \"Submit Application\" to complete the process.",
+        "Application Tracking:",
+        "Applicants can track their application status online through the official website of the Himachal Pradesh Building and Other Construction Workers Welfare Board. Relevant updates will be sent to the registered mobile number."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Website",
+      "url": "https://bocw.hp.nic.in/index.aspx"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://bocw.hp.nic.in/PublicPages/schemedetails.aspx"
+    },
+    {
+      "title": "Registration Form",
+      "url": "https://bocw.hp.nic.in/Publicpages/Downloads.aspx"
+    },
+    {
+      "title": "Scheme Form",
+      "url": "https://bocw.hp.nic.in/pdf/pension3539_A1b.pdf"
+    }
+  ],
+  "documents_required": "Proof of Identity. First page of Passbook. Age proof Labour Card ID proof of the worker issued by the organization Any other documents as required"
+}

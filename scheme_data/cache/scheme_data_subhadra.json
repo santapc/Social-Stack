@@ -1,0 +1,59 @@
+{
+  "scheme_id": "66ed5d8ca2ae583ad3e24ce3",
+  "slug": "subhadra",
+  "scheme_name": "SUBHADRA",
+  "scheme_short_title": "SUBHADRA",
+  "state": "Odisha",
+  "level": "State/ UT",
+  "nodal_department": "Women and Child Development Department",
+  "dbt_scheme": true,
+  "categories": [
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Financial Assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Women Empowerment",
+    "Financial Support",
+    "Digital Financial Literacy",
+    "DBT"
+  ],
+  "brief_description": "\"SUBHADRA\" Scheme is a flagship initiative by the Government of Odisha aimed at financially empowering women, improving their socio-economic status, and promoting their safety and well-being.",
+  "detailed_description": "\"SUBHADRA\" is a flagship scheme by the Women And Child Development Department, Government of Odisha aimed at empowering women through financial support, enhanced digital literacy, and access to social safety nets. The scheme provides direct benefits and incentivizes digital transactions, focusing on improving the socio-economic conditions of women and their families. &lt;br&gt;",
+  "benefits": [
+    "SUBHADRA Card: All beneficiaries receive a SUBHADRA card (ATM-cum-debit card) to enhance identity and empowerment. Financial Support: Eligible beneficiaries receive a total of \u20b950,000/- over 5 years (\u20b910,000/- annually between 2024-25 to 2028-29). Digital Transactions Incentive: Top 100 women in each Gram Panchayat/Urban Local Body with the highest number of digital transactions in a year receive an additional \u20b9500/-. "
+  ],
+  "eligibility_criteria": "The applicant must be a resident of Odisha. The applicant should be covered under the National Food Security Act (NFSA)/ State Food Security Scheme (SFSS). Applicant without an NFSA or SFSS Card can apply under SUBHADRA if her family income is not more than \u20b92,50,000/-. The applicant's age should be 21 years or more and less than 60 years as on the qualifying date. Applicants receiving financial assistance such as pension, scholarship etc. of \u20b91,500/- per month or more or \u20b918,000/- per annum or more under any State or Central Government Scheme would be ineligible. The applicant should not be a current or former Member of Parliament (MP) or Member of the Legislative Assembly (MLA). The applicant should not be an Income Tax Payee. The applicant should not be an elected public representative in any Urban Local Body or Panchayati Raj Institution (excluding Ward Member / Councillor) The applicant should not be Employed as a regular or contractual employee in State Government or Government of India or Public Sector Undertaking or Board or Local Body or Government Organization or is receiving pension after retirement. However, all workers receiving honorarium such as ASHA, Anganwadi Worker, Community Resource Person, Master Bookkeeper, etc. and all those engaged through outsourcing agencies would be considered, if otherwise eligible under this Scheme. The applicant should not be an elected / nominated/ appointed representative in any Government Department or Undertaking or Board or Organization of Government of India or State Government. An owner of a 4-wheeler Motor Vehicle except tractors, mini-trucks, small commercial vehicles and other similar light goods vehicles.\nNote:\nFor 2024-25, if a woman attains the age of 21 years after 01.07.2024, she will get Rs.10,000 per year, only for the remaining years of the scheme period. In 2024-25, women who complete 60 years of age after 01.07.2024, will not receive the benefits for the remaining years of the scheme period.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should collect the application form from the local Anganwadi Centres, Block Offices, Urban Local Body Offices, Mo Seba Kendras, Common Service Centres, etc. Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required). Step 3: Submit the duly filled and signed application form along with the documents to the submit the same at the nearest Mo Seba Kendra/ Common Service Centre. Step 10: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, a unique identification number (if applicable). e-KYC Process:  The preferred mode of e-KYC would be through face-authentication whereby beneficiaries can complete the process through the SUBHADRA Mobile application by providing their Aadhaar number."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (English)",
+      "url": "https://subhadra.odisha.gov.in/assets/website-assets/docs/Subhadra-Guideline-Eng.pdf"
+    },
+    {
+      "title": "Guidelines (Odia)",
+      "url": "https://subhadra.odisha.gov.in/assets/website-assets/docs/Subhadra-Guideline-Odia.pdf"
+    },
+    {
+      "title": "Standard Operating Procedure (SOP)",
+      "url": "https://subhadra.odisha.gov.in/sop"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://subhadra.odisha.gov.in/faq"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Copy of Aadhaar Card. A mobile number linked to Aadhaar, Copy of Bank Account Details (single-holder Aadhaar-enabled and DBT-enabled)."
+}

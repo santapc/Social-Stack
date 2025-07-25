@@ -1,0 +1,59 @@
+{
+  "scheme_id": "67dfc2411fcde6ef69884576",
+  "slug": "jpsma",
+  "scheme_name": "Jiyo Parsi Scheme \u2013 Medical Assistance",
+  "scheme_short_title": "JPSMA",
+  "level": "Central",
+  "implementing_agency": "State Governments With The Assistance Of Selected Parsi Punchayets/Anjumans/Agiaries",
+  "dbt_scheme": true,
+  "categories": [
+    "Health & Wellness"
+  ],
+  "sub_categories": [
+    "Medical insurance",
+    "Financial assistance",
+    "Pregnancy care"
+  ],
+  "target_beneficiaries": [
+    "Family",
+    "Individual"
+  ],
+  "tags": [
+    "Parsi Community",
+    "Medical Assistance",
+    "Parsi Couples",
+    "Fertility Treatment",
+    "Zoroastrians"
+  ],
+  "brief_description": "This scheme provides financial support to the Parsi couples for fertility treatments, including Assisted Reproductive Technologies (ART) such as In-Vitro Fertilization (IVF) and Intra Cytoplasmic Sperm Injection (ICSI), along with other methods, including surrogacy, wherever required.",
+  "detailed_description": "The scheme &amp;quot;Jiyo Parsi Scheme \u2013 Medical Assistance&amp;quot; is a unique Central Sector Scheme launched by the Ministry of Minority Affairs, Government of India, in 2013-14. It aims to provide financial assistance for fertility treatment to the Parsi couples under standard medical protocols to address fertility issues. Financial support is provided for fertility treatments, including Assisted Reproductive Technologies (ART) such as In-Vitro Fertilization (IVF) and Intra Cytoplasmic Sperm Injection (ICSI), along with other methods, including surrogacy, wherever required. The scheme would be implemented by the State Governments with the assistance of selected Parsi Punchayets/Anjumans/Agiaries. **Objective:** The objective of the scheme is to reverse the declining trend of Parsi population by adopting a scientific protocol and structured interventions, stabilize their population and to increase the population of Parsis in India.",
+  "benefits": [
+    "Under this component, Parsis couples would get financial assistance for undertaking treatment cycles of Assisted Reproductive Technologies (ART), surrogacy, In-Vitro Fertilization (IVF) or Intra Cytoplasmic Sperm Injection (ICSI). The monetary ceiling of expenditure would be as follows: Assistance for infertility treatment upto a maximum \u20b96 lakh or actual expenditure, whichever is less. This would include IVF (\u20b91,50,000 per cycle, maximum 4 cycles), Surrogacy, Intra Cytoplasmic Sperm Injection (ICSI), cost of donor etc. in accordance with the submitted plan of treatment. Assistance for other medical expenses (after conception) towards childbearing upto a maximum of \u20b94 lakh or actual expenditure whichever is less. This would include diagnostic tests, medication (as per the treating Doctor's prescription), hospitalization, delivery related charges. A maximum amount of \u20b92 Lakh or actual expenditure (whichever is less) would be reimbursed before delivery and the remaining would be reimbursed after the delivery. In case, the newly born child(ren) requires post-natal (from birth till six weeks) care e.g., NICU, special check-ups, surgery, etc., an amount up to \u20b92.50 lakh or actual expenditure whichever is less, would be reimbursed. Reimbursement in each of the categories would be admissible as per the following annual family income criteria:",
+    "Sl. No. | Annual family income from all sources | Financial assistance to be provided under the medical component\n1 | Upto \u20b915 lakh | 100%\n2 | Above \u20b915 lakh upto \u20b925 lakh | 75%\n3 | Above \u20b925 lakh upto \u20b930 lakh | 50%",
+    "Note 1: All assistance under Medical Component would be subject to verification of submitted bills. Note 2: In accordance with Department of Health Research, M/o Health & Family Welfare guidelines, law laid down under ART (Regulation) Act, 2021 and Surrogacy (Regulation) Act, 2021 and Rules & Regulations made there under are to be complied with. Note 3: Standard medical protocols to be followed as per the guidelines of the Ministry of Health and Family Welfare, Government of India. Note 4: Financial assistance would be provided under the medical component for the treatment undertaken at hospitals/clinics recognized/accredited by the Central/State Government."
+  ],
+  "eligibility_criteria": "Only Parsi/Zoroastrian couples who are Indian residents are eligible to apply. The applicant should belong to a notified minority community, i.e., Parsi/Zoroastrian.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Parsi couples willing of availing the scheme would be required to apply on the Jiyo Parsi Portal to seek benefits under the respective components and fill in the requisite application form providing their Aadhar Numbers, Aadhar-linked bank account details joint account) and other relevant information. One Time Registration: Step 1: For Registration, click on the \u2018Apply Now' link available under the \u2018 Portal for Jiyo Parsi Scheme ' section on the official website of the Ministry. Then, click on \u2018Apply for Services'. Step 2: Enter all the required details in the registration form . Step 3: Confirm your mobile number and email ID through OTP. Once verified, your data will be saved. Step 4: After successful registration, you will receive your User ID (Registration ID) and Password (as created) via SMS and email. Application Process: Step 1: After successful registration. Use your registered email ID and password to log in at https://serviceonline.gov.in/dbt/.  Step 2: To finalize the remaining application form, click on \u2018Login' and use your registered email ID as the username and your password to access the application page. Step 3: Upon logging in, you will be redirected to the additional details page to finalize the application. Step 4: Use your Registration ID and password to access your profile. Your name will be displayed at the top-right corner. Step 5: In manage profile option of menu; You can view/edit your profile and change your password if needed. Click on \u2018Apply for Services', then select \u2018View All Available Services'. Step 6: In the search bar, type \u2018Jiyo Parsi Medical Assistance Component' and click on the service name. Fill in your personal details carefully. Any errors will be highlighted in red. Step 7: After completing all required details and the declaration, you will receive an Application Reference Number to track your status using your login credentials. Step 8: Read the declaration carefully, check \u2018Preview', select \u2018I Agree', and then submit the application. Step 9: Do not enter any details in the \u2018Additional Details' section, as it is pre-filled. Upon successful submission, you will receive an acknowledgement slip.  User Manual "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://minorityaffairs.gov.in/showfile.php?lang=1&level=1&ls_id=836&lid=1055"
+    },
+    {
+      "title": "Portal For Jiyo Parsi Scheme",
+      "url": "https://jiyoparsi.minorityaffairs.gov.in/index.php"
+    },
+    {
+      "title": "User Manual For Jiyo Parsi Portal",
+      "url": "https://jiyoparsi.minorityaffairs.gov.in/User_guidelines_for_Beneficiary_Jiyo_Parsi.pdf"
+    }
+  ],
+  "documents_required": "Aadhaar Number Recent, clear colour passport size photograph (against a plain white background) of the candidate without wearing dark glasses Income certificate Residence proof Community certificate, if any Treatment Plan Doctor prescription Cancelled cheque/Bank Passbook ITR Any other documents as required"
+}

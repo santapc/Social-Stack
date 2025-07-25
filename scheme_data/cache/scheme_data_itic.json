@@ -1,0 +1,48 @@
+{
+  "scheme_id": "684c0d3ec19e14f0a83d1dc7",
+  "slug": "itic",
+  "scheme_name": "IT Incubation Center",
+  "scheme_short_title": "ITIC",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "Information Technology Development Agency",
+  "dbt_scheme": false,
+  "categories": [
+    "Business & Entrepreneurship"
+  ],
+  "sub_categories": [
+    "Setting up / start-up / entrepreneurship"
+  ],
+  "target_beneficiaries": [
+    "Individual",
+    "Business Entity",
+    "University / Institution"
+  ],
+  "tags": [
+    "Startup",
+    "Incubation",
+    "IT Infrastructure"
+  ],
+  "brief_description": "The scheme \"IT Incubation Center\" by the Information Technology Development Agency, Government of Uttarakhand aims to support registered startups in developing their businesses and resolving associated challenges.",
+  "detailed_description": "The scheme &amp;quot;IT Incubation Center&amp;quot; by the Information Technology Development Agency, Government of Uttarakhand aims to nurture and accelerate early-stage startups by providing them with a supportive ecosystem. Through this scheme, startups are provided with mentorship, co-working space, advisory services, and guidance to resolve issues related to business development and innovation. The scheme caters to startups in fields like IT, medical/electronics, health tech, travel-tech, and related sectors. It helps promote entrepreneurship and product innovation, with a focus on enabling entrepreneurs to convert ideas into viable business models.",
+  "benefits": [
+    "Mentorship & Advisory Support: Guidance on technical, financial, and business development aspects. Domain-Specific Support: Startups in medical/electronics, health tech, travel-tech, and other sectors receive customized mentoring."
+  ],
+  "eligibility_criteria": "The applicant should belong to any of the following categories:\nUttarakhand-registered startups. IT students. Medical students. Individuals involved in skill development (especially in IT and Artificial Intelligence). Individuals working in travel and tourism. Individuals engaged in healthcare. Individuals involved in biotechnology. Individuals engaged in robotics.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: Interested startups should contact the Startup Team Centre Manager for initial communication. Step 2: Startups must send their requirements via email to: diritda-uk@nic.in. Step 3: The Startup Team will evaluate the startup's needs and initiate the invitation process. Step 4: The Startup Team will request a progress report from the startup company at regular intervals. Step 5: The startup must possess a valid company registration number, a working prototype, and recognized certifications such as ISO. Step 6: The final decision on allocation of incubation space will be made based on availability and a thorough evaluation."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Page No. 242)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Company Registration Certificate Government-Issued Photo Identity Proof Startup India Recognition Certificate (if available) Brief Startup Proposal (mentioning business model, sector, and innovation) Any other documents as required."
+}

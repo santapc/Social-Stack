@@ -1,0 +1,49 @@
+{
+  "scheme_id": "677a6dc0554314d225e1937f",
+  "slug": "fgfsa",
+  "scheme_name": "Financial Grant for Sports Associations",
+  "scheme_short_title": "FGFSA",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Department of Sports & Youth Affairs",
+  "categories": [
+    "Sports & Culture"
+  ],
+  "sub_categories": [
+    "Sports"
+  ],
+  "target_beneficiaries": [
+    "Registered Societies"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Sports",
+    "Associations"
+  ],
+  "brief_description": "The scheme \"Financial Grant for Sports Associations\" implemented by the Tourism, Art-Culture, Sports, and Youth Affairs Department, Government of Jharkhand, provides financial assistance to recognized sports associations for organizing sports activities and promoting talent.",
+  "detailed_description": "The scheme &quot;Financial Grant for Sports Associations&quot; by the Tourism, Art-Culture, Sports, and Youth Affairs Department, Government of Jharkhand, aims to support recognized sports associations in organizing and promoting various sports activities in the state. Under this scheme, financial grants are provided to sports associations that meet the eligibility criteria to conduct training camps, host competitions, and encourage sports development.",
+  "benefits": [
+    "Financial grants are provided to recognized state-level sports associations for organizing sports competitions and training camps. Assistance is offered for conducting training camps before national-level competitions for selected players.",
+    "NOTE:",
+    "The grant includes coverage for competition organization costs, training camp expenses, and administrative support. The funds are disbursed based on the recommendations of the committee constituted under Jharkhand Sports Policy 2022."
+  ],
+  "eligibility_criteria": "The association should be a recognized state sports association registered under the Jharkhand State Registration Department. The association must be affiliated with the Jharkhand Olympic Association and the relevant National Sports Federation. The association association should have district-level units functioning in at least 18 districts of the state. Para-sports associations or associations related to sports included in the Olympics, Asian Games, or Commonwealth Games are eligible. Associations for other sports require at least 15 affiliated districts. \n",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Obtain the Application Form: Download the prescribed application form from the Directorate of Sports and Youth Affairs' official website. Fill Out the Form: Provide complete details about the association, including registration details, affiliations, and proposed activities. Attach Documents: Attach all required documents, such as audit reports, PAN card, and bank account details. Submit the Application: Submit the filled application form along with documents to the Directorate of Sports and Youth Affairs, Ranchi, or through the online application portal.",
+        "Additional Requirements:",
+        "The association must have a functional independent website. A PAN card and a nationalized bank account are mandatory. The association must submit the audit report of the last three years. Associations affiliated with National Federations receiving central government grants for specific projects cannot apply for state grants for the same purpose."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sports.jharkhand.gov.in/notification_docs/3bf42e92Notification%20Regarding%20Grants%20to%20Sports%20Associations.pdf"
+    }
+  ],
+  "exclusions": "Associations operated by individuals or private groups are not eligible. If two or more associations apply for the same sport, only the association recognized by the Jharkhand Olympic Association and National Federation will be considered.",
+  "documents_required": "Registration Certificate (from the Jharkhand State Registration Department) Affiliation Letter (from the Jharkhand Olympic Association and the National Sports Federation) PAN Card Bank Account Details (Nationalized Bank) with Proof Audit Reports of the Last 3 Years An Undertaking Ensuring Compliance with Departmental Guidelines Details of District-Level Units (at least 18 districts) Supporting Documents for the Proposed Sports Activities An Official Letter Declaring the Association's Independent Website Link"
+}

@@ -1,0 +1,62 @@
+{
+  "scheme_id": "66a0d5b962c12e305cb21ea0",
+  "slug": "isssppcp",
+  "scheme_name": "Integrated Social Security Scheme: Pension to Physically Challenged Persons",
+  "scheme_short_title": "ISSSPPCP",
+  "state": "Ladakh",
+  "level": "State/ UT",
+  "nodal_department": "Social and Tribal Welfare Department",
+  "implementing_agency": "Directorate Of Social & Tribal Welfare, Administration Of Union Territory Of Ladakh",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Pension"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Pension",
+    "PwD",
+    "Disability",
+    "ISSS",
+    "BPL"
+  ],
+  "brief_description": "Under this scheme, a monthly pension of \u20b91,000/- is provided to poor physically handicapped persons (including those who are blind, deaf, or dumb) with a degree of disability 40% or above and having no source of income.",
+  "detailed_description": "The scheme &amp;quot;Pension to Physically Challenged Persons&amp;quot; is a sub-component of the \"Integrated Social Security Scheme (IGSSS)\" implemented by the Social and Tribal Welfare Department, Administration of Union Territory of Ladakh. Under this scheme, a monthly pension of \u20b91,000/- is provided to poor physically handicapped persons (including those who are blind, deaf, or dumb) with a degree of disability 40% or above and having no source of income.",
+  "benefits": [
+    "Amount of pension: \u20b91,000/- per month per beneficiary"
+  ],
+  "eligibility_criteria": "The applicant should be a permanent resident of the Union Territory of Ladakh. The applicant should be a physically challenged person with a disability of 40% or more (including Blind, Deaf, Dumb). The applicant should belong to the Below Poverty Line (BPL) category. The applicant's age should be between 18 and 79 years. The applicant should have no source of income.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process: Step 1: Visit the \u2018 Ladakh E-Seva Platform ' and navigate to the \"Go Live Services\" tab on the right side of the screen. Select the ISSS scheme under the 'Social Welfare' section. Step 2: Click on the ' Registration ' tab in the right corner of the screen. Step 3: Read the instructions carefully and fill in all the required information accurately. Upload the Passport-size scan photo (jpg image) in a clear background of size less than 50 kB. Step 4: Note the User ID and Password after successful registration for future reference. Login to apply for scheme benefits: Step 1: To apply under the scheme, visit the \u2018 Ladakh E-Seva Platform ' again and navigate to the \"Go Live Services\" tab on the right side of the screen. Select the ISSS scheme under the 'Social Welfare' section. Step 2: Enter your login credentials (Login ID and Password generated after registration), select \"User Role\" as \"Citizen,\" enter the Captcha, and click on \"Submit\". Step 3: After Login, the applicant has to click on the \"E-services\" tab in the left menu. Step 4: Click on the \"Department of Social & Tribal Welfare\" and select the scheme \u2018Pension to Physically Challenged Persons' under \"Integrated Social Security Scheme\". Step 5: Fill in the required details accurately and upload the mandatory documents then click on Submit to complete the application process."
+      ]
+    },
+    {
+      "mode": "Offline",
+      "steps": [
+        "Application Process: Step 1: Visit the office of the concerned Tehsil Social Welfare Officer (TSWO) and collect the application form, which is available free of cost. Step 2: Fill in all the required information accurately and legibly. Step 3: Enclose all the mandatory documents (self-attested, if required) with the application. Step 4: Submit the application to the TSWO and request a proper receipt acknowledging the submission. Post-Application Process : The concerned TSWO consolidates the list of eligible applicants under the scheme and forwards it to the concerned District Social Welfare Officer for the arrangement of funds and accord of sanction by a designated District level Sanctioning Committee headed by the Director Social Welfare Department, UT Ladakh. Note: In case, the pension is not received by the 8th of every month, beneficiaries are requested to raise a complaint either via email or physically at the following address: Email: directorsocialwelfareladakh@gmail.com Address: Directorate of Social and Tribal Welfare, Ground Floor, Council Secretariat, Kurbathang, Kargil- 194103."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Notification",
+      "url": "https://cdnbbsr.s3waas.gov.in/s395192c98732387165bf8e396c0f2dad2/uploads/2023/06/2023060595.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://socialwelfare.ladakh.gov.in/schemes.php"
+    },
+    {
+      "title": "Ladakh E-Seva Platform",
+      "url": "https://eseva.ladakh.gov.in/ladakheservices"
+    }
+  ],
+  "documents_required": "1. Passport-size Photograph 2. Identity proof i.e. Aadhaar card 3. Proof of Age 4. Proof of Income 5. Disability certificate 6. Proof of Status: Below Poverty Line (BPL) category 7. Address Proof 8. Bank account details/Bank Passbook 9. Any other documents as required"
+}

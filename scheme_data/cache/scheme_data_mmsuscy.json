@@ -1,0 +1,84 @@
+{
+  "scheme_id": "67c07bc70589a41767653e89",
+  "slug": "mmsuscy",
+  "scheme_name": "Mukhya Mantri Sarvajan Uchcha Shiksha Chhatravriti Yojana",
+  "scheme_short_title": "MMSUSCY",
+  "state": "Rajasthan",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Empowerment Department",
+  "dbt_scheme": true,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance",
+    "Education and training grants, fellowship, stipend"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Scholarship",
+    "Higher Education",
+    "IIT",
+    "IIM",
+    "Student"
+  ],
+  "brief_description": "This scheme aims to provide financial assistance to students from all sections of Rajasthan who are pursuing higher education at IITs, IIMs, and other national-level institutions. Under this scheme, 50% of the non-refundable fees are reimbursed to eligible students.",
+  "detailed_description": "The scheme &amp;quot;Mukhyamantri Sarvajan Uchcha Shiksha Chhatravriti Yojana&amp;quot; was launched by the Department of Social Justice &amp;amp; Empowerment, Government of Rajasthan. The main objective of this scheme is to provide financial assistance to students of all sections &amp;amp; castes of Rajasthan who are pursuing higher education in nationally recognized institutions. Under this scheme, 50% of the non-refundable institutional fees are reimbursed to eligible students studying in IITs, IIMs, and other premier institutions.",
+  "benefits": [
+    "Financial Assistance:",
+    "Students receive 50% reimbursement of their non-refundable institutional fees (such as tuition, library, medical, and examination fees).",
+    "Direct Benefit Transfer (DBT): ",
+    "The scholarship amount is transferred directly to the student's bank account.",
+    "Annual Disbursement:",
+    "The scholarship is disbursed annually throughout the duration of the course.",
+    "Covers Multiple Institutions: ",
+    "Includes IITs, IIMs, NITs, AIIMS, and other national institutions listed in the scheme guidelines ."
+  ],
+  "eligibility_criteria": "The applicant should be a native of Rajasthan. The annual income of the parent/guardian of the student/applicant from all sources (including the applicant's own income, if any) should be less than \u20b95,00,000/-. The applicant should be enrolled in IITs, IIMs, NITs, AIIMS, or other national institutions listed under the scheme. The applicant should not be availing of any other government scholarship for the same course. The applicant should maintain academic performance as required for renewal of the scholarship. An employee pursuing full-time studies while on leave without pay for the entire duration of the course will also be eligible for the scholarship. The student studying outside Rajasthan in the listed national institutions are eligible.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration",
+        "Step-1: Applicant have to visit the official portal .",
+        "Step-2: Click on the option \" Register \".",
+        "Step-3: Then you will be redirected to the SSO registration page. The registration page will appear with the following options.",
+        "Citizen",
+        "Step-4: Choose the either one option from the Jan Aadhaar Or Google to process further.",
+        "Jan Aadhaar : Enter the Jan Aadhaar number, click on the \u2018Next' button, Select your name, the name of the head of the family and all the other members and Click on the \u2018Send OTP' button. Enter the \u2018OTP' and Click on the \u2018Verify OTP' button to Complete the registration.",
+        "Google : Enter the Gmail ID, click on the \u2018Next' button, Enter the password. A new link appear on screen, now click on new SSO link. SSO id will appear on screen, now create the password. Enter Mobile number, click on registration.",
+        "Apply",
+        "Step-1: Applicant have to visit the official portal .",
+        "Step-2: After login, dashboard will open.",
+        "Step-3: Click on \"IFMS-RAJSSP\" option.",
+        "Step-4: Select \"Continue to RajSSP\".",
+        "Step-5: Now click on \"Apply for Scheme\" on screen.",
+        "Step-6: In this new page, will get a list of names of all the schemes, and click on the name of \"SCHOLARSHIP (SJE)\"",
+        "Step-7: Fill out all relevant details.",
+        "Step-8: Submit."
+      ]
+    },
+    {
+      "mode": "Online - via CSC",
+      "steps": [
+        "Step 1: The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.",
+        "Step 2: The applicant should visit the nearest E-Mitra Center and complete the Biometric Verification Process.",
+        "Step 3: The applicant should ensure that the E-Mitra Center agent completes all mandatory fields in the application form and uploads copies of all required documents.",
+        "Step 4: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sje.rajasthan.gov.in/Default.aspx?PageID=198"
+    },
+    {
+      "title": "Application Portal",
+      "url": "https://sso.rajasthan.gov.in/signin"
+    }
+  ],
+  "documents_required": "For New Application:\nSelf-attested Passport-size Photo Domicile Certificate 10th-grade Mark Sheet Admission Certificate Income Certificate Death Certificate of parent/spouse, if applicable Marriage certificate, If applicable Bank account details Any other documents if required\nFor Application Renewal:\nIncome Certificate (Issued by Competent Authority) Admission Letter from the Recognized Institution Fee Receipt from the Institution (showing non-refundable components) Diploma/Degree Certificate Previous Academic Marksheet (for renewal applications) Self-Declaration Form for Scholarship Application Bank Account Details (Aadhaar-linked, if applicable) Aadhaar Card/Pan Card/Passport Caste Certificate (if applicable for reservation benefits) Employer Certificate (for government employees on study leave)"
+}

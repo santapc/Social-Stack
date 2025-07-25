@@ -1,0 +1,88 @@
+{
+  "scheme_id": "6727047d9c0322bd68721830",
+  "slug": "hnss",
+  "scheme_name": "Home Nursing Scholarship Scheme",
+  "scheme_short_title": "HNSS",
+  "state": "Goa",
+  "level": "State/ UT",
+  "nodal_department": "Social Welfare Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Goa",
+    "Nursing",
+    "Scholarship",
+    "OBC",
+    "SC",
+    "Student",
+    "Minority",
+    "Disability",
+    "Other Backward Class",
+    "Scheduled Caste"
+  ],
+  "brief_description": "\"Home Nursing Scholarship\" is a scholarship scheme by the Directorate of Social Welfare, Government of Goa. Through this scheme, scholarships are provided to the students from Scheduled Castes / Scheduled Tribes / Other Backward Class / Minorities and also to the Students with Disability.",
+  "detailed_description": "&quot;Home Nursing Scholarship&quot; is a scholarship scheme by the Directorate of Social Welfare, Government of Goa. Through this scheme, scholarships are provided to the students from Scheduled Castes / Scheduled Tribes / Other Backward Class / Minorities and also to the Students with Disability. The scholarships are provided to pursue Home Nursing courses from institutions recognized by the State/Central Goverment. The scholarship covers Course Fees, Maintenance Allowance, and expenditure to be incurred on Books, Uniform, Stationery etc.",
+  "benefits": [
+    "COURSE FEES",
+    "For Certificate Courses of Duration of at Least Six Months: \u20b9 3,500/- or Actual Whichever is Less. For Diploma Courses of Duration of One Year or More: \u20b9 5,000/-or Actual Whichever is Less. For Degree in Nursing of Duration of Three Years: \u20b9 10,000/- or Actual Whichever is Less. For Health Worker Course of Duration of One Year or More: \u20b9 3,500/- or Actual Whichever is Less.",
+    "MAINTENANCE ALLOWANCE (PER MONTH)",
+    "For Day Scholars",
+    "\u20b9500/- for Scheduled Caste Students \u20b9300/- for Other Students",
+    "For Hostellers",
+    "\u20b9800/- for Scheduled Caste Students \u20b9600/- for Other Students",
+    "ADDITIONAL ONE-TIME AMOUNT",
+    "(towards the Expenditure to be incurred on Books, Uniform, Stationery etc)",
+    "\u20b9 1,000/- for Certificate Courses of Duration of at Least Six Months \u20b9 2,000/- for Diploma Courses of Duration of One Year or More \u20b9 3,000/- for Degree in Nursing of Duration of Three Years \u20b9 2,000/- for Health Worker Course of Duration of One Year or More"
+  ],
+  "eligibility_criteria": "1. The applicant should be a Student.\n2. The applicant should have either been born in Goa or should have resided in Goa for continuously at least 15 years.\n3. The applicant should have secured admission to an institution recognized by the State/Central Goverment.\n4. The applicant should be pursuing one of the following courses:\nCertificate Course in Home of Duration of at Least Six Months. Diploma in Home Nursing of Duration of One Year or More. Degree in Nursing of Duration of Three Years. Health Worker Course of Duration of One Year or More.\n5. The annual income of the parent or guardian of the applicant (from all sources) shall not exceed \u20b91,50,000/-.\n6. The applicant should be from a Scheduled Caste / Scheduled Tribe / Other Backward Class / Minority or be differently-abled.\nNOTE: A scholarship holder under this scheme shall not avail of any other scholarship/stipend to pursue the same course.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "For Registration",
+        "Step 1:  Visit the Official Website of the Chief Minister Scholarship Portal, Government of Goa.",
+        "Step 2:  At the top right corner of the landing page, click \"Register\". You will be taken to the registration page .",
+        "Step 3:  On the registration page, under the \"Student Registration\" section, click \"Click Here\".",
+        "In the Student Registration Form, fill in the following fields:",
+        "Student's Name, Gender, Category, Date of Birth (DD-MM-YYYY), Aadhaar Number, House Number, Waddo/Street, Village Panchayat/Municipality, District, Taluka, Assembly/Constituency, City/Town/Village, PIN Code, Mobile Number, Email ID.",
+        "Step 4:  Create a password ranging between 8 to 15 characters and confirm the same.",
+        "Step 5:  Click \"Register\" and then click \"Yes\" to the Confirmation Popup.",
+        "For Application",
+        "Step 1:  Upon successful registration, visit the Official Website of the Chief Minister Scholarship Portal, Government of Goa.",
+        "Step 2:  At the top right corner of the landing page, click \" Login \".",
+        "Step 3:  On the login page, fill in your username, password, captcha code, and click \"Login\".",
+        "Step 4:  Upon logging in, a list of eligible schemes will be displayed. Click the scheme that you intend to apply for.",
+        "Step 5:  In the \"Apply\" section on the side navigation bar, click \"Fresh Application\".",
+        "Step 6:  Fill in all the mandatory fields of the Application Form and upload all the required documents in the specified format and size and click \"Submit\".",
+        "Post Application Process",
+        "1. After successful submission of the application, your school/institution will verify the application and submit it to the directorate for further scrutiny.",
+        "2. In case of an issue in the application form or documents uploaded, the school/institution can send back the application to the student for necessary corrections and resubmission.",
+        "Track Your Application",
+        "Step 1:  In the side navigation bar, click \" Track Application \".",
+        "Step 2:  On the next page, provide your Aadhaar Number and Date of Birth, and click \"Submit\".",
+        "Contact Us",
+        " https://cmscholarship.goa.gov.in/fcontactus.aspx "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guideline",
+      "url": "https://cmscholarship.goa.gov.in/SchemesDetails.aspx#NursingSW"
+    },
+    {
+      "title": "User Manual",
+      "url": "https://cmscholarship.goa.gov.in/UserGuid.aspx"
+    }
+  ],
+  "exclusions": "The scholarship will not be paid during the internship/housemanship.",
+  "documents_required": "Aadhaar Card\nPassport Size Photograph Caste Certificate/ Social Status Certificate Certificates, Diploma, Degree etc in Respect of All Examinations Passed Income Certificate, issued by Competent Authority Birth Certificate/proof of Goan Origin 15 Years Domicile Certificate or Residence Certificate Receipt of Fees Paid to the Institution Bank Pass Book"
+}

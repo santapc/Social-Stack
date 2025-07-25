@@ -1,0 +1,65 @@
+{
+  "scheme_id": "676a43b0f834bff5a5ee9e74",
+  "slug": "masabsn",
+  "scheme_name": "Medical Aid Scheme (Ayushman Bharat Scheme 'Niramaya') (MPBOCWWB)",
+  "scheme_short_title": "MASABSN",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Labour Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Health & Wellness"
+  ],
+  "sub_categories": [
+    "Health promotion",
+    "Health care providers and access",
+    "Medicine and health products",
+    "Financial assistance",
+    "Medical insurance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Building",
+    "Construction",
+    "Medical",
+    "Labour",
+    "Financial Assistance",
+    "Insurance",
+    "Worker"
+  ],
+  "brief_description": "The \"Medical Aid Scheme (Ayushman Bharat Scheme 'Niramaya')\" under the Labour Department, Government of Madhya Pradesh, provides free medical treatment up to \u20b95,00,000/- per year to the registered workers and their families in approved hospitals.",
+  "detailed_description": "The &quot;Medical Aid Scheme (Ayushman Bharat Scheme &#39;Niramaya&#39;)&quot; under the Labour Department, Government of Madhya Pradesh, provides free medical treatment up to \u20b95,00,000/- per year to the registered workers and their families in approved hospitals.",
+  "benefits": [
+    "Free medical treatment up to \u20b95,00,000/- per year."
+  ],
+  "eligibility_criteria": "For Registration\nThe applicant should be a resident of Madhya Pradesh. The applicant should be a Building/ Construction Worker. The applicant should be between 18 and 60 years. The applicant should have engaged in any building or other construction work for at least 90 days during the preceding 12 months. The registration of the applicant should be renewed annually.\nFor Application\nThe applicant should be a female construction worker with a valid identity card, in case of maternity. The applicant should be a male construction worker with a valid identity card, in case of his wife's delivery.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Go to the Shram Seva Portal (MPBOCWWB) official website. ",
+        "Step 2: On the homepage, find and click on \"Registration of Construction Worker.\"",
+        "Step 3: Select the option \" Apply online for registration as a beneficiary.\"",
+        "Step 4: Enter your Composite Member ID and Samagra Family ID, then click Get Details.",
+        "Step 5: Your family or beneficiary details will be displayed on the screen.",
+        "Step 8: Complete the form by entering all required details (marked with *).",
+        "Step 9: Upload all necessary documents, such as ID proof and other relevant certificates.",
+        "Step 10: After completing the form and uploading the documents, click Submit and pay the application fee online.",
+        "Step 11: You will receive a registration number after successful payment and submission."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://labour.mp.gov.in/Public/Pages/Schemes/ChikitsaSahayta.aspx"
+    },
+    {
+      "title": "Labour Registration",
+      "url": "https://labour.mp.gov.in/Public/Registration/BeneficiaryRegistrationRequest.aspx"
+    }
+  ],
+  "documents_required": "Identity Proof (e.g., Aadhaar Card) Passport-size Photograph Proof of Residence (e.g., Utility bill, Voter ID, etc.) Ration Card (optional) Bank Account Details (e.g., Copy of Bank Passbook) Caste Certificate (if applicable) Undertaking/Declaration Age Certificate Valid Identity Cards Employment Certificate Signature Any other documents as required"
+}

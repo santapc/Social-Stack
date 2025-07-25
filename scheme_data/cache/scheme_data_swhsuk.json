@@ -1,0 +1,71 @@
+{
+  "scheme_id": "6842b378a9a9e74d7bf5f5d3",
+  "slug": "swhsuk",
+  "scheme_name": "Solar Water Heater Scheme",
+  "scheme_short_title": "SWHSUK",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "Uttarakhand Renewable Energy Development",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Mechanization- solar power, farming systems"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Electricity",
+    "Water Heater",
+    "Electricity",
+    "Environment",
+    "Uttarakhand",
+    "Consumer"
+  ],
+  "brief_description": "The scheme aims to provide clean and affordable energy, reduce electricity bills, and contribute to environmental protection. Through this scheme, free electricity and a reduction in carbon emissions are provided to the residents of Uttarakhand.",
+  "detailed_description": "The scheme &quot;Solar Water Heater Scheme&quot; by the Department of Renewable Energy, Government of Uttarakhand, aims to provide clean and affordable energy, reduce electricity bills, and contribute to environmental protection. Through this scheme, free electricity and a reduction in carbon emissions are provided to the residents of Uttarakhand. The scheme is implemented by the Uttarakhand Renewable Energy Development Agency (UREDA). <br> > **Objectives:** 1. To provide free electricity to consumers by reducing the burden of expensive electricity bills. 1. To contribute to the state&#39;s global clean energy initiatives and India&#39;s target of Sustainable Development Goal (SDG) 7. 1. To promote energy conservation through the use of green energy. 1. To achieve maximum energy savings and an annual reduction in carbon dioxide emissions. 1. To reduce harm to nature caused by traditional methods of heating water, such as burning wood, especially in hilly regions.",
+  "benefits": [
+    "1. Financial Savings: Electricity consumers directly benefit from reduced expensive electricity bills, as electricity is procured at high rates by Distribution Companies (DISCOMs) for power supply during peak hours.",
+    "2. Environmental Impact: Installation of solar water heaters contributes to the state's global clean energy initiatives and India's target of Sustainable Development Goal (SDG) 7, which focuses on affordable and clean energy.",
+    "3. Carbon Emission Reduction: For every 100% solar water heater installation, 1.5 tonnes of carbon dioxide equivalent emissions will be reduced annually, leading to a positive environmental impact.",
+    "4. Reduced Deforestation: The use of solar water heater systems helps reduce the harm caused to nature by traditional methods of heating water (e.g., burning wood), particularly in the hilly regions of Uttarakhand.",
+    "Conditions/Aspects/Criteria associated with the benefits:",
+    "Grants are provided on a \"first come, first served\" basis to consumers under the sanctioned capacity of the power plant. Grant processing occurs after UREDA (Uttarakhand Renewable Energy Development Agency) verifies the installation. Final payment to the concerned installation firm is made only if UREDA's inspection is satisfactory.",
+    "Mode of Disbursement:",
+    "The grant amount will be transferred online to the account of the beneficiary/approved applicant by the concerned district's senior officer/project officer of UREDA."
+  ],
+  "eligibility_criteria": "The applicant must be a resident of Uttarakhand. The applicant must have an electricity connection from UPPCL (Uttarakhand Power Corporation Limited). The applicant must own the related building.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process:-",
+        "Step 1: Visit the official online portal for the scheme.",
+        "Step 2: Click on the \"Register\" or \"New User Registration\" to register.",
+        "Step 3: Enter your mobile number and possibly create a login (e.g., setting a password or receiving an OTP).",
+        "Step 4: Create your login credentials, which typically involve setting a password. Ensure your password is strong and memorable.",
+        "Application Submission:-",
+        "Step 1: Visit the official online portal for the scheme.",
+        "Step 2: Find and click on the section related to the \"Solar Water Heater Scheme\".",
+        "Step 3: Carefully fill out the online application form. This will include providing details about your established solar water heater system, specifically its capacity.",
+        "Step 4: Upload scanned copies or clear photographs of all necessary supporting documents as prompted by the portal. These typically include your electricity bill, property tax bill (if applicable), and any other relevant plant-related documents.",
+        "Step 5: Proceed to the payment section and pay the non-refundable application fee of \u20b9100/- through the available online payment options (e.g., net banking, credit/debit card, UPI).",
+        "Step 6: Review all entered information and uploaded documents. Once confirmed, submit your application. You will likely receive an application reference number or confirmation."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines Page No. 135-137",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://ureda.uk.gov.in/dpages/solar-tharmal-schemes"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Electricity Bill Property Tax Bill (if electricity bill is not available) Any Other Document related to the established power plant (if electricity bill or property tax bill are not available)"
+}

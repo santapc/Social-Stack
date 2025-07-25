@@ -1,0 +1,66 @@
+{
+  "scheme_id": "661647c2d7abbe47ee25d24f",
+  "slug": "sss-gujarat",
+  "scheme_name": "Sant Surdas Scheme",
+  "scheme_short_title": "SSS-GUJARAT",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Empowerment Department",
+  "implementing_agency": "Office Of The District Social Defence Officer, Gujarat",
+  "dbt_scheme": true,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Pension",
+    "Financial assistance",
+    "Citizen empowerment"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "PwD",
+    "Social Defence",
+    "Financial Assistance",
+    "Disability",
+    "BPL"
+  ],
+  "brief_description": "Under the scheme, monthly financial assistance is provided to Persons with Disabilities aged between 0 and 17 years, who have a disability of more than 80% and are registered in the Below Poverty Line (BPL) list.",
+  "detailed_description": "The scheme &amp;quot;Sant Surdas Scheme&amp;quot; was launched by the Director Social Defence, Department of Social Justice &amp;amp; Empowerment, Government of Gujarat. Under the scheme, monthly financial assistance is provided to Persons with Disabilities aged between 0 and 17 years, who have a disability of more than 80% and are registered in the Below Poverty Line (BPL) list.",
+  "benefits": [
+    "Under the scheme, a monthly assistance of \u20b91,000/- is paid to the beneficiary by the State Government through DBT."
+  ],
+  "eligibility_criteria": "The applicant should be a native of Gujarat. The applicant should be 0 to 17 years age group. Percentage of disability of 80 or more or those who cannot move even with help of artificial limbs independently. The applicant should be registered in the Below Poverty Line (BPL) list and BPL score is up to 20. The benefit of this scheme is eligible to the disabled person of Gujarat living under the Below Poverty Line (disabled person included in the BPL from the Ministry of Rural Development, Government of India for the rural area and the Ministry of Housing & Urban Poverty Alleviation, Government of India for the urban area) are eligible to get the benefit of this scheme. The applicant should be possessing disability card issued by state government. Note: The amount of assistance will be stopped when the applicant/beneficiary reached age of 18 years.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 01: The eligible applicant may visit the e-Samaj Kalyan Portal: https://esamajkalyan.gujarat.gov.in/  Step 02: On the home page, under the tab \u2018Citizen Login', click on New User \u2018 Please Register Here '. Step 03: Enter your Full Name as per Aadhaar Card, Gender, Date of Birth, Aadhaar Card Number, Email ID, Caste etc. and then click on \u2018Register'. Step 04: After successful registration, the applicants can login through their User ID and Password. Step 05: Now, click on \u2018User Profile' to update your profile. Step 06: Fill in all the mandatory information and then click on \u2018Update'. Step 07: After updating profile successfully, select the scheme appearing on the home page; an application form will open. Step 08: Fill in all the mandatory details in the application form and upload all the relevant documents. Step 09: Now agree with the terms & conditions and click on \u2018Save Application'. Step 10: Submit the application form and take out the print of the application for future reference. The applicant can note down the application number to track the application status by logging into the portal using their User ID and Password.  User Manual "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://sje.gujarat.gov.in/dsd/scheme/sant-surdash-yojana?lang=Gujarati"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://esamajkalyan.gujarat.gov.in/index.aspx?ServiceID=SpEAgVT9TM80xPDa%2f%2fmXfw%3d%3d"
+    },
+    {
+      "title": "Scheme Details (Page No. 78)",
+      "url": "https://sje.gujarat.gov.in/assets/downloads/SCSP_202021_09072021.pdf"
+    },
+    {
+      "title": "Scheme Details (Page No. 474)",
+      "url": "https://planning.gujarat.gov.in/images/pdf/dp-eng-23-24.pdf"
+    },
+    {
+      "title": "E Samaj Kalyan Portal",
+      "url": "https://esamajkalyan.gujarat.gov.in/"
+    }
+  ],
+  "documents_required": "Passport-size Photograph Aadhaar Card of the applicant Caste Certificate issued by competent authority, if applicable Disability Identity Card/Disability Certificate from a Civil Surgeon Proof of Age (School Leaving Certificate/Birth certificate) Certificate to the effect that his name is included BPL list with score up to 20 Proof of Residence (Any one of Ration Card/Electricity Bill/Driving License/Aadhaar Card/Election Card) First Page Copy of Bank Passbook/Cancelled Cheque Any other documents as required"
+}

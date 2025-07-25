@@ -1,0 +1,76 @@
+{
+  "scheme_id": "67867da54bf34a9c20854846",
+  "slug": "massy",
+  "scheme_name": "Mukhyamantri Abua Swasthya Suraksha Yojana",
+  "scheme_short_title": "MASSY",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Department of Health, Medical Education & Family Welfare",
+  "implementing_agency": "Jharkhand State Arogya Society",
+  "dbt_scheme": false,
+  "categories": [
+    "Health & Wellness"
+  ],
+  "sub_categories": [
+    "Disease and conditions",
+    "Health care providers and access",
+    "Medicine and health products",
+    "Children\u2019s health and immunization",
+    "Financial assistance",
+    "Medical insurance"
+  ],
+  "target_beneficiaries": [
+    "Family",
+    "Individual"
+  ],
+  "tags": [
+    "Healthcare",
+    "Families",
+    "Medical Treatments"
+  ],
+  "brief_description": "The \"Mukhyamantri Abua Swasthya Suraksha Yojana\" by the Department of Health and Family Welfare, Govt. of Jharkhand aims to provide quality healthcare services to eligible families. Beneficiaries receive \u20b915,00,000/- per family per year as health insurance coverage for advanced medical treatments.",
+  "detailed_description": "The &quot;Mukhyamantri Abua Swasthya Suraksha Yojana&quot; by the Department of Health and Family Welfare, Government of Jharkhand, aims to provide quality and affordable healthcare services to the people of Jharkhand. The scheme provides a yearly health insurance cover per family, ensuring access to advanced medical treatments. The Jharkhand State Arogya Society implements the scheme and operates in a hybrid mode to maximize efficiency and reach.",
+  "benefits": [
+    "Health insurance cover of \u20b915,00,000/- per family per year. Coverage includes expenses for both general treatments and critical illnesses listed under the scheme. Beneficiaries can access services at empaneled public and private hospitals. Includes treatment costs for diabetes, blood pressure, and dialysis, with free medicines provided at government hospitals. Beneficiaries also gain access to treatment for 21 critical illnesses under the existing Mukhyamantri Gambhir Bimari Upchar Yojana.",
+    "NOTE:",
+    "Temporary health cards will be issued for urgent treatments based on the beneficiary's ration card. The first \u20b91,00,000/- of coverage is managed by a selected insurance company, while the remaining up to \u20b915,00,000/- is borne by the government in trust mode."
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Jharkhand. The applicant's family should possess a ration card under the National Food Security Act (NFSA) or Jharkhand State Food Security Act. The applicant's have pink, yellow, and green ration cards are eligible under the scheme.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Mukhyamantri Abua Swasthya Suraksha Card Apply Process:",
+        "Step 1: Visit the Official Portal",
+        "Go to the official website of Mukhyamantri Abua Swasthya Suraksha Yojana: https://bis.jharkhand.gov.in/. ",
+        "Step 2: Login Using Mobile Number",
+        "Enter your mobile number and click on Get OTP.",
+        "Enter the OTP received on your mobile phone. Fill in the Captcha code and proceed.",
+        "Step 3: Search Using Ration Card",
+        "Enter your Ration Card Number and Captcha code.",
+        "Click on the Search button. The portal will display the list of family members based on the ration card details.",
+        "Step 4: Download the Health Card",
+        "If the details of the applicant match the Ration Card and Aadhaar Card, you can download the card directly. Click on Download to save your card.",
+        "If e-KYC is Incomplete:",
+        "Follow these steps to complete e-KYC and apply:",
+        "Step 1: Complete Aadhaar Verification",
+        "Click on the e-KYC option. Enter your Aadhaar Number and select the verification method: Aadhaar OTP (sent to the mobile number linked with Aadhaar). Fingerprint verification. Accept the Terms and Conditions (T&C). Enter the OTP and click on Verify.",
+        "Step 2: Rectify Details (If Needed)",
+        "If the details in the Ration Card and Aadhaar Card do not match, you will not be able to download the card immediately. The portal will provide an option to update or correct the mismatched details. Submit the corrected details for verification.",
+        "Step 3: Re-Apply and Download",
+        "Once the details are updated and verified, repeat the above steps. Download the card after successful verification."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.jharkhand.gov.in/PDepartment/ViewDoc?id=D011DO003SD00302072024050748252"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://bis.jharkhand.gov.in/"
+    }
+  ],
+  "documents_required": "Aadhaar Card (Linked with Ration Card) Ration Card (Pink, Yellow, or Green)"
+}

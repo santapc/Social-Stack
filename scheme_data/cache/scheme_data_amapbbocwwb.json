@@ -1,0 +1,66 @@
+{
+  "scheme_id": "67b6bc8fd6a94de2eee39612",
+  "slug": "amapbbocwwb",
+  "scheme_name": "Annual Medical Assistance Scheme (BBOCWWB)",
+  "scheme_short_title": "AMAPBBOCWWB",
+  "state": "Bihar",
+  "level": "State/ UT",
+  "nodal_department": "Building Construction Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Skills & Employment",
+    "Health & Wellness"
+  ],
+  "sub_categories": [
+    "Welfare measures",
+    "Health promotion",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Construction",
+    "Labour",
+    "Medical",
+    "Worker",
+    "Financial Assistance"
+  ],
+  "brief_description": "The \"Annual Medical Assistance Scheme\" by the Bihar Building & Other Construction Workers Welfare Board, Labour Resources Department, Government of Bihar, provides a yearly financial assistance of \u20b93,000/- to the construction workers who are registered with the Board.",
+  "detailed_description": "The &quot;Annual Medical Assistance Scheme&quot; by the Bihar Building &amp; Other Construction Workers Welfare Board, Labour Resources Department, Government of Bihar, provides a yearly financial assistance of \u20b93,000/- to the construction workers who are registered with the Board.",
+  "benefits": [
+    "Financial Assistance of \u20b93,000/- per annum."
+  ],
+  "eligibility_criteria": "The applicant should be a worker. The worker should be engaged in building or construction work. The worker should be registered with the \"Bihar Building & Other Construction Workers Welfare Board\". The worker's membership with the Welfare Board must be active at the time of application. The worker should have at least one year of membership with the Board.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Step 1: Visit the Official Website of the Bihar Building and Other Construction Workers Welfare Board, and click \" Apply for New Registration \". Step 4: On the next page, provide your details including your Aadhaar Number. Then click \"Authenticate\". Step 5: An online form will appear. In the form, fill in all the mandatory fields. The fields marked with an asterisk (*) are mandatory. Step 6: Click \"Submit\". Proceed to pay the application fee online. Step 7:  Upon successful payment, you will receive your construction worker registration number. Application Step 1:  Visit the Official Website of the Bihar Building and Other Construction Workers Welfare Board. Step 2: Click on \" Scheme Application \" and select \" Apply for Scheme \". Step 3:  Enter your registration number and click \"Show\" to view your details. Step 4:  Select the scheme you intend to apply for, enter all mandatory information and upload the necessary documents in the specified format and size. Step 6:  Click on \"Submit Application\" to complete the process. Application Tracking Applicants can track their application status online on the official website of the Board by providing their registration number."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://bocw.bihar.gov.in/Website/pdf/Brochure.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://bocw.bihar.gov.in/WebLink/NotificationDoc/00001240_Doc.pdf"
+    },
+    {
+      "title": "Website",
+      "url": "https://bocw.bihar.gov.in/Index.aspx"
+    },
+    {
+      "title": "Labour Registration",
+      "url": "https://bocw.bihar.gov.in/Website/LabourReg.aspx"
+    },
+    {
+      "title": "Registration Form",
+      "url": "https://bocw.bihar.gov.in/WebLink/NotificationDoc/00001241_Doc.pdf"
+    }
+  ],
+  "documents_required": "Identity Proof i.e. Aadhaar Card, Voter Card Bank Account Details Proof of Age Identity Card of the Registered Worker Proof of Membership Any Other Documents as Required"
+}

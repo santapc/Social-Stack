@@ -1,0 +1,67 @@
+{
+  "scheme_id": "6745ab4ab63acbe8ffb8961b",
+  "slug": "baepsicodouldwact",
+  "scheme_name": "Burial and Ex-gratia Payment Scheme in Case of Death of Unregistered Laborer During Work at Construction Site",
+  "scheme_short_title": "BAEPSICODOULDWACT",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Labour Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Building Worker",
+    "Construction Workers",
+    "Unregistered Laborer",
+    "Death"
+  ],
+  "brief_description": "Launched in 2014, the \"Funeral and Ex-gratia Payment Scheme for Unregistered Laborers\" is a welfare scheme by the M.P. Building and Other Construction Workers Welfare Board, Government of Madhya Pradesh, providing funeral assistance and ex-gratia payments in case of death or permanent disability.",
+  "detailed_description": "Launched in 2014, the &quot; Burial and Ex-gratia Payment Scheme in Case of Death of Unregistered Laborer During Work at Construction Site&quot; is a welfare initiative by the M.P. Building and Other Construction Workers Welfare Board, Government of Madhya Pradesh. The scheme provides funeral assistance of \u20b93,000 and ex-gratia payments in the event of death or permanent disability of unregistered laborers during construction work. It supports construction workers in the unorganized sector who are not registered under the Board and lack a valid identity card.",
+  "benefits": [
+    "Funeral Assistance: \u20b93,000 payable in case of death of a construction laborer. Grace Amount:",
+    "Death due to an accident during construction work: \u20b94,00,000/-. Permanent disability due to an accident during construction work: \u20b92,00,000/-."
+  ],
+  "eligibility_criteria": "The deceased construction worker should have been registered with the Madhya Pradesh Building and Other Construction Workers Welfare Board (MPBOCWWB). The deceased construction worker should have held an active regular membership. The only person who is a legal heir/dependent family member of the deceased registered worker is eligible to apply under the scheme. The deceased worker should have valid identity card.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the Chief Executive Officer, District Panchayat and Commissioner/Chief Municipal Officer Municipal Body and request the hard copy of the prescribed format of the application form from the concerned authority.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the authority.",
+        "Step 4: Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "\ufeff",
+        "NOTE 1: Ensure that the application is submitted within the prescribed period, if any.",
+        "NOTE 2: The application must be submitted within 6 months from the date of the accident or death.",
+        "Designated Officer for Approval -",
+        "For rural areas - Chief Executive Officer, District Panchayat",
+        "For urban areas - Commissioner/Chief Municipal Officer, Municipal Corporation"
+      ]
+    },
+    {
+      "mode": "Online",
+      "steps": [
+        "Step1: Go to the Shram Seva Portal (MPBOCWWB) official website. ",
+        "Step2: On the homepage, find and click on Planning Application, then register the applications of registered workers for the benefits of schemes.  Step 3: Enter your Labor Registration Number (Portal Code) and the code displayed in the image, then click View Details. Step 4: Choose the scheme you wish to apply for in order to avail the benefits. Step 5: Enter all required information and upload the necessary documents as prompted. Step 6: Finally, click on Submit Application to complete the process."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://labour.mp.gov.in/Public/Pages/Schemes/MratyuSahayta.aspx"
+    },
+    {
+      "title": "Labour Registration",
+      "url": "https://labour.mp.gov.in/Public/Registration/BeneficiaryRegistrationRequest.aspx"
+    }
+  ],
+  "documents_required": "Aadhaar Card of the applicant (nominee/Legal heirs) Passport-size photograph Proof of residence Ration Card Bank account details Death certificate of worker Regular registration certificate of the worker Nominee/legal heir certificate F.I.R. And a copy of Panchnama. Post-mortem report in the state of death. Disability certificate obtained from District Medical Board in case of permanent disability."
+}

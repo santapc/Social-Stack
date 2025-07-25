@@ -1,0 +1,50 @@
+{
+  "scheme_id": "649032d8380f8e12353ffc53",
+  "slug": "ehftg",
+  "scheme_name": "Economic Help To Tribal Girls For Higher Education (Class 11 & 12)",
+  "scheme_short_title": "EHFTG",
+  "state": "Rajasthan",
+  "level": "State",
+  "nodal_department": "Tribal Area Development Department",
+  "categories": [
+    "Social welfare & Empowerment",
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Educational Grant",
+    "Student",
+    "Higher Education"
+  ],
+  "brief_description": "Rajasthan Government started a scholarship for tribal girls higher education (Class 11 & 12) In the year 2011.",
+  "detailed_description": "Rajasthan state government started a scheme &quot;**Economic Help to Tribal Girls for Higher Education (Class 11 &amp; 12)**&quot;. The main objective is to provide benefits to the tribal girls for their higher education, who are studying in government schools by taking admission as regular students for higher education.",
+  "benefits": [
+    "Rs. 3,500/- One time and fully in July"
+  ],
+  "eligibility_criteria": "Should be studying regularly in 11th and 12th in government schools. The girl student should belong to the Scheduled Tribe category of Rajasthan. The parent/guardian/guardian/husband of the student should not be an income tax payer. The student must be a native of Rajasthan. The student who is studying by living in the hostel run by the government. They will not be entitled to benefit under the said scheme. Must have Vaidya Bhamashah card and Aadhaar card.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Applicant to log in to RajSSO Portal using his/her SSOID. If SSOID is not available then the applicant to first register on RajSSO Portal to create SSOID and update SSO Profile at first login. After successful authentication/login and updation of the SSOID Profile and select the scheme name. Select his/her name, the bank account and fill in personal details. Upload the required document. Click the \"SUBMIT\" button."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Details",
+      "url": "https://schemes.rajasthan.gov.in/scheme/detail/457"
+    },
+    {
+      "title": "Registration",
+      "url": "https://sso.rajasthan.gov.in/register"
+    }
+  ],
+  "documents_required": "Aadhaar Card. Annual Income Of The Parent / Guardian - Non-Tax Payee. Janaadhaar Card Details Of Family And Student. Bank Details Linked With the Janaadhaar Card Of Either The Family Head Or Student. Caste Certificate. Birth Certificate."
+}

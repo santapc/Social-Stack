@@ -1,0 +1,51 @@
+{
+  "scheme_id": "6776404c8aa510ca3713d9bd",
+  "slug": "mmyg",
+  "scheme_name": "Mukhyamantri Matrushakti Yojana",
+  "scheme_short_title": "MMYG",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Women and Child Development Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Health & Wellness"
+  ],
+  "sub_categories": [
+    "Pregnancy care"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Maternal Health",
+    "Pregnancy",
+    "Nutrition Kit",
+    "Infant"
+  ],
+  "brief_description": "The scheme aims to enhance maternal and child health by providing nutritional support to first-time pregnant women and mothers of young children during the crucial first 1000 days of life.",
+  "detailed_description": "The &amp;quot;Mukhyamantri Matrushakti Yojana (MMY)&amp;quot; launched in 2022 by the Women and Child Development Department, Gujarat, focuses on improving the health and nutrition of pregnant women and mothers with children under 2 years. The scheme offers a nutritional kit containing groundnut oil, tuver dal, and chana to support calorie and protein needs. The initiative addresses the critical first 1000 days of life, aiming to enhance maternal and child health, reduce infant mortality, and prevent low birth weight.",
+  "benefits": [
+    "Commodities: The nutrition kit includes 1 Litre of Groundnut oil, 1 Kg Tuver Dal, & 2 Kg Chana."
+  ],
+  "eligibility_criteria": "The applicant must be a resident of Gujarat. The applicant must be a woman who is conceiving for the first time. The applicant must be a mother with her first child who is under the age of 2 years.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Open the registration portal and select the \"Self Enrollment\" option under \"Services\" tab. Step 2: Fill in the beneficiary's details, including Aadhaar card number, name in English, date of birth, and beneficiary's affidavit. Step 3: Validate the Aadhaar by clicking on the \"Validate Aadhaar\" button. Step 4: The beneficiary's ration card ID (NFSA number) and name will be displayed automatically. Step 5: If the Anganwadi name is not visible in the list, manually select the appropriate Anganwadi. Step 6: The name of the Anganwadi worker will be displayed automatically. Step 7: Enter the mobile number you wish to use for registration and click on the \"SEND OTP\" button. Step 8: Enter the 4-digit OTP sent to the registered mobile number in the online form. Step 9: After entering the OTP, click on the \"Save & Next\" button to proceed. Step 10: A message will appear saying, \"After your general information, add your health-related information and submit the form.\" Click \"OK.\" Step 11: Enter the ID number or email address provided by the health center and click the \"Search\" button. Step 12: The beneficiary's name, status, P.A.C. center name, last month's status, and probable start date will auto-fill. Step 13: Click on the \"Confirm and Submit\" button to complete the registration process. Step 14: After submitting, click on the \"Print Application\" button to take a printout of the registration. Step 15: If corrections are needed, click on \"Edit Enrollment,\" enter the Enrollment Number, Aadhaar Card Number, or Mobile Number, and click \"Edit.\" Enter the OTP received to make corrections. Step 16: If needed, click on \"Print Enrollment,\" enter the registration number, Aadhaar card number, or mobile number, click \"Verify,\" and enter the OTP to take a printout of the registration form. Registration Receipt: Click here to check. Beneficiary Information: Click here to check. Beneficiary Registration Status: Click here to check. Help-desk: Click here to Contact ."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://wcd.gujarat.gov.in/initiativedetails?id=292"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://1000d.gujarat.gov.in/"
+    }
+  ],
+  "documents_required": "Aadhaar number. Proof of pregnancy or first childbirth. Any other document (if required)."
+}

@@ -1,0 +1,54 @@
+{
+  "scheme_id": "68402f1a32fd2a73f79137da",
+  "slug": "csdsuk",
+  "scheme_name": "Coaching Scheme for Divyang Students",
+  "scheme_short_title": "CSDSUK",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "Department Of Social Welfare",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Citizen empowerment"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Divyang",
+    "Free Coaching",
+    "Disability Support",
+    "Competitive Exam Preparation"
+  ],
+  "brief_description": "The scheme \"Coaching Scheme for Divyang Students\" by the National Institute for the Empowerment of Persons with Visual Disabilities (NIEPVD), Dehradun, aims to support students with disabilities in preparing for competitive government examinations.",
+  "detailed_description": "The scheme &amp;quot;Coaching Scheme for Divyang Students&amp;quot; by the National Institute for the Empowerment of Persons with Visual Disabilities (NIEPVD), Dehradun, aims to empower students with benchmark disabilities by supporting their preparation for competitive exams such as SSC, RRB, Banking, Insurance, and UPSC. Through this scheme, free coaching, book allowance, transport/hostel allowance, disability and other allowances are provided to eligible candidates. The scheme is implemented by NIEPVD.",
+  "benefits": [
+    "Financial Allowances:",
+    "Coaching fees. Transport or hostel allowance. Disability allowance. Book allowance."
+  ],
+  "eligibility_criteria": "The applicant must be a student with a benchmark disability (40% or more) as defined. The applicant must hold a valid disability certificate issued by a competent authority. The applicant must possess a Unique Disability ID (UDID). The applicant must have an Aadhaar number or Aadhaar enrollment number. The total annual family income of the applicant should not exceed \u20b98,00,000/-.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Visit the official online application link: Google Form ",
+        "Step 2: Fill in personal details including Aadhaar, UDID, and income-related details.",
+        "Step 3: Upload the required documents such as disability certificate, income proof, and photo.",
+        "Step 4: Submit the application form online.",
+        "Website: niepvd.nic.in",
+        "Telephone No.: 0135-2736651, 2734016",
+        "Email: tcab-niepvd@nivh.gov.in"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Page No. 99)",
+      "url": "https://uk.gov.in/department92/library_file/file-25-02-2025-06-08-25.pdf"
+    }
+  ],
+  "exclusions": "The applicant should not have availed benefits under any other coaching scheme of the Center or State Government.",
+  "documents_required": "1. Disability Certificate.\n2. Aadhaar number or Aadhaar enrolment Number.\n3. Unique Disability Id or UDID enrolment number with disability certificate.\n4 Graduation marksheets or completion of second year at graduation level.\n5. High School marksheet and certificate in support of Date of Birth.\n6. Family income certificate of \u20b98,00,000/- or less per annum from all sources from the revenue officer not below the rank of Tehsildar/ Naib Tehsildar."
+}

@@ -1,0 +1,66 @@
+{
+  "scheme_id": "65cba33acd96dc5e07521c2d",
+  "slug": "pccengaes",
+  "scheme_name": "\"Protected Cultivation\" Component of \"Establishment of New Gardens (Area Expansion)\" Scheme",
+  "scheme_short_title": "PCCENGAES",
+  "state": "Puducherry",
+  "level": "State/ UT",
+  "nodal_department": "Agriculture Department, Puducherry",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Agricultural Inputs- seeds, fertilizer etc.",
+    "Mechanization- solar power, farming systems",
+    "Environmental management and protection"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Cultivation",
+    "Farmer",
+    "Subsidy",
+    "Garden",
+    "Horticulture"
+  ],
+  "brief_description": "Through this scheme, the farmers are provided Poly House, Shade Net House (Tubular Structure), Plastic Mulching at subsidised rates for practising Protected Cultivation. In Puducherry, this scheme is implemented by the Department of Agriculture and Farmer's Welfare, Union Territory of Puducherry.",
+  "detailed_description": "&quot;Protected Cultivation&quot; component of the &quot;Establishment of New Gardens (Area Expansion)&quot; scheme under the &quot;National Horticulture Mission (NHM)&quot;, a Centrally Sponsored Scheme by the Ministry of Agriculture and Farmers Welfare, Govt. of India. In Puducherry, this scheme is implemented by the Department of Agriculture and Farmer&#39;s Welfare, Union Territory of Puducherry. Through this scheme, the farmers are provided Poly House, Shade Net House (Tubular Structure), and Plastic Mulching at subsidised rates for practising Protected Cultivation.",
+  "benefits": [
+    "Poly House: Naturally Ventilated system (Tubular structure) \u2013 Subsidized Cost of \u20b9467.50/- per square meter. Shade Net House (Tubular Structure): Subsidized Cost of \u20b9355/- per square meter. Maximum of 4000 square meters per beneficiary. Plastic Mulching: \u20b910,000/- per hectare as a subsidy (maximum of 2 hectares per beneficiary)."
+  ],
+  "eligibility_criteria": "The applicant should be a resident/native of Puducherry. The applicant should be a Farmer.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the Office of the Additional Director of Agriculture (Horticulture) and request a hard copy of the prescribed format of the application form from the Deputy Director of Agriculture (Horti-NHM) .",
+        "OR",
+        "The interested applicant should take print of the prescribed format   of the application form.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form and the documents to the Deputy Director of Agriculture (Chemistry).",
+        "Step 4: On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Citizen's Charter",
+      "url": "https://agri.py.gov.in/sites/default/files/citchart/subsch.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://agri.py.gov.in/sites/default/files/pdf/Application_Shade_Net.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://agri.py.gov.in/emailcontact.html"
+    },
+    {
+      "title": "Grievance Redressal",
+      "url": "https://agri.py.gov.in/sites/default/files/citchart/grievance.pdf"
+    }
+  ],
+  "documents_required": "1. Farmer Identity Card.\n2. Family Food Ration Card.\n3. Voter ID Card.\n4. Residence-cum-Nativity Certificate, issued by the Revenue Department.\n5. Detailed Project Statement.\n6. Soil and Water Test Certificate.\n7. Detailed Drawing of the Shade Net/ Green Hut Set Up.\n8. Map of Land.\n9. Electricity Bill Receipt."
+}

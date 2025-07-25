@@ -1,0 +1,64 @@
+{
+  "scheme_id": "68077a6692da06bdddb77cb0",
+  "slug": "cmeas",
+  "scheme_name": "Chief Ministers' Education Assistance Scheme",
+  "scheme_short_title": "CMEAS",
+  "state": "Sikkim",
+  "level": "State/ UT",
+  "nodal_department": "Education Department",
+  "implementing_agency": "Chief Minister's Office (CMO), Sikkim",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Universities and higher education",
+    "International education",
+    "International students",
+    "Scholarships and student finance",
+    "Coaching"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Education Assistance",
+    "Student",
+    "Economically Weaker Section",
+    "Studying Abroad",
+    "Coaching Centre"
+  ],
+  "brief_description": "The scheme aims to provide financial assistance to students from economically weaker sections, marginalized communities & specially-abled students. Under this scheme, students receive financial aid for pursuing education within & outside the state, abroad, & in registered coaching institutions.",
+  "detailed_description": "The &amp;quot;Chief Ministers' Education Assistance Scheme (CMEAS)&amp;quot; was launched by the Education Department, Government of Sikkim. The objective of scheme is to provide financial assistance to students from economically weaker sections, marginalized communities and specially-abled students. Under this scheme, students receive financial aid for pursuing education within the state, outside the state, abroad, and in registered coaching institutions. > ***Scheme Implementation:*** - The scheme is implemented by the Chief Minister's Office (CMO), Sikkim, with a dedicated nodal officer for verification, approval, and fund disbursement.",
+  "benefits": [
+    "Nature of Assistance",
+    "Under the CMEAS, students shall be eligible for the following assistance:",
+    "(i) Within State:",
+    "SI.No. | Course | Type of Institution | Amount (in \u20b9) (per month/annum)\n1 | Undergraduates/Diploma and Equivalent | Government & Private | Upto \u20b95,000/- PM\n2 | Professional/Technical- Undergraduate & Equivalent | Government | Upto \u20b95,000/- PM\n3 | Post Graduate & Equivalent | Government & Private | Upto \u20b97,000/- PM\n4 | Professional/Technical - Postgraduate & Equivalent | Government | Upto \u20b97,000/- PM\n5 | PhD & above | Government & Private | Upto \u20b910,000/- PM",
+    "6 | Professional/Technical - Undergraduate & Equivalent | Private | Upto \u20b91,50,000/- PA\n7 | Professional/Technical - Postgraduate & Equivalent | Private | Upto \u20b92,00,000/- PA",
+    "(ii) Outside State within Country:",
+    "SI.No. | Course | Type of Institution | Amount (in \u20b9) (per month/annum)\n1 | Undergraduates/Diploma and Equivalent | Government & Private | Upto \u20b97,000/- PM\n2 | Professional/Technical- Undergraduate & Equivalent | Government | Upto \u20b97,000/- PM\n3 | Post Graduate & Equivalent | Government & Private | Upto \u20b99,000/- PM\n4 | Professional/Technical - Postgraduate & Equivalent | Government | Upto \u20b99,000/- PM\n5 | PhD & above | Government & Private | Upto \u20b912,000/- PM",
+    "6 | Professional/Technical - Undergraduate & Equivalent | Private | Upto \u20b92,00,000/- PA\n7 | Professional/Technical - Postgraduate & Equivalent | Private | Upto \u20b92,50,000/- PA",
+    "(iii) Studying Abroad: Upto \u20b95,00,000/- PA",
+    "(iv) Studying in Coaching Centre: Upto \u20b91,50,000/- PA",
+    "Note:",
+    "The quantum of financial assistance shall be determined based on the student's financial need and availability of funds."
+  ],
+  "eligibility_criteria": "The student must be a domicile of the Sikkim state. The student must belong to the Economically Weaker Section (EWS) as defined by the government. The student must be enrolled in a recognized educational institution, a recognized distance education institution, or a recognized institution abroad. The student should be studying in a registered coaching center. A special consideration shall be given to students from marginalized, minority communities and specially abled categories (Divyangjan) and orphans. The annual family income of the student shall not exceed a limit specified by the government, as revised from time to time.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Application Process:",
+        "Step 1: The interested applicant should visit (during office hours) the designated cell in the Chief Minister's Office, Tashiling Secretariat, Gangtok and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications. Step 2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attested, if required). Step 3: Submit the duly filled and signed application form along with the documents to the Chief Minister's Office, Tashiling Secretariat, Gangtok. Post Application Process: Step 1: The application will be reviewed and verified through an official procedure. Step 2: A nodal officer appointed by the CMO will oversee eligibility, approval, fund disbursement, and record-keeping. Step 3: Upon approval, financial assistance will be disbursed directly to the applicant's bank account. Application Renewal Process: The financial assistance granted under this scheme may be renewed annually until the completion of the student's course of study, subject to the following conditions: Step 1: The student must remain enrolled in the educational institution during the period of renewal. Step 2: The student must have passed and cleared all prescribed courses (semester/annual) in the enrolled academic programme. Step 3: The student must continue to meet the eligibility criteria. Step 4: The scholarship from other sources will be reviewed while verifying the applications and the eligibility will be considered accordingly."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://education.sikkim.gov.in/GeneralSection/UploadedFiles/Notification/531806.pdf"
+    }
+  ],
+  "documents_required": "Certificate of Identification (COI) of the student/father Bonafide Certificate from the concerned institution Birth Certificate of the student Voter Identity Card of a student/father Aadhaar Card of the student Pass Certificate/Marks Statement of the previous class/semester/year Fee structure of the course Bank account details\nNote: A revenue stamp should be affixed to the application form."
+}

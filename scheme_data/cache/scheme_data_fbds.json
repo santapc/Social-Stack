@@ -1,0 +1,52 @@
+{
+  "scheme_id": "678e4358d78fb5990789cf1f",
+  "slug": "fbds",
+  "scheme_name": "Free Bicycle Distribution Scheme",
+  "scheme_short_title": "FBDS",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Department of Scheduled Tribe, Scheduled Caste, Minority and Backward Class Welfare",
+  "dbt_scheme": true,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance",
+    "Resources for schools"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Bicycle",
+    "Student",
+    "Scheduled Caste"
+  ],
+  "brief_description": "The \"Free Bicycle Distribution Scheme\" by the Welfare Department, Government of Jharkhand, aims to provide financial aid for bicycle purchases to Scheduled Caste (SC) students studying in Class 8th. Each student receives \u20b93000 through DBT.",
+  "detailed_description": "The &quot;Free Bicycle Distribution Scheme&quot; by the Welfare Department, Government of Jharkhand, aims to provide financial support for purchasing bicycles to Scheduled Caste (SC) students studying in Class 8th. Through this scheme, \u20b93000 is directly transferred to the bank accounts of eligible students via Direct Benefit Transfer (DBT). <br> > ***Objective:*** - Promotes education by ensuring better accessibility to schools for students. - Available to both Below Poverty Line (BPL) and Above Poverty Line (APL) students. <br>",
+  "benefits": [
+    "Monetary assistance of \u20b93000 per student for purchasing bicycles.",
+    "Note : ",
+    "The amount is disbursed directly to the beneficiary's bank account via DBT. Ensures purchase of new bicycles conforming to ISI/ISO standards."
+  ],
+  "eligibility_criteria": "The applicant should be a student. The applicant should be studying in Class 8 th . The applicant should belong to the Scheduled Caste (SC) category. The applicant's family should either belong to the BPL or APL category.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step-1: The interested applicant should visit (during office hours) the District Welfare Officer and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step-2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3: Submit the duly filled and signed application form along with the documents to the District Welfare Officer/Block Welfare Officer and School Headmaster.",
+        "Step-4: Request a receipt or acknowledgment from the District Welfare Officer/Block Welfare Officer and School Headmaster to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.jharkhand.gov.in/PDepartment/ViewDoc?id=D030DO004SD001115012019053406479"
+    }
+  ],
+  "documents_required": "Caste Certificate. School Certificate. Bank Account Detail. Any Other Document If Required."
+}

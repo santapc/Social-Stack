@@ -1,0 +1,51 @@
+{
+  "scheme_id": "673e1973dcf10d12f5b52a2a",
+  "slug": "ssocscmp",
+  "scheme_name": "State Scholarship of Class 6th to 10th (Scheduled Caste)",
+  "scheme_short_title": "SSOCSCMP",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Tribal Welfare and Scheduled Caste (SC) Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Scheduled Castes",
+    "Student",
+    "Scholarships",
+    "Financial Assistance"
+  ],
+  "brief_description": "Launched in 1966-67, the \"State Scholarship for Class 6th to 10th\" is a scheme by the Scheduled Caste Welfare Department, Govt of MP. It provides \u20b9200 per year for boys and \u20b9600 per year for girls from Scheduled Caste communities, until 31st October.",
+  "detailed_description": "Launched in 1966-67, the &quot;State Scholarship for Class 6th to 10th&quot; is a welfare scheme by the Scheduled Caste Welfare Department, Government of Madhya Pradesh. This scheme provides financial assistance to Scheduled Caste students, offering \u20b9200 per year for boys and \u20b9600 per year for girls, to support their education. The scholarship is provided until 31st October each year. The aim is to encourage students from the Scheduled Caste category to pursue their education and reduce financial barriers.",
+  "benefits": [
+    "Scholarship amount: Boy - \u20b9200/- ,Girl -\u20b9600/- (for 10 months)"
+  ],
+  "eligibility_criteria": "The student should be a resident of Madhya Pradesh The student should belong to the Scheduled Caste (SC) category. The student should be enrolled in classes 6th to 10th in a recognized educational institution.. The student should apply for the scholarship before the 31st of October.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested student should visit the educational institution during office hours and request a hard copy of the prescribed application form from the concerned authority.",
+        "Step 2: Fill in all the mandatory fields in the application form, paste a passport-sized photograph (signed across, if required), and attach copies of all the necessary documents (self-attested, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents to the concerned authority within the prescribed period (if any).",
+        "Post-Application:",
+        "Step 1: After submitting the application, the educational institution authority should visit the Madhya Pradesh Shiksha Portal to apply for the scheme benefits on behalf of the student.",
+        "Step 2: The concerned authority can complete the online registration process and submit the application for scheme benefits through the portal."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=9"
+    }
+  ],
+  "documents_required": "Aadhaar Card Caste Certificate Bank Account Details Passport-sized Photograph Educational Documents Self-attested Documents Proof of Admission Bank Details "
+}

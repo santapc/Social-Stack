@@ -1,0 +1,57 @@
+{
+  "scheme_id": "66eebc96a2ae583ad3e3a083",
+  "slug": "mgsapbocwwb",
+  "scheme_name": "Marriage Gift Scheme (APBOCWWB)",
+  "scheme_short_title": "MGSAPBOCWWB",
+  "state": "Andhra Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Labour Department",
+  "dbt_scheme": true,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Marriage",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Marriage",
+    "Unmarried",
+    "Daughter",
+    "Construction Worker"
+  ],
+  "brief_description": "The Andhra Pradesh Building & Other Construction Workers have introduced the \"Marriage Gift Scheme\" for registered unmarried women workers & the two daughters of registered construction workers. This welfare initiative aims to provide financial assistance on the occasion of their marriage",
+  "detailed_description": "The &quot;Marriage Gift Scheme&quot; was launched by the Andhra Pradesh Building &amp; Other Construction Workers LET&amp;F (Labour) Department for registered unmarried women workers and the two daughters of registered construction workers. The scheme aims to provide financial assistance on the occasion of their marriage. The scheme helps to alleviate the financial burden for families involved in the construction sector.",
+  "benefits": [
+    "Financial assistance for marriage: \u20b920,000/-."
+  ],
+  "eligibility_criteria": "For construction workers themselves (Women only)\nConstruction worker should be registered under the Andhra Pradesh Building and Other Construction Workers Welfare Board. Construction worker should be a woman. Construction worker should be unmarried.\n\nFor daughters of construction workers\nA construction worker can receive the scheme benefits for up to two daughters. The daughter(s) should have completed 18 years of age at the time of marriage.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step-1: The interested applicant should visit (during office hours) the A.P. Building & Other Construction Workers Welfare Board and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step-2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3: Submit the duly filled and signed application form along with the documents to the Assistant Labour Officer/Assistant Commissioner of Labour.",
+        "Step-4: Request a receipt or acknowledgement from the Assistant Labour Officer/Assistant Commissioner of Labour to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE: The application must be submitted within 6 months of the marriage."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://apbocwwb.ap.nic.in/APBOCWW3/G.O.2,Marriage_gift.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://apbocwwb.ap.nic.in/apbocwwbhome.jsp"
+    }
+  ],
+  "documents_required": "Aadhaar Card of the bride and BOC Worker. Age Proof Certificate. Marriage Registration Certificate (issued by the Registrar for marriages under the Andhra Pradesh Compulsory Marriage Registration Act, 2002/ Waqf Boards/ Church/ Panchayat Secretary). Wedding Invitation. Marriage Photos. Bank Account Pass Book of the Bride."
+}

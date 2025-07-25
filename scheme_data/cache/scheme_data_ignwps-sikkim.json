@@ -1,0 +1,71 @@
+{
+  "scheme_id": "64427796642a2a5974373a92",
+  "slug": "ignwps-sikkim",
+  "scheme_name": "Indira Gandhi National Widow Pension Scheme - Sikkim",
+  "scheme_short_title": "IGNWPS-SIKKIM",
+  "state": "Sikkim",
+  "level": "State",
+  "nodal_department": "Women & Child Welfare Department",
+  "implementing_agency": "Women & Child Welfare Department, Govt. Of Sikkim",
+  "dbt_scheme": true,
+  "categories": [
+    "Banking,Financial Services and Insurance",
+    "Social welfare & Empowerment",
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Pension",
+    "Financial assistance",
+    "Citizen empowerment"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Widow",
+    "Pension",
+    "Women",
+    "Below Poverty Line",
+    "Direct Benefit Transfer"
+  ],
+  "brief_description": "The scheme \"Indira Gandhi National Widow Pension Scheme (IGNWPS)\" by the Department of Women & Child Welfare, Govt. of Sikkim provides financial support is provided to the poor widows of the state of Sikkim. The beneficiary receives a monthly pension of \u20b9 2000/- through DBT.",
+  "detailed_description": "Launched in the year 2014, the scheme \"Indira Gandhi National Widow Pension Scheme (IGNWPS)\" is a Centrally Sponsored Scheme by the Department of Women &amp;amp; Child Welfare, Govt. of Sikkim. Under this scheme, financial support is provided to the poor widows of the state of Sikkim. A widow whose household is below the poverty line is eligible to get the benefits of the pension scheme. The beneficiary receives a monthly pension of \u20b9 2000/- and the pension amount consists of the Central and State governments&amp;#39; share.",
+  "benefits": [
+    "The beneficiary will get a monthly pension of \u20b9 2000/-."
+  ],
+  "eligibility_criteria": "The applicant should be a domicile of the state of Sikkim. The applicant should be from Below Poverty Line (BPL) family. The applicant should have attained the age of 21 years and above. The applicant should not have any source of income i.e. applicant should not be a recipient of salary / pension / family pension from Central Government / other State Governments. The applicant should have opened the Bank Account under \"Pradhan Mantri Jan Dhan Yojana\".\n\nNote 1: If the beneficiary remarried, the pension shall be ceased to be drawn from the date of her re-marriage.\n",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 01: The applicant has to approach their concerned Gram Panchayat /Municipality / Municipal Corporation office. Consult with the designated authority about the applying procedure and the local department office for this scheme. Collect the application form.",
+        "Step 02: Fill in all the mandatory fields of the application form and attach all the (self-attested) mandatory documents and submit it to the designated receiving authority.",
+        "Post-Application Processes:",
+        "Step 01: On receipt of an application in the prescribed Form, the same shall be scrutinized by the Selection Committee. Thereafter, the approval shall be accorded by the Secretary.",
+        "Step 02: A copy of the order for the grant and payment of pensions shall be endorsed to the District Collectors, Sub-Divisional Magistrates, Gram Vikash Adhikari and Panchayats where the applicant resides and the applicant himself/herself.",
+        "Step 03: The pension shall be distributed through Direct Benefit Transfer System or any other system as may be decided by the Sanctioning / Competent Authority from time to time."
+      ]
+    },
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration:",
+        "Step 01: Visit the official website: https://pensionscheme.sikkim.gov.in ",
+        "Step 02: Click \"Create Account\". On the registration page, fill in the mandatory details (Username, Gender, First Name, Last Name, Email, Mobile Number, and Password). Fill in the Captcha Code and click \"Register\". The login credentials will be sent to your registered Email ID / Mobile Number.",
+        "Application:",
+        "Step 01: Visit the official website: https://pensionscheme.sikkim.gov.in ",
+        "Step 02: Click \"Apply now\" and log in.",
+        "Step 03: On the application page, fill in all the mandatory fields and upload the required documents in the appropriate file size and file type. Upon successful submission of the application, a system-generated application number will be provided as acknowledgment. Please keep it safe for future reference.",
+        "Check Application Status:",
+        "The status, viz. Approval or Rejection if any will be conveyed to the applicant through an SMS."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "http://sikkimsocialwelfare.gov.in/wp-content/uploads/2015/12/22.3.14-Rule-for-Sikkim-Social-Assistance-PEnsion-Scheme-2014.pdf"
+    }
+  ],
+  "documents_required": "1) Recent passport size photographs \u2013 3 Nos;\n2) Attested photocopy of Sikkim Subject Certificate / Certificate of Identification as the case may be i.e. Income certificate, Caste certificate.\n3) Attested photocopy of Below Poverty Line Certificate.\n4) Birth Certificate or Electoral photo Identity Card or any other valid document having recorded the date as proof of age.\n5) Attested copy of Aadhar Card.\n6) Attested photocopy of first page of Bank / Post Office Passbook along with the photocopy of latest updated account.\n7) Death Certificate of Husband bearing name of legal wife/widow.\n8) Non-marriage Certificate.\n9) Proof of occupation of deceased husband."
+}

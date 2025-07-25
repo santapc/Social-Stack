@@ -1,0 +1,70 @@
+{
+  "scheme_id": "676d2d29d82a9cd9aa42ec0e",
+  "slug": "mmjvs",
+  "scheme_name": "Mukhyamantri Jan-Van Scheme",
+  "scheme_short_title": "MMJVS",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Department of Forest, Environment and Climate Change",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Financial assistance",
+    "Agricultural Inputs- seeds, fertilizer etc."
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Increased Income",
+    "Farmers",
+    "Trees"
+  ],
+  "brief_description": "The Mukhyamantri Jan-Van Scheme aims to promote tree plantation on private lands in Jharkhand to enhance farmers' income, conserve the environment, and reduce pressure on notified forests. Farmers are encouraged to plant trees on their lands with incentives covering 75% of plantation and maintenance",
+  "detailed_description": "The \"Mukhyamantri Jan-Van Scheme\" was launched by the Department of Forest, Environment and Climate Change, Government of Jharkhand. The scheme aims to promote tree plantation on private lands in Jharkhand to enhance farmers&#39; income, conserve the environment, and reduce pressure on notified forests. Farmers are encouraged to plant trees on their lands with incentives covering 75% of plantation and maintenance costs over three years. <br> > ***Objectives of the scheme:*** - To increase the green cover in the state and maintain environmental balance. - To promote groundwater conservation through afforestation. - To encourage forest produce in private sectors, reducing pressure on notified forests. - To enhance farmers&#39; income by planting trees on their land. - To boost afforestation in the state with public participation. <br>",
+  "benefits": [
+    "Incentive Amount Payable to Beneficiaries:",
+    "If the beneficiary plants the trees themselves, they'll receive the following amount",
+    "Plan Year | Incentive Payable Per Plant | Incentive Payable Per Plant\n | Wood Species | Fruitful\nFirst Year (Two Parts) | 52.67 (1 st Installments - 42.14 & 2 nd Installments - 10.53) | 165.90 (1 st Installments - 132.72 & 2 nd Installments - 33.18)\nSecond Year | 11.89 | 18.30\nThird Year | 14.64 | 25.43\nTotal Amount | 79.20 | 209.63",
+    "If the Forest Department supplies the plants, the beneficiary will be entitled to the following incentive amount under this scheme:",
+    "Plan Year | Incentive Payable Per Plant | Incentive Payable Per Plant\n | Wood Species | Fruitful Species\nFirst Year | 37.67 | 120.90\nSecond Year | 11.89 | 18.30\nThird Year | 14.64 | 25.43\nTotal Amount | 64.20 | 164.63",
+    "NOTE: 75% of the cost incurred, as per the approved plantation rate for this scheme, will be given to the beneficiary as an incentive."
+  ],
+  "eligibility_criteria": "The applicant should be a farmer. The landowners with verifiable land records (minimum 0.5 acres, maximum 50 acres). Individual or joint farmers are eligible for this scheme. \n",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the district forest division office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "OR",
+        "The interested applicant downloads the application form .",
+        "Step 2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents to the district forest division office.",
+        "Step 4: Request a receipt or acknowledgment from the district forest division office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 01: Interested candidate visits the official website .",
+        "Step 02: Click \"Apply Now\" and fill in the application form, and security code.",
+        "Step 03: Upload the required documents like an Aadhaar card, Bank Passbook, etc.",
+        "Step 04: Click on the \"Submit\" tab and will get the application ID."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://janvan.jharkhand.gov.in/doc/MUKHYAMANTRI-JAN-WAN-YOJNA14X21.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://janvan.jharkhand.gov.in/jvhome.aspx"
+    }
+  ],
+  "documents_required": "Passport-size Photo Cancel Cheque Land Ownership Proof Circle Officer's Report Aadhaar Card Bank Passbook Consent Form for Joint Plantation"
+}

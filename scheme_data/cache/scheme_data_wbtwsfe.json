@@ -1,0 +1,47 @@
+{
+  "scheme_id": "675a8caaeba30ffe1d976242",
+  "slug": "wbtwsfe",
+  "scheme_name": "West Bengal Transport Workers' Social Security Scheme: Funeral Expenses",
+  "scheme_short_title": "WBTWSFE",
+  "state": "West Bengal",
+  "level": "State/ UT",
+  "nodal_department": "Labour Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Social Security",
+    "Transport Worker",
+    "Social Empowerment",
+    "Funeral Expenses"
+  ],
+  "brief_description": "The scheme provides monetary support to help cover funeral costs in the unfortunate event of a beneficiary's demise.",
+  "detailed_description": "The \"West Bengal Transport Workers' Social Security Scheme: Funeral Expenses\" by the Labour Department, West Bengal, offers monetary support to help cover funeral costs in the unfortunate event of a beneficiary&amp;#39;s demise. Beneficiaries can avail of this assistance by submitting an application alongside the relief request for accidental or natural death compensation. &lt;br&gt;",
+  "benefits": [
+    "Financial Assistance: \u20b93,000/-. "
+  ],
+  "eligibility_criteria": "The applicant must be between 18 and 60 years of age at the time of enrolment. The applicant must be an unorganized worker employed in the operation of commercial vehicles, such as cars, taxis, luxury taxis, light commercial vehicles, vans, auto-rickshaws, tempos, lorries, trucks, or buses. The applicant's vehicle must be used for commercial purposes and not solely for personal or family use.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Visit the \" eDistrict 2.0 \" portal. Click on Log In/Sign Up. Step 2: In the User Login window, scroll down to the bottom and click on \"Register\". Step 3: Fill in all the details carefully, enter a username, and click on \"Register\". Step 4: Upon entering the One Time Password received on your mobile, you will be successfully registered. Step 5: Now in the User Login window, enter your Username or email and captcha and click on \"Sign In\". Step 6: Enter the received O.T.P and click on \"Submit\". Step 7: Upon successful Login, You will be redirected to the \"Dashboard\". From the right side menu apply for the concerned scheme."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://employmentbankwb.gov.in/social_security_scheme.php#ans8"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "For New Registration: Certification by Prescribed Authority in the Prescribed format, Passport Size Photo (self and for each dependent member). Age Proof Document. Driving Licence in case of Drivers. EPIC/ AADHAR Card. For the Application of the Welfare Scheme: Death certificate of the beneficiary. Any other documents (if required)."
+}

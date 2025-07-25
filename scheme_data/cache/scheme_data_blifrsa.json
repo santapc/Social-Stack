@@ -1,0 +1,68 @@
+{
+  "scheme_id": "6746c501805235502a7cba43",
+  "slug": "blifrsa",
+  "scheme_name": "Block Level Institute for Rural Skill Acquisition (BIRSA)",
+  "scheme_short_title": "BLIFRSA",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Labour, Employment, Training and Skill Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Skills & Employment"
+  ],
+  "sub_categories": [
+    "Employment services and jobs",
+    "Career information",
+    "Training and Skill Up-gradation"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Skill Development",
+    "Training",
+    "Employment",
+    "Youth"
+  ],
+  "brief_description": "The scheme aims to provide free, localized skill training to candidates at the block level in Jharkhand. The program is non-residential and operates in 24 districts across 80 blocks in the first phase.",
+  "detailed_description": "The \"Block Level Institute for Rural Skill Acquisition (BIRSA)\" is a component of the umbrella scheme \"Mukhymantri Sarthi Yojana\" launched by the Department of Labour, Employment, Training and Skill Development, Jharkhand. It aims to provide free, localized skill training to candidates designed for both general and reserved categories, the scheme focuses on mobilizing youth who prefer to train and work within their local areas. The program is non-residential and operates in 24 districts across 80 blocks in the first phase.",
+  "benefits": [
+    "Localized Training: Skill development centers set up at block levels ensure easy accessibility. Free Materials: Beneficiaries receive handbooks and essential materials at no cost. Diverse Training Trades: Candidates can choose trades based on interest with proper counseling. Employment Opportunities: Post-training support for jobs and self-employment."
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Jharkhand. The applicant's age should be 18-35 years and up to 50 years for SC/ST/OBC reserved categories.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Candidate registration by TSP:",
+        "The candidate visits the nearest Training Service Provide Center for registration under the \"Mukhymantri Sarthi Yojna\" scheme. ",
+        "NOTE: Candidate registration would be Aadhaar-based & hence Aadhaar number at the time of candidate registration would be mandatory."
+      ]
+    },
+    {
+      "mode": "Online",
+      "steps": [
+        "Self-Registration by Candidate:",
+        "Visit the Jharkhand Skill Development Mission official website. Click on \u2018Candidate Registration' under the \u2018Registration' tab.",
+        "Create Profile:",
+        "Provide basic information such as First Name, Last Name, Username, Password, Identity Type (e.g., Aadhaar), Identity Number, Date of Birth, Gender, Mobile Number, and Email. Submit to receive a User ID and Password via SMS and email.",
+        "Login and OTP Validation:",
+        "Log in using the provided Username and Password. Enter the OTP sent to your registered mobile number to activate the User ID.",
+        "Manage Profile:",
+        "After login, access the \u2018Registration' link. Update and save user profile details such as Personal information and optional bank account details.",
+        "Contact and Educational Qualification  Information:",
+        "Enter and save your contact details, including address and communication preferences. Fill in education details if literate, or select preferred languages if illiterate. Save and submit information to the Training Service Provider (TSP).",
+        "Registration ID Generation:",
+        "On final submission, the system generates a unique Registration ID and notifications for successful registration will be sent via SMS and email.",
+        "NOTE: Aadhaar number is mandatory for registration and prevents duplicate entries."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://jsdm.jharkhand.gov.in/jsdm/cms/en/birsa/"
+    }
+  ],
+  "documents_required": "Aadhaar Card. Educational Certificate. Residential Certificate. Passport-sized Photograph."
+}

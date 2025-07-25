@@ -1,0 +1,55 @@
+{
+  "scheme_id": "6725d07163066fa2674fe623",
+  "slug": "eafdc",
+  "scheme_name": "Educational Assistance for Degree Course",
+  "scheme_short_title": "EAFDC",
+  "state": "Maharashtra",
+  "level": "State/ UT",
+  "nodal_department": "Labour Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance",
+    "Education and training grants, fellowship, stipend"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Degree",
+    "Construction Worker",
+    "Student",
+    "Scholarship"
+  ],
+  "brief_description": "The Educational Assistance for Degree Course scheme provides financial assistance to children of registered construction workers pursuing their undergraduate degree (1st, 2nd, 3rd, and 4th year, if applicable). This benefit is also extended to the wife of a registered male worker.",
+  "detailed_description": "The Educational Assistance for Degree Course scheme was launched by the Maharashtra Building And Other Construction Workers Welfare Board (MBOCWW), Labour Department Maharashtra. The scheme provides financial assistance of \u20b920,000/- per year to children of registered construction workers pursuing their undergraduate degrees. This benefit is also extended to the wife of a registered male worker.",
+  "benefits": [
+    "Financial assistance of \u20b920,000/- per year for undergraduate students. "
+  ],
+  "eligibility_criteria": "The children's parents or guardians should be registered under the Maharashtra Building and Other Construction Workers Welfare Board. The student must be enrolled in a degree course (1st, 2nd, 3rd, or 4th year). The benefit applies to a maximum of two children and the wife of a registered male worker.\n",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step-1: The interested applicant downloads the application form from the MBOCWW official website.",
+        "Step-2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3: Submit the duly filled and signed application form along with the documents to the Labor Commissioner/Government Labor Officer.",
+        "Step-4: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://mahakamgar.maharashtra.gov.in/welfare-scheme-for-building-other-construction-workers.htm"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://mahabocw.in/"
+    }
+  ],
+  "documents_required": "Passport-size Photo. Aadhaar Card. Identity Card of Maharashtra Building and Other Construction Workers Welfare Board. Bank Passbook. Marksheet/School Certificate of passing in the previous academic level. Acknowledgment/Bonafide of Admission in the current academic year. Proof of Residence (One of Aadhaar Card/Passport/Driving Licence/Ration Sheet/Last Month's Electricity Bill/Gram Panchayat Certificate)."
+}

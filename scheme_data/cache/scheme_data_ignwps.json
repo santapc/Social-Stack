@@ -1,0 +1,71 @@
+{
+  "scheme_id": "628c79f250b52bb011ccb5ee",
+  "slug": "ignwps",
+  "scheme_name": "Indira Gandhi National Widow Pension Scheme",
+  "scheme_short_title": "IGNWPS",
+  "level": "Central",
+  "nodal_department": "Department of Rural Development",
+  "implementing_agency": "State/UT Government",
+  "dbt_scheme": true,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Banking,Financial Services and Insurance",
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Pension",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Widow",
+    "Pension",
+    "Below Poverty Line - BPL"
+  ],
+  "brief_description": "A non-contributory pension scheme to provide social security to widows of poor family (BPL) of the society.",
+  "detailed_description": "Indira Gandhi National Widow Pension Scheme (IGNWPS) is implemented by Ministry of Rural Development, Government of India. It is a non-contributory pension scheme to provide social security to widows of poor family (BPL) of the society.",
+  "benefits": [
+    "A pension of Rs.300/- per month is provided to Widows between 40 years and 79 years. For persons who are 80 years and above the pension is Rs.500/- per month."
+  ],
+  "eligibility_criteria": "The eligibility criteria under Indira Gandhi National Widow Pension Scheme (IGNWPS) is:-\n\nThe applicant must be a widow in the age group of 40-79 years. The applicant should belong to a household living below the poverty line according to the criteria prescribed by the Govt. of India",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "One can download UMANG App or visit website https://web.umang.gov.in/web_new/home  The citizen can login using mobile number and OTP. Once logged In, citizen can search for NSAP. Click on \"Apply Online\" Fill the basic details, choose the mode of payment of pension, upload photo and click on \"Submit\"."
+      ]
+    },
+    {
+      "mode": "Offline",
+      "steps": [
+        "Individuals can submit completely filled applications to the Gram Panchayat / Block Office in the rural area and the Municipality / Municipal Council in the urban area, as per eligibility. A Verification Officer or Verification Team under an authorized officer verifies the applications with reference to facts related to eligibility The Verification Officer make the necessary recommendation for sanction or rejection with reasons. The list of applicants with the recommendations of the Verifying Authority is discussed in the Gram Sabha in rural areas or Ward Sabha / Area Sabha as designated by the State Government in urban areas and thereafter in the Gram Panchayats and Municipalities. If the time limits are not adhered to by Gram Sabha / Ward Sabhas, Gram Panchayats / Municipalities the Verification Officer directly submits his recommendations to the Sanctioning Authority under intimation to the Gram Panchayat / Municipality. After receipt of applications which are verified and recommended by the Gram Sabha / Ward Committee / Area Sabha, the Sanctioning Authority convey approval to the applicant in the form of a Sanction Order with a copy to Gram Panchayat / Municipality concerned. The Sanctioning Authority issues Sanction Order under his seal Every beneficiary who has been sanctioned pension under schemes of NSAP are issued a Pension Passbook. The Passbook contain details of the Sanction Order, particulars of the pensioner and disbursement details The list of beneficiaries to whom sanctions are issued is displayed at the Gram Panchayat / Ward / Municipal Office and updated every three months. The Pension amount is directly paid to the beneficiaries through the Direct Benefit Transfer (DBT) process to their post office or bank account."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "NSAP FAQs",
+      "url": "https://nsap.nic.in/circular.do?method=faq"
+    },
+    {
+      "title": "NSAP Guidelines",
+      "url": "https://nsap.nic.in/Guidelines/nsap_guidelines_oct2014.pdf"
+    },
+    {
+      "title": "IGNWPS Office Memorandum Dated 08th Nov 2012",
+      "url": "https://nsap.nic.in/Guidelines/wps.pdf"
+    },
+    {
+      "title": "IGNWPS Office Memorandum Dated 30th Jun 2011",
+      "url": "https://nsap.nic.in/Guidelines/english_wps.pdf"
+    },
+    {
+      "title": "IGNWPS Office Memorandum Dated 30th Sep 2009",
+      "url": "https://nsap.nic.in/Guidelines/guidelines%20on%20IGNWPS%2030sep09.pdf"
+    }
+  ],
+  "exclusions": "Pension will be discontinued\n\nIn case of remarriage of widow Once the widow moves above poverty line\n",
+  "documents_required": "Death Certificate of husband \u2013 With the name of the surviving wife(widow). BPL Card. Age Proof - For age, the birth certificate or school certificate may be relied on. In their absence ration card and EPIC may be considered. If there is no valid document, any Medical Officer of any government hospital may be authorized to issue the age certificate."
+}

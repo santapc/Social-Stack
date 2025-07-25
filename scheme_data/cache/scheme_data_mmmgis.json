@@ -1,0 +1,63 @@
+{
+  "scheme_id": "67f65028ca4dbdfd530ee2a1",
+  "slug": "mmmgis",
+  "scheme_name": "Mukhyamantri Alpshankhyak Medhwi Balikha Protsahan Yojana",
+  "scheme_short_title": "MMMGIS",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "Minority Welfare, Uttarakhand",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning",
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Minority Welfare",
+    "Education",
+    "Girls",
+    "Financial Grant",
+    "Incentive"
+  ],
+  "brief_description": "\"Mukhyamantri Alpshankhyak Medhwi Balikha Protsahan Yojana\" is a social security scheme that provides incentives to meritorious girl students belonging to minority communities based on their merit in higher secondary or equivalent and intermediate level.",
+  "detailed_description": "\"Mukhyamantri Alpshankhyak Medhwi Balikha Protsahan Yojana\" is a social security scheme by the Minority Welfare Department, Government of Uttarakhand. The scheme aims to provide incentives to meritorious girl students belonging to minority communities based on their merit in higher secondary or equivalent and intermediate level. <br>",
+  "benefits": [
+    "Higher Secondary/ Munshi/ Moulvi:",
+    "\u20b910,000/- for 60% and above. \u20b915,000/- for 70% and above. \u20b920,000/- for 80% and above.",
+    "Intermediate/ Alim:",
+    "\u20b915,000/- for 60% and above. \u20b920,000/- for 70% and above. \u20b925,000/- for 80% and above.",
+    "Note: This benefit will be available to the students in the same year they have passed high school / intermediate or equivalent exam, and it will be mandatory to apply in the same year."
+  ],
+  "eligibility_criteria": "Applicant should be a girl. Applicant should be a resident of Uttarakhand. Applicant should belong to a Minority Community (as notified by the Government of India). Applicant should be the first or second daughter of her parents. Applicant should be unmarried. Applicant should be below 20 years of age at the time of application. Applicant should have secured 60% or more marks in Higher Secondary / Intermediate or equivalent examinations from the Uttarakhand Board of Secondary Education or Madarsa Board. Applicant's family income should be: For rural areas: Not more than \u20b981,000/- per annum from all sources. For urban areas: Not more than \u20b91,03,000/- per annum from all sources. Applicant should belong to the Below Poverty Line (BPL) category.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: Applicants should visit their nearest District Office or Block Development Office and collect application form.",
+        "Step 2: Fill the form properly and attach all the documents (attested,if required).",
+        "Step 3: Submit the form at the District Office or Block Development Office."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Page No. 45)",
+      "url": "https://agriculture.uk.gov.in/files/MERI_YOJANA_book_pdf__04-12-23.pdf"
+    },
+    {
+      "title": "Guidelines 2",
+      "url": "https://minoritywelfare.uk.gov.in/pages/display/106-medhawi-balika-prtotsahan-yojna"
+    },
+    {
+      "title": "Guideline 3",
+      "url": "https://cdnbbsr.s3waas.gov.in/s37b41bfa5085806dfa24b8c9de0ce567f/uploads/2018/08/20250429968690939.pdf"
+    }
+  ],
+  "documents_required": "Copy of the mark sheet of Higher Secondary/Munshi /Maulvi From the School/College/Madrasa. Copy of the intermediate mark sheet from the School/College/Madrasa. Self-declared certificate of being a minority. Prescribed income certificate. Permanent residence certificate. Affidavit of being unmarried and only 2 daughters of the family have received or will receive the benefit. Bank account (Aadhaar linked/seeded). Aadhaar card. Mobile number."
+}

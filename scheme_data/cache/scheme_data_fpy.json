@@ -1,0 +1,82 @@
+{
+  "scheme_id": "672b93c2cef677932c61b527",
+  "slug": "fpy",
+  "scheme_name": "Fal Podharopan Yojana",
+  "scheme_short_title": "FPY",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Horticulture and Food Processing Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Soil health",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Fruit",
+    "Plantation",
+    "Farm",
+    "Farmer",
+    "Plant",
+    "Crop",
+    "Agriculture",
+    "Horticulture"
+  ],
+  "brief_description": "The objective of this scheme is to expand the area under fruit plantation in the district and increase the fruit production. This scheme is implemented in all the 52 districts of the state.",
+  "detailed_description": "The scheme &quot;Fal Podharopan Yojana&quot; by the Horticulture and Food Processing Department, Government of Madhya Pradesh, provides targeted support to farmers for fruit cultivation, taking into account land conditions, climate, and irrigation availability. Under this scheme, farmers receive a subsidy of 40% to 50% of the unit cost, disbursed over three years, in the ratio of 60:20:20, for planting fruit saplings on areas ranging from 0.25 to 4 hectares. Eligible fruits include mango, guava, orange, sweet lime, custard apple, plum, sapota, grapes, pomegranate, strawberry, tissue-cultured banana, hybrid-seed papaya, munga, and lemon. The subsidy applies to both standard and high-density plantations, with or without drip irrigation, to support sustainable and high-yield fruit farming.",
+  "benefits": [
+    "40% to 50% of grant-in-aid is payable in the ratio of 60:20:20 in three years.",
+    "Sr. No. | Constituent | Percentage of grant-in-aid | Per Hectare Unit Cost for Dripless Irrigation | Grant-in-Aid for Driplessrrigation (60:20:20) | Per Hectare Unit Cost for Drip Irrigation | Grant-in-Aid for for Drip Irrigation (60:20:20)\n1. | Normal Distance | 40% to 50% | 60,000 | 30,000 | 1,00,000 | 40,000\n2. | High Density | 40% | 1,00,000 | 40,000 | 1,50,000 | 60,000\n3. | Ultra High Density | 40% | 1,25,000 | 40,000 | 2,00,000 | 80,000",
+    "(Amount in \u20b9)"
+  ],
+  "eligibility_criteria": "The applicant should own private land. The land area should be at least 0.25 hectares. The land area should not exceed 4 hectares. The applicant should have adequate means of irrigation to support fruit plantation. The applicant should be interested in growing fruit crops. The applicant should have a strong interest in plantation activities. The applicant should be from one of the following social categories - General, Scheduled Tribe, Scheduled Caste.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration",
+        "Step 1: Go to the official website of the Horticulture and Food Processing Department of the Government of Madhya Pradesh.",
+        "Step 2: Click on \" Register Online. \"",
+        "Step 3: Complete the form by entering all necessary information marked with an *.",
+        "Step 4: Upload the required documents, such as proof of land ownership, irrigation facility evidence, and any certificates relevant to eligibility.",
+        "Step 5: Submit the application after reviewing all details, and save or print the acknowledgement receipt for future reference.",
+        "Application",
+        "Step 1: Go to the official website of the Horticulture and Food Processing Department of the Government of Madhya Pradesh.",
+        "Step 2: Signin using your email, password, and captcha code.",
+        "Step 3: Select the scheme you intend to apply for. In the application form, fill in the mandatory details, and upload the necessary documents.",
+        "Step 4: Review all details and submit the application. Save/print the acknowledgement receipt for future reference."
+      ]
+    },
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the office of the Deputy/Assistant Director of Horticulture or the office of the Senior Horticulture Development Officer, and request the hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the concerned officer at the office.",
+        "Step 4: Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE: Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.mphorticulture.gov.in/sites/default/files/%E0%A4%AB%E0%A4%B2%20%E0%A4%AA%E0%A5%8C%E0%A4%A7%20%E0%A4%B0%E0%A5%8B%E0%A4%AA%E0%A4%A3%20%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE-converted.pdf"
+    },
+    {
+      "title": "Registration",
+      "url": "https://www.mpfsts.mp.gov.in/"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=529"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Aadhaar Card. Proof of Land Ownership. Forest Rights Certificate (if applicable). Bank Account Details. Previous Crop Records (to verify that land is new or transitioning from food crops to orchards). Passport-Sized Photograph."
+}

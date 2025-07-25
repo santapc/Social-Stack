@@ -1,0 +1,51 @@
+{
+  "scheme_id": "67b0ae530cc99d069d33edb0",
+  "slug": "dccs",
+  "scheme_name": "Devnarayan Chhatra Cycle Scheme",
+  "scheme_short_title": "DCCS",
+  "state": "Rajasthan",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Empowerment Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Aids/Appliances"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Cycle",
+    "Special Backward Classes",
+    "Girl",
+    "Student",
+    "Free Bicycle"
+  ],
+  "brief_description": "The scheme provides free bicycles to girl students studying in Class 9 in government schools of Rajasthan who belong to the Special Backward Classes or specific communities such as Banjara, Baldia, Labana-Gadiya Lohar, Gadolia, Gujar Gurjar, Raiko, Rebari (Debasi).",
+  "detailed_description": "The &amp;quot;Devnarayan Chhatra Cycle Scheme&amp;quot; was launched by the Social Justice and Empowerment Department, Government of Rajasthan, aims to promote education and mobility among girls belonging to the Special Backward Classes (SBC) or specific communities such as Banjara, Baldia, Labana, Gadiya-Lohar, Gadolia, Gujar, Gurjar, Raiko, Rebari (Debasi), and Gadaria (Gadri, Gyari). Under this scheme, free bicycles are provided to girl students studying in 9th Class in government schools of Rajasthan.",
+  "benefits": [
+    "Free distribution of cycles to girl students ."
+  ],
+  "eligibility_criteria": "The applicant should be a girl student. The applicant should be a native of Rajasthan. The applicant should be enrolled in class 9 th in a government school of Rajasthan. The applicant must belong to one of the following Special Backward Class (SBC) communities:\nBanjara, Baldia, Labana Gadiya Lohar, Gadolia Gujar, Gurjar Raika, Rebari (Debasi) Gadaria (Gadri, Gyari)",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the principal of the respective government school where the student is enrolled and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications. Step 2: In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest, if required). Step 3: Submit the duly filled and signed application form along with the documents to the principal of the respective government school. Step 4: Request a receipt or acknowledgment from the principal of the respective government school to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sje.rajasthan.gov.in/Default.aspx?PageID=87"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://jansoochna.rajasthan.gov.in/CMS/EligiblityRules"
+    }
+  ],
+  "documents_required": "Rajasthan Domicile Certificate SBC Caste Certificate Income Certificate Aadhaar Card Educational Certificate of Class 9 th Any other documents as required"
+}

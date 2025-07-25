@@ -1,0 +1,52 @@
+{
+  "scheme_id": "6780a72bbf5b49235b8ca30a",
+  "slug": "mgbuy",
+  "scheme_name": "Mukhyamantri Gambhir Bimari Upchar Yojana",
+  "scheme_short_title": "MGBUY",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Department of Health, Medical Education & Family Welfare",
+  "dbt_scheme": false,
+  "categories": [
+    "Health & Wellness"
+  ],
+  "sub_categories": [
+    "Disease and conditions",
+    "Emergency medical assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Illnesses",
+    "Medical",
+    "Hospital"
+  ],
+  "brief_description": "The scheme \"Mukhyamantri Gambhir Bimari Upchar Yojana\" by the Department of Health, Medical Education & Family Welfare, Government of Jharkhand, provides medical grants of up to \u20b95,00,000/- for the treatment of critical illnesses and supports acid attack victims.",
+  "detailed_description": "The \"Mukhyamantri Gambhir Bimari Upchar Yojana\" is implemented by the Department of Health, Medical Education &amp; Family Welfare, Government of Jharkhand, aims to provide financial assistance for the treatment of critical illnesses such as cancer, kidney transplant, and severe liver diseases, as well as support to acid attack victims. Through this scheme, eligible individuals receive medical grants of up to \u20b95,00,000/- to cover treatment costs.",
+  "benefits": [
+    "Financial Assistance: Up to \u20b95,00,000/- per case for the treatment of critical illnesses such as cancer, kidney transplant, and severe liver diseases. Valid Hospitals: Treatment costs are covered only in Jharkhand's medical colleges, central medical institutions, or empaneled hospitals. (Link) Expense Reimbursement: Covers bed charges, medicines, surgeries, and other related costs. ",
+    "NOTE: Disbursal: Grants are disbursed directly to hospitals via electronic transfer or bank draft."
+  ],
+  "eligibility_criteria": "The applicant must be a resident of Jharkhand. The applicant's gross annual income must be below \u20b98,00,000/- for three consecutive years (not applicable for acid attack victims). The applicant must suffer from one of the specified illnesses:\nAll types of cancer. Kidney transplant. Severe liver diseases. ",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the Civil Surgeon's office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents to the District-level Health Committee.",
+        "Step 4: Request a receipt or acknowledgment from the District-level Health Committee to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.jharkhand.gov.in/Home/ViewDoc?id=D011DO003SD00314022020055057258"
+    }
+  ],
+  "exclusions": "Applicants receiving aid from similar government health schemes are excluded unless the medical condition is non-overlapping.\n\n",
+  "documents_required": "Passport-size Photographs Income Certificate Medical Reports Bank Account Details"
+}

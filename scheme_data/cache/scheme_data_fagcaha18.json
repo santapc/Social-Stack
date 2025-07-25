@@ -1,0 +1,57 @@
+{
+  "scheme_id": "6724f7e863066fa2674f7750",
+  "slug": "fagcaha18",
+  "scheme_name": "Financial Assistance for Girl Child Attend Her Age of 18",
+  "scheme_short_title": "FAGCAHA18",
+  "state": "Maharashtra",
+  "level": "State/ UT",
+  "nodal_department": "Labour Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Financial assistance",
+    "Childcare",
+    "Pregnancy Care"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Fixed Deposit",
+    "Girl Child",
+    "Construction Worker"
+  ],
+  "brief_description": "The Financial Assistance for Girl Child Attend Her Age of 18 scheme provides financial assistance in the form of a fixed deposit of \u20b91,00,000/- for each female child of a registered worker or spouse who has undergone a family planning operation after the birth of one female child.",
+  "detailed_description": "The Financial Assistance for Girl Child Attend Her Age of 18 scheme was launched by the Maharashtra Building And Other Construction Workers Welfare Board (MBOCWW), Labour Department Maharashtra. The scheme aims to provide financial assistance in the form of a fixed deposit of \u20b91,00,000/- for one female child of a registered worker or spouse who has undergone a family planning operation after the birth of one female child.",
+  "benefits": [
+    "Fixed deposit of \u20b91,00,000/- for one female child.",
+    "Note: The fixed deposit will remain in the bank until the girl child turns 18 years old."
+  ],
+  "eligibility_criteria": "The applicant must be a registered construction worker in Maharashtra. The worker or their spouse must have undergone contraceptive surgery after the birth of one female child.\n",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step-1: The interested applicant downloads the application form from the MBOCWW official website.",
+        "Step-2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3: Submit the duly filled and signed application form along with the documents to the Labor Commissioner/Government Labor Officer.",
+        "Step-4: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://mahakamgar.maharashtra.gov.in/welfare-scheme-for-building-other-construction-workers.htm"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://mahabocw.in/"
+    }
+  ],
+  "documents_required": "Passport-size Photo. Aadhaar Card. Identity Card of Maharashtra Building and Other Construction Workers Welfare Board. Bank Passbook. Certificate of Family Planning Strategy (issued by Competent Medical Officers). Affidavit Proof of applicant not having more than one daughter. Proof of Residence (One of Aadhaar Card/Passport/Driving Licence/Ration Sheet/Last Month's Electricity Bill/Gram Panchayat Certificate)."
+}

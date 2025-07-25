@@ -1,0 +1,55 @@
+{
+  "scheme_id": "670cfff50b69a7abdf74d8bd",
+  "slug": "pmsp",
+  "scheme_name": "Pre-Matric Scholarship Scheme",
+  "scheme_short_title": "PMSP",
+  "state": "Tamil Nadu",
+  "level": "State/ UT",
+  "nodal_department": "Backward Classes Most Backward Classes and Minorities Welfare Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Minority Welfare",
+    "Scholarship",
+    "Education",
+    "Pre-Matric"
+  ],
+  "brief_description": "The scheme offers financial assistance to students from Backward Classes (BC) and Most Backward Classes (MBC) studying in English medium from 6th to 10th standard. It covers tuition and examination fees.",
+  "detailed_description": "The &amp;quot;Pre-Matric Scholarship Scheme&amp;quot; launched by the Backward Classes, Most Backward Classes and Minorities Welfare Department, Tamil Nadu, aimed at supporting students from Backward Classes (BC), Most Backward Classes (MBC), and Denotified Communities (DNC). It provides tuition fees for students from 6th to 10th standard. &lt;br&gt; &lt;br&gt;",
+  "benefits": [
+    "Tuition Fee for 6th to 8th Standard: \u20b9200/- per year (\u20b920/- per month for 10 months). Tuition Fee for 9th to 10th Standard: \u20b9250/- per year (\u20b925/- per month for 10 months). Examination Fee for 10th Standard: Full coverage of the examination fee. "
+  ],
+  "eligibility_criteria": "The beneficiary should be a student. The beneficiary should be a resident of Tamil Nadu. The beneficiary should belong to the Backward Classes (BC), Most Backward Classes (MBC), and Denotified Communities (DNC). Parents' income should not exceed \u20b91,00,000/- (for Backward Classes (BC) students). There should be no graduate in the family (for Backward Classes (BC) students). The beneficiary should be studying in 11th or 12th standard in an English medium school.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should collect the application form from their concerned educational institution. Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required). Step 3: Submit the duly filled and signed application form along with the documents to the institution. Step 4: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines-1",
+      "url": "https://www.tn.gov.in/scheme/data_view/27457"
+    },
+    {
+      "title": "Guidelines-2",
+      "url": "https://cms.tn.gov.in/sites/default/files/schemes/bcmbcmw_2.pdf"
+    },
+    {
+      "title": "Community List",
+      "url": "https://bcmbcmw.tn.gov.in/community_list.pdf"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Proof of identity (Aadhar card or any other document as directed by the authority). Caste certificate (BC/MBC/DNC). Proof of income (for BC students). Admission letter or proof of enrollment (6th to 10th standard admission). Bank account details. No-graduate certificate (for BC students) Any other documents (if required)."
+}

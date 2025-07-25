@@ -1,0 +1,66 @@
+{
+  "scheme_id": "66c9caa7bfeff774c393feee",
+  "slug": "ignoapsch",
+  "scheme_name": "Indira Gandhi National Old Age Pension Scheme- Chhattisgarh",
+  "scheme_short_title": "IGNOAPSCH",
+  "state": "Chhattisgarh",
+  "level": "State/ UT",
+  "nodal_department": "Social Welfare Department",
+  "implementing_agency": "Social Welfare Department, Government Of Chhattisgarh",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Pension"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Indira Gandhi",
+    "Old Age",
+    "Pension",
+    "Senior Citizen",
+    "BPL"
+  ],
+  "brief_description": "Under this scheme, financial assistance is provided to elderly people aged 60 years and above living Below the Poverty Line (BPL) to support them in living a respectful life.",
+  "detailed_description": "The scheme &amp;quot;Indira Gandhi National Old Age Pension Scheme&amp;quot; is implemented by the Social Welfare Department, Government of Chhattisgarh. Under this scheme, financial assistance is provided to elderly people aged 60 years and above living Below the Poverty Line (BPL) to support them in living a respectful life. This scheme is centrally sponsored.",
+  "benefits": [
+    "Eligible beneficiaries under this scheme will receive monthly financial assistance as follows: Beneficiaries aged 60 to 79 years: \u20b9500/- per month (Central contribution: \u20b9200/-, State contribution: \u20b9300/-). Beneficiaries aged 80 years or above: \u20b9650/- per month (Central contribution: \u20b9500/-, State contribution: \u20b9150/-)."
+  ],
+  "eligibility_criteria": "The applicant should be a native of Chhattisgarh. The applicant should be a senior citizen. The applicant should be 60 years of age or older. The applicant's name should be included in the list of families living Below Poverty Line. The applicant should not be receiving pension benefits from any other Central or State Government pension scheme.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process: Step 1: Go to the eDistrict Chhattisgarh Portal . Step 2: Click on \" Citizen Login \". Step 3: If you are a new user, select \" New Registration \". Step 4: Enter your registration details and click \"Submit\". Step 5: Your Registration Summary will be displayed, and you will receive your password on your registered mobile number. Application Process: Step 1: Go to the eDistrict Chhattisgarh Portal . Step 2: Click on \u2018Login' or \" Citizen Login \". Step 3: Enter your username and password and click \u2018Login'. Step 4: After logging in, click on \"My Service\" and search for the scheme to apply for. Step 5: Click on \u2018Apply Online' and fill in all required details, upload important documents, and click \u2018Submit.'"
+      ]
+    },
+    {
+      "mode": "Offline",
+      "steps": [
+        "In Rural Areas: Step 1: The applicant, who fulfills the eligibility criteria, may visit the office of the Gram Panchayat and collect the application form , which is available free of cost. Step 2: Fill out the application form and submit it to the Gram Panchayat. You will receive an acknowledgment receipt from the Gram Panchayat. Step 3: The Gram Panchayat will review and recommend the application and then forward it to the District Panchayat within 07 days. In Urban Areas: Step 1: Eligible applicants should visit the office of the concerned Municipal Corporation, Municipality, Nagar Panchayat, or Panchayat Raj institution to collect the application form , which is available free of cost. Step 2: Fill out the application form and submit it to the respective office (Municipality/Municipal Corporation/Nagar Panchayat). You will receive an acknowledgment receipt from the office. Note 1: The concerned urban body/District Panchayat has the authority to approve or reject the applications. Note 2: If a printed application form is not available, you may submit your application on plain paper."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://sw.cg.gov.in/en/indira-gandhi-national-old-age-pension-scheme"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://sw.cg.gov.in/sites/default/files/pensionscheme.pdf"
+    },
+    {
+      "title": "Notification",
+      "url": "https://sw.cg.gov.in/sites/default/files/ssps-updates.pdf"
+    },
+    {
+      "title": "Online Application Portal",
+      "url": "https://edistrict.cgstate.gov.in/PACE/instructionPageHome.do?serviceId=12&OWASP_CSRFTOKEN=DG6E-B6XY-YPVM-NM2S-DC2F-5R8E-J9QL-DQY4"
+    }
+  ],
+  "documents_required": "Aadhaar card of the applicant Passport-size photograph Identity proof Domicile certificate of Chhattisgarh (Issued by a Gazetted Officer, Sarpanch or Councillor) Proof of age (Doctor's certificate, Birth Certificate, Certificate issued by an Administrator, Sarpanch, or Mayor, school certificate, etc.) Below Poverty Line (BPL) Card/related documents Address proof Bank Passbook/Post Office Account Passbook Any other documents as required"
+}

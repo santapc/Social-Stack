@@ -1,0 +1,49 @@
+{
+  "scheme_id": "678fa77d299213e15d38fbfe",
+  "slug": "sdsj",
+  "scheme_name": "Salt Distribution Scheme Jharkhand",
+  "scheme_short_title": "SDSJ",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Food, Public Distribution and Consumer affairs Department",
+  "implementing_agency": "Directorate Of Food And Consumer Affairs, Ranchi",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Food Security / Public Distribution System"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Subsidized Rate",
+    "Salt",
+    "JSFSS",
+    "NFSA"
+  ],
+  "brief_description": "The \"Salt Distribution Scheme\" by the Department of Food, Public Distribution and Consumer Affairs, Government of Jharkhand, ensures subsidized salt is provided to AAY, PHH, and Green Cardholders, promoting accessibility and affordability.",
+  "detailed_description": "The &quot;Salt Distribution Scheme&quot; by the Department of Food, Public Distribution and Consumer Affairs, Government of Jharkhand, aims to provide subsidized salt to beneficiaries, ensuring affordability and nutrition intake for economically weaker sections. Under this scheme, salt is distributed at \u20b91 per kilogram to Antyodaya Anna Yojana (AAY) cardholders, Priority Household (PHH) cardholders under the National Food Security Act (NFSA), and Green Cardholders under the Jharkhand State Food Security Scheme (JSFSS).",
+  "benefits": [
+    "Subsidized salt is provided at \u20b91/- per kilogram.",
+    "Note:",
+    "Benefits extended to AAY and PHH cardholders under NFSA and Green Cardholders under JSFSS. Distributed monthly through designated fair price shops."
+  ],
+  "eligibility_criteria": "The applicant must be a resident of Jharkhand. The applicant must hold an Antyodaya Anna Yojana (AAY) card, a Priority Household (PHH) card under the National Food Security Act, 2013, or a Green Card under the Jharkhand State Food Security Scheme. Preference is given to economically disadvantaged households.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Visit the nearest ration shop or designated enrollment center with the required documents. If Aadhaar is not available, apply for Aadhaar enrollment at an authorized center. Submit the Aadhaar number or Aadhaar Enrolment Identification Slip during registration. Verify the eligibility and documents with the designated officer. Collect the salt from the distribution center as per the monthly schedule."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.jharkhand.gov.in/PDepartment/ViewDoc?id=D009DO003SD00625102023010214718"
+    }
+  ],
+  "documents_required": "Aadhaar Card or Aadhaar Enrolment Identification Slip. Bank or Post Office Passbook with Photo. Permanent Account Number (PAN) Card. Passport (if available). Ration Card. Voter Identity Card. MGNREGA Card. Kisan Photo Passbook. Driving License issued under the Motor Vehicles Act, 1988. Certificate of Identity with a photo issued by a Gazetted Officer or Tehsildar on official letterhead."
+}

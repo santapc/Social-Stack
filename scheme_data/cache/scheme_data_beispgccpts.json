@@ -1,0 +1,79 @@
+{
+  "scheme_id": "65ccaaa1ed4030e118d96147",
+  "slug": "beispgccpts",
+  "scheme_name": "\"Back Ended Investment Subsidy to Paddy Growers\" component of the \"Crop Production Technology\" scheme",
+  "scheme_short_title": "BEISPGCCPTS",
+  "state": "Puducherry",
+  "level": "State/ UT",
+  "nodal_department": "Agriculture Department, Puducherry",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Paddy",
+    "Subsidy",
+    "Financial Assistance",
+    "Farmer",
+    "Agriculture"
+  ],
+  "brief_description": "\"Back Ended Investment Subsidy to Paddy Growers\" component of the \"Crop Production Technology\" scheme was introduced by the Dept of Agriculture and Farmer's Welfare, UT of Puducherry. The paddy farmers residing in the Yanam region are provided a back-ended investment subsidy at \u20b94,000/- per hectare.",
+  "detailed_description": "The &quot;Back Ended Investment Subsidy to Paddy Growers&quot; component of the &quot;Crop Production Technology&quot; scheme was introduced by the Department of Agriculture and Farmer&#39;s Welfare, Union Territory of Puducherry. Through this scheme, the paddy farmers residing in the Yanam region are provided a back-ended investment subsidy at \u20b94,000/- per hectare.",
+  "benefits": [
+    "Back-ended investment subsidy to paddy growers @ \u20b94,000/- per hectare."
+  ],
+  "eligibility_criteria": "The applicant should be a resident/native of Puducherry. The applicant should be residing in the Yanam region. The applicant should be a Farmer. The applicant should possess land holdings.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) one of the offices given below, and request the hard copy of the prescribed format of the application form from the concerned authority.",
+        "Agricultural Officers of the Uzhavar Udhaviyagam .  Office of the Deputy Director of Agriculture, Yanam.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form and the documents to the concerned authority.",
+        "Step 4: On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application."
+      ]
+    },
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Visit the Official Website of the e-District Portal of the Government of Puducherry.",
+        "Step 2: At the top right corner of the home page, click \" Login \". In the login screen, click \" Register a New Membership \".",
+        "Step 3: On the Registration Page, fill in all the mandatory fields: Username, Password, Confirm Password, Personal Details (Full Name, First Name, Email Address, Address, Current Address, Gender, Date of Birth, Mobile Number). Agree to the declaration. Fill in the Captcha Code, and click \"Signup\".",
+        "Step 4: Visit the Official Website of the e-District Portal of the Government of Puducherry.",
+        "Step 5: At the top right corner of the home page, click \" Login \". In the login screen, provide your Username and Password, fill in the Captcha Code, and click \"Sign In\".",
+        "Step 6: On the next screen, a list of schemes by the Government of Puducherry will be displayed Department-wise.",
+        "Step 7: Click on the scheme you wish to apply for. You will be taken to its online application form.",
+        "Step 8: In the application form, fill in all the mandatory fields (marked with a red asterisk) and upload all the mandatory documents (self-attest if required).",
+        "Step 9: Tick the declaration stating \"I hereby declare that the above-mentioned details are true and correct as per the best of my Knowledge\". Submit the application and note the application number for tracking your application . The application number will also be received on your Registered Mobile Number / Registered Email ID.",
+        "*Track Your Application  here ",
+        "* Access the User Manual for Online Application  here "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Citizen's Charter",
+      "url": "https://agri.py.gov.in/sites/default/files/citchart/subsch.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://agri.py.gov.in/sites/default/files/forms/backendpad.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://agri.py.gov.in/emailcontact.html"
+    },
+    {
+      "title": "Grievance Redressal",
+      "url": "https://agri.py.gov.in/sites/default/files/citchart/grievance.pdf"
+    }
+  ],
+  "documents_required": "Aadhaar Card. Ration Card. Applicant's Photo. Farmer's Identity Card. Bank Passbook. FMB (Field Measurement Book). Residence-cum-Nativity Certificate, issued by the competent authority."
+}

@@ -1,0 +1,50 @@
+{
+  "scheme_id": "67a5f1331269f7da410d9b71",
+  "slug": "ccs-goa",
+  "scheme_name": "Capital Contribution Scheme (Goa)",
+  "scheme_short_title": "CCS-GOA",
+  "state": "Goa",
+  "level": "State/ UT",
+  "nodal_department": "Labour and Employment Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Business & Entrepreneurship"
+  ],
+  "sub_categories": [
+    "Setting up / start-up / entrepreneurship",
+    "Technology upgradation"
+  ],
+  "target_beneficiaries": [
+    "Business Entity"
+  ],
+  "tags": [
+    "Business",
+    "Capital",
+    "Financial Support",
+    "Technology",
+    "Commerce"
+  ],
+  "brief_description": "\"Capital Contribution Scheme\" aims to support local entrepreneurs, promote industrial units, and develop special products based on locally developed technology. Financial support is provided to local entrepreneurs and existing functional units.",
+  "detailed_description": "Launched in 2008, the scheme &quot;Capital Contribution Scheme&quot; by the Department of Industries, Government of Goa aims to support local entrepreneurs, promote industrial units that venture out and develop special products based on locally developed technology. Through this scheme, financial support is provided to local entrepreneurs, existing functional units, and units that utilize locally developed technology. The scheme is implemented by the Directorate of Industries, Trade and Commerce. The objectives of the scheme are as follows: 1. To give financial support to local entrepreneurs. 1. To support existing functional units to venture out and expand. 1. To support locally developed technology.",
+  "benefits": [
+    "Maximum capital contribution up to \u20b91,00,00,000/- per unit will be available, subject to the condition that contributions of promoters should be equal to or more than the capital contribution by the Government. However, this restriction/condition shall not be applicable to sick units. The capital contribution will be for 5 years as may be indicated in the sanctioned order with a guaranteed return of 6% or actual profit.",
+    "Disbursement of Funds",
+    "In case of approval, the capital contribution shall be released within a period of 60 days from the date of approval. The beneficiary must submit post-dated cheques for repayment and collateral security as per the scheme guidelines."
+  ],
+  "eligibility_criteria": "Clusters/Units which are in operation for a period of at least 3 years shall be eligible except those covered under the Goa Sick Industrial Unit Revival and Rehabilitation Scheme, 2008 or any such Scheme in force during the tenure of this Scheme. Partnership firms and private limited concerns shall be eligible under this Scheme except those covered under the Goa Sick Industrial Unit Revival and Rehabilitation Scheme, 2008 or any Scheme in force during the tenure of this Scheme. Only those Units which are permanently registered with the Directorate of Industries, Trade and Commerce will be eligible.\n*Preference will be given to units in the small-scale sector, units involved in research and development, technically oriented units, and units run by women entrepreneurs/clusters.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "The application should be submitted by the eligible units to the Directorate of Industries, Trade and Commerce in the specified format along with the required documents. The Directorate of Industries, Trade and Commerce will scrutinize and consider the application within 3 months from the date of receiving it. The decision will be conveyed within 4 months from the date of receipt of the application."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://ditc.goa.gov.in/sites/default/files/Preferential-Purchase-Incentives-for-Micro-and-Small-Enterprises.pdf"
+    }
+  ],
+  "documents_required": "Copy of Permanent Registration Certificate or necessary proof of registration with the Directorate of Industries, Trade and Commerce. Audited Statement of Accounts of the preceding 3 years. Project Report. Post-dated cheques for repayment as security towards the amount sanctioned (in case of approval). Collateral security equal to the quantum of contribution sought or equal to the amount the unit is eligible for (in case of approval)."
+}

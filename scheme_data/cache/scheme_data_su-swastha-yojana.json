@@ -1,0 +1,89 @@
+{
+  "scheme_id": "6412f7a4cd9a5d005c99c2b2",
+  "slug": "su-swastha-yojana",
+  "scheme_name": "Su-Swastha Yojana",
+  "scheme_short_title": "SU-SWASTHA YOJANA",
+  "state": "Sikkim",
+  "level": "State",
+  "nodal_department": "Health Care Human Servies & Family Welfare Department",
+  "categories": [
+    "Health & Wellness"
+  ],
+  "sub_categories": [
+    "Health care providers and access"
+  ],
+  "target_beneficiaries": [
+    "Individual",
+    "Family"
+  ],
+  "tags": [
+    "Insurance",
+    "Medical",
+    "Premium",
+    "Health",
+    "Hospital",
+    "Family"
+  ],
+  "brief_description": "\"Su-Swastha Yojna\" provides comprehensive and affordable healthcare coverage to the employees of the Government of Sikkim and their families. Cashless hospitalization at top-tier hospitals across India is provided to eligible beneficiaries with the best-in-class healthcare.",
+  "detailed_description": "Launched in April 2021, the scheme &quot;Su-Swastha Yojna&quot; by the Department of Health &amp; Family Welfare, Government of Sikkim aims to provide comprehensive and affordable healthcare coverage to the employees of the Government of Sikkim and their families. Through this scheme, cashless hospitalization at top-tier hospitals across India is provided to the eligible beneficiaries. The scheme covers regular employees in service of the Government of Sikkim and dependent family members up to a maximum of 5 dependents in a scheme that provides 10 lacs of cover to the family per year.",
+  "benefits": [
+    "Cashless Convenience: Cashless admission and discharge across network hospitals eliminate the burden of arranging funds during hospitalization.",
+    "Access to Top-Tier Healthcare: Beneficiaries gain access to best-in-class healthcare by leveraging a network of top-tier hospitals and institutes across India.",
+    "Quality Assurance: The Su-Swastha Facilitation Center ensures quality of care by overseeing medical services provided to beneficiaries.",
+    "Transparent Billing: Standardized tariffs with hospitals based on infrastructure and quality of care promote transparency in billing.",
+    "Patient-Centric Approach: Communication with patients and their families is maintained throughout the care journey.",
+    "Wide Network Coverage: Beneficiaries can avail of the scheme's benefits at over 400+ empanelled hospitals within the Su-Swastha Yojna network.",
+    "Comprehensive Coverage:",
+    "Base Cover - 10 lacs base cover. Critical Care Coverage - 10 lacs additional critical care coverage for the entire family, regardless of the number of dependents.",
+    "In-Patient Treatment: Covers hospitalization expenses exceeding 24 hours.",
+    "Road Ambulance Assistance: Covers road ambulance expenses up to \u20b93500 per hospitalization, with a maximum of 3 claims per year.",
+    "Pre-existing Disease Coverage: Covers all pre-existing diseases from the first day of enrollment.",
+    "Post-Hospitalization Care: Covers medical expenses incurred within 30 days of hospital discharge.",
+    "Specialized Coverage: Includes coverage for special conditions, treatments, implants, vehicular accidents, and trauma.",
+    "Maternity Benefits: Covers delivery expenses up to \u20b950,000, including newborn baby cover.",
+    "Dental and Ophthalmic Care: Covers daycare dental and ophthalmic treatments, including implants.",
+    "Organ Donor Expenses: Covers expenses incurred for organ transplantation from a donor to a Su-Swastha beneficiary, subject to claim eligibility criteria."
+  ],
+  "eligibility_criteria": "The applicant should be a regular employee in service of the Government of Sikkim or the dependent family members of such employee (spouse; brother and/or sister; children (own or legally adopted); parents of self or spouse) (up to a maximum of 5 dependents).",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Visit the Official Website of \" Su-Swastha Sikkim \" and click \" Enrol Now \".",
+        "Step 2: Login to the website using your registered Mobile Number. Verify your Mobile Number via OTP. You will be taken to the online enrolment form.",
+        "Step 3: There are two parts of the application. First, the employee must fill and submit part 1 of the form which is to enrol himself/herself in the scheme. Then he/she should fill and submit part 2 of the form. Fill in all the mandatory fields and if required, upload all the mandatory documents in the specified format and size.",
+        "Step 4: Agree to the self-declaration and submit the application, you will receive confirmation message on your phone (SMS) as well as an email confirmation. Please note that the application will go to your respective nodal officers for approval.",
+        "Once submitted successfully, the application is evaluated and processed. Once approved, your application you will receive a link to download your member e-card on SMS and email. This card is required for availing any benefits of Su-Swastha later.",
+        "In case of any query or assistance please reach us at info@suswasthasikkim.com or call us at 9800347944"
+      ]
+    },
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should take print of the <prescribed format> of the application form.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Each department has nodal officers made in charge of enrolment of employees of their respective departments. Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the Department Nodal Officer.",
+        "The duly filled and signed application form can also be email to support@suswasthasikkim.com along with all documents and photos attached."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://suswasthasikkim.com/pdf/Coverage-Benefits.pdf"
+    },
+    {
+      "title": "Enrolment Guide",
+      "url": "https://suswasthasikkim.com/pdf/Enrolment%20Process%20User%20Guide.pdf"
+    },
+    {
+      "title": "FAQ",
+      "url": "https://suswasthasikkim.com/faq"
+    },
+    {
+      "title": "List Of Nodal Officers",
+      "url": "https://suswasthasikkim.com/Nodal%20Officers%20List.pdf"
+    }
+  ],
+  "documents_required": "Passport Size Photo One of the following ID Proofs that shows the identity of the employee and the dependents: Voter's Card, Aaadhaar Card, Driver's license, Passport, or Any other government ID One of the following Proofs of the Relationship between employee and dependent: Aadhaar Card, Voter's ID, PAN Card, Passport, Driver's License, Hospital Discharge Card (attested by a gazette government official for newborn babies), Birth Certificate, Immunization Certificate, School Certificate (attested by school authority and gazette government official), Marriage Certificate, Affidavit (attested by gazette government official in lieu of no government issue proof)"
+}

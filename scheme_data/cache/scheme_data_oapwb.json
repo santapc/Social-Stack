@@ -1,0 +1,52 @@
+{
+  "scheme_id": "65925e806093f0fa3310c070",
+  "slug": "oapwb",
+  "scheme_name": "Old Age Pension",
+  "scheme_short_title": "OAPWB",
+  "state": "West Bengal",
+  "level": "State/ UT",
+  "nodal_department": "Women and Child Development and Social Welfare Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Pension"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Social Welfare",
+    "Pension",
+    "Old Age",
+    "Senior Citizens"
+  ],
+  "brief_description": "In 2010, the Women and Child Development and Social Welfare Department of the West Bengal State Government introduced the \"Old Age Pension\" scheme.",
+  "detailed_description": "In 2010, the West Bengal state government, through the Women and Child Development and Social Welfare Department, launched a compassionate initiative called the &amp;quot;Old Age Pension&amp;quot; scheme. The West Bengal Disability Pension Scheme provides financial assistance to persons who are above 60 years and unable to work and earn a living.",
+  "benefits": [
+    "\u20b91,000/- per month."
+  ],
+  "eligibility_criteria": "Applicant must be a resident of West Bengal State. Applicant must be 60 years old or above, but in the case of physically and mentally handicapped individuals, the age limit for eligibility is 55 years. Applicant should not have any relation capable of providing financial support (here \"relation\" means: Son/ Grand Son/ Husband/Wife/ Unmarried daughter/ Parents). The income of the applicant should not exceed \u20b9 1,000/- per month. The applicant should not be a recipient of any other Government pension. The applicant should be residing in the State for not less than ten years on the date of making the application. Note: The State Government may relax the residency condition in cases where undue hardship is caused. When only the year of birth is known, 1st July of that year or when the month is only known, 16th day of the month is to be taken as the date of birth.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Application Form( Form-P) for Pension may be obtained free of cost from following offices namely : Office of the Block Development Officer or the Executive Officer of the concerned Panchayat Samity in case of the applicant resides in the rural areas under the said Panchayat Samity. Office of the Sub-Divisional Officer in case of the applicant resides in Municipal / Notified areas outside the areas of Kolkata Municipal Corporation. Office of the Controller of Vagrancy, West Bengal situated at Purta Bhawan, Bidhan Nagar, Kolkata-700091, in case of the applicant resides within the areas under Kolkata Municipal Corporation. Application Form for Pension shall be addressed to :- The District Magistrate of the concerned District and shall be submitted to the Block Development Officer or the Executive Officer of the Panchayat Samity in case of the applicant residing in the rural areas under a Panchayat Samity. The District magistrate of the concerned District and Shall be submitted to the Sub-Divisional Officer in case of the applicant residing in Municipal / Notified areas outside the areas of Kolkata Municipal Corporation. The Controller of Vagrancy, West Bengal and shall be submitted to the Controller Vagrancy West Bengal in case of the applicant residing within the areas under Kolkata Municipal Corporation. District Nodal Officers: For any query related to the scheme concerned District Nodal Officers can be contacted."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://wbswpension.gov.in/pages/wcd_about_scheme.php"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://wbswpension.gov.in/readwrite/miscellaneous/form-P.pdf"
+    }
+  ],
+  "exclusions": "Professional Beggars and Mendicants: Professional beggars and mendicants of urban areas (cities and towns) are not eligible for pension under this scheme. Recipients of Other Pensions: Persons receiving \"Disability Pension\", \"Widow Pension\", \"Farmers' Pension\", \"Political Sufferers\", or any other pension of any State Government or the Central Government shall not be eligible for pension under this scheme.",
+  "documents_required": "Copy of Aadhaar self-attested. Copy of Ration Card. Copy of Voter Id. Copy of Disability Certificate. Copy of Income Certificate. Copy of Husband's Death Certificate. Copy of Bank Pass Book. Nomination Form (In case of death). Passport Size photograph."
+}

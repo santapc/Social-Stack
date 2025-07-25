@@ -1,0 +1,61 @@
+{
+  "scheme_id": "672ca878cef677932c628c27",
+  "slug": "la",
+  "scheme_name": "Lalima Abhiyaan",
+  "scheme_short_title": "LA",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Women and Child Development Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Emergency Medical Assistance",
+    "Childcare"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Child",
+    "Woman",
+    "Adolescent",
+    "Girl",
+    "Nutrition",
+    "Anganwadi",
+    "Anemia",
+    "Health",
+    "Disease",
+    "Pregnant"
+  ],
+  "brief_description": "The Lalima Abhiyaan aims to improve the health of children, adolescent girls, and women of reproductive age, and focuses on the prevention of anemia and nutrition awareness among adolescent girls.",
+  "detailed_description": "The &quot;Lalima Abhiyaan&quot; scheme of the Women and Child Development Department, Government of Madhya Pradesh, aims to improve the health of children, adolescent girls, and women of reproductive age. The scheme focuses on preventing anaemia and raising nutrition awareness among adolescent girls, pregnant women, and lactating mothers. It has been launched to address the widespread issue of anaemia linked to poor nutrition and lack of proper food. <br>",
+  "benefits": [
+    "Anemia Prevention: Free iron folic acid tablets are provided to combat anemia among children, adolescent girls, and women. Improved Nutrition: Awareness campaigns promote healthy diets and better nutrition practices, especially for adolescent girls and mothers. Collaborative Approach: The campaign is supported by multiple departments, including Public Health, AYUSH, and School Education, ensuring wide outreach. Mission Mode Operation: The campaign works in a focused, large-scale effort to quickly address anemia and improve health outcomes."
+  ],
+  "eligibility_criteria": "The applicant should be one of the following -\nSchool-going girl. Adolescent Girl. Pregnant Woman. Lactating Woman. Child in the age group of 6 months to 10 years. Woman of reproductive age group (19 to 49 years).",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit their nearest Anganwadi center or school, and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the Anganwadi worker or school authority.",
+        "Step 4: Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE: Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://khargone.nic.in/en/scheme/lalima-abhiyan/"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://betul.nic.in/scheme/%E0%A4%B2%E0%A4%BE%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BE-%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE/"
+    }
+  ],
+  "documents_required": "Proof of Identity Proof of Age Proof of Pregnancy or Lactation (For Pregnant or Lactating Women) School Enrollment Proof (for school-going children) Residential Proof Medical Certificate (if applicable)"
+}

@@ -1,0 +1,56 @@
+{
+  "scheme_id": "6570640153ed274f6a92c650",
+  "slug": "farfs",
+  "scheme_name": "Financial Assistance for Registered Fishermen Society",
+  "scheme_short_title": "FARFS",
+  "state": "Goa",
+  "level": "State",
+  "nodal_department": "Fisheries Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Fishing and hunting",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Registered Societies"
+  ],
+  "tags": [
+    "Society",
+    "Fishermen",
+    "Fish",
+    "Financial Assistance",
+    "Grant"
+  ],
+  "brief_description": "Through this scheme, the fisheries co-operative societies/associations registered with the Fisheries Co-operative Societies, having more than 25 members, will be eligible for financial assistance to the extent of \u20b950,000 as a grant-in-aid. The applications are accepted only in offline mode.",
+  "detailed_description": "\"Financial Assistance for Registered Fishermen Society\" is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, the fisheries co-operative societies/associations registered with the Fisheries Co-operative Societies, having more than 25 members, will be eligible for financial assistance to the extent of \u20b950,000 as a grant-in-aid. The applications are accepted only in offline mode.",
+  "benefits": [
+    "Financial assistance to the extent of \u20b950,000 as a grant-in-aid."
+  ],
+  "eligibility_criteria": "1. The applicant should be fisheries co-operative societies/associations registered with the Fisheries Co-operative Societies.\n2. The society should produce an audited statement of accounts.\n3. The society should employ at least one personnel for the maintenance of records.\n4. The society's books of accounts shall be produced before department authorities for inspection when called for.\n5. The society should have more than 25 members.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should request the prescribed format of the application form from the department.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents to the concerned authority at the Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at BDO Office/ Sub-Offices of the Department of Fisheries.",
+        "Grievance Redressal",
+        "Any dissatisfaction or complaint about any service or its standards can be registered with the Department's Grievance Redressal Officer . The grievance can also be lodged on the link dir-fish.goa@nic.in . All complaints will be acknowledged by us and final action taken will be communicated within 30 days."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Citizen's Charter",
+      "url": "https://fisheries.goa.gov.in/wp-content/uploads/2023/07/CitizenCharter-2.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://fisheries.goa.gov.in/contact-us-2/#"
+    }
+  ],
+  "documents_required": "1. Application in the prescribed form.\n2. Registration certificate.\n3. Bye-laws of the society.\n4. Mandate form.\n5. Membership details of the society/association.\n6. Audit statement of the last year."
+}

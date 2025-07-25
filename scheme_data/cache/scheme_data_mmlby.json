@@ -1,0 +1,64 @@
+{
+  "scheme_id": "66c70ef1bfeff774c3914334",
+  "slug": "mmlby",
+  "scheme_name": "Mukhyamantri - Majhi Ladki Bahin Yojana",
+  "scheme_short_title": "MMLBY",
+  "state": "Maharashtra",
+  "level": "State/ UT",
+  "nodal_department": "Women and Child Development Department",
+  "dbt_scheme": true,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Financial assistance",
+    "Citizen empowerment"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Female",
+    "Financial Assistance",
+    "Health",
+    "Nutrition"
+  ],
+  "brief_description": "The \"Mukhyamantri - Majhi Ladki Bahin Yojana\" is for the economic freedom of women in the state age group of 21 to 65, improving their health and nutrition and strengthening their decisive role in the family. The women will receive a financial benefit through direct benefit transfer.",
+  "detailed_description": "The &quot;Mukhyamantri - Majhi Ladki Bahin Yojana&quot; scheme was launched by the Women and Child Development Department, Government of Maharashtra. The scheme aims to give economic freedom to women in the state age group of 21 to 65 years, improving their health and nutrition and strengthening their decisive role in the family. The women will get a financial benefit of \u20b91,500/- through direct benefit transfer (DBT).",
+  "benefits": [
+    "Financial Assistance of \u20b91,500/- per month."
+  ],
+  "eligibility_criteria": "The applicant should be a female. The applicant should be a resident of Maharashtra state. The applicant's age should be between 21-65 years. The applicant should have their bank account with an Aadhaar link. The annual income of the applicant's family should not exceed \u20b92,50,000/-. Outsourced employees, voluntary workers, and contract workers with income up to \u20b92,50,000/- are eligible. The applicant should be any one of the following:\nMarried Woman Widowed Divorced Woman Abandoned and Destitute Women One Unmarried Woman in the family",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process:",
+        "Step 01: The interested applicant visit the official website .",
+        "Step 02: Select \" Applicant Login \" and click on \" Create Account .\"",
+        "Step 03: Complete the registration form with the following details: Full Name as per Aadhaar, Mobile No, Password, Confirm Password, District, Taluka, Village, Municipal Corporation / Council, Authorized Person & Accept Terms and Conditions.",
+        "Step 04: Enter the Captcha code and click \"Sign-up.\" You will receive an OTP.",
+        "Step 05: Enter the OTP and the Captcha code again.",
+        "Step 06: Click \" Verify the OTP \" to receive a message confirming that your login was successful.",
+        "Application Process:",
+        "Step 01: Log in to the portal using your Mobile number, Password, and Captcha to log in.",
+        "Step 02: Click on \" Application of Mukhyamantri - Majhi Ladki Bahin Yojana \" and enter your Aadhaar Number and Captcha.",
+        "Step 03: Click on \" Valid Aadhaar \" and complete the registration form with the applicant's name, bank details, and permanent address.",
+        "Step 04: Upload relevant documents such as an Aadhaar card, Domicile certificate, Ration card, etc.",
+        "Step 05: Click \" Submit \" to receive your application ID via SMS.",
+        "Check the Status:",
+        "Step 01: Log in to the portal using your Mobile number, Password, and Captcha to log in.",
+        "Step 02: Click on \" Applications Made Earlier \" to view the status of your applications."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://ladlibahinstorage.s3.ap-south-1.amazonaws.com/site-pdf/%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%B6%E0%A4%95+%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE+%E0%A4%A6%E0%A4%BF.%E0%A5%A8%E0%A5%AD.%E0%A5%A6%E0%A5%AD.%E0%A5%A8%E0%A5%AA.pdf#toolbar=0"
+    }
+  ],
+  "exclusions": "The combined annual family income is more than \u20b92,50,000/-. The family member is an income taxpayer. The family members are working as regular/permanent employees in a government department/undertaking/board/government of India or local body of the state government or are drawing pensions after retirement. The beneficiary women received \u20b91,500 per month through the financial scheme implemented by other departments of the government. The family member is a present or former MP/MLA. The family member is the Chairman/Vice-Chairman/Director/Member of the Board/Corporation/Undertaking of the Government of India or State Government. A person has a four-wheeler (excluding a tractor) registered in the name of their family members.",
+  "documents_required": "Photograph of the Beneficiary Woman Aadhaar Card Domicile Certificate (If the Domicile Certificate is not available, any one of the following can be submitted: Ration Card issued before 15 years, Voter ID card issued before 15 years, Birth Certificate, or School Leaving Certificate). For Women Born Abroad (Submit the Husband's Ration Card issued before 15 years, Voter ID card issued before 15 years, Birth Certificate, School Leaving Certificate, or Domicile Certificate). Income Certificate (Not required if the woman has a Yellow or Orange Ration Card. Required if the woman has a White Ration Card or no Ration Card). Marriage Certificate (If your name is not listed on the Ration Card and you are newly married, your husband's Ration Card can be used as proof of income) Bank Account Details (account should be Aadhaar-linked) Affirmation Letter"
+}

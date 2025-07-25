@@ -1,0 +1,67 @@
+{
+  "scheme_id": "660bb4efc90f6c809880b790",
+  "slug": "pb-gbocwwb",
+  "scheme_name": "Pension Benefit (GBOCWWB)",
+  "scheme_short_title": "PB-GBOCWWB",
+  "state": "Goa",
+  "level": "State/ UT",
+  "nodal_department": "Labour and Employment Department",
+  "implementing_agency": "Goa Building And Other Construction Workers Welfare Board",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Pension"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Pension",
+    "Labour",
+    "Financial Assistance",
+    "Worker",
+    "Construction"
+  ],
+  "brief_description": "\"Pension Benefit (GBOCWWB)\" is a Welfare Scheme by the Goa Building and Other Construction Workers Welfare Board, Goa. A member of the Fund who has been working as a building worker for not less than one year, be eligible for a pension of \u20b9300/- per month, on completion of sixty years of age.",
+  "detailed_description": "&quot;Pension Benefit (GBOCWWB)&quot; is a Welfare Scheme by the Goa Building and Other Construction Workers Welfare Board of the Department of Labour and Employment, Goa. Through this scheme, a member of the Fund who has been working as a building worker for not less than one year, be eligible for a pension of \u20b9300/- per month, on completion of sixty years of age. The applications are accepted offline.",
+  "benefits": [
+    "Pension of \u20b9300/- per month, with an increase of \u20b910/- for every completed year of service beyond 5 years.",
+    "*The pension will be payable from the first day of the succeeding month to the month in which he/she becomes 60 years old."
+  ],
+  "eligibility_criteria": "The applicant should be registered as a 'Building Worker' for not less than one year with the Goa Building and Other Construction Workers Welfare Board. The applicant should be a member of the Fund of the Board.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should take print of the prescribed format of the application form for the scheme from the Official Website of the Department of Labour and Employment, Goa.",
+        "OR",
+        "The interested applicant should visit the Office of the Commissioner, Labour & Employment, 2nd Floor, Sharma Shakti Bhavan, Patto Plaza, Panaji-Goa (0832-2437081/82/83, com-labo.goa@nic.in) and request a hard copy of the prescribed format of the application form from the concerned authority.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: The interested applicant should submit the duly filled and signed application form and the documents to the concerned authority at the Office of the Commissioner, Labour & Employment.",
+        "Step 4: A receipt of the application will be assigned to the applicant by the concerned authority."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.goa.gov.in/wp-content/uploads/2016/05/schemesofbocw-dated-08-09-2015.pdf"
+    },
+    {
+      "title": "Citizen's Charter",
+      "url": "https://www.goa.gov.in/wp-content/uploads/2016/05/Citizen-Charter-Labour-Depatment-DATED-16032016.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://labour.goa.gov.in/wp-content/uploads/2020/07/Scheme-11-Pension-Benefit.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://www.goa.gov.in/department/commissioner-labour-and-employment/"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Worker Registration Card/Number. Receipt of Payment of First & Last Subscription with the Board. Address Proof. Identity Card. Passbook. Challans."
+}

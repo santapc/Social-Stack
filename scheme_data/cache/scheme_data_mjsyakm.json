@@ -1,0 +1,57 @@
+{
+  "scheme_id": "65de1281938a0b13cc9889ef",
+  "slug": "mjsyakm",
+  "scheme_name": "Mukh\u200dyamantri Janakal\u200dyaan (Sambal 2.0) Yojana (Asangathit Karmakaar Man\u200dda)",
+  "scheme_short_title": "MJSYAKM",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Labour Department",
+  "dbt_scheme": true,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Labour",
+    "Provident Fund",
+    "Insurance",
+    "Workers"
+  ],
+  "brief_description": "The Mukhyamantri Jan Kalyan (Sambal 2.0) Yojana is a initiative of Madhya Pradesh government. The scheme will provide much-needed social security to unorganized workers in the state and help them live a dignified life.",
+  "detailed_description": "The Mukhyamantri Jan Kalyan (Sambal 2.0) Yojana (Asangathit Karmakar Mandal) is a scheme launched by the Madhya Pradesh government to provide social security to unorganized workers in the state. This scheme covers unorganized workers from specific age group who are not covered under any other social security scheme and benefits will be provided directly into the beneficiary&#39;s account through the DBT system. <br>",
+  "benefits": [
+    "Funeral Grant Amount : \u20b95,000/- Ex-gratia On accidental death : \u20b94,00,000/- General Death Benefit : \u20b92,00,000/- Permanent Disability Benefit : \u20b92,00,000/- Partial Permanent Disability Benefit : \u20b91,00,000/-"
+  ],
+  "eligibility_criteria": "Applicant must be a Unorganized worker. Applicant have a \"Samagra ID\" and \"Pariwar ID\". Applicant should not have other social security cover like Provident Fund, Employees' State Insurance Scheme, Gratuity etc Applicant or his wife/husband (as the case may be) should not follow below categories Should not have more than 01 hectare of agricultural land, Should not be in government service Should not an income tax payer. Should not have other social security cover like Provident Fund, Employees' State Insurance Scheme, Gratuity etc \n",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Samagra ID Creation:",
+        "Visit the official website and click on the \" Register family \". On the new page, enter the Mobile number which was linked with Aadhaar Number and authenticate via OTP. Now provide the Aadhaar number and enter the new OTP. On the new page, provide the basic details, complete address Give the consent and submit.",
+        "Apply Process:",
+        "Visit the official Sambal Portal.  Under \"Sevaaye\", click on \" Panchikaran Hetu Aavedan Kren \". Enter \"Samagra ID\" and \"Pariwar ID\". Fill out the online application form with required details. Give the consent and submit. "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sambal.mp.gov.in/Public/PDF/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80%20%E0%A4%9C%E0%A4%A8%20%E0%A4%95%E0%A4%B2%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A3%20(%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%B2)%20%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE.pdf"
+    },
+    {
+      "title": "Official Portal",
+      "url": "https://sambal.mp.gov.in/"
+    },
+    {
+      "title": "Application",
+      "url": "https://sambal.mp.gov.in/Public/Survey/ShramikRegApplicationeKYC.aspx"
+    }
+  ],
+  "documents_required": "Aadhar card. Samagra id. Bank account ."
+}

@@ -1,0 +1,2726 @@
+{
+  "status": "Success",
+  "statusCode": 200,
+  "errorDescription": "",
+  "error": "null",
+  "data": {
+    "summary": {
+      "total": 3728,
+      "query": "",
+      "sortOptions": [
+        {
+          "id": "multiple_sort",
+          "label": "Relevance"
+        },
+        {
+          "id": "schemename-asc",
+          "label": "Scheme Name (A->Z)"
+        },
+        {
+          "id": "schemename-desc",
+          "label": "Scheme Name (Z->A)"
+        }
+      ],
+      "appliedFilters": [],
+      "disabledFilters": []
+    },
+    "facets": [
+      {
+        "identifier": "beneficiaryState",
+        "label": "State",
+        "display": "ComboBoxFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "All",
+            "count": 563
+          },
+          {
+            "label": "Gujarat",
+            "count": 381
+          },
+          {
+            "label": "Haryana",
+            "count": 241
+          },
+          {
+            "label": "Tamil Nadu",
+            "count": 238
+          },
+          {
+            "label": "Puducherry",
+            "count": 228
+          },
+          {
+            "label": "Madhya Pradesh",
+            "count": 185
+          },
+          {
+            "label": "Uttarakhand",
+            "count": 172
+          },
+          {
+            "label": "Goa",
+            "count": 166
+          },
+          {
+            "label": "Rajasthan",
+            "count": 160
+          },
+          {
+            "label": "West Bengal",
+            "count": 111
+          },
+          {
+            "label": "Bihar",
+            "count": 106
+          },
+          {
+            "label": "Chhattisgarh",
+            "count": 102
+          },
+          {
+            "label": "Jharkhand",
+            "count": 97
+          },
+          {
+            "label": "Maharashtra",
+            "count": 86
+          },
+          {
+            "label": "Kerala",
+            "count": 76
+          },
+          {
+            "label": "Odisha",
+            "count": 74
+          },
+          {
+            "label": "Himachal Pradesh",
+            "count": 67
+          },
+          {
+            "label": "Karnataka",
+            "count": 66
+          },
+          {
+            "label": "Meghalaya",
+            "count": 65
+          },
+          {
+            "label": "Assam",
+            "count": 62
+          },
+          {
+            "label": "Delhi",
+            "count": 52
+          },
+          {
+            "label": "Jammu and Kashmir",
+            "count": 51
+          },
+          {
+            "label": "Dadra & Nagar Haveli and Daman & Diu",
+            "count": 50
+          },
+          {
+            "label": "Uttar Pradesh",
+            "count": 47
+          },
+          {
+            "label": "Andhra Pradesh",
+            "count": 45
+          },
+          {
+            "label": "Tripura",
+            "count": 44
+          },
+          {
+            "label": "Arunachal Pradesh",
+            "count": 42
+          },
+          {
+            "label": "Punjab",
+            "count": 42
+          },
+          {
+            "label": "Manipur",
+            "count": 32
+          },
+          {
+            "label": "Sikkim",
+            "count": 26
+          },
+          {
+            "label": "Telangana",
+            "count": 26
+          },
+          {
+            "label": "Nagaland",
+            "count": 24
+          },
+          {
+            "label": "Chandigarh",
+            "count": 21
+          },
+          {
+            "label": "Andaman and Nicobar Islands",
+            "count": 20
+          },
+          {
+            "label": "Mizoram",
+            "count": 19
+          },
+          {
+            "label": "Lakshadweep",
+            "count": 10
+          },
+          {
+            "label": "Ladakh",
+            "count": 6
+          },
+          {
+            "label": "The Dadra And Nagar Haveli And Daman And Diu",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "identifier": "schemeCategory",
+        "label": "Scheme Category",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "Social welfare & Empowerment",
+            "count": 1346
+          },
+          {
+            "label": "Education & Learning",
+            "count": 906
+          },
+          {
+            "label": "Agriculture,Rural & Environment",
+            "count": 610
+          },
+          {
+            "label": "Business & Entrepreneurship",
+            "count": 552
+          },
+          {
+            "label": "Women and Child",
+            "count": 387
+          },
+          {
+            "label": "Skills & Employment",
+            "count": 303
+          },
+          {
+            "label": "Banking,Financial Services and Insurance",
+            "count": 247
+          },
+          {
+            "label": "Health & Wellness",
+            "count": 218
+          },
+          {
+            "label": "Sports & Culture",
+            "count": 151
+          },
+          {
+            "label": "Housing & Shelter",
+            "count": 100
+          },
+          {
+            "label": "Science, IT & Communications",
+            "count": 71
+          },
+          {
+            "label": "Transport & Infrastructure",
+            "count": 56
+          },
+          {
+            "label": "Travel & Tourism",
+            "count": 48
+          },
+          {
+            "label": "Utility & Sanitation",
+            "count": 35
+          },
+          {
+            "label": "Public Safety,Law & Justice",
+            "count": 10
+          }
+        ]
+      },
+      {
+        "identifier": "gender",
+        "label": "Gender",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "All",
+            "count": 3049
+          },
+          {
+            "label": "Female",
+            "count": 645
+          },
+          {
+            "label": "Male",
+            "count": 269
+          },
+          {
+            "label": "Transgender",
+            "count": 29
+          }
+        ]
+      },
+      {
+        "identifier": "age-general",
+        "label": "Age",
+        "display": "ComboBoxFacet",
+        "type": "RangeFacet",
+        "entries": [
+          {
+            "label": 0,
+            "count": 588
+          },
+          {
+            "label": 10,
+            "count": 2965
+          },
+          {
+            "label": 20,
+            "count": 2992
+          },
+          {
+            "label": 30,
+            "count": 2972
+          },
+          {
+            "label": 40,
+            "count": 2854
+          },
+          {
+            "label": 50,
+            "count": 2688
+          },
+          {
+            "label": 60,
+            "count": 2603
+          },
+          {
+            "label": 70,
+            "count": 1821
+          },
+          {
+            "label": 80,
+            "count": 1748
+          },
+          {
+            "label": 90,
+            "count": 1720
+          },
+          {
+            "label": 100,
+            "count": 1649
+          },
+          {
+            "label": 110,
+            "count": 1
+          }
+        ]
+      },
+      {
+        "identifier": "caste",
+        "label": "Caste",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "All",
+            "count": 3133
+          },
+          {
+            "label": "Scheduled Caste (SC)",
+            "count": 330
+          },
+          {
+            "label": "Scheduled Tribe (ST)",
+            "count": 253
+          },
+          {
+            "label": "Other Backward Class (OBC)",
+            "count": 156
+          },
+          {
+            "label": "General",
+            "count": 57
+          },
+          {
+            "label": "Particularly Vulnerable Tribal Group (PVTG)",
+            "count": 37
+          },
+          {
+            "label": "De-Notified, Nomadic, and Semi-Nomadic (DNT) communities",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "identifier": "nodalMinistryName",
+        "label": "Ministry Name",
+        "display": "ComboBoxFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "Ministry Of Social Justice and Empowerment",
+            "count": 83
+          },
+          {
+            "label": "Ministry of Education",
+            "count": 81
+          },
+          {
+            "label": "Ministry Of Science And Technology",
+            "count": 68
+          },
+          {
+            "label": "Ministry Of Commerce And Industry",
+            "count": 66
+          },
+          {
+            "label": "Ministry Of Agriculture and Farmers Welfare",
+            "count": 43
+          },
+          {
+            "label": "Ministry Of Micro, Small and Medium Enterprises",
+            "count": 27
+          },
+          {
+            "label": "Ministry Of Finance",
+            "count": 18
+          },
+          {
+            "label": "Ministry Of Culture",
+            "count": 13
+          },
+          {
+            "label": "Ministry Of Health & Family Welfare",
+            "count": 13
+          },
+          {
+            "label": "Ministry of Fisheries,Animal Husbandry and Dairying",
+            "count": 13
+          },
+          {
+            "label": "Ministry Of Textiles",
+            "count": 12
+          },
+          {
+            "label": "Ministry Of Defence",
+            "count": 11
+          },
+          {
+            "label": "Ministry Of Home Affairs",
+            "count": 10
+          },
+          {
+            "label": "Ministry Of Minority Affairs",
+            "count": 10
+          },
+          {
+            "label": "Ministry Of Rural Development",
+            "count": 10
+          },
+          {
+            "label": "Ministry Of Labour and Employment",
+            "count": 8
+          },
+          {
+            "label": "Ministry Of New and Renewable Energy",
+            "count": 7
+          },
+          {
+            "label": "Ministry Of Tribal Affairs",
+            "count": 7
+          },
+          {
+            "label": "Ministry Of Communication",
+            "count": 6
+          },
+          {
+            "label": "Ministry of Electronics and Information Technology",
+            "count": 6
+          },
+          {
+            "label": "Ministry of Women and Child Development",
+            "count": 6
+          },
+          {
+            "label": "Ministry Of External Affairs",
+            "count": 5
+          },
+          {
+            "label": "Ministry Of Housing & Urban Affairs",
+            "count": 5
+          },
+          {
+            "label": "Ministry Of Jal Shakti",
+            "count": 5
+          },
+          {
+            "label": "Ministry Of Skill Development And Entrepreneurship",
+            "count": 5
+          },
+          {
+            "label": "Ministry Of Youth Affairs & Sports",
+            "count": 5
+          },
+          {
+            "label": "Ministry Of Tourism",
+            "count": 4
+          },
+          {
+            "label": "Ministry Of Panchayati Raj",
+            "count": 3
+          },
+          {
+            "label": "Ministry Of Personnel, Public Grievances And Pensions",
+            "count": 3
+          },
+          {
+            "label": "Ministry Of Petroleum and Natural Gas",
+            "count": 3
+          },
+          {
+            "label": "Comptroller And Auditor General Of India",
+            "count": 2
+          },
+          {
+            "label": "Ministry Of Chemicals And Fertilizers",
+            "count": 2
+          },
+          {
+            "label": "Ministry Of Environment,forests and climate change",
+            "count": 2
+          },
+          {
+            "label": "Ministry Of Law and Justice",
+            "count": 2
+          },
+          {
+            "label": "Ministry Of Road Transport & Highways",
+            "count": 2
+          },
+          {
+            "label": "Ministry of Corporate Affairs",
+            "count": 2
+          },
+          {
+            "label": "Ministry of Heavy Industries",
+            "count": 2
+          },
+          {
+            "label": "Ministry Of Consumer Affairs, Food And Public Distribution",
+            "count": 1
+          },
+          {
+            "label": "Ministry Of Development Of North Eastern Region",
+            "count": 1
+          },
+          {
+            "label": "Ministry Of Earth Sciences",
+            "count": 1
+          },
+          {
+            "label": "Ministry Of Information And Broadcasting",
+            "count": 1
+          },
+          {
+            "label": "Ministry Of Railways",
+            "count": 1
+          },
+          {
+            "label": "Ministry Of Statistics and Programme Implementation",
+            "count": 1
+          },
+          {
+            "label": "Ministry of Food Processing Industries",
+            "count": 1
+          },
+          {
+            "label": "Ministry of Ports,Shipping and Waterways",
+            "count": 1
+          },
+          {
+            "label": "NITI Aayog (National Institution for Transforming India)",
+            "count": 1
+          },
+          {
+            "label": "The Lokpal of India",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "identifier": "level",
+        "label": "Level",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "State",
+            "count": 3148
+          },
+          {
+            "label": "Central",
+            "count": 580
+          }
+        ]
+      },
+      {
+        "identifier": "residence",
+        "label": "Residence",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "Both",
+            "count": 3545
+          },
+          {
+            "label": "Rural",
+            "count": 160
+          },
+          {
+            "label": "Urban",
+            "count": 34
+          }
+        ]
+      },
+      {
+        "identifier": "minority",
+        "label": "Minority",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "No",
+            "count": 3669
+          },
+          {
+            "label": "Yes",
+            "count": 59
+          }
+        ]
+      },
+      {
+        "identifier": "disability",
+        "label": "Differently Abled",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "No",
+            "count": 3445
+          },
+          {
+            "label": "Yes",
+            "count": 283
+          }
+        ]
+      },
+      {
+        "identifier": "benefitTypes",
+        "label": "Benefit Type",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "Cash",
+            "count": 2648
+          },
+          {
+            "label": "In Kind",
+            "count": 541
+          },
+          {
+            "label": "Composite",
+            "count": 539
+          }
+        ]
+      },
+      {
+        "identifier": "dbtScheme",
+        "label": "DBT Scheme",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "No",
+            "count": 3255
+          },
+          {
+            "label": "Yes",
+            "count": 473
+          }
+        ]
+      },
+      {
+        "identifier": "maritalStatus",
+        "label": "Marital Status",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "All",
+            "count": 3515
+          },
+          {
+            "label": "Widowed",
+            "count": 98
+          },
+          {
+            "label": "Never Married",
+            "count": 84
+          },
+          {
+            "label": "Married",
+            "count": 77
+          },
+          {
+            "label": "Divorced",
+            "count": 45
+          },
+          {
+            "label": "Separated",
+            "count": 44
+          }
+        ]
+      },
+      {
+        "identifier": "disabilityPercentage",
+        "label": "Disability Percentage",
+        "display": "ComboBoxFacet",
+        "type": "RangeFacet",
+        "entries": [
+          {
+            "label": 0,
+            "count": 19
+          },
+          {
+            "label": 10,
+            "count": 22
+          },
+          {
+            "label": 20,
+            "count": 25
+          },
+          {
+            "label": 30,
+            "count": 25
+          },
+          {
+            "label": 40,
+            "count": 145
+          },
+          {
+            "label": 50,
+            "count": 150
+          },
+          {
+            "label": 60,
+            "count": 156
+          },
+          {
+            "label": 70,
+            "count": 161
+          },
+          {
+            "label": 80,
+            "count": 172
+          },
+          {
+            "label": 90,
+            "count": 172
+          },
+          {
+            "label": 100,
+            "count": 181
+          }
+        ]
+      },
+      {
+        "identifier": "isBpl",
+        "label": "Below Poverty Line",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "No",
+            "count": 3563
+          },
+          {
+            "label": "Yes",
+            "count": 165
+          }
+        ]
+      },
+      {
+        "identifier": "isEconomicDistress",
+        "label": "Economic Distress",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "No",
+            "count": 3690
+          },
+          {
+            "label": "Yes",
+            "count": 38
+          }
+        ]
+      },
+      {
+        "identifier": "isGovEmployee",
+        "label": "Government Employee",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "No",
+            "count": 3716
+          },
+          {
+            "label": "Yes",
+            "count": 12
+          }
+        ]
+      },
+      {
+        "identifier": "employmentStatus",
+        "label": "Employment Status",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "All",
+            "count": 2890
+          },
+          {
+            "label": "Employed",
+            "count": 480
+          },
+          {
+            "label": "Self-Employed/ Entrepreneur",
+            "count": 276
+          },
+          {
+            "label": "Unemployed",
+            "count": 82
+          }
+        ]
+      },
+      {
+        "identifier": "isStudent",
+        "label": "Student",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "No",
+            "count": 3468
+          },
+          {
+            "label": "Yes",
+            "count": 260
+          }
+        ]
+      },
+      {
+        "identifier": "occupation",
+        "label": "Occupation",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "All",
+            "count": 292
+          },
+          {
+            "label": "Construction Worker",
+            "count": 274
+          },
+          {
+            "label": "Farmer",
+            "count": 236
+          },
+          {
+            "label": "Unorganized Worker",
+            "count": 179
+          },
+          {
+            "label": "Fishermen",
+            "count": 84
+          },
+          {
+            "label": "Student",
+            "count": 76
+          },
+          {
+            "label": "Artists",
+            "count": 68
+          },
+          {
+            "label": "Artisans, Spinners & Weavers",
+            "count": 66
+          },
+          {
+            "label": "Organized Worker",
+            "count": 39
+          },
+          {
+            "label": "Ex Servicemen",
+            "count": 24
+          },
+          {
+            "label": "Journalist",
+            "count": 22
+          },
+          {
+            "label": "Sportsperson",
+            "count": 20
+          },
+          {
+            "label": "Safai Karamchari",
+            "count": 14
+          },
+          {
+            "label": "Coir Worker",
+            "count": 6
+          },
+          {
+            "label": "Teacher / Faculty",
+            "count": 6
+          },
+          {
+            "label": "Health Worker",
+            "count": 2
+          },
+          {
+            "label": "Khadi Artisan",
+            "count": 2
+          },
+          {
+            "label": "Street Vendor",
+            "count": 2
+          },
+          {
+            "label": "Dairy Farmer",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "identifier": "applicationMode",
+        "label": "Application Mode",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "Offline",
+            "count": 2147
+          },
+          {
+            "label": "Online",
+            "count": 1888
+          },
+          {
+            "label": "Online - via CSC",
+            "count": 143
+          }
+        ]
+      },
+      {
+        "identifier": "schemeType",
+        "label": "Scheme Type",
+        "display": "ListFacet",
+        "type": "RefinementSelectFacet",
+        "entries": [
+          {
+            "label": "Central Sector Scheme",
+            "count": 446
+          },
+          {
+            "label": "Centrally Sponsored Scheme",
+            "count": 83
+          }
+        ]
+      }
+    ],
+    "hits": {
+      "items": [
+        {
+          "id": "u6G9z5cBXu-iUKXqIG6l",
+          "fields": {
+            "beneficiaryState": [
+              "Haryana"
+            ],
+            "schemeShortTitle": "EOS",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Agriculture,Rural & Environment",
+              "Social welfare & Empowerment"
+            ],
+            "schemeName": "PMMSY: Establishment of small RAS /Biofloc culture system - Haryana",
+            "schemeCloseDate": null,
+            "slug": "eos",
+            "briefDescription": "The scheme provides capital assistance for setting up small-scale Recirculatory Aquaculture Systems (RAS) and Biofloc culture systems to promote high-yield, sustainable fish farming.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 75
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 75
+              },
+              "general": {
+                "gte": 18,
+                "lte": 75
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 75
+              },
+              "st": {
+                "gte": 18,
+                "lte": 75
+              },
+              "de-notified, nomadic, and semi-nomadic (dnt) communities": {
+                "gte": 18,
+                "lte": 75
+              },
+              "widow": {
+                "gte": 18,
+                "lte": 75
+              },
+              "particularly vulnerable tribal groups (pvtg)": {
+                "gte": 18,
+                "lte": 75
+              },
+              "person with disability": {
+                "gte": 18,
+                "lte": 75
+              },
+              "female": {
+                "gte": 18,
+                "lte": 75
+              },
+              "male": {
+                "gte": 18,
+                "lte": 75
+              },
+              "transgender": {
+                "gte": 18,
+                "lte": 75
+              }
+            },
+            "tags": [
+              "Aquaculture",
+              "Farmer",
+              "Fish",
+              "Financial Assistance"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "F8Yx0JcB0AGc0F0ipS5I",
+          "fields": {
+            "beneficiaryState": [
+              "All"
+            ],
+            "schemeShortTitle": "SUPPORT FOR QUALITY-UP-GRADATION / ECO CERTIFICATION / FPOS",
+            "level": "Central",
+            "nodalMinistryName": "Ministry Of Commerce And Industry",
+            "schemeCategory": [
+              "Agriculture,Rural & Environment"
+            ],
+            "schemeName": "Coffee Development Programme in Non-Traditional Areas (NTA) : Support for Quality-Up-Gradation / Eco Certification / FPOs",
+            "schemeCloseDate": null,
+            "slug": "support-for-quality-up-gradation-eco-certification-fpos",
+            "briefDescription": "To facilitate improvement of quality of coffee produced by the tribal growers by encouraging them to put up infrastructure for quality improvement and also facilitate them to obtain organic certification of their coffees, so as to enable them to earn better returns.",
+            "age": {
+              "general": {
+                "gte": 30,
+                "lte": 90
+              }
+            },
+            "tags": [
+              "Coffee Grower",
+              "Support For Quality-Up-Gradation Eco Certification FPOs"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "lRcQ0JcB5uF80_MGnokl",
+          "fields": {
+            "beneficiaryState": [
+              "All"
+            ],
+            "schemeShortTitle": "COFFEE DEVELOPMENT PROGRAMME",
+            "level": "Central",
+            "nodalMinistryName": "Ministry Of Commerce And Industry",
+            "schemeCategory": [
+              "Agriculture,Rural & Environment"
+            ],
+            "schemeName": "Coffee Development Programme in Non-Traditional Areas (NTA) : Support for Coffee Expansion",
+            "schemeCloseDate": null,
+            "slug": "coffee-development-programme",
+            "briefDescription": "To increase the area and production of Arabica coffee in association with the State level Nodal agencies in Andhra Pradesh and Odisha, so as to facilitate afforestation in the Podu lands and to help settle the tribals on a permanent footing.",
+            "age": {
+              "general": {
+                "gte": 30,
+                "lte": 90
+              }
+            },
+            "tags": [
+              "Coffee Grower",
+              "Support For Coffee Expansion"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "vqEN0JcBXu-iUKXqxW5f",
+          "fields": {
+            "beneficiaryState": [
+              "All"
+            ],
+            "schemeShortTitle": "TRANSIT / FREIGHT ASSISTANCE FOR COFFEE EXPORTS                        ",
+            "level": "Central",
+            "nodalMinistryName": "Ministry Of Commerce And Industry",
+            "schemeCategory": [
+              "Agriculture,Rural & Environment"
+            ],
+            "schemeName": "Market Development and Export Promotion : Assistance for Coffee Exports",
+            "schemeCloseDate": null,
+            "slug": "assistance-for-coffee-exports",
+            "briefDescription": "The objective of the scheme is to maximize export earnings by enhancing the market share of value-added coffees as Made in India Brand and high value differentiated green coffees in important high value far-off markets.",
+            "age": {
+              "general": {
+                "gte": 30,
+                "lte": 90
+              }
+            },
+            "tags": [
+              "Market Development And Export Promotion"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "mBc00JcB5uF80_MGQokq",
+          "fields": {
+            "beneficiaryState": [
+              "All"
+            ],
+            "schemeShortTitle": "SUPPORT FOR COFFEE EXPANSION",
+            "level": "Central",
+            "nodalMinistryName": "Ministry Of Commerce And Industry",
+            "schemeCategory": [
+              "Agriculture,Rural & Environment"
+            ],
+            "schemeName": "Development Support for Coffee growers of North- Eastern Region (NER) : Support for Coffee Expansion",
+            "schemeCloseDate": null,
+            "slug": "support-for-coffee-expansion",
+            "briefDescription": "To facilitate afforestation in the Jhum lands and help to settle the tribal holdings on permanent footing and also to increase the production.",
+            "age": {
+              "general": {
+                "gte": 30,
+                "lte": 90
+              }
+            },
+            "tags": [
+              "Coffee Grower",
+              "Support For Coffee Expansion"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "mKEmq5cBXu-iUKXqaG4H",
+          "fields": {
+            "beneficiaryState": [
+              "Uttarakhand"
+            ],
+            "schemeShortTitle": "FTUTWD",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Social welfare & Empowerment"
+            ],
+            "schemeName": "Free Travel in Uttarakhand Transport Corporation Buses to Widowed Daughters-in-law of Freedom Fighters",
+            "schemeCloseDate": null,
+            "slug": "ftutwd",
+            "briefDescription": "\"Free Travel in Uttarakhand Transport Corporation Buses to Widowed Daughters-in-law of Freedom Fighters\" is a social welfare scheme that provides free transport services in Uttarakhand Transport Corporation Buses to the widowed daughters-in-laws of the Freedom Fighters of the state.\n\n",
+            "age": {
+              "widow": {
+                "gte": 18,
+                "lte": 70
+              }
+            },
+            "tags": [
+              "Widow",
+              "Transport Facilitiy",
+              "Free Bus Travel"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "zqFA1JcBXu-iUKXq-W6X",
+          "fields": {
+            "beneficiaryState": [
+              "Haryana"
+            ],
+            "schemeShortTitle": "PMMSYMFFMPC8TDS",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Agriculture,Rural & Environment"
+            ],
+            "schemeName": "Pradhan Mantri Matsya Sampada Yojana: Medium Fish Feed Mill of Production Capacity of 8 Ton/Day",
+            "schemeCloseDate": null,
+            "slug": "mffmpc8tds",
+            "briefDescription": "The scheme aims to promote fish feed self-sufficiency and affordability among fish farmers. Under this scheme, financial assistance is provided for setting up medium-sized fish feed mills with a production capacity of 8 tons per day, benefiting entrepreneurs and fish farmers.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "general": {
+                "gte": 18,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "st": {
+                "gte": 18,
+                "lte": 100
+              },
+              "de-notified, nomadic, and semi-nomadic (dnt) communities": {
+                "gte": 18,
+                "lte": 100
+              },
+              "widow": {
+                "gte": 18,
+                "lte": 100
+              },
+              "particularly vulnerable tribal groups (pvtg)": {
+                "gte": 18,
+                "lte": 100
+              },
+              "person with disability": {
+                "gte": 18,
+                "lte": 100
+              },
+              "female": {
+                "gte": 18,
+                "lte": 100
+              },
+              "male": {
+                "gte": 18,
+                "lte": 100
+              },
+              "transgender": {
+                "gte": 18,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Subsidy",
+              "Fish Farmer",
+              "Entrepreneurs",
+              "Fish Production",
+              "Fish",
+              "Fish Feed",
+              "Mill"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "yqGv05cBXu-iUKXquW7G",
+          "fields": {
+            "beneficiaryState": [
+              "Assam"
+            ],
+            "schemeShortTitle": "FASSAMEU",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Education & Learning",
+              "Social welfare & Empowerment"
+            ],
+            "schemeName": "Financial Assistance to SC Students Appearing in the Mains Examination of UPSC",
+            "schemeCloseDate": null,
+            "slug": "fassameu",
+            "briefDescription": "The scheme provides financial grants to the SC students for appearing in the UPSC Mains Exam. An amount upto \u20b950,000/- is provided to each beneficiary, subject to budget provision. The assistance is extended depending on the applicant satisfying the eligibility criteria and the documents submitted.",
+            "age": {
+              "ews": {
+                "gte": 20,
+                "lte": 40
+              },
+              "sc": {
+                "gte": 20,
+                "lte": 40
+              },
+              "general": {
+                "gte": 20,
+                "lte": 40
+              },
+              "obc": {
+                "gte": 20,
+                "lte": 40
+              },
+              "st": {
+                "gte": 20,
+                "lte": 40
+              },
+              "de-notified, nomadic, and semi-nomadic (dnt) communities": {
+                "gte": 20,
+                "lte": 40
+              },
+              "widow": {
+                "gte": 20,
+                "lte": 40
+              },
+              "particularly vulnerable tribal groups (pvtg)": {
+                "gte": 20,
+                "lte": 40
+              },
+              "person with disability": {
+                "gte": 20,
+                "lte": 40
+              },
+              "female": {
+                "gte": 20,
+                "lte": 40
+              },
+              "male": {
+                "gte": 20,
+                "lte": 40
+              },
+              "transgender": {
+                "gte": 20,
+                "lte": 40
+              }
+            },
+            "tags": [
+              "Scheduled Caste",
+              "Student",
+              "UPSC",
+              "Exam",
+              "Financial Assistance"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "ohew05cB5uF80_MG1omG",
+          "fields": {
+            "beneficiaryState": [
+              "Assam"
+            ],
+            "schemeShortTitle": "FISCMGS",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Education & Learning",
+              "Social welfare & Empowerment"
+            ],
+            "schemeName": "Financial Incentive to SC Meritorious Girls Students",
+            "schemeCloseDate": null,
+            "slug": "fiscmgs",
+            "briefDescription": "The scheme provides financial incentives worth \u20b95,000/- to the meritorious girls from Scheduled Castes who have secured 80% or above marks in the HSLC examination. To objective is to motivate and encourage SC students to pursue higher studies and bring them at par with the rest.",
+            "age": {
+              "ews": {
+                "gte": 14,
+                "lte": 20
+              },
+              "sc": {
+                "gte": 14,
+                "lte": 20
+              },
+              "general": {
+                "gte": 14,
+                "lte": 20
+              },
+              "obc": {
+                "gte": 14,
+                "lte": 20
+              },
+              "st": {
+                "gte": 14,
+                "lte": 20
+              },
+              "de-notified, nomadic, and semi-nomadic (dnt) communities": {
+                "gte": 14,
+                "lte": 20
+              },
+              "widow": {
+                "gte": 14,
+                "lte": 20
+              },
+              "particularly vulnerable tribal groups (pvtg)": {
+                "gte": 14,
+                "lte": 20
+              },
+              "person with disability": {
+                "gte": 14,
+                "lte": 20
+              },
+              "female": {
+                "gte": 14,
+                "lte": 20
+              },
+              "male": {
+                "gte": 14,
+                "lte": 20
+              },
+              "transgender": {
+                "gte": 14,
+                "lte": 20
+              }
+            },
+            "tags": [
+              "Incentive",
+              "Scheduled Caste",
+              "Student",
+              "Social Welfare",
+              "Merit"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "I8YK1ZcB0AGc0F0i0y4P",
+          "fields": {
+            "beneficiaryState": [
+              "Haryana"
+            ],
+            "schemeShortTitle": "FIPCSOMC",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Agriculture,Rural & Environment",
+              "Social welfare & Empowerment",
+              "Business & Entrepreneurship"
+            ],
+            "schemeName": "PMMSY: Ice Plant/Cold Store of minimum 10-ton capacity Haryana",
+            "schemeCloseDate": null,
+            "slug": "sfipcsomc",
+            "briefDescription": "The subsidy for 10-ton capacity ice plant/cold storage units under Pradhan Mantri Matsya Sampada Yojana (PMMSY) supports the establishment of ice plants or cold storage facilities with a minimum capacity of 10 tons to improve fish preservation and cold chain infrastructure in Haryana.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 75
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 75
+              },
+              "general": {
+                "gte": 18,
+                "lte": 75
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 75
+              },
+              "st": {
+                "gte": 18,
+                "lte": 75
+              },
+              "de-notified, nomadic, and semi-nomadic (dnt) communities": {
+                "gte": 18,
+                "lte": 75
+              },
+              "widow": {
+                "gte": 18,
+                "lte": 75
+              },
+              "particularly vulnerable tribal groups (pvtg)": {
+                "gte": 18,
+                "lte": 75
+              },
+              "person with disability": {
+                "gte": 18,
+                "lte": 75
+              },
+              "female": {
+                "gte": 18,
+                "lte": 75
+              },
+              "male": {
+                "gte": 18,
+                "lte": 75
+              },
+              "transgender": {
+                "gte": 18,
+                "lte": 75
+              }
+            },
+            "tags": [
+              "Fish Farmers",
+              "Entrepreneurs",
+              "Cold Chain Infrastructure",
+              "Fish Preservation"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "0qFe6ZcBXu-iUKXqDW5d",
+          "fields": {
+            "beneficiaryState": [
+              "Haryana"
+            ],
+            "schemeShortTitle": "PPLCNPSAAHR",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Agriculture,Rural & Environment"
+            ],
+            "schemeName": "PMMSY: Provision of Polythene lining for the Construction of New ponds for Saline/Alkaline area-Haryana",
+            "schemeCloseDate": null,
+            "slug": "pplcnpsaahr",
+            "briefDescription": "The scheme aims to provide central assistance for the cost of polythene lining for new ponds in saline/alkaline areas. Through this scheme, polythene lining costs are provided to beneficiaries constructing new water bodies for fish/shrimp culture.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 75
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 75
+              },
+              "general": {
+                "gte": 18,
+                "lte": 75
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 75
+              },
+              "st": {
+                "gte": 18,
+                "lte": 75
+              },
+              "de-notified, nomadic, and semi-nomadic (dnt) communities": {
+                "gte": 18,
+                "lte": 75
+              },
+              "widow": {
+                "gte": 18,
+                "lte": 75
+              },
+              "particularly vulnerable tribal groups (pvtg)": {
+                "gte": 18,
+                "lte": 75
+              },
+              "person with disability": {
+                "gte": 18,
+                "lte": 75
+              },
+              "female": {
+                "gte": 18,
+                "lte": 75
+              },
+              "male": {
+                "gte": 18,
+                "lte": 75
+              },
+              "transgender": {
+                "gte": 18,
+                "lte": 75
+              }
+            },
+            "tags": [
+              "Polythene",
+              "New Ponds",
+              "Fish",
+              "Shrimp",
+              "Saline",
+              "Alkaline"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "G8Zb0JcB0AGc0F0iaC4h",
+          "fields": {
+            "beneficiaryState": [
+              "All"
+            ],
+            "schemeShortTitle": "SUPPORT FOR QUALITY UPGRADATION / ECO CERTIFICATION / FPOS",
+            "level": "Central",
+            "nodalMinistryName": "Ministry Of Commerce And Industry",
+            "schemeCategory": [
+              "Agriculture,Rural & Environment"
+            ],
+            "schemeName": "Development Support for Coffee growers of North- Eastern Region (NER) : Support for Quality upgradation / Eco Certification / FPOs",
+            "schemeCloseDate": null,
+            "slug": "support-for-quality-upgradation-eco-certification-fpos",
+            "briefDescription": "To facilitate improvement of quality of coffee produced by the growers by encouraging them to put up infrastructure for quality improvement and also facilitate them to obtain certification of their coffees, so as to enable them to earn better returns.",
+            "age": {
+              "general": {
+                "gte": 30,
+                "lte": 90
+              }
+            },
+            "tags": [
+              "Coffee Grower",
+              "Support For Quality Upgradation Eco Certification FPOs"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "GcY50JcB0AGc0F0ijC4K",
+          "fields": {
+            "beneficiaryState": [
+              "All"
+            ],
+            "schemeShortTitle": "CONSTRUCTION OF CEMENT DRYING YARDS",
+            "level": "Central",
+            "nodalMinistryName": "Ministry Of Commerce And Industry",
+            "schemeCategory": [
+              "Agriculture,Rural & Environment"
+            ],
+            "schemeName": "Coffee Development Programme in Non-Traditional Areas (NTA) : Construction of Cement Drying Yards",
+            "schemeCloseDate": null,
+            "slug": "construction-of-cement-drying-yards",
+            "briefDescription": "To facilitate improvement of quality of coffee produced by the tribal growers by encouraging them to put up infrastructure for quality improvement and also facilitate them to obtain organic certification of their coffees, so as to enable them to earn better returns.",
+            "age": {
+              "general": {
+                "gte": 30,
+                "lte": 90
+              }
+            },
+            "tags": [
+              "Coffee Grower",
+              "Construction Of Cement Drying Yards"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "qxe17pcB5uF80_MG04lI",
+          "fields": {
+            "beneficiaryState": [
+              "All"
+            ],
+            "schemeShortTitle": "PM-USPY:CSISS",
+            "level": "Central",
+            "nodalMinistryName": "Ministry of Education",
+            "schemeCategory": [
+              "Banking,Financial Services and Insurance",
+              "Education & Learning"
+            ],
+            "schemeName": "Pradhan Mantri Uchchatar Shiksha Protsahan Yojana: Central Sector Interest Subsidy Scheme",
+            "schemeCloseDate": null,
+            "slug": "pm-uspycsiss",
+            "briefDescription": "The scheme provides full interest subsidy during the moratorium period on loan availed under Model Education Loan Scheme of Indian Banks\u2019 Association (IBA) to students belonging to economically weaker sections whose annual parental income is up to \u20b94.5 Lakhs from all sources.",
+            "age": {
+              "ews": {
+                "gte": 12,
+                "lte": 45
+              },
+              "sc": {
+                "gte": 12,
+                "lte": 45
+              },
+              "general": {
+                "gte": 12,
+                "lte": 45
+              },
+              "obc": {
+                "gte": 12,
+                "lte": 45
+              },
+              "st": {
+                "gte": 12,
+                "lte": 45
+              },
+              "de-notified, nomadic, and semi-nomadic (dnt) communities": {
+                "gte": 12,
+                "lte": 45
+              },
+              "widow": {
+                "gte": 12,
+                "lte": 45
+              },
+              "particularly vulnerable tribal groups (pvtg)": {
+                "gte": 12,
+                "lte": 45
+              },
+              "person with disability": {
+                "gte": 12,
+                "lte": 45
+              },
+              "female": {
+                "gte": 12,
+                "lte": 45
+              },
+              "male": {
+                "gte": 12,
+                "lte": 45
+              },
+              "transgender": {
+                "gte": 12,
+                "lte": 45
+              }
+            },
+            "tags": [
+              "Interest Subsidy",
+              "Student",
+              "Economically Weaker Sections",
+              "Education Loan",
+              "IBA",
+              "Professional Programmes",
+              "Technical Programmes"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "3aGR8pcBXu-iUKXq225E",
+          "fields": {
+            "beneficiaryState": [
+              "All"
+            ],
+            "schemeShortTitle": "PMVS",
+            "level": "Central",
+            "nodalMinistryName": "Ministry of Education",
+            "schemeCategory": [
+              "Banking,Financial Services and Insurance",
+              "Education & Learning"
+            ],
+            "schemeName": "Pradhan Mantri Vidyalaxmi (PM-Vidyalaxmi) Scheme",
+            "schemeCloseDate": null,
+            "slug": "pmvs",
+            "briefDescription": "The \"Pradhan Mantri Vidyalaxmi (Pm-vidyalaxmi) Scheme\" aims to provide financial support for higher education through education loans. Under this scheme, financial assistance of up to \u20b910,00,000/- is provided to meritorious students seeking admission to domestic institutions.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 23
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 23
+              },
+              "general": {
+                "gte": 18,
+                "lte": 23
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 23
+              },
+              "st": {
+                "gte": 18,
+                "lte": 23
+              },
+              "de-notified, nomadic, and semi-nomadic (dnt) communities": {
+                "gte": 18,
+                "lte": 23
+              },
+              "widow": {
+                "gte": 18,
+                "lte": 23
+              },
+              "particularly vulnerable tribal groups (pvtg)": {
+                "gte": 18,
+                "lte": 23
+              },
+              "person with disability": {
+                "gte": 18,
+                "lte": 23
+              },
+              "female": {
+                "gte": 18,
+                "lte": 23
+              },
+              "male": {
+                "gte": 18,
+                "lte": 23
+              },
+              "transgender": {
+                "gte": 18,
+                "lte": 23
+              }
+            },
+            "tags": [
+              "Education",
+              "Student",
+              "College",
+              "Merit",
+              "Loan"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "M8ZC85cB0AGc0F0izy5P",
+          "fields": {
+            "beneficiaryState": [
+              "Haryana"
+            ],
+            "schemeShortTitle": "IOCIRS",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Agriculture,Rural & Environment"
+            ],
+            "schemeName": "PMMSY: Installation of Cages in Reservoirs Scheme - Haryana",
+            "schemeCloseDate": null,
+            "slug": "sfiocir",
+            "briefDescription": "The scheme aims to promote cage fish farming. It provides grants per unit to the individuals and groups for sustainable aquaculture practices.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "general": {
+                "gte": 18,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "st": {
+                "gte": 18,
+                "lte": 60
+              },
+              "de-notified, nomadic, and semi-nomadic (dnt) communities": {
+                "gte": 18,
+                "lte": 60
+              },
+              "widow": {
+                "gte": 18,
+                "lte": 60
+              },
+              "particularly vulnerable tribal groups (pvtg)": {
+                "gte": 18,
+                "lte": 60
+              },
+              "person with disability": {
+                "gte": 18,
+                "lte": 60
+              },
+              "female": {
+                "gte": 18,
+                "lte": 60
+              },
+              "male": {
+                "gte": 18,
+                "lte": 60
+              },
+              "transgender": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Fish Farming",
+              "Fishermen",
+              "Subsidy",
+              "Scheduled Caste",
+              "Women",
+              "General Category"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "3qHM8pcBXu-iUKXqTG6C",
+          "fields": {
+            "beneficiaryState": [
+              "Assam"
+            ],
+            "schemeShortTitle": "ISWC-ATISIS",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Agriculture,Rural & Environment",
+              "Banking,Financial Services and Insurance"
+            ],
+            "schemeName": "\"Interest Subvention on Working Capital\" under the \"Assam Tea Industries Special Incentives Scheme\"",
+            "schemeCloseDate": null,
+            "slug": "iswc-atisis",
+            "briefDescription": "The scheme aims to ensure long term financial sustainability of the Tea industry and incentivize Orthodox tea production over Crush, Tear, Curl tea. It provides interest subvention, production subsidies, plant & machinery subsidies, tax holidays to tea plantations and manufacturing units in Assam.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "general": {
+                "gte": 18,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "st": {
+                "gte": 18,
+                "lte": 60
+              },
+              "de-notified, nomadic, and semi-nomadic (dnt) communities": {
+                "gte": 18,
+                "lte": 60
+              },
+              "widow": {
+                "gte": 18,
+                "lte": 60
+              },
+              "particularly vulnerable tribal groups (pvtg)": {
+                "gte": 18,
+                "lte": 60
+              },
+              "person with disability": {
+                "gte": 18,
+                "lte": 60
+              },
+              "female": {
+                "gte": 18,
+                "lte": 60
+              },
+              "male": {
+                "gte": 18,
+                "lte": 60
+              },
+              "transgender": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Subsidy",
+              "Capital",
+              "Interest",
+              "Incentive",
+              "Industry"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "NMZI85cB0AGc0F0idy54",
+          "fields": {
+            "beneficiaryState": [
+              "Haryana"
+            ],
+            "schemeShortTitle": "IVS",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Agriculture,Rural & Environment",
+              "Transport & Infrastructure"
+            ],
+            "schemeName": "PMMSY: Insulated Vehicles - Haryana",
+            "schemeCloseDate": null,
+            "slug": "ivs",
+            "briefDescription": "The scheme aims to provide a subsidy per unit for purchasing insulated vehicles for the beneficiaries to promote cold-chain logistics in fish transportation.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "general": {
+                "gte": 18,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "st": {
+                "gte": 18,
+                "lte": 60
+              },
+              "de-notified, nomadic, and semi-nomadic (dnt) communities": {
+                "gte": 18,
+                "lte": 60
+              },
+              "widow": {
+                "gte": 18,
+                "lte": 60
+              },
+              "particularly vulnerable tribal groups (pvtg)": {
+                "gte": 18,
+                "lte": 60
+              },
+              "person with disability": {
+                "gte": 18,
+                "lte": 60
+              },
+              "female": {
+                "gte": 18,
+                "lte": 60
+              },
+              "male": {
+                "gte": 18,
+                "lte": 60
+              },
+              "transgender": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Fish Farmer",
+              "Vehicle",
+              "Financial Assistance",
+              "Transportation"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "4aEt85cBXu-iUKXqs26b",
+          "fields": {
+            "beneficiaryState": [
+              "Rajasthan"
+            ],
+            "schemeShortTitle": "MSYR",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Housing & Shelter",
+              "Women and Child",
+              "Skills & Employment"
+            ],
+            "schemeName": "Mahila Swayamsiddha Yojana Rajasthan",
+            "schemeCloseDate": null,
+            "slug": "msyr",
+            "briefDescription": "The scheme objective is to provide free skill training and self-employment support to widowed, abandoned, and destitute women through voluntary organizations. The scheme is implemented by the Social Justice and Empowerment Department with financial assistance provided to participating NGOs. ",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "general": {
+                "gte": 18,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "st": {
+                "gte": 18,
+                "lte": 60
+              },
+              "female": {
+                "gte": 18,
+                "lte": 60
+              },
+              "widowed": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Financial Assistance",
+              "NGOs",
+              "Voluntary Organizations",
+              "Destitute Women",
+              "Skill Training"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "sBcY85cB5uF80_MGJ4my",
+          "fields": {
+            "beneficiaryState": [
+              "Rajasthan"
+            ],
+            "schemeShortTitle": "CMSMFOPS",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Social welfare & Empowerment",
+              "Agriculture,Rural & Environment"
+            ],
+            "schemeName": "Chief Minister Small and Marginal Farmers Older Pension Scheme",
+            "schemeCloseDate": null,
+            "slug": "cmsmfops",
+            "briefDescription": "The \"Chief Minister Small and Marginal Farmers Older Pension Scheme\" by the Department of Social Justice and Empowerment, Government of Rajasthan, aims to provide financial assistance to elderly small and marginal farmers.",
+            "age": {
+              "ews": {
+                "gte": 55,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 55,
+                "lte": 100
+              },
+              "general": {
+                "gte": 55,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 55,
+                "lte": 100
+              },
+              "st": {
+                "gte": 55,
+                "lte": 100
+              },
+              "female": {
+                "gte": 55,
+                "lte": 100
+              },
+              "widowed": {
+                "gte": 55,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Pension",
+              "Farmers",
+              "Old Age"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "qheW7ZcB5uF80_MG94mj",
+          "fields": {
+            "beneficiaryState": [
+              "Bihar"
+            ],
+            "schemeShortTitle": "MAJEAJCAY",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Women and Child",
+              "Education & Learning"
+            ],
+            "schemeName": "Mukhyamantri Anusuchit Jati Evam Anusuchit Janjati Chhatrawas Anudan Yojana",
+            "schemeCloseDate": null,
+            "slug": "majeajcay",
+            "briefDescription": "The \u201cMukhyamantri Anusoochit Jaati Evam Anusoochit Janajati Chhatrawas Anudan Yojana\u201d was launched by the SC and ST Welfare Department, Government of Bihar aims to provide financial assistance in every month to the students studying in Scheduled Caste/Scheduled Tribe hostels.  ",
+            "age": {
+              "ews": {
+                "gte": 15,
+                "lte": 45
+              },
+              "sc": {
+                "gte": 15,
+                "lte": 45
+              },
+              "general": {
+                "gte": 15,
+                "lte": 45
+              },
+              "obc": {
+                "gte": 15,
+                "lte": 45
+              },
+              "st": {
+                "gte": 15,
+                "lte": 45
+              },
+              "female": {
+                "gte": 15,
+                "lte": 45
+              },
+              "widowed": {
+                "gte": 15,
+                "lte": 45
+              }
+            },
+            "tags": [
+              "Grant",
+              "Scheduled Caste",
+              "Scheduled Tribe",
+              "Student",
+              "Hostel"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "N8ZT85cB0AGc0F0iuy5b",
+          "fields": {
+            "beneficiaryState": [
+              "Haryana"
+            ],
+            "schemeShortTitle": "LFVCS",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Agriculture,Rural & Environment"
+            ],
+            "schemeName": "PMMSY: Live Fish Vending Centres Scheme - Haryana",
+            "schemeCloseDate": null,
+            "slug": "lfvcs",
+            "briefDescription": "The scheme aims to support fishers by providing financial assistance for live fish vending centers. A subsidy per unit is provided under PMMSY.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 60
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "general": {
+                "gte": 18,
+                "lte": 60
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 60
+              },
+              "st": {
+                "gte": 18,
+                "lte": 60
+              },
+              "de-notified, nomadic, and semi-nomadic (dnt) communities": {
+                "gte": 18,
+                "lte": 60
+              },
+              "widow": {
+                "gte": 18,
+                "lte": 60
+              },
+              "particularly vulnerable tribal groups (pvtg)": {
+                "gte": 18,
+                "lte": 60
+              },
+              "person with disability": {
+                "gte": 18,
+                "lte": 60
+              },
+              "female": {
+                "gte": 18,
+                "lte": 60
+              },
+              "male": {
+                "gte": 18,
+                "lte": 60
+              },
+              "transgender": {
+                "gte": 18,
+                "lte": 60
+              }
+            },
+            "tags": [
+              "Financial Assistance",
+              "Fish Farmer",
+              "Transportation",
+              "Subsidy",
+              "Marketing"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "OsZaApgB0AGc0F0iZS6f",
+          "fields": {
+            "beneficiaryState": [
+              "Haryana"
+            ],
+            "schemeShortTitle": "SWSCFFSS2Y5YLM",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Agriculture,Rural & Environment"
+            ],
+            "schemeName": "Scheme for the Welfare of Schedule Caste Families in Fisheries Sector: Subsidy on 2nd Year to 5th Year Lease Money",
+            "schemeCloseDate": null,
+            "slug": "so2yt5ylm",
+            "briefDescription": "The objective of the scheme is to provide full-time employment to individuals from Scheduled Caste families in the fisheries sector and uplift their economic status by promoting fish farming through financial assistance for leasing Panchayati ponds or watershed areas. \n",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "general": {
+                "gte": 18,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "st": {
+                "gte": 18,
+                "lte": 100
+              },
+              "de-notified, nomadic, and semi-nomadic (dnt) communities": {
+                "gte": 18,
+                "lte": 100
+              },
+              "widow": {
+                "gte": 18,
+                "lte": 100
+              },
+              "particularly vulnerable tribal groups (pvtg)": {
+                "gte": 18,
+                "lte": 100
+              },
+              "person with disability": {
+                "gte": 18,
+                "lte": 100
+              },
+              "female": {
+                "gte": 18,
+                "lte": 100
+              },
+              "male": {
+                "gte": 18,
+                "lte": 100
+              },
+              "transgender": {
+                "gte": 18,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Subsidy",
+              "Fish Farming",
+              "Scheduled Caste",
+              "Fisheries",
+              "Lease",
+              "Fish"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "PsYJB5gB0AGc0F0iHy7N",
+          "fields": {
+            "beneficiaryState": [
+              "Gujarat"
+            ],
+            "schemeShortTitle": "SFATSW",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Sports & Culture"
+            ],
+            "schemeName": "Scheme to Provide Financial Assistance for Translation of Scholarly Works",
+            "schemeCloseDate": null,
+            "slug": "sfatsw",
+            "briefDescription": "The scheme aims to encourage cultural exchange and literary development by providing financial assistance for translating high-quality literary and research works between Gujarati and other Indian languages.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "general": {
+                "gte": 18,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "st": {
+                "gte": 18,
+                "lte": 100
+              },
+              "de-notified, nomadic, and semi-nomadic (dnt) communities": {
+                "gte": 18,
+                "lte": 100
+              },
+              "widow": {
+                "gte": 18,
+                "lte": 100
+              },
+              "particularly vulnerable tribal groups (pvtg)": {
+                "gte": 18,
+                "lte": 100
+              },
+              "person with disability": {
+                "gte": 18,
+                "lte": 100
+              },
+              "female": {
+                "gte": 18,
+                "lte": 100
+              },
+              "male": {
+                "gte": 18,
+                "lte": 100
+              },
+              "transgender": {
+                "gte": 18,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Book Translation Grant",
+              "Scholarly Works Support"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "5qEJB5gBXu-iUKXq427F",
+          "fields": {
+            "beneficiaryState": [
+              "Gujarat"
+            ],
+            "schemeShortTitle": "SAEC",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Sports & Culture"
+            ],
+            "schemeName": "State Art Exhibition Competition",
+            "schemeCloseDate": null,
+            "slug": "saec",
+            "briefDescription": "The scheme \"State Art Exhibition Competition\" by the Sports, Youth and Cultural Activities Department, Government of Gujarat aims to promote fine arts and recognize artistic talents by providing awards and scholarships to artists, art students, and school children across Gujarat.\n\n",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "general": {
+                "gte": 18,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "st": {
+                "gte": 18,
+                "lte": 100
+              },
+              "de-notified, nomadic, and semi-nomadic (dnt) communities": {
+                "gte": 18,
+                "lte": 100
+              },
+              "widow": {
+                "gte": 18,
+                "lte": 100
+              },
+              "particularly vulnerable tribal groups (pvtg)": {
+                "gte": 18,
+                "lte": 100
+              },
+              "person with disability": {
+                "gte": 18,
+                "lte": 100
+              },
+              "female": {
+                "gte": 18,
+                "lte": 100
+              },
+              "male": {
+                "gte": 18,
+                "lte": 100
+              },
+              "transgender": {
+                "gte": 18,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "State Art Exhibition",
+              "Fine Arts Competition",
+              "Awards",
+              "Cash Prize",
+              "Artist Scholarship"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "56EKB5gBXu-iUKXqDm6e",
+          "fields": {
+            "beneficiaryState": [
+              "Gujarat"
+            ],
+            "schemeShortTitle": "JSIFFFA",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Sports & Culture"
+            ],
+            "schemeName": "Junior/Senior Fellowship in the Field of Fine Arts",
+            "schemeCloseDate": null,
+            "slug": "jsifffa",
+            "briefDescription": "The scheme \"Junior/Senior Fellowship in the Field of Fine Arts\" by the Sports, Youth and Cultural Activities Department, Government of Gujarat, aims to support artistic innovation and research by offering fellowships to young and senior artists in Gujarat.",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 100
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "general": {
+                "gte": 18,
+                "lte": 100
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 100
+              },
+              "st": {
+                "gte": 18,
+                "lte": 100
+              },
+              "de-notified, nomadic, and semi-nomadic (dnt) communities": {
+                "gte": 18,
+                "lte": 100
+              },
+              "widow": {
+                "gte": 18,
+                "lte": 100
+              },
+              "particularly vulnerable tribal groups (pvtg)": {
+                "gte": 18,
+                "lte": 100
+              },
+              "person with disability": {
+                "gte": 18,
+                "lte": 100
+              },
+              "female": {
+                "gte": 18,
+                "lte": 100
+              },
+              "male": {
+                "gte": 18,
+                "lte": 100
+              },
+              "transgender": {
+                "gte": 18,
+                "lte": 100
+              }
+            },
+            "tags": [
+              "Fine Arts",
+              "Artist",
+              "Fellowship",
+              "Painting",
+              "Sculpture"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "6KELB5gBXu-iUKXqJW4P",
+          "fields": {
+            "beneficiaryState": [
+              "Haryana"
+            ],
+            "schemeShortTitle": "MMMSYH",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Women and Child"
+            ],
+            "schemeName": "Mukhya Mantri Matritva Sahayata Yojana",
+            "schemeCloseDate": null,
+            "slug": "mmmsyh",
+            "briefDescription": "The scheme \"Mukhya Mantri Matritva Sahayata Yojana\" by the Women and Child Development Department, Haryana, aims to provide a cash incentive of \u20b95,000/- during maternity to eligible pregnant and lactating women on the birth of a second child (boy).",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 45
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 45
+              },
+              "general": {
+                "gte": 18,
+                "lte": 45
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 45
+              },
+              "st": {
+                "gte": 18,
+                "lte": 45
+              },
+              "de-notified, nomadic, and semi-nomadic (dnt) communities": {
+                "gte": 18,
+                "lte": 45
+              },
+              "widow": {
+                "gte": 18,
+                "lte": 45
+              },
+              "particularly vulnerable tribal groups (pvtg)": {
+                "gte": 18,
+                "lte": 45
+              },
+              "person with disability": {
+                "gte": 18,
+                "lte": 45
+              },
+              "female": {
+                "gte": 18,
+                "lte": 45
+              },
+              "male": {
+                "gte": 18,
+                "lte": 45
+              },
+              "transgender": {
+                "gte": 18,
+                "lte": 45
+              }
+            },
+            "tags": [
+              "Women",
+              "Maternity Benefit",
+              "Lactating Mothers",
+              "Pregnancy Care",
+              "Child"
+            ]
+          },
+          "highlight": {}
+        },
+        {
+          "id": "6qHhCJgBXu-iUKXqbW5e",
+          "fields": {
+            "beneficiaryState": [
+              "Haryana"
+            ],
+            "schemeShortTitle": "SA",
+            "level": "State",
+            "nodalMinistryName": null,
+            "schemeCategory": [
+              "Banking,Financial Services and Insurance"
+            ],
+            "schemeName": "Safety Audit",
+            "schemeCloseDate": null,
+            "slug": "sa",
+            "briefDescription": "The Safety Audit Scheme by the Government of Haryana aims to promote safety practices within Micro, Small & Medium Enterprises (MSMEs) by supporting them in conducting safety audits and implementing safety equipment. ",
+            "age": {
+              "ews": {
+                "gte": 18,
+                "lte": 70
+              },
+              "sc": {
+                "gte": 18,
+                "lte": 70
+              },
+              "general": {
+                "gte": 18,
+                "lte": 70
+              },
+              "obc": {
+                "gte": 18,
+                "lte": 70
+              },
+              "st": {
+                "gte": 18,
+                "lte": 70
+              },
+              "de-notified, nomadic, and semi-nomadic (dnt) communities": {
+                "gte": 18,
+                "lte": 70
+              },
+              "widow": {
+                "gte": 18,
+                "lte": 70
+              },
+              "particularly vulnerable tribal groups (pvtg)": {
+                "gte": 18,
+                "lte": 70
+              },
+              "person with disability": {
+                "gte": 18,
+                "lte": 70
+              },
+              "female": {
+                "gte": 18,
+                "lte": 70
+              },
+              "male": {
+                "gte": 18,
+                "lte": 70
+              },
+              "transgender": {
+                "gte": 18,
+                "lte": 70
+              }
+            },
+            "tags": [
+              "Financial Assistance",
+              "Business"
+            ]
+          },
+          "highlight": {}
+        }
+      ],
+      "page": {
+        "total": 3728,
+        "totalPages": 38,
+        "pageNumber": 37,
+        "from": 3700,
+        "size": 100
+      }
+    },
+    "sortedBy": "multiple_sort"
+  }
+}

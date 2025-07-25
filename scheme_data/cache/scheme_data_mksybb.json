@@ -1,0 +1,47 @@
+{
+  "scheme_id": "676a5326ff1de86fed6df0a4",
+  "slug": "mksybb",
+  "scheme_name": "Mukhyamantri Kanya Suraksha Yojana",
+  "scheme_short_title": "MKSYBB",
+  "state": "Bihar",
+  "level": "State/ UT",
+  "nodal_department": "Social Welfare Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Banking,Financial Services and Insurance",
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Insurance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Fixed Deposit",
+    "Women Empowerment",
+    "Financial Assistance"
+  ],
+  "brief_description": "The \"Mukhyamantri Kanya Suraksha Yojana (MKSY)\" is a welfare initiative by the Government of Bihar to combat female foeticide, improve the sex ratio, and promote birth registration.",
+  "detailed_description": "Launched by the Government of Bihar, the Mukhyamantri Kanya Suraksha Yojana (MKSY) aims to provide financial support to girl children belonging to BPL families. The scheme strives to enhance the value of girl children in society, prevent female foeticide, improve the sex ratio, and ensure the registration of births.",
+  "benefits": [
+    "\u20b92,000/- is invested as a fixed deposit for each eligible girl child. Note: In the event of the girl child's death, the amount is returned to the Women & Child Development Corporation, Bihar.  "
+  ],
+  "eligibility_criteria": "The Girl must be a resident of Bihar. The Girl child must born on or after November 22, 2007. The family must belong to the Below Poverty Line (BPL) category.\nNote: A maximum of 2 girl children per family can avail of the benefit.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: Obtain the application form from the Women & Child Development Corporation or from the local designated government offices. Step 2: Fill out the form with accurate details and attach the required documents. Step 3: Submit the application form to the nearest government office or relevant authority. Step 4: The documents will be verified, and eligible beneficiaries will be informed."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://wcdc.bihar.gov.in/MKSYDetails"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Birth certificate of the girl child. BPL certificate of the family. Aadhaar card of the parents. Bank details. Death certificate of the girl child (if applicable during the intervening period)."
+}

@@ -1,0 +1,52 @@
+{
+  "scheme_id": "66ff9ced51754aeb8f2296b0",
+  "slug": "ndr-mbocwwb",
+  "scheme_name": "Natural Death Relief (MBOCWWB)",
+  "scheme_short_title": "NDR-MBOCWWB",
+  "state": "Manipur",
+  "level": "State/ UT",
+  "nodal_department": "Labour and Employment Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance",
+    "Crisis/Disaster/Accident"
+  ],
+  "target_beneficiaries": [
+    "Family"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Death",
+    "Construction Worker",
+    "Kith And Kin"
+  ],
+  "brief_description": "The \"Natural Death Relief\" scheme launched by the Manipur Building and Other Construction Workers' Welfare Board provides financial assistance to the kith and kin of a registered building worker in the event of the worker's natural death.",
+  "detailed_description": "The &quot;Natural Death Relief&quot; scheme launched by the Manipur Building and Other Construction Workers&#39; Welfare Board provides financial assistance of \u20b930,000/- to the kith and kin of a registered building worker in the event of the worker&#39;s natural death. This amount is paid as a one-time relief.",
+  "benefits": [
+    "Financial assistance of \u20b930,000/- is provided for natural death as a free additional benefit (FREE ADD)."
+  ],
+  "eligibility_criteria": "The applicant should be the nominee, dependent, or legal heir of the deceased construction worker. The deceased construction worker should be registered with the Manipur Building and Other Construction Workers' Welfare Board. The death of the deceased worker must be due to natural death.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step-1: The interested applicant should visit (during office hours) the Manipur Building and Other Construction Workers Welfare Board and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "OR",
+        "The interested applicant visits the official website and downloads the application form .",
+        "Step-2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3: Submit the duly filled and signed application form along with the documents to the Labour Board Inspector",
+        "Step-4: Request a receipt or acknowledgement from the Labour Board Inspector to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "http://manipurbcwb.in/SchemeDetails?title=natural+death+relief"
+    }
+  ],
+  "documents_required": "Certificate of Registration. Payment Receipt of the Last Contribution.. Death Certificate in respect of natural death relief. Aadhaar Card of the applicant and construction worker. First Page of Bank Passbook."
+}

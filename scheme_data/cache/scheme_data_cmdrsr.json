@@ -1,0 +1,60 @@
+{
+  "scheme_id": "680e8e0c096abd5b8bc31a73",
+  "slug": "cmdrsr",
+  "scheme_name": "Mukhyamantri Asahaya Punarwas Yojana",
+  "scheme_short_title": "MAPY",
+  "state": "Rajasthan",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Empowerment Department",
+  "implementing_agency": "Department Of Social Justice And Empowerment, Government Of Rajasthan",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Rehabilitation",
+    "Financial assistance",
+    "Shelter",
+    "Pension"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Orphan",
+    "Senior Citizen",
+    "Rehabilitation",
+    "Destitute",
+    "Day-care Centers",
+    "Old-age Homes"
+  ],
+  "brief_description": "The scheme aims to provide financial assistance and rehabilitation support to destitute individuals who are orphaned, abandoned by their parents, or have no one to care for them. Beneficiaries receive one-time financial aid and support for admission to day-care centers or old-age homes.",
+  "detailed_description": "The &amp;quot;Mukhyamantri Asahaya Punarwas Yojana&amp;quot; was launched by the Department of Social Justice and Empowerment, Government of Rajasthan. The scheme aims to provide financial aid and rehabilitation support to to destitute individuals who are completely dependent, orphaned, abandoned by their parents, or have no one to care for them. Under this scheme, men and women are provided one-time financial assistance and support for admission to day-care centers or old-age homes.",
+  "benefits": [
+    "One-Time Financial Assistance:",
+    "Under this scheme, eligible women and men receive a one-time financial assistance of up to \u20b92,000/-.",
+    "Admission to Day-Care Centers and Old-Age Homes:",
+    "Admission into day-care centers and old-age homes run by the Social Justice and Empowerment Department and funded by the state and central government.",
+    "Provision for Pension Approval:",
+    "If the destitute applicant qualifies for Old Age Pension, Widow Pension, or Disability Pension, then the pension will be sanctioned within one month of identification."
+  ],
+  "eligibility_criteria": "The applicant should be a resident of the Rajasthan. The applicant should belong to one of the following categories:\nDestitute individual with no one to care for them. Individual abandoned by their parents. Orphaned, destitute or completely dependent individual.\nNote: The applicant should not already be receiving benefits under pension schemes (for financial aid support).",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Application Process:",
+        "Step 1: The applicant may submit application on a plain paper to the district collector of their respective district.",
+        "Step 2: In the application, attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Upon receipt, the application is scrutinized and approved by the Zila Parishad (District Council)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sje.rajasthan.gov.in/Default.aspx?PageID=111"
+    }
+  ],
+  "documents_required": "Aadhaar Card or Any Valid Identity Proof Proof of Residence Any Other Document if Required"
+}

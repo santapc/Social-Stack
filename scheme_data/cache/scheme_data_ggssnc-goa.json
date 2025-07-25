@@ -1,0 +1,50 @@
+{
+  "scheme_id": "64f85d328b9d77aaeb83c941",
+  "slug": "ggssnc-goa",
+  "scheme_name": "Government of Goa State Scholarship to NDA Cadets",
+  "scheme_short_title": "GGSSNC-GOA",
+  "state": "Goa",
+  "level": "State",
+  "nodal_department": "Higher Education Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Cadet",
+    "Defence",
+    "NDA",
+    "Scholarship",
+    "Financial Assistance"
+  ],
+  "brief_description": "The scheme supports NDA cadets from humble financial backgrounds undergoing training at NDA. The scheme aims to attract cadets from economically disadvantaged sections of society opting to serve the country by taking up such challenging jobs/training.",
+  "detailed_description": "The scheme &amp;quot;State Scholarship to NDA Cadets&amp;quot; is a Scholarship Scheme by the Directorate of Higher Education, Government of Goa. The objective of the scheme is to support NDA cadets from humble financial backgrounds undergoing training at the National Defence Academy, Khadakwasla, Pune. The scheme provides financial assistance to the underprivileged cadets hailing from Goa who have opted to serve the country by joining the Defence Services. The scheme aims to attract cadets from economically disadvantaged sections of society opting to serve the country by taking up such challenging jobs/training.",
+  "benefits": [
+    "Scholarship of \u20b9 1,000/- per month during the period of training (subject to a maximum of 24 months or duration of the course whichever is less). One Time Outfit Allowance of \u20b9 12,000/-. "
+  ],
+  "eligibility_criteria": "The cadet should have been born in Goa and/or domiciled in Goa for a period of at least 15 years. The income limit of the cadet's parents/ guardians shall not exceed \u20b9 15,000/- per month (\u20b9 1,80,000 per annum). In case the cadet is SC/ST/OBC, the income limit of the cadet's parents/ guardians shall not exceed \u20b9 37,500/- per month (\u20b9 4,50,000 per annum). The cadet should not be receiving financial assistance/scholarship/freeship from any other source.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit the Directorate of Higher Education, Government of Goa, DTE Building, Alto-Porvorim, Bardez, Goa 403521.",
+        "Step 2: Take a print of the proforma of the application form, or request a hard copy from the concerned authority.",
+        "Step 3: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across), and attach copies of all the mandatory documents (self-attest if required).",
+        "Step 4: Submit the duly filled and signed application form along with the documents to the concerned authority."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.goa.gov.in/wp-content/uploads/2016/12/Scheme-to-GSS-to-NDA-CAdets.doc"
+    }
+  ],
+  "documents_required": "Passport Sized Photograph ID Proof of National Defence Academy (NDA) Birth Certificate / Domicile Certificate Caste Certificate (if applicable) Income Certificate"
+}

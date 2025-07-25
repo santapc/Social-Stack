@@ -1,0 +1,55 @@
+{
+  "scheme_id": "653cd5cc2a298fe1b48f47dd",
+  "slug": "atuf",
+  "scheme_name": "Amended Technology Upgradation Fund",
+  "scheme_short_title": "ATUF",
+  "level": "Central",
+  "dbt_scheme": false,
+  "categories": [
+    "Banking,Financial Services and Insurance",
+    "Skills & Employment"
+  ],
+  "sub_categories": [
+    "Investment",
+    "Employment services and jobs"
+  ],
+  "target_beneficiaries": [
+    "Industries"
+  ],
+  "tags": [
+    "Investment",
+    "Employment",
+    "Productivity",
+    "Import",
+    "Export"
+  ],
+  "brief_description": "The Ministry of Textiles introduced the Amended Technology Upgradation Fund Scheme (ATUFS). This scheme aims to facilitate investment, employment, productivity, quality and import and export substitution in the textile industry.",
+  "detailed_description": "The Ministry of Textiles introduced the Amended Technology Upgradation Fund Scheme (ATUFS). This scheme aims to facilitate investment, employment, productivity, quality, and import and export substitution in the textile industry. It also indirectly promotes investments in the manufacturing of machinery for textiles. It is a credit-linked subsidy scheme for capital investment in textile manufacturing under the Government of India's Make in India and Zero Defect and Zero Effect initiatives. <br> > **Objectives** - Export and employment generation, especially to women, by encouraging the garment and apparel industry and increasing India's share in global exports. - Promotion of technical textiles for export and employment. - Promotion of converting existing looms to better technology looms to improve quality and productivity. - Encourage better quality in the processing industry and check the need for the import of fabrics by the garment sector.",
+  "benefits": [
+    "ATUFS benefit is available for investment in benchmarked machinery in the following segments:",
+    "Weaving, weaving preparatory, and knitting Processing of fibres, yarns, fabrics, garments, and made-ups Technical textiles Garment/made-up manufacturing Handloom sector Silk sector Jute sector",
+    "Capital Investment Subsidy (CIS) is provided as per segment and rates below:",
+    "S. No | Segment | CIS Rate | CIS Cap per Entity\n1 | Garmenting, Technical Textiles | 15% on eligible machines | \u20b930 crore\n2 | Weaving (Shuttle-less looms, preparatory, Jute, Silk, Handloom) | 10% on eligible machines | \u20b920 crore\n3(a) | Composite units (Garmenting + Technical Textiles) > 50% investment in those segments | 15% | \u20b930 crore\n3(b) | Composite units with < 50% investment in Garmenting & Technical Textiles | 10% | \u20b920 crore"
+  ],
+  "eligibility_criteria": "Eligible Entities\nUnits must be registered under the Companies Act or as per MSME definitions. Units must have an acknowledgment of IEM (Industrial Entrepreneur Memorandum) or be registered with the respective State Directorate. Both existing and new units are eligible, subject to overall subsidy caps. If a unit has availed benefits under previous schemes like RRTUFS, only the remaining subsidy amount under ATUFS will be available. \nEligible Machinery\nOnly new benchmarked machinery from notified manufacturers or their authorized agents is eligible. A list of eligible machines is updated every year on April 1st by the Textile Commissioner. Second-hand machinery is not permitted. Accessories, attachments, and sample machines up to 20% of the machine cost are also eligible. Machines may be eligible for multiple segments unless restricted. Other essential machinery may be included later upon recommendation. UIDs (Unique Identification Numbers) are required for all eligible machines. Machinery must be purchased directly from authorized manufacturers or agents; certain cases of domestic purchases from authorized stockists may also qualify. The purchase date is determined by the commercial invoice date. Machine Identification Code (MIC) must be visibly inscribed on machines.\n\nEligibility for Assistance\nUnits must be registered and must be producing textiles as per the registered product line. Machinery must be verified during Joint Inspection Team (JIT) visits to claim benefits.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: A unit/applicant can apply for ATUFS after the machinery is installed for undergoing a joint inspection.",
+        "Step 2: The applicant can submit the ATUFS application online on the iTUFS online portal. ",
+        "Step 3: Once the application is submitted, it will be forwarded to different stakeholders for verification.",
+        "Step 4: A Unique Identification Number (UID) is generated and provided to the applicants.",
+        "Step 5: Applicants can track the application online and can opt to get SMS/e-Mail updates about the application status through the UID.",
+        "Step 6: After the stakeholders approve, the Ministry of Textiles will release the funds.  "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://ministryoftextiles.gov.in/sites/default/files/Resolution_ATUFS_22112016.pdf"
+    }
+  ],
+  "documents_required": "Company Registration & Eligibility Certificate of Incorporation under Companies Act or MSME Registration (Udyam Certificate). IEM (Industrial Entrepreneur Memorandum), if applicable. Registration with State Textile Department (if required). Machinery Details Purchase invoice(s) of benchmarked machinery (must show commercial invoice date). Proof of payment for machinery (bank statement, payment receipt). Machinery should bear the Machine Identification Code (MIC) issued by Textile Commissioner. Manufacturer's authorization certificate (if purchased via authorized agent or stockist). Installation certificate or commissioning report. Loan-Related Documents Sanction letter of term loan from a notified lending agency. Proof of disbursement of the term loan. Undertaking that machinery was purchased after loan sanction. Term loan account statement from the lending agency. UID and i-TUFS Portal Application form submitted through i-TUFS portal: https://itufs.texmin.gov.in. All eligible machinery must be registered and allotted a Unique Identification Number (UID). Joint Inspection Documents Request for Joint Inspection Team (JIT) visit after installation. Complete set of machinery photographs (with MIC visible). JIT verification report (to be filled by the inspection team). Declarations and Undertakings Declaration that machinery is new and unused. Declaration that no benefit is being claimed under any other Central Government scheme for the same machinery. Any other prescribed declaration format (e.g., Annexure-A for prior term loans, Annexure-B for merged companies)."
+}

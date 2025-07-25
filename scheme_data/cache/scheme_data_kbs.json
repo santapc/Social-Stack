@@ -1,0 +1,71 @@
+{
+  "scheme_id": "647099449062e55967607e31",
+  "slug": "kbs",
+  "scheme_name": "Krishak Bandhu Scheme",
+  "scheme_short_title": "KBS",
+  "state": "West Bengal",
+  "level": "State",
+  "nodal_department": "Agriculture Department",
+  "implementing_agency": "Department Of Agriculture, Government Of West Bengal",
+  "dbt_scheme": true,
+  "categories": [
+    "Agriculture,Rural & Environment",
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance",
+    "Agricultural Inputs- seeds, fertilizer etc.",
+    "Crisis/Disaster/Accident"
+  ],
+  "target_beneficiaries": [
+    "Individual",
+    "Family"
+  ],
+  "tags": [
+    "Farmer",
+    "Financial Assistance",
+    "Agriculture",
+    "Income",
+    "Death",
+    "Disability"
+  ],
+  "brief_description": "The scheme aims to provide financial security to farmers through direct income support and death/disability benefits. It benefits small and marginal farmers with annual assistance of \u20b95,000/- per acre and a one-time payout of \u20b92,00,000/- in case of death.",
+  "detailed_description": "Launched in 2019, the scheme &amp;quot;Krishak Bandhu Scheme&amp;quot; by the Department of Agriculture, Government of West Bengal, aims to provide financial assistance to farmers for agricultural sustainability and risk mitigation. The scheme offers \u20b95,000/- per acre per year as direct income support and \u20b92,00,000/- as death benefit to the family of deceased farmers. Eligible beneficiaries include small and marginal farmers owning up to 2 acres of land and all farmer families in case of death or disability. The scheme is implemented by the Department of Agriculture, Government of West Bengal, and applications are accepted both online and offline.",
+  "benefits": [
+    "Direct Income Support Farmers with one acre or more of cultivable land receive \u20b910,000/- per annum, payable in two equal installments of \u20b95,000/- each (one for Kharif and one for Rabi season). Farmers with less than one acre of cultivable land receive assistance on a pro-rata basis, subject to a minimum of \u20b94,000/- per annum, paid in two equal installments. Death/Disability Benefit In the event of the death of a farmer between the ages of 18 and 60 years, a one-time lump sum grant of \u20b92,00,000/- is provided to the legal heirs of the deceased. The farmer must have been enrolled under the Krishak Bandhu scheme at the time of death. A one-time lump sum grant of \u20b92,00,000/- for permanent disability of the farmer due to accident. Disbursement Conditions Income support is linked to land ownership records. Death benefit requires submission of legal heir certificates. Disbursed via Direct Benefit Transfer (DBT) to the beneficiary's bank account."
+  ],
+  "eligibility_criteria": "For Income Support The applicant must be a resident of West Bengal. The applicant must own cultivable land (up to 2 acres). The applicant must be actively engaged in farming. For Death/Disability Benefit The deceased/disabled person must have been a farmer aged 18\u201360 years. The applicant must be the legal heir (for death benefit).",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit the nearest Gram Panchayat or the Office of the Assistant Director of Agriculture of the respective block, and request a hard copy of the prescribed format of the application form.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attested, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the Gram Panchayat or the Office of the Assistant Director of Agriculture.",
+        "Step 4: Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    {
+      "mode": "Online",
+      "steps": [
+        "REGISTRATION",
+        "Visit the official website of the Krishak Bandhu Scheme, and click \" Sign Up \". In the registration form, fill in all the mandatory fields and click \"Register\".",
+        "APPLICATION",
+        "Step 1: Visit the official website of the Krishak Bandhu Scheme, and log in using the credentials you created during registration.",
+        "Step 2: On the website, navigate to the online application form. In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size.",
+        "Step 3: Carefully review all the information provided and the documents uploaded. Make any necessary corrections. Click the \"Submit\" to submit your application. You'll receive a confirmation message. Note the reference number.",
+        "Application Tracking: https://krishakbandhu.wb.gov.in",
+        "Helpline: 8336957370, 6291720406",
+        "Time: 10am - 6pm",
+        "Email ID: krishak.bandhu@ingreens.in"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guideline",
+      "url": "https://krishakbandhu.wb.gov.in/#"
+    }
+  ],
+  "documents_required": "Record of Rights (RoR) of Cultivable Land / RoR recorded with Barga / Patta Record / Forest Patta (Latest).\nVoter Identity Card (Mandatory). Aadhaar Card (Optional). Bank Passbook (First page and last page) / Cancelled Cheque. Passport Size Recent Photograph (Original). Self Declaration with Land Documents & Warison Certificate (if needed). Bank account and Aadhaar linked mobile number. Death Certificate (For Death Benefit). Legal Heir Certificate (For Death Benefit). Disability Certificate (For Disability Benefit)."
+}

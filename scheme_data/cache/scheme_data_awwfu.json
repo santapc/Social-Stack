@@ -1,0 +1,53 @@
+{
+  "scheme_id": "65fbbbfe6777154aaf9d49ce",
+  "slug": "awwfu",
+  "scheme_name": "Anganwadi Workers Welfare Fund",
+  "scheme_short_title": "AWWFU",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "Department Of Woman Empowerment & Child Development",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Banking,Financial Services and Insurance"
+  ],
+  "sub_categories": [
+    "Insurance",
+    "Provident fund"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Anganwadi Workers",
+    "Women",
+    "Provident Fund"
+  ],
+  "brief_description": "\"Anganwadi Workers Welfare Fund\" is a social security scheme by the Department of Women Empowerment and Child Development, Government of Uttarakhand, that provides financial assistance to the anganwadi worker/helper of the state.",
+  "detailed_description": "\"Anganwadi Workers Welfare Fund\" is a social security scheme by the Department of Women Empowerment and Child Development, Government of Uttarakhand. The scheme aims to provides financial assistance to the anganwadi workers/helpers of the state on attaining the age of 60 years.",
+  "benefits": [
+    "Minimum amount of \u20b930,000 /- will be given. After completing 20 years of service \u20b91,30,000/- will be given.",
+    "Note : There is a provision for an increase of 5 % per year the deposit amount."
+  ],
+  "eligibility_criteria": "Beneficiary should be a permanent resident of Uttarakhand. Beneficiary should be an Anganwadi Worker/Helper. The age of the beneficiary should be 60 years or more.\n",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Applicant need to download the application form.  Applications are submitted to the CDPO office. Required documents include:",
+        "Certificate of retirement from the Anganwadi center Aadhar card Bank account details"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://agriculture.uk.gov.in/files/MERI_YOJANA_book_pdf__04-12-23.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://wecd.uk.gov.in/files/AWK_Kalyan_Kosh_Format-1.pdf"
+    }
+  ],
+  "documents_required": "Proof of retirement. Aadhar card. Bank account details. Any other document (as requested)."
+}

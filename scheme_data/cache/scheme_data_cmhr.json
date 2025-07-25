@@ -1,0 +1,61 @@
+{
+  "scheme_id": "678f3298de7a5d4c4bef03a2",
+  "slug": "cmhr",
+  "scheme_name": "Chief Ministers House Rent",
+  "scheme_short_title": "CMHR",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Department of De-notified, Nomadic and Semi-nomadic Welfare Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Housing & Shelter"
+  ],
+  "sub_categories": [
+    "Housing"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Housing",
+    "Rent",
+    "College",
+    "Student"
+  ],
+  "brief_description": "The \"Chief Minister's House Rent\" scheme by the Department of De-notified, Nomadic, and Semi-Nomadic Welfare, Government of Madhya Pradesh, provides \u20b91,000 to \u20b92,000 per student per month in Bhopal, Indore, Jabalpur, Gwalior, and Ujjain.",
+  "detailed_description": "The &quot;Chief Minister&#39;s House Rent&quot; scheme, implemented by the Department of De-notified, Nomadic, and Semi-Nomadic Welfare, Government of Madhya Pradesh, provides a house rent allowance of \u20b92,000 per student per month in Bhopal, Indore, Jabalpur, Gwalior, and Ujjain; \u20b91,250 per student per month at district headquarters; and \u20b91,000 per student per month in tehsil/development block headquarters and other cities. A third-party evaluation will be conducted to assess the results and impact of the scheme. Any rent amount exceeding the prescribed allowance must be borne by the students themselves. Apart from the house rent allowance, no other facility will be provided by the department.",
+  "benefits": [
+    "\u20b92,000/- per student in Bhopal, Indore, Jabalpur, Gwalior, and Ujjain. \u20b91,250/- at district headquarters. \u20b91,000/- in tehsil/development block headquarters and other cities. Helps students with housing expenses."
+  ],
+  "eligibility_criteria": "The applicant should be regularly admitted to colleges or equivalent institutions and not in any government hostel. The applicant should be admitted before the last date and submit 'Appendix-B'. The applicant should be within the income limit of the Post Metric Scholarship Scheme. The applicant should be responsible for any excess rent beyond the prescribed allowance. The applicant should be ineligible for the scheme if they fail in any year. The applicant should be aware of the third-party evaluation and annual review of the scheme.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration",
+        "Step 1: Visit the \" Samarth Portal \".",
+        "Step 2: Navigate to the top right corner of the homepage and click \" Registration\". ",
+        "Step 3: On the registration page, provide the mandatory details. (the fields marked with * are mandatory). If required, verify your Mobile Number and/or Email ID via OTP. Finally, click \"Register\".",
+        "Application",
+        "Step 1: Visit the \" Samarth Portal \".  ",
+        "Step 2:  Use the credentials you created during registration to log in.",
+        "Step 3:  Navigate to the online application form of the scheme you intend to apply for.",
+        "Step 4:  In the application form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size.",
+        "Step 5:  Carefully review all the information provided. Make any necessary corrections.",
+        "Step 6:  Acknowledge and agree to the terms and conditions, declaration, and privacy policy (if any).",
+        "Step 7:  Click the \"Submit\" to submit your application."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://samarth.mp.gov.in/Public/Pages/SchemeDetail?ID=1"
+    },
+    {
+      "title": "Registration",
+      "url": "https://samarth.mp.gov.in/Registration/Default.aspx"
+    }
+  ],
+  "documents_required": "Passport-size Photograph Aadhaar Card Domicile Certificate Caste Certificate Samagra ID Bank account Details"
+}

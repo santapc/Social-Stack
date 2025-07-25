@@ -1,0 +1,56 @@
+{
+  "scheme_id": "63eb242890f8bce6189ea21b",
+  "slug": "isss-ppcp",
+  "scheme_name": "Integrated Social Security Scheme - Pension For Physically Challenged Persons",
+  "scheme_short_title": "ISSS-PPCP",
+  "state": "Jammu and Kashmir",
+  "level": "State",
+  "nodal_department": "Department Of Social Welfare J and K",
+  "implementing_agency": "Tehsil Social Welfare Department",
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Pension"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Pension",
+    "PwD",
+    "Disability",
+    "Social Welfare"
+  ],
+  "brief_description": "ISSS-PPCP is a State Sponsored Scheme by the Social Welfare Dept. of the Govt. of J&K wherein financial assistance is provided to Physically Challenged Person who have meager support or no source of livelihood. A pension of \u20b91000 per pensioner per month is deposited into their bank account.",
+  "detailed_description": "ISSS (Integrated Social Security Scheme) is a State Sponsored Scheme by the Social Welfare Department of the Govt. of Jammu and Kashmir where financial assistance is provided to Old Age Persons, Widows, Divorcees, Women in Distress, Transgenders, and Physically Handicapped Persons. The scheme is funded through Plan and Non-Plan on the basis of a 50:50 sharing pattern. <br> The scheme has the following components - a) Pension for Old Age Person b) Pension for Women in Distress c) Pension for Physically Challenged Person d) Pension to Transgenders <br> Under the &quot;Pension for Physically Challenged Person&quot; component of ISSS, a pension of \u20b91000 per pensioner per month is deposited directly into their Bank Account through DBT mode. The aim of the scheme is to provide monthly financial assistance to Physically Challenged Pensioners who have meager support or no source of livelihood.",
+  "benefits": [
+    "A pension of \u20b91000 per pensioner per month is deposited directly into their Bank Account through DBT mode."
+  ],
+  "eligibility_criteria": "The age of applicant should be between 18 and 79 years. The applicant should have severe or multiple disabilities with a disability percentage of at least 40%. The income of the applicant should be less than \u20b9 75,000/- per annum or the applicant should be from the \"Below Poverty Line (BPL)\" Category.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The application forms are available with DSWO/TSWO free of cost. The applicant shall submit the duly filled and signed application form ( https://jkdswdj.jk.gov.in/pdf/FORMISSS1.pdf ).along with the required documents reg. the age, income, status, and address, to the concerned Tehsil Social Welfare Officer against proper receipt.",
+        "Step 2: The concerned Tehsil Social Welfare Officer (TSWO) consolidates the list of eligible applicants under the scheme and forwards it to the concerned District Social Welfare Officer for the arrangement of funds and accord of sanction by a designated District level Sanctioning Committee headed by the Director General, Social welfare Department, Kashmir.",
+        "Step 3: The amount is disbursed to the beneficiaries through bank advice/money orders."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (PDF)",
+      "url": "https://jkdswdj.jk.gov.in/welfareSchemes/PensionSchemes.pdf"
+    },
+    {
+      "title": "Guidelines (Social Welfare Dept.)",
+      "url": "https://socialwelfarekashmir.jk.gov.in/PCP.html"
+    },
+    {
+      "title": "Application Form And Documents Required",
+      "url": "https://jkdswdj.jk.gov.in/pdf/FORMISSS1.pdf"
+    }
+  ],
+  "documents_required": "Proof of Residence (Ration Card / Voter Card, etc.) Income Certificate (of less than \u20b9 75,000/- per annum or BPL Category) Disability Certificate (40% and above) issued by Medical Board. Copy of Aadhaar Card Copy of Bank Passbook Passport Sized Photograph Personal Declaration"
+}

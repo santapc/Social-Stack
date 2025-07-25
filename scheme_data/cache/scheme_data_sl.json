@@ -1,0 +1,67 @@
+{
+  "scheme_id": "6295abe3b958ab1c5e80e1f1",
+  "slug": "sl",
+  "scheme_name": "Skill Loan Scheme",
+  "scheme_short_title": "SL",
+  "level": "Central",
+  "dbt_scheme": false,
+  "categories": [
+    "Skills & Employment",
+    "Banking,Financial Services and Insurance"
+  ],
+  "sub_categories": [
+    "Loan",
+    "Training and Skill Up-gradation"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Skill Development",
+    "Student",
+    "Industrial Training Institutes (ITIs)",
+    "Polytechnics"
+  ],
+  "brief_description": "A Skill loan scheme by Ministry of Skill Development and Entrepreneurship to provide loan upto Rs. 1,50,000 to student who has secured admission in a course run by Industrial Training Institutes (ITIs), Polytechnics or in a school recognized by Central or State education Boards or in a college affil",
+  "detailed_description": "The Skill Loan Scheme was launched in July 2015 to provide institutional credit to individuals for skill development courses aligned to National Occupations Standards and Qualification Packs and leading to a certificate/diploma/degree by training institutes as per National Skill Qualification Framework (NSQF). <br> This scheme is applicable to all member banks of the Indian Banks' Association (IBA) and any other banks and financial institutions as may be advised by the RBI. The scheme provides broad guidelines to the banks for operationalizing the skilling loan scheme. <br> <br> #### Salient features of the guidelines to banks for operationalizing the scheme: 1. Eligibility \u2013Any individual who has secured admission in a course run by Industrial Training Institutes (ITIs), Polytechnics or in a school recognized by Central or State education Boards or in a college affiliated to a recognized university, training partners affiliated to National Skill Development Corporation (NSDC) / Sector Skill Councils, State Skill Mission, State Skill Corporation 1. Courses \u2013 Aligned to NSQF 1. Quantum of Finance \u2013 Rs 5000-1,50,000 1. Duration of Course \u2013 No minimum duration 1. Rate of Interest \u2013 Base rate (MCLR) + an add on typically up to 1.5% 1. Moratorium \u2013 Duration of the course 1. Repayment Period \u2013 Between 3 to 7 years basis the amount of loan 1. Loans upto \u20b9 50,000 - Upto 3 years 1. Loans between \u20b9 50,000 to \u20b9 1 lakh - Upto 5 years 1. Loans above \u20b9 1 lakh - Upto 7 years 1. Coverage \u2013 Course Fees (directly to the training institute) along with expenses towards completion of the course (assessment, examination, study material, etc.) 1. The scheme does not allow for a collateral to be charged from the beneficiary. 1. MSDE, through a November 2015 notification, brought into force the Credit Guarantee Fund for Skill Development (CGFSSD) for all skill loans sanctioned on or after 15 July 2015, to be administered by the National Credit Guarantee Trust Company (NCGTC). 1. Banks can apply to the NCGTC for credit guarantee against defaults and NCGTC will provide this guarantee at nominal fee which shall not exceed 0.5% of the amount outstanding. The guarantee cover will be for a maximum of 75% of the outstanding loan amount (including interest, if any). 1. As per the information provided by Indian Bank's Association (IBA) in respect of 21 Banks, a total skill loan of Rs 29.06 crore was disbursed during the year 2018-19 (as on September 2018).",
+  "benefits": [
+    "Courses",
+    "Aligned to NSQF",
+    "Quantum of Finance",
+    "Rs 5000-1,50,000",
+    "Duration of Course",
+    "No minimum duration",
+    "Rate of Interest",
+    "Base rate (MCLR) + an add on typically up to 1.5%",
+    "Moratorium",
+    "Duration of the course",
+    "Repayment Period",
+    "Between 3 to 7 years basis the amount of loan",
+    "Loan",
+    "Loans upto \u20b9 50,000 - Upto 3 years",
+    "Loans between \u20b9 50,000 to \u20b9 1 lakh - Upto 5 years",
+    "Loans above \u20b9 1 lakh - Upto 7 years",
+    "Coverage",
+    "Course Fees (directly to the training institute) along with expenses towards completion of the course (assessment, examination, study material, etc.)",
+    "The scheme does not allow for a collateral to be charged from the beneficiary.",
+    "MSDE, through a November 2015 notification, brought into force the Credit Guarantee Fund for Skill Development (CGFSSD) for all skill loans sanctioned on or after 15 July 2015, to be administered by the National Credit Guarantee Trust Company (NCGTC).",
+    "Banks can apply to the NCGTC for credit guarantee against defaults and NCGTC will provide this guarantee at nominal fee which shall not exceed 0.5% of the amount outstanding. The guarantee cover will be for a maximum of 75% of the outstanding loan amount (including interest, if any)."
+  ],
+  "eligibility_criteria": "A student who has secured admission in a course run by Industrial Training Institutes (ITIs), Polytechnics or in a school recognized by Central or State education Boards or in a college affiliated to a recognized university, training partners affiliated to National Skill Development Corporation (NSDC) / Sector Skill Councils, State Skill Mission, State Skill Corporation",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Interested candidates need to register on the Vidya Kaushal portal",
+        "Documents required\u2013 including, but not limited to proof of identity, proof of address, proof of income (of self or guardian, if available) Post successful registration, candidate can select their preferred sector/ role/ centre Visit the centre of your choice for counselling Raise loan request through the centre, if required Evaluate and accept/ reject loan offers based on preference Disbursement of the loan directly to partner/ centre post-confirmation"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Scheme Guidelines",
+      "url": "https://msde.gov.in/en/schemes-initiatives/Other-Schemes-and-Initiatives/Skill-Loan-Scheme"
+    }
+  ],
+  "documents_required": "Documents required\u2013 including, but not limited to proof of identity, proof of address, proof of income (of self or guardian, if available)"
+}

@@ -1,0 +1,71 @@
+{
+  "scheme_id": "66a3510e827e45c81158503f",
+  "slug": "pktnampy",
+  "scheme_name": "Pathari Kshetr Talab Nirman Aadharit Matsya Paalan ki Yojana",
+  "scheme_short_title": "PKTNAMPY",
+  "state": "Bihar",
+  "level": "State/ UT",
+  "nodal_department": "Animal & Fisheries Resources Department",
+  "dbt_scheme": true,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Land and water resources",
+    "Fishing and hunting"
+  ],
+  "target_beneficiaries": [
+    "Individual",
+    "Family"
+  ],
+  "tags": [
+    "Fish Farmer",
+    "Financial Assistance",
+    "Ponds",
+    "Opportunities"
+  ],
+  "brief_description": "The \"Pathari Kshetr Talab Nirman Aadharit Matsya Paalan ki Yojana\" aims to promote fisheries by constructing ponds and setting up related supporting units in plateau-dominated districts. The initiative is designed to create new employment opportunities and provide a means of livelihood for farmers.",
+  "detailed_description": "The &quot;Pathari Kshetr Talab Nirman Aadharit Matsya Paalan ki Yojana&quot; was launched by the Animal and Fisheries Resources Department, Government of Bihar. The scheme aims to promote fisheries by constructing ponds and setting up related supporting units in plateau-dominated districts. The initiative is designed to create new employment opportunities and provide a means of livelihood for farmers.",
+  "benefits": [
+    "Maximum Subsidy per Beneficiary: 80% of \u20b916.70 lakh per acre. Subsidy Installments: 60% after pond construction, 40% after installation of related units and purchase of inputs."
+  ],
+  "eligibility_criteria": "The applicant must own or lease land in the identified plateau-dominated districts. A person/family should construct a pond of a maximum of one acre and a minimum 0.4-acre water area i.e. 0.5-acre area. The applicant should install a concrete board on the pond. The board should be made of an iron sheet of size 4 feet x 3 feet, standing four feet at an iron angle, on which the description will be written with paint.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process:",
+        "Step-01: The applicant visits the official website and clicks the \"Applications are being invited for all the schemes of the financial year (2024-25), click here to apply\".",
+        "Step-02: Select the \" Registration for Fisheries Schemes \"",
+        "Step-03: Select the category: Individual and complete all basic details of the applicant for registration, including category, caste, applicant name, date of birth, address, bank details, etc.",
+        "Step-04: Enter a valid 10-digit mobile number and click to send OTP.",
+        "Step-05: An OTP will be sent to the provided mobile number.",
+        "Step-06: Enter the OTP; after verification of the OTP, you will receive a Registration Number and Password.",
+        "Step-07: Click on the \"Login\" and enter the Registration Number and Password.",
+        "Application Form Filling Process:",
+        "Step-01: The applicant visits the official website and clicks the \"Applications are being invited for all the schemes of the financial year (2024-25), click here to apply\".",
+        "Step-02: Click \"If your already register, login here \".",
+        "Step-03 : Select \"Scheme name\" under the \"Matsya Yojana\" option on the top menu.",
+        "Step-04: Applicant need to provide the following details :",
+        "Details of individual (applicant/group leader) Permanent address Bank account details Land/pond details",
+        "Step-05 : Upload the required documents.",
+        "Step-06: Click on the submit button as well print the application form and submit it to the District Fisheries Office along with attachments.",
+        "Note: Download the Affidavit form and Consent form also attached with the application."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://fisheries.bihar.gov.in/docs/pathari23-24.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://misfisheries.bihar.gov.in/login.aspx"
+    },
+    {
+      "title": "Login",
+      "url": "https://fisheries.bihar.gov.in/Default.aspx"
+    }
+  ]
+}

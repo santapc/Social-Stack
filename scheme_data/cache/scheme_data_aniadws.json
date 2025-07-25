@@ -1,0 +1,57 @@
+{
+  "scheme_id": "65db4dea938a0b13cc947aaa",
+  "slug": "aniadws",
+  "scheme_name": "The Andaman & Nicobar Islands Allowance to Destitute Women Scheme",
+  "scheme_short_title": "ANIADWS",
+  "state": "Andaman and Nicobar Islands",
+  "level": "State/ UT",
+  "nodal_department": "Social Welfare Department",
+  "implementing_agency": "Directorate Of Social Welfare, Union Territory Of Andaman And Nicobar Islands",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Financial assistance",
+    "Citizen empowerment"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Allowance",
+    "Destitute",
+    "Woman",
+    "Financial Assistance"
+  ],
+  "brief_description": "The scheme \"The Andaman & Nicobar Islands Allowance to Destitute Women Scheme\" is implemented by the Directorate of Social Welfare, Union Territory of Andaman and Nicobar Islands to provide financial assistance to the poorest and destitute women in the Andaman and Nicobar Islands.",
+  "detailed_description": "The scheme \"The Andaman &amp;amp; Nicobar Islands Allowance to Destitute Women Scheme\" is implemented by the Directorate of Social Welfare, Union Territory of Andaman and Nicobar Islands to provide financial assistance to the poorest and destitute women in the Andaman and Nicobar Islands.",
+  "benefits": [
+    "The quantum of Allowance to Destitute Women shall be \u20b92500/- per month subject to eligibility. Payment of allowance shall be made through Bank Account on a monthly basis."
+  ],
+  "eligibility_criteria": "The applicant should be a permanent resident of the Union Territory of Andaman and Nicobar Islands or have resided in the Union Territory of Andaman and Nicobar Islands for more than 10 years at the time of making the application. The applicant should be a poor and destitute woman. The household income of the applicant does not exceed \u20b94000/- per month. The applicant should not be availing of any kind of assistance or pension from the government.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 01: The application form shall be available free of cost at the Directorate of Social Welfare, Port Blair and the sub-divisional offices of Child Development Project Officers (CDPOs). Also, the application form can be downloaded from the official website . Step 02: The completely filled application form along with all the relevant documents shall be submitted in the offices of the concerned Child Development Project Officer. Note 01: The beneficiary shall be required to inform the Director of Social Welfare about the change of address/employment status immediately i.e. within 15 days, if any. Note 02: In case of failure to inform within 15 days the Director of Social Welfare, shall after due enquiry recover the allowance paid through the Revenue Authorities as arrears of land revenue."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "http://andssw1.and.nic.in/socialwelfare/"
+    },
+    {
+      "title": "Notification",
+      "url": "http://andssw1.and.nic.in/socialwelfare/pdf/destnotif.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "http://andssw1.and.nic.in/socialwelfare/pdf/allowances_form.pdf"
+    }
+  ],
+  "documents_required": "1. Passport-size photograph\n2. Identity proof i.e. Aadhaar Card\n3. Local certificate/ domicile certificate\n4. Category/community certificate, if applicable\n5. Bank account details/Copy of passbook\n6. Proof of income issued by the competent authority\n7. Any other document as required"
+}

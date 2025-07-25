@@ -1,0 +1,74 @@
+{
+  "scheme_id": "67a9070eda50340fc8f5f70d",
+  "slug": "pmsoeds",
+  "scheme_name": "Centrally Sponsored Scheme of Post-Matric Scholarship for OBC, EBC and DNT Students for studying in India",
+  "scheme_short_title": "PMSOEDS",
+  "state": "Haryana",
+  "level": "State/ UT",
+  "nodal_department": "Higher Education Department",
+  "dbt_scheme": true,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance",
+    "Universities and higher education"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Post Matric",
+    "OBC",
+    "EWS",
+    "DNT",
+    "Student",
+    "Education",
+    "Financial Assistance",
+    "Other Backward Class",
+    "Economically Weaker Section"
+  ],
+  "brief_description": "\"Centrally Sponsored Scheme of Post-Matric Scholarship for OBC, EBC and DNT Students for studying in India\" aims at providing financial assistance to OBC, EWS and DNT students to support their education. The scholarship covers tuition fees, maintenance allowances, and other academic expenses.",
+  "detailed_description": "The &quot;Centrally Sponsored Scheme of Post-Matric Scholarship for OBC, EBC and DNT Students for studying in India&quot; aims at providing financial assistance to students from the Backward Classes (BC), Economically Weaker Sections (EWS), and Denotified, Nomadic, and Denotified, Nomadic Tribes (DNTs) to pursue higher education. This scholarship aims to alleviate the financial burden on students belonging to these marginalized communities, enabling them to continue their studies and enhance their skills. The scholarship covers tuition fees, maintenance allowances, and other academic expenses. The financial support is extended to students studying in both government and private institutions.",
+  "benefits": [
+    "Components of the Scholarship",
+    "Maintenance allowance for the complete duration of the course. Reimbursement of compulsory non-refundable fees. Study tour charges (if applicable). Thesis typing/printing charges (for research scholars). Book allowance for students pursuing correspondence courses. Additional allowances for students with disabilities.",
+    "Financial Support Breakdown",
+    "Category of Courses | Academic Allowance (Yearly in \u20b9) | Tuition Fee (Yearly in \u20b9) | Total (Yearly in \u20b9)\nGroup 1: Degree and Post Graduate level professional courses | 10,000 | 10,000 | 20,000\nGroup 2: Other Professional Courses leading to Degree, Diploma, Certificate | 8,000 | 5,000 | 13,000\nGroup 3: Graduate and Post Graduate courses not covered under Group 1 & Group 2 | 6,000 | 2,000 | 8,000\nGroup 4: All post-matriculation (Post Class X level) non-degree courses | 5,000 | 0 | 5,000",
+    "*Students pursuing C.A./I.C.W.A./C.S./I.C.F.A. shall be treated as day scholars for academic allowance purposes.",
+    "*Students studying through correspondence/online courses shall not be eligible for academic allowance.",
+    "*Tuition fees shall be paid to online/correspondence students.",
+    "*The State Governments may, if they decide, top up the academic allowance from their own resources.",
+    "*The scholarship amount will be disbursed annually to the bank account of the beneficiary.",
+    "*The scholarship continues for the duration of the course, subject to satisfactory academic progress."
+  ],
+  "eligibility_criteria": "The applicant should be from Other Backward Classes (OBC) / Economically Backward Classes (EBC) or from Denotified, Nomadic, and Semi-Nomadic Tribes (DNT). The applicant should be studying at the post-matriculation or post-secondary stage of education. The applicant should be permanently settled in the State/UT where they are applying. The applicant should be studying in an institution recognized by the All India Survey on Higher Education (AISHE) or Unified District Information System for Education (UDISE). The applicant's institution should have National Assessment and Accreditation Council (NAAC) or National Board of Accreditation (NBA) accreditation. The applicant should maintain Aadhaar-based attendance in the institution. The applicant must have a valid \"Freeship Card\" issued by the State/District Authority.\nPreference/Priority/Reservation/Relaxation:\nA maximum of 20 slots per annum are reserved for Commercial Pilot License courses, including helicopter and multi-engine training.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration",
+        "Step 1: Visit the Official Website of the \"Centralized Scholarship Portal\" of the Department of Higher Education, Haryana.",
+        "Step 2: In the menu ribbon, click \"Student > Student Registration \".",
+        "Step 3: On the next page, provide your Parivar Pehchan Patra (Family ID) and click \"Search\".",
+        "*Parivar Pehchan Patra (PPP) is mandatory for availing of any Scholarship benefit. Students are advised to ensure their all particulars such as Name, DOB, Aadhar No. etc are fully updated in PPP before applying for any scholarship scheme.",
+        "Step 4: A List of the members of your family will be displayed. Select the checkbox against your name and click \"Generate OTP\". Enter the OTP received on your registered Mobile Number and click on \"Verify OTP\".",
+        "Step 5: After OTP verification, you will be taken to the registration page. In the registration form, all the mandatory fields get auto-filled. You only need to cross-check the information.",
+        "Step 6: Select your Department and College. Create a Password and click \"Register\".",
+        "Application",
+        "Step 1: Visit the Official Website of the \"Centralized Scholarship Portal\" of the Department of Higher Education, Haryana.",
+        "Step 2: In the right corner of the menu ribbon, click \" User Login \". Use the username and password created during your registration to log in.",
+        "Step 3: Navigate to the online form of the scheme you intend to apply for. In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size. Carefully review all the information provided and the documents uploaded. Make any necessary corrections.",
+        "Step 4: Click \"Apply\" to submit your application. You'll receive a confirmation message."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guideline",
+      "url": "https://harchhatravratti.highereduhry.ac.in/Notices/PMS%20BC%20EWS%20DNT.pdf"
+    }
+  ],
+  "exclusions": "Scholarships are not applicable for studies outside India. Institutions without AISHE/UDISE codes are not eligible under the scheme.",
+  "documents_required": "Aadhaar Card Caste Certificate Domicile Certificate Admission Letter from the Recognized Institution Fee Receipt Freeship Card, issued by State/District Authority Bank Account Details, for Direct Benefit Transfer Previous Academic Marksheets Accreditation Proof of Institution (For verification of NAAC/NBA accreditation)"
+}

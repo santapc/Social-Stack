@@ -1,0 +1,60 @@
+{
+  "scheme_id": "673f1845d8e1de79ec012bcf",
+  "slug": "wbtwssadpd",
+  "scheme_name": "West Bengal Transport Workers' Social Security Scheme: Assistance on Death and Permanent Disablement",
+  "scheme_short_title": "WBTWSSADPD",
+  "state": "West Bengal",
+  "level": "State/ UT",
+  "nodal_department": "Labour Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Health & Wellness"
+  ],
+  "sub_categories": [
+    "Disease and conditions",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Social Empowerment",
+    "Transport Worker",
+    "Monthly Assistance",
+    "Death Assistance",
+    "Permanent Disablement"
+  ],
+  "brief_description": "The scheme provides financial relief to the beneficiaries in case of permanent disability due to accidents or their dependents/nominees in case of accidental or natural death.",
+  "detailed_description": "The \"West Bengal Transport Workers' Social Security Scheme: Assistance on Death and Permanent Disablement\" by the Labour Department, offers financial assistance to unorganised transport workers or their nominees/dependents during times of distress caused by death or disability. The relief includes monetary compensation for accidental or natural death, as well as graded benefits for permanent disabilities. &lt;br&gt;",
+  "benefits": [
+    "Relief on Death:",
+    "For accidental death: \u20b91,50,000/-. For natural death: \u20b950,000/-.",
+    "Relief on Permanent Disability:",
+    "For loss of one hand, one leg below the knee, one eye, or hearing capacity in one ear: \u20b925,000/-. For loss of a thumb: \u20b99,000/-. For loss of any other finger: \u20b94,000/- Maximum relief for total disablement: \u20b950,000/-."
+  ],
+  "eligibility_criteria": "The applicant must be between 18 and 60 years of age at the time of enrolment. The applicant must be an unorganized worker employed in the operation of commercial vehicles, such as cars, taxis, luxury taxis, light commercial vehicles, vans, auto-rickshaws, tempos, lorries, trucks, or buses. The applicant's vehicle must be used for commercial purposes and not solely for personal or family use. Note: A nominee/ dependent of a beneficiary shall be entitled for the benefits in case of death. ",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step-1: Visit the \" eDistrict 2.0 \" portal. Click on Log In/Sign Up. Step-2: In the User Login window, scroll down to the bottom and click on \"Register\". Step-3: Fill in all the details carefully, enter a username, and click on \"Register\". Step-4: Upon entering the One Time Password received on your mobile, you will be successfully registered. Step-5: Now in the User Login window, enter your Username or email and captcha and click on \"Sign In\". Step-6: Enter the received O.T.P and click on \"Submit\". Step-7: Upon successful Login, You will be redirected to the \"Dashboard\". From the right side menu apply for the concerned scheme. "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guideline-1",
+      "url": "https://wblc.gov.in/sites/default/files/ckfinder/userfiles/images/WBTWSSS_at_a_glance.pdf"
+    },
+    {
+      "title": "Guideline-2",
+      "url": "https://employmentbankwb.gov.in/social_security_scheme.php#ans8"
+    },
+    {
+      "title": "Online Application",
+      "url": "https://edistrict.wb.gov.in/portal/home"
+    }
+  ],
+  "exclusions": "No assistance under this provision shall be allowed if such death or permanent disablement was : Caused by intentional self-injury, suicide or attempted suicide, insanity or immorality or if the member was under the influence of intoxicating liquor, drug, or narcotic. Caused by injuries resulting from riots, civil commotions, or racing of any kind.",
+  "documents_required": "For New Registration: Certification by Prescribed Authority in the Prescribed format, Passport Size Photo (self and for each dependent member). Age Proof Document. Driving Licence in case of Drivers. EPIC/ AADHAR Card. For the Application of the Welfare Scheme: Details of the Nominee/ Dependent. Death Certificate (for death claims). Medical Certificate/ Report (for disability claims)."
+}

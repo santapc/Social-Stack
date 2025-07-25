@@ -1,0 +1,65 @@
+{
+  "scheme_id": "672d008d83693094f71d872c",
+  "slug": "nfasmp",
+  "scheme_name": "National Family Assistance Scheme (Madhya Pradesh)",
+  "scheme_short_title": "NFASMP",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Department of Social Justice and Empowerment of Persons with Disabilities",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Below Poverty Line",
+    "Death",
+    "Family",
+    "Financial Assistance"
+  ],
+  "brief_description": "Launched on 15th August 1995, the \"National Family Assistance Scheme\" by the Department of Social Welfare, Government of Madhya Pradesh provides \u20b920,000/- to ensure social security for bereaved families living below the poverty line in case of death of their breadwinner.",
+  "detailed_description": "Launched on 15th August 1995, the &amp;quot;National Family Benefit Scheme&amp;quot; is a welfare scheme by the Department of Social Justice and Empowerment of Persons with Disabilities, Government of Madhya Pradesh. The scheme provides one-time financial assistance of \u20b920,000/- to ensure social security for bereaved families living below the poverty line in case of the death of their breadwinner.",
+  "benefits": [
+    "A one-time financial assistance of \u20b920,000/-."
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Madhya Pradesh. The applicant should be a family member or a dependent of the deceased person. The deceased person should have been the primary breadwinner (an earning member of the family) on whom the family primarily depended for income. The family of the deceased should be living Below the Poverty Line (BPL). At the time of death, the deceased should have been between 18 and 60 years old.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The applicant should visit the Gram Panchayat or Public Service Center during office hours and request a hard copy of the prescribed application form from the concerned authority.",
+        "Step 2: Fill in all the mandatory fields in the application form. Paste a passport-sized photograph (signed across, if required), and attach copies of all necessary documents (self-attested, if required).",
+        "Step 3: After applying, the applicant will receive an acknowledgement receipt from the office, confirming that the application has been received.",
+        "Step 4: The submitted documents will be verified by the District Panchayat/ Gram Panchayat/ Urban Body or Ward Office depending on to whom the application was submitted.",
+        "Step 5: Upon submission of the completed application form and the necessary documents, make sure to take a photocopy of the filled application form and the acknowledgement receipt for your future reference.",
+        "Post Application Processes",
+        "Once the documents are verified and found to be correct, the application will be approved, and the applicant's name will be added to the pension proposal for that month.",
+        "NOTE: If any discrepancies or missing information are found, the application will be rejected. In such cases, the applicant will receive a written notice specifying the reason for rejection, and the rejection will be duly recorded in the system."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://socialjustice.mp.gov.in/schemes/view/Z1cwQVVEeE5ZSEg1T3ZrTnV6S0FsZz09"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://socialjustice.mp.gov.in/uploads/schemes/application_form_1.pdf"
+    },
+    {
+      "title": "Website",
+      "url": "https://socialjustice.mp.gov.in"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=359"
+    }
+  ],
+  "documents_required": "Aadhaar Card Passport-size Photograph Identity Proof i.e. Voter ID Card or Driving License Death Certificate of the Deceased Person Proof of Age of the Deceased Person Below Poverty Line (BPL) Card/ Ration Card Caste Certificate (if applicable) Address Proof Bank Passbook/Bank Account Details Any other documents as required"
+}

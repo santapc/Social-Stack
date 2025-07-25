@@ -1,0 +1,73 @@
+{
+  "scheme_id": "67efa4ff4f405f25875ec44c",
+  "slug": "sseces",
+  "scheme_name": "Scholarship for Children of Ex-Servicemen for Vocational and Technical Education",
+  "scheme_short_title": "SCESVTE",
+  "state": "Rajasthan",
+  "level": "State/ UT",
+  "nodal_department": "Department of Sainik Welfare",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Education and training grants, fellowship, stipend",
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Scholarship",
+    "Student",
+    "Vocational Education",
+    "Ex-servicemen",
+    "Technical Education"
+  ],
+  "brief_description": "Under this scheme, a scholarship of \u20b915,000 per year is provided to the children of ex-servicemen, from the rank of Sepoy to Havildar, who are pursuing vocational & technical education & have not received scholarship assistance under the Prime Minister's Scholarship Scheme or from any other source.",
+  "detailed_description": "The scheme &amp;quot;Scholarship for Children of Ex-Servicemen for Vocational and Technical Education&amp;quot; was introduced by the Department of Sainik Welfare, Government of Rajasthan. Under this scheme, a scholarship of \u20b915,000/- per year is provided to the children of ex-servicemen, from the rank of Sepoy to Havildar, who are pursuing vocational and technical education and have not received scholarship assistance under the Prime Minister&amp;#39;s Scholarship Scheme or from any other source. A maximum of 50 children can be granted this scholarship each year, based on merit, from the Amalgamated Fund. The scheme came into effect from 1st July 2020.",
+  "benefits": [
+    "Financial Assistance:",
+    "An scholarship of \u20b915,000/- per year per student.",
+    "Mode of Disbursement:",
+    "Scholarship is disbursed through online payment to the beneficiary's bank account.",
+    "Note 1: Only 50 students are selected each year based on merit.",
+    "Note 2: Scholarship will be payable in the passing year i.e. scholarship of first year will be payable in the second year. Similarly, scholarship of second year will be payable in the third year."
+  ],
+  "eligibility_criteria": "The applicant should be a native of Rajasthan. The applicant should be an ex-serviceman of the rank of Havildar or below, or his widow/dependent. The applicant should be pursuing a vocational or technical education course included in the Prime Minister Scholarship Scheme (PMSS). The applicant should not be receiving benefits under the Prime Minister's Scholarship Scheme or any other scholarship scheme. This scholarship is not admissible in cases of Battle Casualty/Disability and Physical Casualty (attributable cases), as in such cases, scholarships are already provided by the Army Headquarters. The applicant must have passed the previous academic year successfully; failure to pass results in the discontinuation of the scholarship. The scholarship will not be payable to more than two children of an ex-serviceman.\nNotes:\nOnce selected, the scholarship will continue for the remaining duration of the course, subject to annual renewal. In case of failure in any year, the scholarship will be cancelled for the entire course.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Application Process:",
+        "Step 1: The interested applicant should visit the office of the District Sainik Welfare Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "OR",
+        "The applicant should download the application form from the official website (Link Page No.4).",
+        "Step 2: In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents to the District Sainik Welfare Office.",
+        "Step 4: Request a receipt or acknowledgment from the District Sainik Welfare Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable).",
+        "Note: Applicants must submit their applications to the District Soldiers Welfare Officer by November 30.",
+        "Post Application Process:",
+        "Step 1: The District Soldiers Welfare Officer verifies applications and forwards them to the Director, Soldiers Welfare Department, Jaipur by December 31.",
+        "Step 2: A committee reviews and approves the applications by March 31.",
+        "Step 3: The approved scholarship amount is sent to the District Soldiers Welfare Officer for disbursement.",
+        "Step 4: The scholarship amount is transferred online to the beneficiary's bank account within one month.",
+        "Yearly Renewal Process:",
+        "Step 1: The scholarship, after initial approval, must be renewed every year of the course.",
+        "Step 2: The renewal application needs to be provided with a copy of the original marks sheet.",
+        "Step 3: The application must be done within 1 year from the date of the published result. If a university does not give the final marks sheet on the end of the course, a passing certificate is needed."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sainikkalyan.rajasthan.gov.in/content/dam/doitassests/sainikwelfare/pdf/Amalgamatedfundschemes/Technical%20Education.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://sainikkalyan.rajasthan.gov.in/content/raj/sainikwelfaresite/en/welfare-schemes/welfare-schemes-from-amalgamated-fund.html"
+    }
+  ],
+  "documents_required": "Discharge book or service certificate of the ex-serviceman parent Ex-Serviceman/Widow Identity Card Previous Year's Marksheet/Educational qualification certificates Self-declaration (not receiving any other scholarship) Pension Payment Order (PPO) Bank Account Details Proof of Admission Residence Proof (Domicile certificate or any valid document confirming residency in Rajasthan.) Any other documents if required"
+}

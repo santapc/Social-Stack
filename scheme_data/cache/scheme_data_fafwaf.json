@@ -1,0 +1,84 @@
+{
+  "scheme_id": "656ef210f2dded0c80958c24",
+  "slug": "fafwaf",
+  "scheme_name": "Financial Assistance to Fresh Water Aquaculture Farms",
+  "scheme_short_title": "FAFWAF",
+  "state": "Goa",
+  "level": "State",
+  "nodal_department": "Fisheries Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Fishing and hunting",
+    "Agricultural Inputs- seeds, fertilizer etc.",
+    "Mechanization- solar power, farming systems",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Fishermen",
+    "Fish",
+    "Aquaculture",
+    "Subsidy",
+    "Equipment",
+    "Shrimp"
+  ],
+  "brief_description": "\"Financial Assistance to Fresh Water Aquaculture Farms\" is a scheme by the Dept. of Fisheries, Govt. of Goa. Through this scheme, financial assistance is provided to eligible fishermen for the construction and renovation of the Farm, for the purchase of farming equipment, and the purchase of feed.",
+  "detailed_description": "\"Financial Assistance to Fresh Water Aquaculture Farms\" is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, financial assistance is provided to eligible fishermen for the construction and renovation of the Farm, for the purchase of farming equipment, and the purchase of feed. The applications are accepted only in offline mode.",
+  "benefits": [
+    "Financial Assistance for Construction & Renovation of Farm",
+    "25% subsidy, limited to \u20b92,00,000 per hectare, limited to 2 hectares.",
+    "Financial Assistance for Purchase of Farming Equipment",
+    "50% subsidy, limited to \u20b960,000 (per year) per hectare.",
+    "Financial Assistance for Purchase of Feed",
+    "25% subsidy of the cost of feed, limited to \u20b950,000 (per year) per hectare limited to 2 hectares."
+  ],
+  "eligibility_criteria": "The applicant should be a Fish Farmer/ Individual/ Registered Self Help Groups/ Societies/ Associations, interested in freshwater fish/prawn farming in the State of Goa. The applicant should be a resident of Goa for the last fifteen years.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should take print of the prescribed format of the application form.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents to the concerned authority at the Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at BDO Office/ Sub-Offices of the Department of Fisheries.",
+        "Grievance Redressal",
+        "Any dissatisfaction or complaint about any service or its standards can be registered with the Department's Grievance Redressal Officer . The grievance can also be lodged on the link dir-fish.goa@nic.in . All complaints will be acknowledged by us and final action taken will be communicated within 30 days."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://fisheries.goa.gov.in/schemes-services/"
+    },
+    {
+      "title": "Citizen's Charter",
+      "url": "https://fisheries.goa.gov.in/wp-content/uploads/2023/07/CitizenCharter-2.pdf"
+    },
+    {
+      "title": "Application Form For Construction / Renovation Of Freshwater Fish/Shrimp Farm (A)",
+      "url": "https://fisheries.goa.gov.in/wp-content/uploads/2020/08/FW-Construction-Renovation-1.pdf"
+    },
+    {
+      "title": "Application Form For Construction / Renovation Of Freshwater Fish/Shrimp Farm (B)",
+      "url": "https://fisheries.goa.gov.in/wp-content/uploads/2020/08/FW-Construction-Renovation-1.pdf"
+    },
+    {
+      "title": "Application Form For Freshwater Fish/Shrimp Culture (A)",
+      "url": "https://fisheries.goa.gov.in/wp-content/uploads/2020/08/FW-Feed-and-seed-1.pdf"
+    },
+    {
+      "title": "Application Form For Freshwater Fish/Shrimp Culture (B)",
+      "url": "https://fisheries.goa.gov.in/wp-content/uploads/2020/08/FW-Equipment-1.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://fisheries.goa.gov.in/contact-us-2/#"
+    }
+  ],
+  "documents_required": "1. Application in Prescribed Form\n2. Joint Photograph of Applicant with Spouse\n3. Aadhaar Card/ Ration Card\n4. CAA License Copy\n5. Mandate Form\n6. Copy of Estimate of Work\n7. Work Completion Certificate of the Farm"
+}

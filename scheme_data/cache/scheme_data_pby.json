@@ -1,0 +1,70 @@
+{
+  "scheme_id": "6644afc402cfbde3163f66e2",
+  "slug": "pby",
+  "scheme_name": "Pashu Bima Yojana",
+  "scheme_short_title": "PBY",
+  "state": "Bihar",
+  "level": "State/ UT",
+  "nodal_department": "Directorate of Dairy Development",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment",
+    "Banking,Financial Services and Insurance"
+  ],
+  "sub_categories": [
+    "Financial assistance",
+    "Insurance",
+    "Rural services"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Farmer",
+    "Insurance",
+    "Disease",
+    "Animal",
+    "Premium"
+  ],
+  "brief_description": "The scheme 'Pashu Bima Yojna' was launched by the Directorate of Dairy Development, Government of Bihar. The scheme aims to provide insurance security to farmers against the financial loss caused by cattle death and to improve the rural economy.",
+  "detailed_description": "The scheme &quot;Pashu Bima Yojana&quot; by the Directorate of Dairy Development, Government of Bihar aims to provide financial security to livestock owners against losses due to serious diseases like Lumpy Skin Disease, HSBQ, and other causes of cattle death. Through this scheme, insurance coverage of up to \u20b960,000 per dairy cattle is provided to livestock owners of all categories, with the government providing a 75% subsidy on the premium amount. The scheme is implemented by the District Dairy Development Officers across all districts of Bihar.",
+  "benefits": [
+    "The maximum price per milch cattle has been fixed at \u20b960,000/-.",
+    "The total amount of insurance at the rate of 3.5 percent will be \u20b92,100/-. The insurance company will insure milch cattle for 01 year. The insurance company will fit the data ear tags in the milch cattle.",
+    "NOTE 1: 75% amount of \u20b91,575/- will be paid by the state government as a grant and the remaining 25% amount of \u20b9525/- will be paid by the cattle farmers to the insurance company.",
+    "NOTE 2: The responsibility for the safety of milch cattle will be on the beneficiary."
+  ],
+  "eligibility_criteria": "The applicant should be a farmer of milch cattle. The applicant should be a member of the \"Milk Producer Cooperation Committee\". The milch cattle of the farmer should be healthy and certified by a veterinary doctor at the time of insurance.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration",
+        "Step 1: Visit the registration page: https://misdairy.bihar.gov.in/Registration/Register ",
+        "Step 2: Provide the below details for the registration",
+        "Full name. Father's name or husband's name (as applicable). Select date of birth. Choose gender from the dropdown menu. Select your district from the available options. Enter your valid Aadhaar number in the designated field.",
+        "Step 3: Form Submission via mobile OTP:",
+        "Provide your active mobile phone number. An OTP (One-Time Password) will be sent to your phone. Enter the received OTP in the designated field. After entering the OTP, submit the completed registration form.",
+        "Step 4: Upon successful registration, a password will be sent to the applicant's registered mobile number. This password will be used for future logins.",
+        "Application",
+        "Step 1: Visit the login page: https://misdairy.bihar.gov.in / and do login with the following details:",
+        "Enter the registered mobile number. Use the password received during registration to log in. Complete the captcha verification.",
+        "Step 2: Applicant Details (Pre-populated):",
+        "The portal will automatically display your pre-registered information, including mobile number, district, block, and PIN code. You cannot edit this information.",
+        "Step 3: Provide the following details:",
+        "Enter the full name of the proposer. Select the proposer's occupation from the provided options. Choose the proposer's qualification from the available list.",
+        "Step 4: Supporting Documents Upload:",
+        "Upload a scanned copy of your Milk Producer Society membership receipt. Upload a passport-sized photograph of the proposer.",
+        "Step 5: Submission:",
+        "After completing all sections, click the \"Submit\" button."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://dairy.bihar.gov.in/Scheme.aspx"
+    }
+  ],
+  "documents_required": "Aadhaar Card. Milk Producer Society Membership Receipt. Proposer's Photo."
+}

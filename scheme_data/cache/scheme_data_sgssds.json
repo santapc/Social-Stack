@@ -1,0 +1,55 @@
+{
+  "scheme_id": "66715d4421d7c2ac0d8dfabb",
+  "slug": "sgssds",
+  "scheme_name": "Sikkim Grant of Scholarship to Students with Disabilities Scheme",
+  "scheme_short_title": "SGSSDS",
+  "state": "Sikkim",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice Empowerment & Welfare Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Women and Child",
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Financial assistance",
+    "Resources for schools"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Education",
+    "Student",
+    "Financial Assistance",
+    "Person With Disability"
+  ],
+  "brief_description": "The Government of Sikkim has introduced the Sikkim Grant of Scholarship to Students with Disabilities Scheme, 2014. This scheme aims to provide financial assistance to differently-abled students to help them secure academic education and technical or professional training.",
+  "detailed_description": "The &quot;Sikkim Grant of Scholarship to Students with Disabilities Scheme, 2014&quot; was launched by the Social Justice, Empowerment and Welfare Department, Government of Sikkim. This scheme aims to provide financial assistance to differently-abled students to help them secure academic education and technical or professional training. The ultimate goal is to enable these students to earn a livelihood and become useful members of society.",
+  "benefits": [
+    "Financial assistance for academic education and technical/professional training. Coverage of expenses including cash incentives, books, stationery, uniforms, and allowances. Support for students pursuing education within or outside Sikkim, but within India.",
+    "Note: The scholarship will be disbursed through the Direct Benefit Transfer Scheme or any other decided mode."
+  ],
+  "eligibility_criteria": "The student's age should be 5 years and above. The student must be disabled, with disability percentage of 40% or above as certified by Medical Authorities as defined in section 2 (t) of the Persons with Disabilities Act, 1995. The student must be a regular student at a recognized College, University, or School of a recognized Board. The student should pass the examination in one attempt during a particular academic session, If fails the examination during an academic session are not eligible for the scholarship for the same class in the next academic year. The student must not be receiving any other similar scholarship from other departments or ministries.\n",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step-01: The interested student writes an application on plain paper and submits it to the Social Welfare Division.",
+        "Step-02: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-03: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "Scrutiny and Approval:",
+        "The Selection Committee will scrutinize the applications. Upon satisfactory verification of documents, approval will be granted by the Secretary."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sikkim.gov.in/uploads/DeptUploads/Notification_of_Sikkim_Grant_of_Scholarship_to_Students_with_Disabilities_20230530.pdf"
+    }
+  ],
+  "exclusions": "\n",
+  "documents_required": "3 Passport-size Photographs. Father's Sikkim Subject Certificate or Certificate of Identification. Parent's B.P.L. Certificate/Income Certificate (issued by the Gram Vikash Adhikari). Birth Certificate (issued by the Health Care, Human Services & Family Welfare Department). Certificate and Mark sheet from the College or School. Life Certificate. Disability Certificate. "
+}

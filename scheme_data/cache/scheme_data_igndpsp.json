@@ -1,0 +1,67 @@
+{
+  "scheme_id": "680b2687aafacc2850967f0c",
+  "slug": "igndpsp",
+  "scheme_name": "Indira Gandhi National Disability Pension Scheme (Punjab)",
+  "scheme_short_title": "IGNDPSP",
+  "state": "Punjab",
+  "level": "State/ UT",
+  "nodal_department": "Department of Social Security and Development of Women and Children",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Pension",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Pension",
+    "Indira Gandhi",
+    "Disability",
+    "PwD"
+  ],
+  "brief_description": "The \"Indira Gandhi National Disability Pension Scheme (IGNDPS)\" provides \u20b9300/- per month to disabled persons (80% or more disability) aged 18 and above. After age 80, the amount increases to \u20b9500/-. Dwarfs are also eligible.",
+  "detailed_description": "The &quot;Indira Gandhi National Disability Pension Scheme (IGNDPS)&quot; is implemented by the Department of Social Security and Development of Women and Children, Government of Punjab. Under this scheme, persons with disabilities aged 18 years and above, having a disability level of 80% or more, are eligible to receive a pension of \u20b9300/- per month. After attaining the age of 80 years, the pension amount increases to \u20b9500/- per month. Dwarfs are also included as an eligible category under this scheme.",
+  "benefits": [
+    "Pension is Rs. 300/- per month (age 18-79 year) Pension is Rs. 500/- per month (age 80 and above year)"
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Punjab. The applicant should be a person with a disability. The percentage of the disability should be 80% or more. The applicant's age should be between 18 and 80 years.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1:  The interested applicant should visit the District Social Security Officer and request a hard copy of the prescribed format of the application form from the concerned staff.",
+        "Step 2:  In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3:  Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the District Social Security Officer .",
+        "Step 4:  Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    },
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Register on the UMANG Portal",
+        "Visit the official website of UMANG. In the top right corner of the landing page, click \"Register.\" You will be taken to the Registration Page. Fill in all the mandatory fields.",
+        "Step 2: Mobile Number Verification and MPIN Creation",
+        "You will be redirected to the mobile number verification page. Enter your mobile number and get it verified via OTP. Create an MPIN to complete the registration process. You will be taken to the UMANG homepage. Login using your Mobile Number and MPIN.",
+        "Step 3: Accessing Services on UMANG",
+        "Visit the \" National Social Assistance Programme (NSAP) \" page on UMANG and click \"Apply Online\".",
+        "Step 4: Completing the Application",
+        "In the application form, fill in all the mandatory fields and upload all the required documents in the specified format and size.",
+        "Step 5: Review and Confirmation",
+        "Carefully review all the information provided and the documents uploaded. Make any necessary corrections, if required. Acknowledge and agree to the terms and conditions, declaration, and privacy policy, if any.",
+        "Step 6: Submitting the Application",
+        "Click the \"Submit\" or \"Apply\" button to submit your application. You'll receive a confirmation message upon successful submission of the application."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sswcd.punjab.gov.in/en/indira-gandhi-national-disability-pension-scheme-igndps-0"
+    }
+  ],
+  "documents_required": "Identity Proof (Voter ID Card/ Driving License) Disability Certificate Proof of Age Address Proof Bank Account Details"
+}

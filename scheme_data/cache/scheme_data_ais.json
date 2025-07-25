@@ -1,0 +1,52 @@
+{
+  "scheme_id": "68457faa50c110b1567dd0d6",
+  "slug": "ais",
+  "scheme_name": "Pradhan Mantri Matsya Sampada Yojana: Accident Insurance Scheme - Uttarakhand",
+  "scheme_short_title": "PMMSYAISUK",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "Department Of Fisheries",
+  "dbt_scheme": false,
+  "categories": [
+    "Banking,Financial Services and Insurance"
+  ],
+  "sub_categories": [
+    "Insurance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Insurance",
+    "Fish Farmer",
+    "Accidental Death",
+    "Disability",
+    "Fisherman"
+  ],
+  "brief_description": "Under this scheme, fish farmers are provided insurance coverage of \u20b95 lakh in case of accidental death/total permanent disability, \u20b92.5 lakh for partial disability, & \u20b950,000 for hospitalization. No premium is required to be paid by fish farmers, entire cost of the insurance is fully borne by Dept.",
+  "detailed_description": "The scheme &amp;quot;Accident Insurance Scheme&amp;quot;, a sub-component of the Pradhan Mantri Matsya Sampada Yojana, is implemented by the Department of Fisheries, Government of Uttarakhand. The scheme aims to provide financial security to fish farmers in the event of accidental death, permanent disability, or hospitalization. Under this scheme, insurance coverage includes \u20b95,00,000/- for death or total permanent disability, \u20b92,50,000/- for partial disability, and \u20b950,000/- for hospitalization. Fish farmers are not required to pay any insurance premium; the entire premium is borne by the department.",
+  "benefits": [
+    "Insurance Coverage:",
+    "\u20b95,00,000/- in case of accidental death or total permanent disability. \u20b92,50,000/- for partial disability (such as loss of limbs, fingers, or partial loss of vision/hearing/speech, etc.). \u20b950,000/- for hospitalization expenses due to accidents.",
+    "Other Key Aspects:",
+    "Beneficiaries do not pay any premium; the full premium is paid by the Fisheries Department. Coverage is active for one year from the date of policy issuance.",
+    "Mode of Disbursement:",
+    "Insurance claims are disbursed directly to the nominee's or beneficiary's bank account."
+  ],
+  "eligibility_criteria": "General Eligibility:\nThe applicant should be a permanent resident of Uttarakhand. The applicant should be engaged in fish production or fishing as a profession. The applicant should belong to any caste category, including General, Scheduled Caste (SC), Scheduled Tribe (ST), Other Backward Class (OBC), or woman. The applicant's age should be between 18 and 70 years at the time of enrollment.\nEligibility for Nominee:\nThe applicant should be a nominee of the deceased person. The individual should have died or become permanently disabled due to the accident.\nEligibility for Partially Disabled Person:\nThe applicant should be partially disabled (such as loss of limbs, fingers, or partial loss of vision/hearing/speech) due to an accident.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Application Process: Step 1: The interested applicant/nominee should contact (during office hours) the field personnel of the Fisheries Department and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications. Step 2: In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest, if required). Step 3: Submit the duly filled and signed application form along with the documents to the field personnel of the Fisheries Department. Enrollment Process: Step 1: The Fisheries Department completes the enrollment and issues an insurance certificate to the beneficiary. Claim Process: Step 1: In case of an accident, death, or hospitalization, the beneficiary's family must inform the local fisheries officer immediately. Step 2: The family then submits a claim form along with relevant supporting documents (e.g., medical or death certificate, insurance certificate, etc.). Step 3: Upon successful verification, the insurance claim is processed and disbursed to the nominee's or beneficiary's account."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Page No. 93)",
+      "url": "https://cdnbbsr.s3waas.gov.in/s339e6f67916920d9419b3d92cf1e9a958/uploads/2025/03/202503051625218025.pdf"
+    }
+  ],
+  "documents_required": "Application Document\nAadhaar Card of the Fish Farmer Bank Account Details Proof of age Permanent Residence Certificate Nominee Details (Name, Relationship, Aadhaar Card)\nClaim Document\nInsurance Certificate (issued after enrollment) Recent Passport Size Photograph Claim Form (in case of accident, hospitalization, or death) Medical Certificate (in case of partial disability/hospitalization) Death Certificate (in case of fatal accident) Hospital Admission/Discharge Certificate (in case of hospitalization)"
+}

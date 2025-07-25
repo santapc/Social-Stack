@@ -1,0 +1,45 @@
+{
+  "scheme_id": "64c08326b594314dec82b485",
+  "slug": "uy",
+  "scheme_name": "Udita Yojana",
+  "scheme_short_title": "UY",
+  "state": "Madhya Pradesh",
+  "level": "State",
+  "nodal_department": "Women and Child Development Department",
+  "categories": [
+    "Health & Wellness",
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Health promotion"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Health",
+    "Wellness",
+    "Hygiene"
+  ],
+  "brief_description": "Madhya Pradesh State Government started \"Udita Yojana\" for women health promotions.",
+  "detailed_description": "The Project Udita program was started on November 1, 2016, under the Women and Child Development Projects of Madhya Pradesh Government. According to the concept of this scheme, Anganwadi workers and assistants will inform adolescent girls about the importance of proper hygiene during menstruation and sexually transmitted diseases due to negligence and provide them with sanitary napkins. If girls become aware of their health in their teenage years, then they all can remain healthy in future also.",
+  "benefits": [
+    "Distribution of sanitary napkins, nutrition and health education, training on menstrual hygiene and nutrition and health issues in adolescent girls are done through Udita Corner established in Anganwadi centers."
+  ],
+  "eligibility_criteria": "All adolescent girls and women aged 18 to 49 will be beneficiaries.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Beneficiaries should contact Udita Corner established in Anganwadi centres."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://mpwcdmis.gov.in/Downloads/IcdsPdf/PROJECTUDITA.pdf"
+    }
+  ],
+  "documents_required": "No documents are required for this scheme."
+}

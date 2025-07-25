@@ -1,0 +1,58 @@
+{
+  "scheme_id": "66c5f9eabfeff774c3904949",
+  "slug": "jmmsy",
+  "scheme_name": "Jharkhand Mukhyamantri Maiya Samman Yojana",
+  "scheme_short_title": "JMMSY",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Women, Child Development & Social Security Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Women and Child",
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial Assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Women",
+    "Rural",
+    "Urban"
+  ],
+  "brief_description": "The \"Jharkhand Mukhyamantri Maiya Samman Yojana\" provides financial assistance to women beneficiaries. This initiative aims to enhance the financial security and well-being of women across the state.",
+  "detailed_description": "The Department of Women, Child Development &amp; Social Security launched the &quot;Jharkhand Mukhyamantri Maiya Samman Yojana&quot; scheme aims to enhance the financial security and well-being of women across the state by providing financial assistance of \u20b91,000/- per month to women beneficiaries. The payments are directly deposited into their bank accounts by the 15th of every month. <br>",
+  "benefits": [
+    "Financial Assistance \u20b91,000/- per month."
+  ],
+  "eligibility_criteria": "The applicant should be a female. The applicant should be a permanent resident of Jharkhand. The applicant's age should be between 21-49 years.\n\n",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the Anganwadi center or the office of the Block Development Officer/Zonal Officer and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "OR",
+        "The interested applicant downloaded the application form .",
+        "Step 2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents:",
+        "Rural Areas: The nearest Pragya Kendra or the office of the Block Development Officer Nearest Pragya Center. Urban Areas: In the office of the zonal officer.",
+        "Step 4: Request a receipt or acknowledgment from the District Differently Abled Welfare Officer to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cdn.s3waas.gov.in/s32b8a61594b1f4c4db0902a8a395ced93/uploads/2024/07/2024073013.pdf"
+    },
+    {
+      "title": "FAQ",
+      "url": "https://cdn.s3waas.gov.in/s32b8a61594b1f4c4db0902a8a395ced93/uploads/2024/08/2024082052.pdf"
+    }
+  ],
+  "exclusions": "The applicant herself or her husband should be employed as a regular/permanent employee/contractual employee/honorarium employee in the Central/State Government or Central/State Public Sector Undertakings, Statutory Body, Local Body, Urban Body and Government Aided Educational Institution or Should be receiving pension/family pension after retirement. The family member is a current or former MP/MLA. Income tax paying families. The beneficiaries who are already getting the benefits of any other social security pension scheme run by the Women, Child Development and Social Security Department, Jharkhand, Ranchi, will not be provided the benefits of this scheme. EPF account holder applicant woman.",
+  "documents_required": "Passport-size Photograph. Aadhaar Card. Ration Card. Voter ID. Pan Card. Bank Passbook. Self-declaration Letter."
+}

@@ -1,0 +1,54 @@
+{
+  "scheme_id": "6776687509be7bb7df9f5a2b",
+  "slug": "csismp",
+  "scheme_name": "Civil Service Incentive Scheme (Madhya Pradesh)",
+  "scheme_short_title": "CSISMP",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Tribal Welfare and Scheduled Caste (SC) Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Scheduled Caste",
+    "Student",
+    "Scheduled Tribe",
+    "Education",
+    "Examination"
+  ],
+  "brief_description": "The \"Civil Service Incentive Scheme (Madhya Pradesh)\" scheme by the Tribal Welfare and Scheduled Caste (SC) Department of the Government of Madhya Pradesh provides an incentive amount to encourage SC/ST candidates to appear in Civil Services Examinations.",
+  "detailed_description": "The &quot;Civil Service Incentive Scheme (Madhya Pradesh)&quot; scheme by the Tribal Welfare and Scheduled Caste (SC) Department of the Government of Madhya Pradesh provides an incentive amount to encourage SC/ST candidates to appear in Civil Services Examinations. The incentive is given to candidates who succeed in the state civil service examination at various levels. Additionally, the annual income of the parents should not exceed \u20b96,00,000/-..",
+  "benefits": [
+    "Union Public Service Commission (UPSC)",
+    "\u20b940,000 for passing the preliminary examination. \u20b960,000 for passing the main examination. \u20b950,000 for getting selected in the interview.",
+    "State Public Service Commission (MPSC)",
+    "\u20b920,000 for passing the preliminary examination. \u20b930,000 for passing the main examination. \u20b925,000 for getting selected in the interview."
+  ],
+  "eligibility_criteria": "The applicant should be from the Scheduled Caste (SC) /Scheduled Tribes (ST) category. The applicant should be a native of Madhya Pradesh. The applicant should cleared the Union Public Service Commission (UPSC) or Madhya Pradesh Public Service Commission (MPSC) examinations. The annual income of the parents of the applicant should not exceed \u20b96,00,000/-.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the Assistant Commissioner/District Coordinator, and request the hard copy of the prescribed format of the application form from the concerned authority.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the authority.",
+        "Step 4: Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE: Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=434"
+    }
+  ],
+  "documents_required": "Passport-size Photograph Aadhaar card Domicile certificate of Madhya Pradesh Caste certificate Previous class passing certificate/marksheet Samagra ID Bank account details/Bank Passbook Other necessary documents if required"
+}

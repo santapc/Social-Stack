@@ -1,0 +1,59 @@
+{
+  "scheme_id": "67ab145078d0d9a6ccb61590",
+  "slug": "dasbbocwwb",
+  "scheme_name": "Death Assistance Scheme (BBOCWWB)",
+  "scheme_short_title": "DASBBOCWWB",
+  "state": "Bihar",
+  "level": "State/ UT",
+  "nodal_department": "Building Construction Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Citizen empowerment",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Construction Workers",
+    "Building Worker",
+    "Death",
+    "Financial Assistance"
+  ],
+  "brief_description": "The \"Death Assistance\" scheme provides financial assistance to the legal heir in the case of natural death or accidental death of the registered worker. If the death occurs during a disaster and a grant has already been given by Disaster Management, only \u20b91,00,000/- will be payable by the Board.",
+  "detailed_description": "The &quot;Death Assistance&quot; scheme, implemented by the Bihar Building &amp; Other Construction Workers Welfare Board (BBOCWWB) under the Labour Resources Department, Government of Bihar, provides financial assistance to the legal heir in the case of natural death or accidental death of the registered worker. If the death occurs during a disaster and a grant has already been given by Disaster Management, only \u20b91,00,000/- will be payable by the Board.",
+  "benefits": [
+    "\u20b92,00,000/- in the case of natural death. \u20b94,00,000/- in the case of accidental death. \u20b91,00,000/- if disaster aid is already received."
+  ],
+  "eligibility_criteria": "The deceased construction worker should have been registered with the Bihar Building & Other Construction Workers Welfare Board (BBOCWWB). The worker's membership with the Welfare Board must be active at the time of death. The only person who is a legal heir/dependent family member of the deceased registered worker is eligible to apply under the scheme.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Apply for Scheme Benefits Step 1:  Visit the Official Website of the Bihar Building and Other Construction Workers Welfare Board. Step 2: Click on \"Scheme Application\" and select \" Apply for Scheme \". Step 3:  Enter your registration number and click \"Show\" to view your details. Step 4:  Select the scheme you wish to apply for to avail the benefits. Step 5: Enter all required information and upload the necessary documents. Step 6:  Click on \"Submit Application\" to complete the process. Application Tracking Applicant can track their application status online through the official website of the Bihar Building and Other Construction Workers Welfare Board. Relevant updates will be sent to the registered mobile number."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://bocw.bihar.gov.in/Website/pdf/Brochure.pdf"
+    },
+    {
+      "title": "Application Form (Page No. 02)",
+      "url": "https://bocw.bihar.gov.in/WebLink/NotificationDoc/00001240_Doc.pd"
+    },
+    {
+      "title": "Website",
+      "url": "https://bocw.bihar.gov.in/Index.aspx"
+    },
+    {
+      "title": "Application",
+      "url": "https://bocw.bihar.gov.in/Website/SchemeApply.aspx"
+    }
+  ],
+  "documents_required": "Identity Card of the Registered Worker Bank Account Details Death Certificate of Worker Nominee/legal Heir Certificate Proof of Membership Proof of Age at the Time of Registration Undertaking"
+}

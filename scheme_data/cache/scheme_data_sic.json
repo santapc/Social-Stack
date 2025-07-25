@@ -1,0 +1,48 @@
+{
+  "scheme_id": "685a779d55fcecc791ebc882",
+  "slug": "sic",
+  "scheme_name": "Solar Inverter Charger",
+  "scheme_short_title": "SIC",
+  "state": "Haryana",
+  "level": "State/ UT",
+  "nodal_department": "Renewable Energy Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Mechanization- solar power, farming systems"
+  ],
+  "target_beneficiaries": [
+    "Family"
+  ],
+  "tags": [
+    "Renewable Energy",
+    "Solar Inverter",
+    "Subsidy",
+    "Green Energy Initiative"
+  ],
+  "brief_description": "The \"Solar Inverter Charger\" by the Renewable Energy Department, Government of Haryana, aims to promote the use of renewable energy and reduce electricity dependence by providing a subsidy of \u20b96,000/- or \u20b910,000/- for solar inverter charger systems to eligible households.",
+  "detailed_description": "The &amp;quot;Solar Inverter Charger&amp;quot; by the Renewable Energy Department, Government of Haryana, aims to promote sustainable energy practices, reduce the dependency on grid electricity, and provide financial support for the installation of solar inverter chargers in domestic households. This initiative targets families with existing inverters who have not yet adopted solar technology, thereby enabling energy-efficient solutions and reducing carbon footprint. <br>",
+  "benefits": [
+    "For 320-watt Solar Inverter Charger System: A subsidy of \u20b96,000/- is provided. For 640-watt Solar Inverter Charger System: A subsidy of \u20b910,000/- is provided."
+  ],
+  "eligibility_criteria": "Any resident family of Haryana with Pariwar Pahichan Patra (PPP) to apply. All the households who have domestic inverter and not installed solar inverter charger on his/her existing inverter. Applicants who have not installed Solar Inverter Charger in past 5 years under the Department Scheme.\n",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process on Antyodaya-SARAL Portal:",
+        "Step 1: Visit the Official Portal: Antyodaya-SARAL Portal.  Step 2: For registration, click on \"New User/Register Here\" and fill in all the mandatory details i.e. Name, Email ID, Mobile Number & password. Click on \u2018Submit'. Step 3: Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile.  Login to Apply for the Scheme: Step 1: Visit the Official Portal: Antyodaya-SARAL Portal.  Step 2: The \"Sign in here\" option is available on the right side of the screen. Fill in the required credentials and click on the \u2018Login' button. Step 3: In the opened window, click on \"Scheme/Services list\", and a list of schemes will appear on the screen. Step 4: Now, select the scheme and click on \"Apply for Service/Scheme\". Step 5: Fill in all the details in the online application form and click on \"Submit\".  Track Your Service Online: Track Application/Appeal: Click here . Track Ticket: Click here .  Track Your Service Through SMS: Registered Mobile Number: Type SARAL and send to 9954699899 to track your application. Other Mobile Number: Type SARAL<space><Application ID/Ticket No.> and send to 9954699899 to track your application/ticket.  Contact Us: Helpline: 0172-3968400 Email: saral.haryana@gov.in  Note: Govt. Charges: No Fee Service Charges: \u20b910/- Atal Seva Kendra Service Charges: \u20b910/-"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=E1fwq0pgAw75GA3jMlieDg=="
+    }
+  ],
+  "exclusions": "The applicant should not have installed a Solar Inverter Charger in the past 5 years under the Department Scheme.",
+  "documents_required": "Pariwar Pahichan Patra (PPP)."
+}

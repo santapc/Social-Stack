@@ -1,0 +1,76 @@
+{
+  "scheme_id": "660a9631c90f6c80987f8695",
+  "slug": "ptwadwc",
+  "scheme_name": "Pension To Widows And Destitute Women-Chandigarh",
+  "scheme_short_title": "PTWADWC",
+  "state": "Chandigarh",
+  "level": "State/ UT",
+  "nodal_department": "Social Welfare, Women & Child Development",
+  "dbt_scheme": true,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Financial Assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Widows",
+    "Financial Assistance",
+    "Destitute Women"
+  ],
+  "brief_description": "Under the Pension To Widows And Destitute Women scheme To provide financial assistance to Widows and Destitute Women of Chandigarh.",
+  "detailed_description": "The Pension to Widows And Destitute Women scheme under the Social Welfare, Women &amp; Child Development Department of Chandigarh Goverment provides financial assistance to widows and destitute women to alleviate their economic hardship and provide a semblance of stability in their lives. This support often comes in the form of monthly stipends or welfare programs designed to meet their basic needs, including food, shelter, and healthcare. By extending financial aid, governments or charitable organizations seek to empower these vulnerable individuals to become more self-reliant and regain their footing in society. Additionally, such assistance may include access to vocational training or educational opportunities to enhance their skills and employability, fostering long-term independence. Ultimately, these initiatives contribute to fostering social inclusion and reducing poverty among widows and destitute women, ensuring they have the necessary support to rebuild their lives with dignity.",
+  "benefits": [
+    "Pension Amount To Widows And Destitute Women - \u20b91,000/- per month"
+  ],
+  "eligibility_criteria": "The applicant women's age should be 18-60 years. The applicant should be a resident of UT, Chandigarh for more than 3 years. The applicant's family's annual income should not exceed \u20b91,50,000/-",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration",
+        "Step 1: Applicant has to visit the \" e-District \" website",
+        "Step 2: Click on the \" citizen login \" on the home page",
+        "Step 3: Now you click on \" New User Register here \" on the page",
+        "Step 4: Fill out the registration form with your",
+        "- Full Name",
+        "- Father Name",
+        "- Date Of Birth",
+        "- Gender",
+        "- Mobile No",
+        "- Email Id",
+        "- Country",
+        "- State, e.t.c",
+        "Step-5: Review the details to ensure accuracy, and then submit registration.",
+        "Step-6: After successful registration, you may receive a confirmation message on the website or via email, confirming that your registration was successful.",
+        "Apply",
+        "Step 1: Applicant has to visit the \" e-District \" website",
+        "Step 2: Click on the \" citizen login \" on the home page",
+        "Step 3: Now enter your",
+        "- Registered Email ID :",
+        "- Password",
+        "- Code is Case Sensitive",
+        "Step 4: click sign-in."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://chdsw.gov.in/index.php/scheme/pension-to-widows-and-destitute-women"
+    },
+    {
+      "title": "Login",
+      "url": "http://admser.chd.nic.in/marriage/PortalUser/PortalLogin.aspx"
+    },
+    {
+      "title": "Registration",
+      "url": "http://admser.chd.nic.in/marriage/PortalUser/Register.aspx"
+    }
+  ],
+  "documents_required": "Residence proof of three years (Voter Card, Ration Card, Electricity Bill etc). Death certificate of husband (In case of widow). Aadhar Card. Mobile Number."
+}

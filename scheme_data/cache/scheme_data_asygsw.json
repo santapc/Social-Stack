@@ -1,0 +1,52 @@
+{
+  "scheme_id": "6825a40c2b2d9b51aa00ea06",
+  "slug": "asygsw",
+  "scheme_name": "Antyeshthi Sahay Yojana",
+  "scheme_short_title": "ASYGSW",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Empowerment Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Funeral Assistance",
+    "Death Aid",
+    "Senior Citizen",
+    "Social Welfare"
+  ],
+  "brief_description": "The \"Antyeshthi Sahay Yojana\" by the Social Justice and Empowerment Department, Gujarat, provides financial assistance of \u20b95,000 to the heir of a deceased senior citizen who was receiving old age assistance.",
+  "detailed_description": "The &amp;quot;Antyeshthi Sahay Yojana&amp;quot; is a welfare scheme by the Social Justice and Empowerment Department of Gujarat. The scheme aims to support the families of deceased senior citizens who were beneficiaries of old age assistance. Upon the death of such a senior citizen, a one-time financial aid of \u20b95,000/- is given to the legal heir to help cover funeral and related expenses. <br> <br>",
+  "benefits": [
+    "Financial Assistance: A one-time assistance of \u20b95,000/-."
+  ],
+  "eligibility_criteria": "The applicant must be the heir of a deceased senior citizen. The deceased must have been a beneficiary of old age assistance.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit the Mamlatdar office and request a hard copy of the prescribed format of the application form .",
+        "Step 2: In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required). Step 3: Submit the duly filled and signed application form along with the supporting documents to the Mamlatdar office. Step 4: Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Scheme No. 46)",
+      "url": "https://mariyojana.gujarat.gov.in/MoreDetails.aspx"
+    },
+    {
+      "title": "Guidelines 2",
+      "url": "https://sje.gujarat.gov.in/dsd/Schemes/1964"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Old age assistance sanction order/online registered pension number or bank account number where pension is deposited. Death Certificate. Copy of Ration Card. Copy of the applicant's Bank Passbook. Applicant's Aadhaar Number. Consent Form of all the heirs (In case there is more than one heir)."
+}

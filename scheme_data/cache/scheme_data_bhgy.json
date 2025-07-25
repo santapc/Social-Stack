@@ -1,0 +1,54 @@
+{
+  "scheme_id": "67adb9dea3b9d20958c109d1",
+  "slug": "bhgy",
+  "scheme_name": "Birsa Harit Gram Yojana",
+  "scheme_short_title": "BHGY",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Rural Development Department",
+  "implementing_agency": "Mahatma Gandhi National Rural Employment Guarantee Act",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Land and water resources",
+    "Rural services",
+    "Agricultural Inputs- seeds, fertilizer etc.",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Family"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Livelihood",
+    "Opportunities",
+    "Promote Afforestation"
+  ],
+  "brief_description": "The \"Birsa Harit Gram Yojana\" by the Rural Development Department, Government of Jharkhand, promotes afforestation while generating sustainable livelihoods. It supports SC, ST, and landless families through plantation activities under MGNREGA, ensuring income and environmental sustainability.",
+  "detailed_description": "The &quot;Birsa Harit Gram Yojana&quot; by the Rural Development Department, Government of Jharkhand, aims to promote afforestation and provide sustainable livelihood opportunities for marginalized communities. Under this scheme, block and linear plantation activities are conducted on common and private lands, benefiting Scheduled Castes (SC), Scheduled Tribes (ST), landless families, and other economically weaker sections. The scheme is implemented by the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) framework. <br> ***Objective:*** The objectives include improving green cover, generating rural employment, and ensuring environmental sustainability through a structured three-phase plantation model.",
+  "benefits": [
+    "Plantation of fruit-bearing and fodder trees on common land and private land. Sustainable livelihood generation for marginalized families. Employment guarantee of 100 days under MGNREGA. Usufruct rights over the plantation for beneficiaries."
+  ],
+  "eligibility_criteria": "The applicant should belong to Scheduled Castes (SC), Scheduled Tribes (ST), Primitive Tribes, or be a Below Poverty Line (BPL) family. The applicant should be a woman-headed household, a person with disabilities, or a beneficiary of the Pradhan Mantri Awas Yojana (PMAY). The applicant should be a small or marginal farmer. The applicant should possess a MGNREGA job card. The applicant's livelihood should primarily depend on agriculture.\n\n",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "The interested applicant may visit the local Gram Panchayat or MGNREGA office. Submit a duly filled application form along with the required documents. The Gram Sabha will verify and approve the eligible applications. Upon approval, plantation work will be assigned as per the scheme phase."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.jharkhand.gov.in/Home/ViewDoc?id=A032DO00602032021040724204"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://sarkaraapkedwar.jharkhand.gov.in/index.html"
+    }
+  ],
+  "documents_required": "Identity Proof Caste Certificate (if applicable) BPL Certificate (if applicable) MGNREGA Job Card"
+}

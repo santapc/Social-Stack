@@ -1,0 +1,67 @@
+{
+  "scheme_id": "629f22fbc6fb7a5b6cd18475",
+  "slug": "nbcfdc-gls",
+  "scheme_name": "NBCFDC General Loan Scheme",
+  "scheme_short_title": "NBCFDC - GLS",
+  "level": "Central",
+  "dbt_scheme": false,
+  "categories": [
+    "Banking,Financial Services and Insurance",
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Loan",
+    "Citizen empowerment",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Loan",
+    "Empowerment",
+    "Backward Class",
+    "OBC",
+    "Entrepreneur"
+  ],
+  "brief_description": "A general loan scheme by the Ministry of Social Justice for Indian citizens from backward classes for various income-generating activities. Loan up to \u20b915 Lakh per beneficiary for pursuing income-generating activities.",
+  "detailed_description": "A general loan scheme by the Ministry of Social Justice for Indian citizens from backward classes for various income-generating activities. Loan up to \u20b915 Lakh per beneficiary for pursuing income-generating activities such as Agriculture and Allied Activities, Small Business/Artisan &amp; Traditional Occupation, Transport Sector &amp; Service Sector, and Technical &amp; Professional Trades/Courses.",
+  "benefits": [
+    "Loan up to \u20b915 Lakh per beneficiary for pursuing income generating activities such as Agriculture and Allied Activities, Small Business/Artisan & Traditional Occupation, Transport Sector & Service Sector, and Technical & Professional Trades/Courses. The rate of interest would be as follows - Loan up to \u20b9 5.00 Lakh: 6% per annum; Loan above \u20b95.00 Lakh up to \u20b9 10.00 Lakh: 7% per annum; Loan above \u20b910.00 Lakh up to \u20b9 15.00 Lakh: 8% per annum."
+  ],
+  "eligibility_criteria": "The applicant must be an Entrepreneur The applicant must be from a Backward Class (OBC). The Total Annual Family Income of the applicant must be Less than \u20b9 3 Lakh per Annum.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Eligible persons desirous of obtaining TERM LOAN under NBCFDC scheme should should apply on prescribed form (available with the Channel Partners) to District Office of Channel Partners where he/she normally resides. The applicant should clearly mention his/her felt needs and choice of vocation and training requirements, if any, in the application form.",
+        "For more details, the concerned Channel Partner (State Channelizing Agency/RRB/PSB) can be contacted, or a call can be made on the Toll Free No.18001023399",
+        "You can find the address and contact details of the SCA of your state via the link below -",
+        "https://nbcfdc.gov.in/sca-list/en",
+        "You can find the details of the Regional Rural Banks (RRBs) or the PSB (Public Sector Banks) of your state via the link below -",
+        "https://nbcfdc.gov.in/bank/en",
+        "Source: https://nbcfdc.gov.in/whow-to-apply/en"
+      ]
+    },
+    {
+      "mode": "Online",
+      "steps": [
+        "Eligible persons desirous of obtaining TERM LOAN under NBCFDC scheme can apply online at registration portal on NBCFDC website: https://nbcfdc.gov.in/loanform/en Requests received will be forwarded to concerned Channel Partners (SCAs/Banks) under intimation to the applicant.",
+        "For more details, the concerned Channel Partner (State Channelizing Agency/RRB/PSB) can be contacted, or a call can be made on the Toll Free No.18001023399",
+        "You can find the address and contact details of the SCA of your state via the link below -",
+        "https://nbcfdc.gov.in/sca-list/en",
+        "You can find the details of the Regional Rural Banks (RRBs) or the PSB (Public Sector Banks) of your state via the link below -",
+        "https://nbcfdc.gov.in/bank/en",
+        "Source: https://nbcfdc.gov.in/whow-to-apply/en"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://nbcfdc.gov.in/loan-scheme-description/1/en"
+    }
+  ],
+  "exclusions": "NA",
+  "documents_required": "Proof of Identity (Aadhaar card) Relevant Caste Certificate to be issued by the relevant authority of District Administration. Passport size Photograph of the applicant Following certifications to establish the income criteria can be used by the applicant -\nCertificate of Income issued by Competent Authority of State Government/Distt. Administration or Antyodaya Anna Yojana(AAY) Card or Below Poverty Line (BPL) Card. Annual family income certificate may be considered by the SCAs/Banks/SSCs on self-certification of the beneficiaries with the endorsement of the same by any Gazetted Officer notified by State/Central Government. In case of the loan being applied at the Bank (Channel Partner), Self-Certification assessed and endorsed by the Branch Manager can be used for providing the loan. For Landless agricultural labor, marginalized farmers (those with up to One-hectare land holding) and small farmers (those with up to Two hectares of land holding), as assessed by the Banks through their standard processes and belonging to the Backward Classes will be automatically treated as part of the target group as per following considerations:- Domicile Certificate\n* Landless Agricultural Labour and Marginalized Farmers with land holding less than One hectare will be deemed as having annual family income below Rs.1.50 Lakh per annum .\n* Small farmers i.e. those with land holding between One and Two hectares will be deemed as having annual family income below Rs.3.00 Lakh per annum .\nSource: https://nbcfdc.gov.in/eligibility/en"
+}

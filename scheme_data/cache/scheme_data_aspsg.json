@@ -1,0 +1,52 @@
+{
+  "scheme_id": "680b42fc197a2fd77e4b7ae7",
+  "slug": "aspsg",
+  "scheme_name": "Agro Service Provider Scheme",
+  "scheme_short_title": "ASPSG",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Agriculture, Farmers Welfare and Cooperation Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Agriculture",
+    "Subsidy"
+  ],
+  "brief_description": "The \"Agro Service Provider Scheme\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, aims to support farmers by providing subsidies for acquiring agricultural implements.",
+  "detailed_description": "The &amp;quot;Scheme for Assistance on Purchase of Smartphone by the Farmers&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to support farmers by providing financial assistance in the form of subsidy to farmers purchasing agricultural implements, with higher subsidies for tribal areas.",
+  "benefits": [
+    "General Areas:",
+    "40% subsidy in the 1st year 10% subsidy in the 2nd and 3rd years 7.5% subsidy in the 4th and 5th years Total subsidy up to 75%, capped at \u20b97,50,000/-.",
+    "Tribal Areas:",
+    "50% subsidy in the 1st year 10% subsidy in the 2nd and 3rd years 7.5% subsidy in the 4th and 5th years Total subsidy up to 85%, capped at \u20b98,50,000/-."
+  ],
+  "eligibility_criteria": "The applicant must be a farmer involved in agro service provision. Applicant must reside within the state.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: The applicant may visit and apply online at I-Khedut Portal: https://ikhedut.gujarat.gov.in/  Step 2: On the home page, click on \u2018Schemes' and then click on \u2018Agricultural Schemes'. Step 3: Now select the scheme, click on the \u2018Apply' button and an application page will open. Step 4: Click on \"Apply New\" button and submit a new application. Step 5: Click on the \"Update Application\" button to add corrections to the application. Step 6: Once the application is done, confirm it. Step 7: Take a print out of the confirmed application. Step 8: Applicant can also check their Application Status/View/Print/Upload Application details from the below link: https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx  Contact Us:  Click here ."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://mariyojana.gujarat.gov.in/MoreDetails.aspx"
+    },
+    {
+      "title": "User Manual (Applicant Registration)",
+      "url": "https://ikhedut.gujarat.gov.in/site/iKhedut%202.0%20User%20Manual%20PPT_Gujarati.pdf"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "7/12 Certificate (land ownership proof). Aadhaar Card. Bank Passbook or Cancelled Cheque."
+}

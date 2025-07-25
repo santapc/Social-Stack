@@ -1,0 +1,51 @@
+{
+  "scheme_id": "6826dcc7f2de71e7817bc528",
+  "slug": "spesdp",
+  "scheme_name": "Scheme to Provide Electric Scooter to Disabled Person",
+  "scheme_short_title": "SPESDP",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Empowerment Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Disability Person",
+    "Electric Scooter Subsidy",
+    "Orthopedic Disability",
+    "Below Poverty Level",
+    "BPL"
+  ],
+  "brief_description": "The \"Scheme to Provide Electric Scooter to Disabled Person\" provides financial assistance of up to \u20b925,000 for the purchase of electric scooters to eligible persons with orthopedic disabilities.",
+  "detailed_description": "The &amp;quot;Scheme to Provide Electric Scooter to Disabled Person&amp;quot; is a welfare scheme by the Social Justice and Empowerment Department of Gujarat. The scheme aims to promote mobility and independence for orthopedically disabled individuals in Gujarat by offering a financial subsidy. The beneficiary can purchase an electric scooter through an agency approved by JEDA. After verification, the financial assistance amounting to \u20b925,000 (or 50% of the scooter and kit cost, whichever is lower) will be directly deposited into the beneficiary&amp;#39;s bank account.",
+  "benefits": [
+    "Financial Assistance: Up to the limit of 50% of the basic cost of the electric scooter + 50% of the disability kit or \u20b925,000/-."
+  ],
+  "eligibility_criteria": "The applicant must be a resident of Gujarat. The applicant must be between 18 to 50 years of age. The applicant must have an orthopedic disability of 40% or more, certified by a civil surgeon. The applicant must possess a Disability Identity Card issued by the Social Security Department. The applicant must be listed in the BPL (Below Poverty Line) category with a score of 0 to 20. The applicant must not have already availed benefits under this scheme in the last five years, unless the previously allotted electric scooter is damaged and the applicant remains otherwise eligible. The applicant must purchase the electric scooter from an agency approved by JEDA at the government-approved price.\nNote: The applicant will be given priority if their name appears in the SECC-2011 (Socio-Economic Caste Census) data.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: Applications will be received under this scheme by publishing an advertisement. Step 2: Obtain and fill out the application form (available free of cost). Step 3: Submit the completed application form with required documents to the district-level office. Step 4: Eligible applicants are selected via computerized draw."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Scheme No. 169)",
+      "url": "https://mariyojana.gujarat.gov.in/MoreDetails.aspx"
+    },
+    {
+      "title": "Guidelines 2",
+      "url": "https://sje.gujarat.gov.in/dsd/Schemes/14689"
+    }
+  ],
+  "documents_required": "Proof of Residence (Ration Card / Electricity Bill / Driving License / Aadhaar Card / Electoral Card / any one of) Proof of Age (School Leaving Certificate / Birth Certificate / Disability Identity Card / Civil Surgeon Disability Certificate / Any one). Example of BPL score (Any one of the Golden Jubilee Card). Copy of the first page of the bank passbook (One of the canceled cheques). Copy of Aadhaar Card. Copy of UDID Card."
+}

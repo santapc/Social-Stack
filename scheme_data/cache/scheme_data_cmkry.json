@@ -1,0 +1,56 @@
+{
+  "scheme_id": "6464436f8919dbd7e6f5bb83",
+  "slug": "cmkry",
+  "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+  "scheme_short_title": "CMKRY",
+  "state": "Arunachal Pradesh",
+  "level": "State",
+  "nodal_department": "Agriculture and Marketing Department",
+  "implementing_agency": "Department Of Finance",
+  "categories": [
+    "Agriculture,Rural & Environment",
+    "Banking,Financial Services and Insurance"
+  ],
+  "sub_categories": [
+    "Land and water resources",
+    "Loan"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Farmers",
+    "Crop Loan",
+    "Zero Interest"
+  ],
+  "brief_description": "The Government of Arunachal Pradesh has introduced The Chief Minister's Krishi Rinn Yojana (CMKRY) with the aim of providing a zero interest crop loan facility to farmers of the state to enable them easy access to formal credit through banking channels.",
+  "detailed_description": "The **Chief Minister&amp;#39;s Krishi Rinn Yojana (CMKRY)** is a scheme initiated by the Government of Arunachal Pradesh to support farmers by providing them with zero-interest crop loans. Under this scheme, the government offers an interest subvention of 4% on crop loans or Kisan Credit Card limits up to Rs. 3.00 lakhs, sanctioned by all banks during the current financial year. This interest subvention is provided over and above the subvention given by the Government of India to banks and farmers per the policy circular issued by RBI/NABARD. Additionally, farmers who promptly repay their short-term production credit (crop loan) within one year of disbursement or withdrawal can avail themselves of an interest relief of 3% per annum. In other words, farmers who take loans up to Rs. 3.00 lakhs and make timely repayments are eligible for the zero-interest credit facility. NABARD acts as the channel partner for reimbursement to banks regarding the interest subvention amount of this scheme. The state government also issues a notification wherein a certificate of the cultivated area and crops being grown is issued by the Circle Officer, which is considered a valid document by banks for issuing Kisan Credit Cards to farmers. **Salient Features:** 1. The farmer will get interest subvention of 4% on crop loan / KCC limit upto Rs. 3 lakh. 1. The farmers can take loans from any bank within the state during the current financial year. 1. If the farmer make their loan payment on time they will also get interest relief of 3% per annum on their crop loan. 1. The government will not provide any relief for the production of perennial food crop and plantation crop. 1. The farmers will be selected separately through district and concerned bank wise. **Objective of this scheme:** 1. To provide a facility of crop loans at zero interest rates for farmers in the state.",
+  "benefits": [
+    "Benefits Kisan Credit Card and card limit up to \u20b93.00 lakh as loan, sanctioned by all banks to all farmers of the state during the current financial year. Interest subvention of 4% on crop loan, over and above the subvention given by the Government of India. In effect, farmers making timely repayments can avail \u20b93.00 lakh of the loan with access to an interest credit facility. Zero-interest crop loans provide financial relief to farmers and reduce their burden of interest payments. Easy access to formal credit through banking channels promotes financial inclusion for farmers. The scheme sets a target to cover 7500 farmers under crop loans, contributing to the state's agricultural development."
+  ],
+  "eligibility_criteria": "Eligible Beneficiary/Group Farmers cultivating short-term crops in Arunachal Pradesh. Farmers who hold Kisan Credit Cards or avail themselves of crop production loans from commercial banks, APRB, and APSCAB Ltd are eligible for the scheme. The farmers should have a good repayment track record and promptly repay their short-term production credit (crop loan) within one year. The scheme is available for crop loans or Kisan Credit Card limits up to Rs. 3.00 lakhs. The farmers must fulfill the eligibility criteria and documentation requirements set by the banks. The scheme is open to both small and marginal farmers as well as large farmers in the state.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "According to the scheme, prospective farmers will obtain a Land Holding certificate from the concerned CO/EAC/BDO/SDO/ ADC/DC office. The loan application will be forwarded through Circle Officer who will certify that the applicants own Land. Benefits under the scheme will be extended to farmers availing KCC. The applicant may apply for the scheme in any Bank. Fill out the application form with accurate and complete details. Attach the necessary documents as specified by the bank, including identification proof, land ownership documents, income certificates, etc. Submit the completed application form and supporting documents to the bank. The bank will review the application, assess the eligibility, and process the loan request. Upon approval, The loan amount will be disbursed to the farmer's account."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://ahvdd.arunachal.gov.in/pdf/eBook/Government%20Scheme%20Handbook.pdf"
+    },
+    {
+      "title": "Notification",
+      "url": "https://cdn.s3waas.gov.in/s300411460f7c92d2124a67ea0f4cb5f85/uploads/2018/03/2018032393.pdf"
+    },
+    {
+      "title": "Land Holding Certificate",
+      "url": "https://cdn.s3waas.gov.in/s300411460f7c92d2124a67ea0f4cb5f85/uploads/2018/03/2018032315-1.pdf"
+    }
+  ],
+  "exclusions": "The scheme does not apply to the production of perennial food crops or plantation crops. Farmers engaged in the production of excluded crops mentioned above are not eligible for zero-interest credit under this scheme. Non-farmers or individuals who are not actively engaged in agricultural activities are not eligible for the benefits of CMKRY.",
+  "documents_required": "Documents Required Land holding certificate issued by the local Gaon Buras (GBs) Notification from the state govt. wherein a certificate of area and crop being cultivated issued by Circle Officer to be accepted as valid documents by bank. Aadhar seeded bank account details. Aadhar Card. Other requirements by the bank against loan formalities"
+}

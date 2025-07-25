@@ -1,0 +1,76 @@
+{
+  "scheme_id": "65d790f3938a0b13cc8e3106",
+  "slug": "hksadmmyghkdms",
+  "scheme_name": "Hita-dhikaari Ke Samanye Athava Durghatana Me Mrityu Ya Ghayal Hone Ki Dasha Me Sahayata Yojana",
+  "scheme_short_title": "HKSMD",
+  "state": "Rajasthan",
+  "level": "State/ UT",
+  "nodal_department": "Labour Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Health & Wellness",
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Constrution Worker",
+    "Health & Wellness",
+    "Workers"
+  ],
+  "brief_description": "By the labor department of Rajasthan started \"Hita-Dhikaari Ke Samanye Athava Durghatana Me Mrityu Ya Ghayal Hone Ki Dasha Me Sahayata Yojana\" for the construction workers.",
+  "detailed_description": "The Beneficiary&#39;s Death or Injury Assistance Scheme, established by the Labor department of Rajasthan State, is a compassionate government program designed to offer a helping hand to families of beneficiaries who have experienced the loss of a loved one or the sudden hardship of an injury, regardless of whether the cause was natural or accidental. Recognizing the significant emotional and financial strain that such events can inflict, this initiative aims to provide a measure of financial security during these difficult times, allowing families to focus on healing and rebuilding their lives.",
+  "benefits": [
+    "In case of death due to accident : \u20b95,00,000/- In case of permanent total disability due to accident : \u20b93,00,000/- Permanent total disability means disabling of two eyes or both hands or both legs due to accident. In case of partial permanent disability due to accident : \u20b91,00,000/- Permanent partial disability means disabling of one hand or one leg. In case of serious injury in an accident : Up to \u20b920,000/- (Serious injury in an accident means the beneficiary being admitted as an in-patient in the hospital for at least 5 days. The determination of serious injury will be decided based on the certificate issued by the Medical Board .) In case of minor injuries in an accident : Up to \u20b95,000/- Minor injuries means hospitalization as an inpatient in a hospital for less than 5 days In case of normal death of a construction worker : \u20b975,000/-"
+  ],
+  "eligibility_criteria": "Construction workers must be between 18 to 60 years of age. Construction workers must be registered with the labor board. Construction worker must be depositing their contributions regularly.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration",
+        "Step-1: Applicant have to visit the official portal .",
+        "Step-2: Click on the option \" Register \".",
+        "Step-3: Then you will be redirected to the SSO registration page. The registration page will appear with the following options.",
+        "Citizen",
+        "Step-4: Choose the either one option from the Jan Aadhaar Or Google to process further.",
+        "Jan Aadhaar : Enter the Jan Aadhaar number, click on the \u2018Next' button, Select your name, the name of the head of the family and all the other members and Click on the \u2018Send OTP' button. Enter the \u2018OTP' and Click on the \u2018Verify OTP' button to Complete the registration.",
+        "Google : Enter the Gmail ID, click on the \u2018Next' button, Enter the password. A new link appear on screen, now click on new SSO link. SSO id will appear on screen, now create the password. Enter Mobile number, click on registration.",
+        "Apply",
+        "Step-1: Applicant have to visit the official portal .",
+        "Step-2: After login, dashboard will open.",
+        "Step-3: Click on \"LDMS\" option.",
+        "Step-4: In LDMS, select \"Welfare Schemes\" from the side menu and select BOCW Welfare Board.",
+        "Step-5: Now click on \"Apply for Scheme\" on screen.",
+        "Step-6: In this new page, will get a list of names of all the schemes of Rajasthan Shramik Card, out of which click on the name of \"Yojana\"",
+        "Step-7: Fill out the all relevant detail.",
+        "Step-8: Submit."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://labour.rajasthan.gov.in/Schemes.aspx"
+    },
+    {
+      "title": "Details",
+      "url": "https://schemes.rajasthan.gov.in/scheme/detail/226"
+    },
+    {
+      "title": "Registration",
+      "url": "https://sso.rajasthan.gov.in/register"
+    },
+    {
+      "title": "Login",
+      "url": "https://sso.rajasthan.gov.in/singin"
+    }
+  ],
+  "exclusions": "Death due to suicide or consumption of drugs or substances or In case of death or injury due to fighting with each other in violation of the law for committing a crime. ",
+  "documents_required": "Copy of discharge ticket from hospital in case of accident. Copy of mortuary report or FIR in case of accidental death. Death certificate issued by the registered authority in case of death. Certificate from the employer/employer of the place where the worker worked. Copy of beneficiary registration identity card or card. Copy of Bhamshah family card or Bhamshah nomination. Copy of Aadhar Card. Copy of first page of bank account passbook."
+}

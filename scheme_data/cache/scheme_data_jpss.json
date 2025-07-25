@@ -1,0 +1,61 @@
+{
+  "scheme_id": "677a8797dfe9058f60792cac",
+  "slug": "jpss",
+  "scheme_name": "Jharkhand Petrol Subsidy Scheme",
+  "scheme_short_title": "JPSS",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Food, Public Distribution and Consumer affairs Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Transport & Infrastructure"
+  ],
+  "sub_categories": [
+    "Financial assistance",
+    "Food Security / Public Distribution System"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Subsidy",
+    "Petrol",
+    "Rural",
+    "Two-wheelers"
+  ],
+  "brief_description": "The scheme \"Petrol Subsidy Scheme\" implemented by the Food, Public Distribution & Consumer Affairs Department, Government of Jharkhand, aims to provide a petrol subsidy of \u20b9250 per month for two-wheelers to eligible NFSA/Jharkhand State Food Security Scheme beneficiaries.",
+  "detailed_description": "The &quot;Petrol Subsidy Scheme&quot; implemented by the Food, Public Distribution &amp; Consumer Affairs Department, Government of Jharkhand, aims to provide financial relief to economically disadvantaged families by offering a petrol subsidy for their two-wheelers. Under this scheme, beneficiaries under the National Food Security Act (NFSA) or Jharkhand State Food Security Scheme receive \u20b925/- per liter of petrol for up to 10 liters monthly.",
+  "benefits": [
+    "Subsidy Amount",
+    "\u20b925/- per liter of petrol for up to 10 liters monthly (\u20b9250/month).",
+    "Mode of Disbursement:",
+    "Direct Benefit Transfer (DBT) to the beneficiary's bank account."
+  ],
+  "eligibility_criteria": "General Eligibility:\nThe applicant should possess a valid ration card under the National Food Security Act (NFSA) or Jharkhand State Food Security Scheme. All family members listed in the ration card must have Aadhaar numbers linked and verified. The applicant's Aadhaar should be linked to a valid bank account and an updated mobile number.\n\nVehicle Eligibility:\nThe applicant's two-wheeler must be registered in their name and in the state of Jharkhand. The applicant must possess a valid driving license.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process:",
+        "Download the CMSUPPORT app or visit the official portal jsfss.jharkhand.gov.in . Enter your ration card number and Aadhaar number. An OTP will be sent to the mobile number linked to the Aadhaar. Verify the OTP. ",
+        "Login Credentials:",
+        "Use your ration card number as the login ID and the last 8 digits of your Aadhaar as the password.",
+        "Filling the Form:",
+        "Select your name from the family members listed on the ration card. Enter your two-wheeler's registration number and driving license details. ",
+        "Verification Process:",
+        "Submitted vehicle details are sent to the DTO (District Transport Office) for verification. Post verification, the data is forwarded to the District Supply Officer (DSO) for final approval.",
+        "Approval and Disbursement:",
+        "Once approved, the subsidy amount is transferred directly to the applicant's linked bank account through DBT."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cm.jharkhand.gov.in/node/12697"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Copy of Ration Card (NFSA/Jharkhand State Food Security Scheme). Aadhaar Card of the Applicant (Linked to the Bank Account). Bank Passbook. Valid Driving License. Vehicle Registration Certificate (Two-Wheeler Registered in Jharkhand). "
+}

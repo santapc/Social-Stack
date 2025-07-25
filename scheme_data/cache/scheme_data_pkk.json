@@ -1,0 +1,54 @@
+{
+  "scheme_id": "643c5b2eb65f8727d891c496",
+  "slug": "pkk",
+  "scheme_name": "Panchayat Kalyan Kosh",
+  "scheme_short_title": "PKK",
+  "state": "Uttar Pradesh",
+  "level": "State",
+  "nodal_department": "Panchayati Raj Department, Uttar Pradesh",
+  "dbt_scheme": true,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Family"
+  ],
+  "tags": [
+    "Panchayat Representative",
+    "Death",
+    "Financial Assiatance",
+    "Panchayat"
+  ],
+  "brief_description": "The scheme aims to provide financial assistance to the families or dependents of Gram Pradhans, Kshetra Panchayat Pramukhs, Zila Panchayat Presidents, and all members of the three-tier Panchayat elected as representatives of the people, in the event of their death while in office.",
+  "detailed_description": "The &amp;quot;Panchayat Kalyan Kosh&amp;quot; scheme was introduced by the Panchayati Raj Department, Government of Uttar Pradesh. The scheme aims to provide financial assistance to the families or dependents of Gram Pradhans, Kshetra Panchayat Pramukhs, Zila Panchayat Presidents, and all members of the three-tier Panchayat elected as representatives of the people, in the event of their death while in office (excluding cases of suicide or involvement in criminal acts).",
+  "benefits": [
+    "In the event of the death of a Panchayat Representative while in office, the following amounts will be provided to their families or dependents: Pradhan of Gram Panchayat, Pramukh of Kshetra Panchayat, and Zila Panchayat President: \u20b910,00,000/- Member of Zila Panchayat: \u20b95,00,000/- Member of Kshetra Panchayat: \u20b93,00,000/- Member of Gram Panchayat: \u20b92,00,000/-"
+  ],
+  "eligibility_criteria": "The applicant should be a family member or dependent of a deceased Panchayat Representative. Assistance is provided in the event of the death of a Panchayat Representative (Pradhan of Gram Panchayat, Pramukh of Kshetra Panchayat, Zila Panchayat President, or members of Zila Panchayat, Kshetra Panchayat, and Gram Panchayat) while serving in office. Assistance will not be provided in cases of suicide or involvement in criminal acts by the Panchayat Representative.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Family members or dependents of the deceased Panchayat representatives should apply directly through the official website of the Panchayati Raj Department, Uttar Pradesh. Step 2: During registration on the Panchayat Kalyan Kosh portal, the dependent must fill out the application form in the prescribed format ( Appendix-1 ) and upload the necessary documents. Step 3: The District Panchayat Raj Officer will download the application submitted by the dependent from their login ID and obtain approval from the District Magistrate after a thorough review. Step 4: Once approved by the District Magistrate, the District Panchayat Raj Officer will forward the application form to the Director of Panchayati Raj from their login ID for fund transfer."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://prdfinance.up.gov.in/dist_pdf_kalyankosh/pk_niyamavli.pdf"
+    },
+    {
+      "title": "Application Process Details",
+      "url": "https://prdfinance.up.gov.in/dist_pdf_kalyankosh/Avedan_Prakriya.pdf"
+    },
+    {
+      "title": "Online Application Portal",
+      "url": "https://prdfinance.up.gov.in/self_registration_kalyankosh_ben"
+    }
+  ],
+  "documents_required": "Applicant's identity proof Proof of relationship with the deceased Panchayat representative Ration card In case of accidental death of the Panchayat representative, provide a copy of the Panchnama, postmortem report, or a certificate issued by a registered medical practitioner Death certificate issued by the competent authority in case of natural death Certificate issued by the Gram Panchayat Secretary in case of the death of a Gram Pradhan or Gram Panchayat member, by the Block Development Officer in case of the death of an Kshetra Pramukh or Kshetra Panchayat member, and by the Additional Chief Officer for the death of a Zila Panchayat President or Zila Panchayat member Bank account details/bank passbook Certification record from the office of the elected person Any additional documents as required"
+}

@@ -1,0 +1,49 @@
+{
+  "scheme_id": "66ed48308738f8968e6d13b6",
+  "slug": "bfa",
+  "scheme_name": "Buti Foundation Award",
+  "scheme_short_title": "BFA",
+  "level": "Central",
+  "nodal_department": "Department of Space",
+  "dbt_scheme": false,
+  "categories": [
+    "Skills & Employment",
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Apprenticeship",
+    "Education and training grants, fellowship, stipend"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Award",
+    "Scientist",
+    "Engineer",
+    "Research"
+  ],
+  "brief_description": "The Buti Foundation Award, established in 2007 by the Buti Foundation, New Delhi, is a biennial award recognizing innovative and outstanding research in the field of Plasma Science & Technology. The award aims to honor a Scientist/Engineer under the age of 45 years for their significant contribution",
+  "detailed_description": "The Buti Foundation Award, established in 2007 by the Buti Foundation, New Delhi, is a biennial award recognizing innovative and outstanding research in the field of Plasma Science &amp; Technology. The award aims to honor a Scientist/Engineer under the age of 45 years for their significant contributions to this field. The award includes a medal and a cash prize.",
+  "benefits": [
+    "Award Amount: \u20b950,000/- Award Recognition: Medal"
+  ],
+  "eligibility_criteria": "The applicant should be a Scientist/Engineer. The applicant's age should be 45 years as of 1st January 2021 (born on or after 02.01.1976). The applicant should have conducted innovative and outstanding research in the field of Plasma Science & Technology in India.\n\n",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step-01: Download the prescribed format of the application form from the PRL official website .",
+        "Step-02: Fill in all the mandatory fields in the application form and attach copies of all the required documents (self-attested, if necessary).",
+        "Step-03: Candidate can email their applications in the prescribed format to: DIRECTOR@PRL.RES.IN with the subject line \"Nomination for The Buti Foundation Award\"."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.prl.res.in/prl-eng/buti_foundation_award"
+    }
+  ],
+  "documents_required": "Detailed Contribution Statement (2 pages). Impact Statement. List of Publications. List of TEN BEST Publications. Reprints of Five Important Publications (e-files only). "
+}

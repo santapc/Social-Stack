@@ -1,0 +1,60 @@
+{
+  "scheme_id": "666b0c2b21d7c2ac0d885e51",
+  "slug": "ofojs",
+  "scheme_name": "One Family One Job Scheme",
+  "scheme_short_title": "OFOJS",
+  "state": "Haryana",
+  "level": "State/ UT",
+  "nodal_department": "Employment Department",
+  "implementing_agency": "Directorate Of Employment, Government Of Haryana",
+  "dbt_scheme": false,
+  "categories": [
+    "Skills & Employment"
+  ],
+  "sub_categories": [
+    "Employment services and jobs"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Family",
+    "Job",
+    "Employment",
+    "Unemployed"
+  ],
+  "brief_description": "The scheme is implemented by the Directorate of Employment, Government of Haryana on 1st December, 1992 in Haryana State. Eligible applicants can register their names under this scheme, making them eligible for all benefits provided by the Employment Department.",
+  "detailed_description": "The scheme \"One Family One Job Scheme\" is implemented by the Directorate of Employment, Government of Haryana on 1st December, 1992 in Haryana State. Eligible applicants can register their names under this scheme, making them eligible for all benefits provided by the Employment Department. A resident of Haryana State aged 18 to 35 years (with a relaxation of up to 5 years for SC or BC applicants) is eligible to apply under the scheme, provided no member of their family is employed in the public or private sector and no family member is an income tax or sales taxpayer.",
+  "benefits": [
+    "Candidates registered under this scheme are eligible for all benefits provided by the Employment Department."
+  ],
+  "eligibility_criteria": "The applicant must be between 18 and 35 years old (with a relaxation of up to 5 years for SC or BC applicants). The applicant must be a resident of Haryana State. No member of the applicant's family should be employed in the public or private sector. No member of the applicant's family should be an income tax or sales taxpayer. No member of the applicant's family should be a current or former MP/MLA or a chairman of any board, corporation, or undertaking.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process on Antyodaya-SARAL Portal:",
+        "Step 01: The eligible applicant may apply online through the Official Portal- Antyodaya-SARAL Portal. https://saralharyana.gov.in/  Step 02: If the applicant is not registered on the portal, he/she gets registered there. Step 03: For registration, click \" New User \" under \u2018Sign In Here' and fill in all the mandatory details i.e. Name, Email ID, Mobile Number, Password & State. Click on \u2018Submit'. Step 04: Verify your mobile number and email ID through the received OTP and complete the registration process. Login to apply for the scheme: Step 01: To avail the benefits of the scheme, visit the Official Antyodaya-SARAL Portal and log in through the email ID used while registering. Step 02: Enter Password & Captcha and click on \u2018Login'. Step 03: After successful login, click on \u2018Apply for Services' and then \u2018View all Available Services' Step 04: Now, you can search for the scheme and click on the scheme to go ahead and fill out the application form. Step 05: Enter your Parivar Pehchan Patra number - Family ID and click on \"Click here to Fetch Family Data\" which displays the family members registered under the given Family ID. Step 06: Select the beneficiary/applicant name and enter the OTP that is being sent to the selected family member for verification. Click on \"Click to Verify\" Step 07: Fill in all the mandatory details and upload all the mandatory documents. Step 08: Preview the application form and click on \u2018Submit'. Tracking of Application: Applicants can track his/her application through the Official Antyodaya-SARAL Portal by entering their Department Name, Scheme Name, and Application Reference ID."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://hrex.gov.in/api/downloadFile/pdf/ofoj.pdf"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=kPcdWFRjTQE0phQYgKiJwQ%3d%3d"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://hrex.gov.in/"
+    },
+    {
+      "title": "Antyodaya-SARAL Portal",
+      "url": "https://saralharyana.gov.in/"
+    }
+  ],
+  "documents_required": "1. Family ID (PPP document)\n2. Eligibility Documents:\n\u2022 Ration Card\n\u2022 Family History Sheet\n\u2022 Self-declaration form\n3. Haryana Resident Certificate/Domicile Certificate\n4. Address Proof (Any two of the following):\n\u2022 Aadhaar Card\n\u2022 Voter ID\n\u2022 Attested copy of Haryana domicile certificate\n\u2022 Ration Card\n\u2022 Driving License\n5. A self-declaration form containing the details of his/her adult family members"
+}

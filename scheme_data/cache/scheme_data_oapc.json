@@ -1,0 +1,75 @@
+{
+  "scheme_id": "66052ba4c90f6c8098787dd5",
+  "slug": "oapc",
+  "scheme_name": "Old Age Pension - Chandigarh",
+  "scheme_short_title": "OAPC",
+  "state": "Chandigarh",
+  "level": "State/ UT",
+  "nodal_department": "Social Welfare, Women & Child Development",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Pension"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Pension",
+    "Empowerment",
+    "Financial Assistance"
+  ],
+  "brief_description": "The Old Age Pension scheme aims to provide financial assistance and support to elderly citizens who have reached a certain age and require regular income for their sustenance.",
+  "detailed_description": "The Old Age Pension Scheme under The Social Welfare, Women &amp; Child Development Department of Chandigarh Government provides essential financial support to elderly citizens who have reached a certain age and may face economic challenges. Through this scheme, eligible senior citizens receive a monthly pension to help them meet their basic needs, including food, shelter, and healthcare expenses. By offering this assistance, the scheme plays a crucial role in ensuring the well-being and dignity of older individuals, particularly those who may lack adequate financial resources. Moreover, the scheme contributes to addressing issues of poverty and social exclusion among the elderly population, fostering a more inclusive and supportive society. <br> <br>",
+  "benefits": [
+    "Pension Amount- \u20b91000/- per month."
+  ],
+  "eligibility_criteria": "The applicant's family's annual income should not exceed \u20b91,50,000/- The applicant resident should be at UT, Chandigarh for more than 3 years. The applicant's age should be 60 years and above.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration",
+        "Step 1: Applicant has to visit the \" e-District \" website",
+        "Step 2: Click on the \" citizen login \" on the home page",
+        "Step 3: Now you click on \" New User Register here \" on the page",
+        "Step 4: Fill out the registration form with your",
+        "- Full Name",
+        "- Father Name",
+        "- Date Of Birth",
+        "- Gender",
+        "- Mobile No",
+        "- Email Id",
+        "- Country",
+        "- State, e.t.c",
+        "Step-5: Review the details to ensure accuracy, and then submit registration.",
+        "Step-6: After successful registration, you may receive a confirmation message on the website or via email, confirming that your registration was successful.",
+        "Apply",
+        "Step 1: Applicant has to visit the \" e-District \" website",
+        "Step 2: Click on the \" citizen login \" on the home page",
+        "Step 3: Now enter your",
+        "- Registered Email ID :",
+        "- Password",
+        "- Code is Case Sensitive",
+        "Step 4: click sign-in."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://chdsw.gov.in/index.php/scheme/old-age-pension"
+    },
+    {
+      "title": "Login",
+      "url": "http://admser.chd.nic.in/marriage/PortalUser/PortalLogin.aspx"
+    },
+    {
+      "title": "Registration",
+      "url": "http://admser.chd.nic.in/marriage/PortalUser/Register.aspx"
+    }
+  ],
+  "documents_required": "Two passport-size photographs. Residence proof of three years (Voter Card, Ration Card, Electricity Bill etc). Aadhar Card. Mobile Number."
+}

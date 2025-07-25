@@ -1,0 +1,56 @@
+{
+  "scheme_id": "685bcdc287aa2dcacd09a0d4",
+  "slug": "kdy",
+  "scheme_name": "Kailash Darshan Yatra",
+  "scheme_short_title": "KDY",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Tourism Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Sports & Culture",
+    "Travel & Tourism"
+  ],
+  "sub_categories": [
+    "Culture",
+    "Tourism in India"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Travel",
+    "Tourism",
+    "Pilgrim",
+    "Culture",
+    "Heritage"
+  ],
+  "brief_description": "The scheme provides financial assistance to pilgrims from Gujarat undertaking the Kailash Darshan Yatra. To be eligible, the applicant must be a selected pilgrim from Gujarat and submit proof of yatra completion within 90 days. Applications for this scheme are accepted offline.",
+  "detailed_description": "Launched in 2001, the scheme &quot;Kailash Darshan Yatra&quot; by the Gujarat Holy Pilgrimage Development Board, Tourism Department, Government of Gujarat, aims to provide financial assistance to pilgrims from Gujarat undertaking the sacred Kailash Mansarovar pilgrimage. The scheme offers one-time financial assistance to selected applicants who complete the yatra. To be eligible, the applicant must be a selected pilgrim from Gujarat and submit proof of yatra completion within 90 days. Applications for this scheme are accepted offline.",
+  "benefits": [
+    "One-time financial assistance is provided to the pilgrim for undertaking the Kailash Darshan Yatra.",
+    "Validity: Once in a lifetime per pilgrim.",
+    "*The scheme guidelines do not specify the amount of the benefit; applicants should verify with the authorities."
+  ],
+  "eligibility_criteria": "The applicant must be a pilgrim from Gujarat. The applicant must have completed the Kailash Darshan Yatra. The applicant must apply within 90 days of yatra completion. The applicant must not have availed of the benefit before under this scheme.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should take a printout of the prescribed format of the application form.",
+        "Step 2: In the application form, fill in all the mandatory fields (details of the authorized travel agent/organizer, details of the pilgrims), and attach copies of all the mandatory documents (self-attested, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to \"Gujarat Holy Pilgrimage Development Board, Old Secretariat, Gandhinagar\" within 90 days of yatra completion.",
+        "*Retain a copy of the submitted application for future reference.",
+        "Verification & Disbursement",
+        "The board processes applications, and financial assistance is credited to the beneficiary's account."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines & Application Form",
+      "url": "https://yatradham.gujarat.gov.in/Documents/SubDeals_2018-9-27_365.pdf"
+    }
+  ],
+  "documents_required": "Copy of Passport Certificate of Participation Proof of Selection Bank Details (for disbursement)"
+}

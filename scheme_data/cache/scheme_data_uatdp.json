@@ -1,0 +1,50 @@
+{
+  "scheme_id": "660a8254a833324343928381",
+  "slug": "uatdp",
+  "scheme_name": "Unemployment Allowance to Disabled Persons",
+  "scheme_short_title": "UATDP",
+  "state": "Chandigarh",
+  "level": "State/ UT",
+  "nodal_department": "Social Welfare, Women & Child Development",
+  "dbt_scheme": true,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Disabled Persons",
+    "Unemployment",
+    "Financial Assistance"
+  ],
+  "brief_description": "The Unemployment Allowance To Disabled Person scheme provides financial support to unemployed handicapped individuals who have been waiting for employment for an unduly long period.",
+  "detailed_description": "The Unemployment Allowance To Disabled Person scheme under the Social Welfare, Women &amp; Child Development Chandigarh Government is to provide unemployment allowance to handicapped individuals who have been unemployed for an unduly long period and belong to the poor section of society. These individuals need assistance until they secure gainful employment. The scheme seeks to alleviate the financial burden faced by unemployed handicapped persons, ensuring they can meet their basic needs while actively seeking employment opportunities. By offering financial support, the scheme aims to empower disabled individuals to become self-sufficient members of society. <br> <br> <br>",
+  "benefits": [
+    "To all categories of Handicapped Persons: \u20b9500/- per month."
+  ],
+  "eligibility_criteria": "The applicant should be an unemployed person. The applicant's age should be between 18-30 years. The applicant's total family income of parents should not exceed \u20b9 1,50,000/- per annum. The applicants should have a minimum of two years of registration in the Special Employment Exchange in the U.T. Chandigarh. The applicants should have been residing in U.T. Chandigarh for at least three years immediately before the submission.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Step-1: Applicant have to visit the \" ServicesPlus \" website. Step-2: Click on \" Register \" on the homepage. Step-3: Fill out the registration form with your - Full Name - Email id - Mobile number - Password - Select State - Enter Captcha Step-4: Review the details to ensure accuracy, and then submit the registration. Step-5: After that OTP will sent to your mobile or gmail then click Verify after entering the OTP. Step-6: Now you are successful in registration, you may receive a confirmation message on the website or via email, confirming that your registration was successful.  Apply Step-1: Applicant have to visit the \"ServicesPlus\" website \" login \"   Step-2: Enter your Email ID or Password, captcha. Step-3: Select the services/Scheme name. Step-4: Provide the required details in the application form. Step-5: Submit."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://chdsw.gov.in/index.php/scheme/unemployment-allowance-to-disabled-persons"
+    },
+    {
+      "title": "Registration",
+      "url": "https://serviceonline.gov.in/citizenRegistration.html"
+    },
+    {
+      "title": "Login",
+      "url": "https://serviceonline.gov.in/loginWindow.do"
+    }
+  ],
+  "documents_required": "Disability Certificate ID proof Application form Bank Account"
+}

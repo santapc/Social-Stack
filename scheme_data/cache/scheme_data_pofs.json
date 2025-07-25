@@ -1,0 +1,47 @@
+{
+  "scheme_id": "66ecf7f00d644223a86b0519",
+  "slug": "pofs",
+  "scheme_name": "Production of Foundation Seeds",
+  "scheme_short_title": "POFS",
+  "state": "Tamil Nadu",
+  "level": "State/ UT",
+  "nodal_department": "Agriculture Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Agriculture",
+    "Farmer",
+    "Seed Production",
+    "Foundation Seeds"
+  ],
+  "brief_description": "The \"Production of Foundation Seeds\" scheme, provides subsidies to farmers cultivating seed farms for pulses, offering specific benefits to SC/ST farmers and farm women.",
+  "detailed_description": "The scheme \"Production of Foundation Seeds\" by the Agriculture-Farmers Welfare Department, Tamil Nadu, is designed to support farmers in the production of foundation seeds, particularly for pulses. Eligible farmers receive a subsidy. Special benefits are provided for SC/ST farmers (24%) and farm women (20%). <br> <br>",
+  "benefits": [
+    "Financial Assistance: \u20b91,000/- per quintal."
+  ],
+  "eligibility_criteria": "The beneficiary should be a Farmer. The beneficiary should be a resident of Tamil Nadu. The beneficiary should raise seed farms with Pulses crop.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: Collect the application form from the nearest Agricultural Office. Step 2: Fill out the application form with the required details and attach mandatory documents (self-attested, if required). Step 3: Submit the form to the concerned office: Village Level: Submit the application to the Assistant Agricultural Officer. Block Level: Submit to the Agricultural Officer or Deputy Agricultural Officer. District Level: Submit to the Joint Director of Agriculture."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.tn.gov.in/scheme/data_view/6891"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Proof of identity (Aadhar card, Voter ID) Land ownership documents or lease agreement. Certification of seed production. Bank account details. Caste certificate (if applicable). Women farmer group registration documents (if applicable). Any other documents (if required)."
+}

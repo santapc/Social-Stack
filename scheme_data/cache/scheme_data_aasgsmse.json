@@ -1,0 +1,73 @@
+{
+  "scheme_id": "65deb70f938a0b13cc995aa8",
+  "slug": "aasgsmse",
+  "scheme_name": "Award of Attendance Scholarship to Girl Students in the Middle Stage of Education",
+  "scheme_short_title": "AASGSMSE",
+  "state": "Puducherry",
+  "level": "State/ UT",
+  "nodal_department": "School Education Department, Puducherry",
+  "dbt_scheme": true,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Girl",
+    "Student",
+    "School",
+    "Scholarship",
+    "Education"
+  ],
+  "brief_description": "\"Award of Attendance Scholarship to Girl Students in the Middle Stage of Education\" was launched by the Directorate of School Education, UT of Puducherry aims to raise the enrolment of girls in schools in the age group of 11-14 years in the middle stage of education, and to avoid dropout.",
+  "detailed_description": "The &quot;Award of Attendance Scholarship to Girl Students in the Middle Stage of Education&quot; was launched by the Department of Information &amp; Publicity, Union Territory of Puducherry. The objective of the scheme is to raise the enrolment of girls in the schools between the age group of 11-14 years in the middle stage of education and also to avoid dropouts among girl students.",
+  "benefits": [
+    "Scholarship Amount: \u20b9200/- per annum per student. Mode of Disbursement: Disbursed directly into Aadhaar-seeded bank account of the applicant through Direct Benefit Transfer (DBT) and Public Financial Management System (PFMS)."
+  ],
+  "eligibility_criteria": "The applicant should be a citizen of India. The applicant should be a native of the Union Territory of Puducherry by birth or by continuous residence for not less than five years. The applicant should be a Girl. The applicant should be a Student. The applicant should be in the age group of 11 to 14 years. The applicant should be studying in a Government, Government Aided or a Government-recognized Private School in Puducherry. The applicant should not belong to the Scheduled Caste or Scheduled Tribes Category. The applicant should have an annual family income of \u20b975,000/- or below. The applicant must have secured 97% (or above) attendance in the preceding year.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should take print of the prescribed format of the application form.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: The interested applicant should visit the Head of the Institution of his/her respective school and submit the duly filled and signed application form and the documents. The Heads of the Institutions then send the applications to the Directorate of School Education through Google Forms."
+      ]
+    },
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Visit the Official Website of the e-District Portal of the Government of Puducherry.",
+        "Step 2: At the top right corner of the home page, click \" Login \". In the login screen, click \" Register a New Membership \".",
+        "Step 3: On the Registration Page, fill in all the mandatory fields: Username, Password, Confirm Password, Personal Details (Full Name, First Name, Email Address, Address, Current Address, Gender, Date of Birth, Mobile Number). Agree to the declaration. Fill in the Captcha Code, and click \"Signup\".",
+        "Step 4: Visit the Official Website of the e-District Portal of the Government of Puducherry.",
+        "Step 5: At the top right corner of the home page, click \" Login \". In the login screen, provide your Username and Password, fill in the Captcha Code, and click \"Sign In\".",
+        "Step 6: On the next screen, a list of schemes by the Government of Puducherry will be displayed Department-wise.",
+        "Step 7: Click on the scheme you wish to apply for. You will be taken to its online application form.",
+        "Step 8: In the application form, fill in all the mandatory fields (marked with a red asterisk) and upload all the mandatory documents (self-attest if required).",
+        "Step 9: Tick the declaration stating \"I hereby declare that the above-mentioned details are true and correct as per the best of my Knowledge\". Submit the application and note the application number for tracking your application . The application number will also be received on your Registered Mobile Number / Registered Email ID.",
+        "*Track Your Application  here ",
+        "* Access the User Manual for Online Application  here "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://schooledn.py.gov.in/Welfare/InnerPages/edu_AttendanceScholarship.html"
+    },
+    {
+      "title": "User Manual For Online Application",
+      "url": "https://edistrict.py.gov.in/Help.rar"
+    },
+    {
+      "title": "Track Your Application",
+      "url": "https://edistrict.py.gov.in/User/TrackApplication.aspx"
+    }
+  ],
+  "documents_required": "Nativity/Citizenship/Residential Certificate, issued by the Officer of the Revenue Department not below the rank of a Deputy Tahsildar. Income Certificate. Birth Certificate for Proof of Age. Stamp-sized Photograph. Aadhaar Card. Secondary School Leaving Certificate (SSLC) Certificate. Public Information Certificate (PIC). Attendance Sheet, signed by the competent authority."
+}

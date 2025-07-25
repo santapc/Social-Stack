@@ -1,0 +1,58 @@
+{
+  "scheme_id": "679a05d3c4ea5da14d010809",
+  "slug": "scbshas",
+  "scheme_name": "Scheduled Caste Boys/Girls Housing Assistance Scheme",
+  "scheme_short_title": "SCBSHAS",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Tribal Welfare and Scheduled Caste (SC) Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Housing & Shelter"
+  ],
+  "sub_categories": [
+    "Hostel service"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Scheduled Caste",
+    "Housing",
+    "Student",
+    "College"
+  ],
+  "brief_description": "The scheme \"Scheduled Caste Boys/Girls Housing Assistance Scheme\" by the Tribal Welfare and Scheduled Caste (SC) Department, Government of Madhya Pradesh, provides financial support for residential facilities to Scheduled Caste students who are studying in colleges outside their native village/city.",
+  "detailed_description": "The scheme &quot;Scheduled Caste Boys/Girls Housing Assistance Scheme&quot; by the Tribal Welfare and Scheduled Caste (SC) Department, Government of Madhya Pradesh, provides financial support for residential facilities to Scheduled Caste students who are studying in colleges outside their native village/city, enabling them to continue their college education.",
+  "benefits": [
+    "\u20b92,000/- per month, if the student is residing in a Divisional headquarters (Bhopal, Indore, Gwalior, Jabalpur, Ujjain). \u20b91,250/- per month, if the student is residing in Other District Headquarters. \u20b91,000/- per month, if the student is residing in a Tehsil/Development Block Headquarters."
+  ],
+  "eligibility_criteria": "The applicant should be from the Scheduled Caste (SC) category. The applicant should be a native of Madhya Pradesh. The applicant should be a College Student. The applicant should meet the income limit prescribed under the Post Matric Scholarship Scheme. The applicant should be residing outside their native city/village.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration",
+        "Step 1: The applicant should visit the Madhya Pradesh Tribal Affairs & Scheduled Caste Welfare Automation System MPTAAS portal. ",
+        "Step 2: Click on \"New Beneficiary Profile Registration .\"",
+        "Step 3: Fill in all the required details. Fields marked with * are mandatory. Complete the form by entering all necessary information.",
+        "Step 4: Upload all required documents, such as ID proof and other relevant certificates.",
+        "Step 5: After completing the form and uploading the documents, click \"Submit\".",
+        "Step 6: After successful payment and submission, you will receive a registration number.",
+        "Application",
+        "Step 1: The applicant should visit the Madhya Pradesh Tribal Affairs & Scheduled Caste Welfare Automation System MPTAAS portal. ",
+        "Step 2: Enter your user ID, password, and captcha code, then click \"Login.\"",
+        "Step 3: Choose the scheme you wish to apply for to avail the benefits.",
+        "Step 4: Enter all required information and upload the necessary documents as prompted.",
+        "Step 5: Finally, click on \"Submit Application\" to complete the process."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=610"
+    }
+  ],
+  "documents_required": "Proof of Identity Caste Certificate Income Certificate Proof of College Admission Bank Account Details"
+}

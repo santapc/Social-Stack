@@ -1,0 +1,70 @@
+{
+  "scheme_id": "6826ea07280235209ce26328",
+  "slug": "anpyap",
+  "scheme_name": "Atma Nirbhar Plantation Yojana",
+  "scheme_short_title": "ANPYAP",
+  "state": "Arunachal Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Agriculture and Marketing Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment",
+    "Banking,Financial Services and Insurance"
+  ],
+  "sub_categories": [
+    "Land and water resources",
+    "Agricultural Inputs- seeds, fertilizer etc.",
+    "Loan"
+  ],
+  "target_beneficiaries": [
+    "Individual",
+    "Self Help Groups (SHGS)"
+  ],
+  "tags": [
+    "Subsidy",
+    "Farmer",
+    "SHGs",
+    "FPO",
+    "Loan",
+    "Plantation"
+  ],
+  "brief_description": "The scheme aims to promote self-reliance in the agriculture sector through sustainable plantation activities across the state. Under this scheme, support in the form of plantation assistance and allied resources is provided to individual farmers, Self-Help Groups & Farmer Producer Organizations.",
+  "detailed_description": "The scheme &amp;quot;Atma Nirbhar Plantation Yojana (ANPY)&amp;quot; was launched by the Department of Agriculture, Government of Arunachal Pradesh, aims to promote self-reliance in the agriculture sector through sustainable plantation activities across the state&amp;#39;s diverse agro-climatic zones. Under this scheme, support in the form of plantation assistance and allied resources is provided to individual farmers, Self-Help Groups (SHGs), and Farmer Producer Organizations (FPOs).",
+  "benefits": [
+    "Access to plantation support including technical guidance, planting material, and financial assistance."
+  ],
+  "eligibility_criteria": "The Scheme can be applied by individual farmers as well as Self-Help Groups (SHGs)/ Farmers Producer Organizations (FPOs).\nEligibility Criteria for Individual Farmers\nThe applicant should be a native of Arunachal Pradesh. The applicant should be an individual farmer. The applicant should have landholding between 0.50 hectares and 25 hectares. The applicant should not be a bank defaulter. The applicant should not be a government servant.\nEligibility Criteria for Self-Help Groups (SHGs)\nThe applicant should be a Self-Help Group (SHG) based in Arunachal Pradesh. The SHG should have a minimum of 1.0 hectare and up to 50 hectares of land. The SHG should not be a bank defaulter. An already existing SHGs prior to involvement of SrLM shall be considered. SHGs formed for small-scale industries such as weaving, knitting, tailoring, and other similar businesses shall not be entertained or considered eligible.\nNote: The SHGs formed especially for Agri- sector shall be given priority.\nEligibility Criteria for Farmers Producer Organizations (FPOs)\nThe Farmer Producer Organization (FPO) should be registered in Arunachal Pradesh. The FPO should have a minimum of 5 hectares and a maximum of 50 hectares of land. The FPO should have at least 100 shareholders. The FPO should submit at least one audited Balance Sheet. All board members and shareholders of FPO should be non-defaulters to any bank/financial institution. All types of FPOs engaged in agriculture business will get benefit from this programme.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Interested and eligible students need to apply online on the Atma Nirbhar Yojana portal. New User Registration Select the \" Login \" option. Subsequently, click on the \" Register Here\" link. Complete the registration form with the requisite details, including your name, Aadhaar card number, email ID, and mobile number. Establish a password for your account. Upon successful registration, the applicant will receive a User ID and password. Login & Application Process:  Log in using the provided User ID and password to access the application form. Fill in the complete application form. Upload the required documents, including a photograph, caste certificate, residential certificate, and land ownership proof, etc. Submit the application form."
+      ]
+    },
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the District Agriculture Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "OR",
+        "The interested applicant downloads the application form from the official website.",
+        "Step 2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents to the District Agriculture Office."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://lohit.nic.in/scheme/atma-nirbhar-plantation-yojana-anpy/"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://cdn.s3waas.gov.in/s3c0c7c76d30bd3dcaefc96f40275bdc0a/uploads/2023/05/2023051921.pdf"
+    },
+    {
+      "title": "Application Portal",
+      "url": "https://agri.arunachal.gov.in/atmanirbhar_yojana/user-register"
+    }
+  ],
+  "documents_required": "Passport-size Photograph Aadhaar Card PAN Card ST Certificate Domicile Certificate/Permanent Resident Certificate (PRC) SHG/FPO Document Proof of Land Ownership Document (LPC/ any Land Documents duly Certified by HGB/GB/PRI and countersigned by the local administration) Certified Copy of the Sketch Map Photocopy of 1st page of Bank Passbook One audited Balance Sheet (For FPO) Any Other Document if Required"
+}

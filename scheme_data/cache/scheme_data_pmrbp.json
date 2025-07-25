@@ -1,0 +1,76 @@
+{
+  "scheme_id": "65c1d75eed4030e118cbff95",
+  "slug": "pmrbp",
+  "scheme_name": "Pradhan Mantri Rashtriya Bal Puraskar",
+  "scheme_short_title": "PMRBP",
+  "level": "Central",
+  "implementing_agency": "Rashtiya Purashkar",
+  "dbt_scheme": false,
+  "categories": [
+    "Women and Child"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Bal Puraskar",
+    "Child Development",
+    "Achievement",
+    "Child Rights"
+  ],
+  "brief_description": "The Pradhan Mantri Rashtriya Bal Puraskar (PMRBP) is organized to celebrate the energy, determination, ability, zeal, and enthusiasm of our children.",
+  "detailed_description": "The Pradhan Mantri Rashtriya Bal Puraskar organized by The Ministry of Women and Child Development Government of India has conferred the award to children for their exceptional achievement. This award is the highest civilian honor for children in India. It is awarded annually to children in the age group of 5-18 years for their exceptional abilities and outstanding achievements in seven categories: - Bravery - Art &amp; Culture - Environment - Innovation - Science &amp; Technology - Social Service - Sports <br> > **Ceremony Details** 1. The Awards to be announced on December 26 on \u2018Veer Bal Diwas'. 1. The awards will be conferred by H.E., President of India at New Delhi at a special ceremony/function to be held in January every year. 1. Number of Award will be 25, however, any relaxation to this maximum number may be permitted at the discretion of the National Selection Committee.",
+  "benefits": [
+    "Medal Certificate and citation"
+  ],
+  "eligibility_criteria": "A child should be an Indian Citizen. A child above the age of 5 years and not exceeding 18 years (as of 31st July of respective year). The act/incident/achievement should have been within 2 years of the last date of receipt of application/nomination for the year of consideration. The child must have made outstanding contributions in any of the seven categories specified above Bravery. Art & Culture. Environment. Innovation. Science & Technology. Social Service. Sports.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration:",
+        "Step-1: Visit the official website .",
+        "Step-2: Click on the Registration button.",
+        "Step-3: Choose type Individual or Organization.",
+        "Step-4.1: Under Individual category provide the following details.",
+        "- Name as per Aadhaar/Valid Identity Proof.",
+        "- Date of Birth.",
+        "- Nominator/Applicant Type.",
+        "- Mobile No.",
+        "- Email ID.",
+        "- Aadhaar Number.",
+        "Step-4.2: Under Organization category provide the following details.",
+        "- Type of Organization.",
+        "- Name of the Authorized Person as per Aadhaar/Valid Identity Proof",
+        "- Date of Birth.",
+        "- Brief Description about the Organization (100 Words)",
+        "- Designation",
+        "- Mobile No.",
+        "- Email ID.",
+        "- Aadhaar Number.",
+        "Step-5: Submit.",
+        "Apply:",
+        "Step-1: Visit the official website .",
+        "Step-2: Click on l ogin button on portal and login using the credentials.",
+        "Step-3: From the list of awards, select scheme name, then click \"Nominate / Apply Now\".",
+        "Step-4: On the next page, fill in all the mandatory fields in the online application form, and then click \"Submit\"."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://awards.gov.in/Home/AwardLibrary"
+    },
+    {
+      "title": "Registration",
+      "url": "https://awards.gov.in/Registration/SignUp"
+    },
+    {
+      "title": "Login",
+      "url": "https://awards.gov.in/Login"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "A copy of the child's birth certificate. A copy of the child's school leaving certificate. A copy of the child's Aadhaar card. A copy of the child's passport size photograph. A certificate from the child's school or institution, stating that the child has made outstanding contributions in any of the fields specified in the guidelines. A detailed description of the child's achievements, supported by documentary evidence. A recommendation letter from a person of eminence in the field in which the child has made outstanding contributions"
+}

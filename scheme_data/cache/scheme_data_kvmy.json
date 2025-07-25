@@ -1,0 +1,65 @@
+{
+  "scheme_id": "67cdbaeca1c0d380adeaec1c",
+  "slug": "kvmy",
+  "scheme_name": "Kisan Vriksha Mitra Yojana",
+  "scheme_short_title": "KVMY",
+  "state": "Chhattisgarh",
+  "level": "State/ UT",
+  "nodal_department": "Forest Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Wildlife and biodiversity",
+    "Environmental management and protection",
+    "Financial assistance",
+    "Land and water resources"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Forest",
+    "Environment",
+    "Tree",
+    "Plantation",
+    "Farmer"
+  ],
+  "brief_description": "The scheme aims to promote commercial tree plantation on private lands, ensuring buyback of produce, increasing farmers' income, and generating employment. The scheme benefits farmers, private institutions, and other stakeholders by providing financial assistance for plantation.",
+  "detailed_description": "The scheme &quot;Kisan Vriksha Mitra Yojana&quot; by the Department of Forest, Environment, and Climate Change, Government of Chhattisgarh, aims to promote commercial tree plantation on private lands of farmers and other stakeholders. The scheme seeks to increase farmers&#39; income, reduce the financial burden on the government, and generate employment opportunities. Eligible beneficiaries include farmers, private educational institutions, private trusts, panchayats, and leased landholders. The scheme is implemented by the Department of Forest, Environment, and Climate Change in collaboration with private companies and supportive organizations.",
+  "benefits": [
+    "Financial Assistance",
+    "100% financial assistance for plantation on up to 5 acres of land (maximum 5,000 plants). 50% financial assistance for plantation on more than 5 acres of land (maximum 1,000 plants per acre). 50% financial assistance for private educational institutions, private trusts, panchayats, and leased landholders.",
+    "Buyback Assurance",
+    "The government ensures buyback of produce like eucalyptus, bamboo, and other economically beneficial trees at a predetermined support price. The scheme also involves private companies and supportive organizations for financial collaboration and buyback assurance.",
+    "Employment Generation",
+    "The scheme aims to create employment opportunities through plantation activities.",
+    "Mode of Disbursement",
+    "Financial assistance is disbursed directly to the beneficiaries' accounts after verification of plantation work.",
+    "Frequency of Disbursement",
+    "Assistance is provided over three years, with yearly disbursements based on the survival rate of plants."
+  ],
+  "eligibility_criteria": "The following are eligible -\nFarmers with private land. Private educational institutions. Private trusts. Panchayats. Leased landholders.\n*Priority is given to farmers and stakeholders who are willing to plant commercially viable tree species like eucalyptus, bamboo, and others.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The Interested parties should contact the regional offices of the Forest and Climate Change Department. Regional staff and representatives will engage with potential applicants to confirm their willingness to participate.",
+        "Step 2: Submit the application form along with required documents to the nearest forest office. The forest department will verify the land and documents submitted by the applicant.",
+        "Step 3: Upon successful verification, the application will be approved, and the beneficiary will be notified.",
+        "Step 4: The beneficiary will carry out the plantation as per the guidelines provided by the department.",
+        "Step 5: Upon verifying eligibility and project feasibility, financial aid (as outlined) is provided either fully or partially, based on land size and category.",
+        "*The department will monitor the plantation for three years, and subsequent disbursements will be based on the survival rate of the plants."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://forest.cg.gov.in/cms/media/c2829936-7c12-4f57-88af-c724e57b3ce5_kvmy_img.pdf"
+    }
+  ],
+  "exclusions": "Land under compensatory afforestation as per the Forest Conservation Act is not eligible for benefits under this scheme.",
+  "documents_required": "Land Ownership Documents. Bank Account Details. Aadhaar Card. Proof of Identity (for Private Institutions and Trusts). Lease Agreement (for Leased Landholders)."
+}

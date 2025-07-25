@@ -1,0 +1,56 @@
+{
+  "scheme_id": "68121329096abd5b8bc8283e",
+  "slug": "apfpf",
+  "scheme_name": "Assistance Program for Planting in Floriculture",
+  "scheme_short_title": "APFPF",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Agriculture, Farmers Welfare and Cooperation Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual",
+    "Business Entity",
+    "Industries"
+  ],
+  "tags": [
+    "Floriculture",
+    "Flower Farming",
+    "Subsidy"
+  ],
+  "brief_description": "The scheme offers financial assistance to farmers in Gujarat for the cultivation of floriculture crops, including loose, cut, and tuberous flowers, based on crop type and farmer category.",
+  "detailed_description": "The scheme &amp;quot;Assistance Program for Planting in Floriculture&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to encourage floriculture in Gujarat by offering financial support to farmers cultivating various types of flowers. The assistance amount varies depending on the type of flower and whether the farmer is classified as a small/marginal or other category.",
+  "benefits": [
+    "Loose Flowers:",
+    "\u20b916,000 per hectare or 40% of cost for small/ marginal farmers. \u20b910,000 per hectare or 25% of cost for other farmers.",
+    "Stem (Cut) Flowers:",
+    "\u20b940,000 per hectare or 40% of cost for small/ marginal farmers. \u20b925,000 per hectare or 25% of cost for other farmers.",
+    "Tuberous Flowers:",
+    "\u20b960,000/- per hectare or 40% of cost for small/ marginal farmers. \u20b937,500/- per hectare or 25% of cost for other farmers."
+  ],
+  "eligibility_criteria": "The applicant must be a farmer. The applicant must be engaged in floriculture farming (loose, cut, or tuberous flowers).",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: The applicant may visit and apply online at I-Khedut Portal: https://ikhedut.gujarat.gov.in/  Step 2: On the home page, click on \u2018Schemes' and then click on \u2018Agricultural Schemes'. Step 3: Now select the scheme, click on the \u2018Apply' button and an application page will open. Step 4: Click on \"Apply New\" button and submit a new application. Step 5: Click on the \"Update Application\" button to add corrections to the application. Step 6: Once the application is done, confirm it. Step 7: Take a print out of the confirmed application. Step 8: Applicant can also check their Application Status/View/Print/Upload Application details from the below link: https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx  Contact Us:  Click here ."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Scheme No. 69)",
+      "url": "https://mariyojana.gujarat.gov.in/MoreDetails.aspx"
+    },
+    {
+      "title": "User Manual (Applicant Registration)",
+      "url": "https://ikhedut.gujarat.gov.in/site/iKhedut%202.0%20User%20Manual%20PPT_Gujarati.pdf"
+    }
+  ],
+  "documents_required": "Aadhaar card. Vehicle purchase invoice."
+}

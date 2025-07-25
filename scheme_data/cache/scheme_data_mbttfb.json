@@ -1,0 +1,59 @@
+{
+  "scheme_id": "66f7e0147e9b228ef8bbb793",
+  "slug": "mbttfb",
+  "scheme_name": "Maternity Benefit to the Female Beneficiary",
+  "scheme_short_title": "MBTTFB",
+  "state": "Manipur",
+  "level": "State/ UT",
+  "nodal_department": "Labour and Employment Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Financial assistance",
+    "Financial Assistance",
+    "Pregnancy Care"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Women",
+    "Construction Worker",
+    "Pregnant"
+  ],
+  "brief_description": "The Manipur Building and Other Construction Workers' Welfare Board (MBOCWWB) provide \"Maternity Benefit\" to female workers registered under the Act. Financial assistance is provided in cases of miscarriage or medical termination of pregnancy, up to two times.",
+  "detailed_description": "The Manipur Building and Other Construction Workers&#39; Welfare Board (MBOCWWB) launched welfare scheme &quot;Maternity Benefit to the Female Beneficiary&quot;. The scheme provides financial assistance in cases of miscarriage or medical termination of pregnancy, up to two times. This benefit is aimed at ensuring health and financial support for female workers during such critical situations.",
+  "benefits": [
+    "Financial assistance of \u20b96,000/- for miscarriage or medical termination."
+  ],
+  "eligibility_criteria": "The applicant should be a female construction worker. The worker should be registered under the Manipur Building and Other Construction Workers Welfare Board. The applicant should have gone through a miscarriage or medical termination.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step-1: The interested applicant should visit (during office hours) the Manipur Building and Other Construction Workers Welfare Board and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "OR",
+        "The interested applicant visits the official website and downloads the application form .",
+        "Step-2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3: Submit the duly filled and signed application form along with the documents to the Labour Board Inspector",
+        "Step-4: Request a receipt or acknowledgement from the Labour Board Inspector to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "http://manipurbcwb.in/SchemeDetails?title=maternity+benefit+to+the+female+beneficiary"
+    },
+    {
+      "title": "Official Website",
+      "url": "http://manipurbcwb.in/"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Certificate of Registration. Payment Receipt of the Last Contribution. Medical Certificate (along with relevant papers for the delivery, medical termination of pregnancy or miscarriage for the maternity benefit). Aadhaar Card. First Page of Bank Passbook."
+}

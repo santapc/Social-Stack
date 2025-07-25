@@ -1,0 +1,58 @@
+{
+  "scheme_id": "67a318c9da50340fc8ef27af",
+  "slug": "iwp-urban",
+  "scheme_name": "INDIRAMMA Widow Pension (Urban)",
+  "scheme_short_title": "IWP-URBAN",
+  "state": "Andhra Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Panchayat Raj Rural Employment",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Pension",
+    "Assistance to Widows",
+    "Financial Assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Widow",
+    "Woman",
+    "Urban",
+    "Below Poverty Line",
+    "BPL",
+    "Pension"
+  ],
+  "brief_description": "\"INDIRAMMA Widow Pension (Urban)\" scheme aims to provide monthly pensions to widows irrespective of their age. To be eligible, they should be from a BPL family, be a resident of a district of Andhra Pradesh, and not be covered under any other Pension Scheme.",
+  "detailed_description": "Launched in 2006-07, the scheme &quot;INDIRAMMA Widow Pension (Urban)&quot; by the Department of Rural Development, Government of Andhra Pradesh, aims to provide financial assistance to widows irrespective of their age. To be eligible, they should be from a BPL family, be a resident of a district of Andhra Pradesh, and not be covered under any other Pension Scheme. The eligible individuals will be identified by their respective Ward Sabhas. The Bill Collector disburses the pension to the eligible individuals on the first date of every month.",
+  "benefits": [
+    "Pension Amount: The scale of benefit under the pension will be notified by the Government of Andhra Pradesh.",
+    "Mode of Disbursement: The Bill Collector disburses the pension to the eligible individuals in the presence of Ward members and office bearers of DWCUA.",
+    "Time of Disbursement: The pension is disbursed on the first date of every month."
+  ],
+  "eligibility_criteria": "The applicant should be a local resident of a district of Andhra Pradesh. The applicant should be from an urban area. The applicant should be from a Below Poverty Line (BPL) family. The applicant should be a widow. The applicant should not be covered under any other Pension Scheme.\n*The eligible citizens will be identified by their respective Ward Sabhas. The register containing the list of eligible citizens will be shared by the Bill Collector with the Municipal Commissioner.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: Identification of Eligible Persons",
+        "The Ward Sabha identifies eligible persons based on the eligibility criteria. A ward-wise register of eligible persons is maintained by the Bill Collector.",
+        "Step 2: Recommendation and Sanction",
+        "The Bill Collector sends Ward Sabha resolution recommending eligible persons to the Municipal Commissioner. The Municipal Commissioner scrutinizes eligibility and sanctions pensions based on municipality-wise allocation.",
+        "Step 3: Disbursement of Pensions",
+        "The Project Director (DRDA) sends pension acquittance list and funds to Municipal Commissioners. The Municipal Commissioner issues cheques to Bill Collectors. The Bill Collector disburses pensions to pensioners in the presence of Ward members and DWCUA office bearers."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://handlooms.ap.gov.in/documents/Old_age_pensions_(Urban)_GO.pdf"
+    }
+  ],
+  "documents_required": "Domicile Certificate Below Poverty Line (BPL) Certificate Proof of Widowhood"
+}

@@ -1,0 +1,65 @@
+{
+  "scheme_id": "67a59b961269f7da410cc2ae",
+  "slug": "bauuyabii",
+  "scheme_name": "Dr.Babasaheb Ambedkar Udyog Uday Yojana: Assistance to basic industrial infrastructure (Water, Gas and Approach Road)",
+  "scheme_short_title": "BAUUYABII",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Industries and Mines Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Business & Entrepreneurship"
+  ],
+  "sub_categories": [
+    "Setting up / start-up / entrepreneurship"
+  ],
+  "target_beneficiaries": [
+    "Business Entity",
+    "Industries"
+  ],
+  "tags": [
+    "Business",
+    "Entrepreneurship",
+    "MSMEs",
+    "Start Up",
+    "Scheduled Caste",
+    "Scheduled Tribe",
+    "Industrial Infrastructure"
+  ],
+  "brief_description": "The scheme \"Dr.Babasaheb Ambedkar Udyog Uday Yojana\" aims to support SC/ST entrepreneurs and strengthen MSMEs, making them globally competitive.",
+  "detailed_description": "The scheme &amp;quot;Dr.Babasaheb Ambedkar Udyog Uday Yojana&amp;quot; is an umbrella scheme launched by the Industries and Mines Department, Gujarat. It aims to empower the state&amp;#39;s dynamic MSME sector, which significantly contributes to employment, GDP, and exports. Effective from August 7th, 2020 to August 6th, 2025, this initiative supports SC/ST entrepreneurs and strengthens MSMEs, making them globally competitive. The component &amp;quot;Assistance to basic industrial infrastructure (Water, Gas and Approach Road)&amp;quot; provides financial assistance for the development of essential industrial infrastructure, including water supply, gas connections, and approach roads. The objective is to support industries by improving last-mile connectivity and access to utilities, thereby fostering a conducive business environment.",
+  "benefits": [
+    "Quantum of Assistance: 75% of cost of capital investment for infrastructure or expenditure incurred for water/gas facilities, maximum limit up to \u20b915,00,000/- including all infrastructure/facilities."
+  ],
+  "eligibility_criteria": "The firm must be a Micro/Small/Medium enterprise run by SC/ST entrepreneur. The applicant must have made a fixed capital investment in industrial infrastructure such as an approach road, water, or gas facilities. The infrastructure should be developed outside GIDC areas/industrial parks. The approach road construction must be certified for quality by a government-approved third party. Expenditures on water/gas connections should be for connecting the industrial unit from the source. Note : SC/ST Enterprise: SC/ST Enterprise means the enterprise in which contribution of SC/ST entrepreneur is 51% or more.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process:",
+        "Step-1: Visit the Investor Facilitation Portal (IFP) portal. Click on \"New Investor Registration\" to access the registration form.",
+        "Step-2: Fill in the Registration Form. Click on \"Submit\".",
+        "Step-3: Verify the E-mail ID using the link sent on your registered E-mail ID.",
+        "Step-4: After verification, you will be registered successfully.",
+        "Post-Registration Process:",
+        "Step-1: Visit the Investor Facilitation Portal (IFP) portal. Click on \"Login\".",
+        "Step-2: Enter the email address and password you used during registration.",
+        "Step-3: Click the \"Login\" button to access your account.",
+        "Step-4: Now fill in the required details and mandatory documents about your business to complete the application process.",
+        "Helpdesk: Contact "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://ic.gujarat.gov.in/documents/commondoc/2020/2-GR_02092020.pdf"
+    },
+    {
+      "title": "Online Application Portal",
+      "url": "https://ifp.gujarat.gov.in/IC/digigov.htm?actionFlag=loadCitizenRegPage"
+    }
+  ],
+  "exclusions": "The eligible investment component of the project will not be eligible for assistance under this scheme, if the said component has already been sanctioned under any other scheme of the state government, unless specified otherwise.",
+  "documents_required": "Project Proposal detailing the infrastructure requirements. Cost Estimates for the approach road, water, or gas connection. Proof of Investment in infrastructure development. Quality Certification from a government-approved third party (for approach roads). Payment Receipts for expenses incurred. Company Registration Certificate or proof of industrial establishment. Bank Details for fund transfer. Any other document as required."
+}

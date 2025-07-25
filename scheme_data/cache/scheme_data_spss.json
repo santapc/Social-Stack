@@ -1,0 +1,53 @@
+{
+  "scheme_id": "67779be5804f3ba26af59ee4",
+  "slug": "spss",
+  "scheme_name": "Sanitary Pad Supply Scheme",
+  "scheme_short_title": "SPSS",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Women, Child Development & Social Security Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Menstrual Hygiene"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Sanitary Pad",
+    "Women",
+    "Health",
+    "Hygiene",
+    "Adolescent Girls"
+  ],
+  "brief_description": "The \"Sanitary Pad Supply Scheme\" by the Women, Child Development & Social Security Department, Government of Jharkhand, aims to promote hygiene and health among women and adolescent girls. It provides free sanitary pads quarterly to women aged 20\u201340 years through Anganwadi centers.",
+  "detailed_description": "The &quot;Sanitary Pad Supply Scheme&quot; implemented by the Women, Child Development &amp; Social Security Department, Government of Jharkhand, aims to promote better hygiene practices and health awareness among women and adolescent girls. Under this scheme, free sanitary pads are provided quarterly to women aged 20\u201340 years, enhancing their health and hygiene standards while reducing the risk of diseases.",
+  "benefits": [
+    "Free Sanitary Pads Distribution:",
+    "Beneficiaries receive 3 packs (each containing 6 sanitary pads) every quarter."
+  ],
+  "eligibility_criteria": "The applicant must be a resident of Jharkhand. The applicant should be a women. The applicant age should be between 20\u201340 years. The applicant or her dependent must not be:\nPermanently employed in central/state government or public sector enterprises. Retired government employees or pension recipients. An income tax payer.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Registration:",
+        "Visit the nearest Anganwadi center to register for the scheme. Provide valid identification documents (Aadhaar, PAN, etc.). Submit a self-declaration form for eligibility confirmation.",
+        "Verification:",
+        "Anganwadi workers will verify the details and register beneficiaries. Women without Aadhaar will be assisted in obtaining it, while alternative IDs will be accepted temporarily.",
+        "Distribution:",
+        "Beneficiaries will receive sanitary pads during quarterly Village Health, Sanitation, and Nutrition Day (VHSND) programs. Anganwadi workers will maintain stock and beneficiary records."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.jharkhand.gov.in/Home/ViewDoc?id=D031DO003SD00309072024062836110"
+    }
+  ],
+  "documents_required": "Aadhaar Card Any other Government-Approved ID, such as a PAN Card, Ration Card, Voter ID Card Self-Declaration Form"
+}

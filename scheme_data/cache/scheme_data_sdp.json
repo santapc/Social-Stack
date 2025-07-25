@@ -1,0 +1,54 @@
+{
+  "scheme_id": "6728e5879c0322bd68737080",
+  "slug": "sdp",
+  "scheme_name": "State Disability Pension",
+  "scheme_short_title": "SDP",
+  "state": "Mizoram",
+  "level": "State/ UT",
+  "nodal_department": "Social Welfare Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Pension",
+    "Disability",
+    "Blind",
+    "Bedridden",
+    "Financial Assistance"
+  ],
+  "brief_description": "The Social Welfare & Tribal Affairs Department, Government of Mizoram launched the State Disability Pension scheme. It provides a monthly pension of \u20b9350 to 200 eligible individuals who are completely blind or bedridden.",
+  "detailed_description": "The Social Welfare &amp; Tribal Affairs Department launched the State Disability Pension scheme is funded by the Mizoram government. It provides a monthly pension of \u20b9350 to 200 eligible individuals who are completely blind or bedridden.",
+  "benefits": [
+    "Financial assistance of \u20b9350/- per month for disabled individuals."
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Mizoram. The applicant must be entirely blind or bedridden due to a disability. The applicant should be from the Below Poverty Line (BPL) family.\n\n\n\n",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The applicant writes the application on plain paper.",
+        "Step 2: In the application form attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application along with the documents to the District Social Welfare Office",
+        "Step 4: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://socialwelfare.mizoram.gov.in/page/state-disability-pension"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://socialwelfare.mizoram.gov.in/page/welcome-to-directorate-of-social-welfare"
+    }
+  ],
+  "documents_required": "Passport-size Photograph UDID/Disability Certificate Proof of BPL Status (Family Ration Card) Photocopy of Bank Passbook (first page showing account holder's name and account number)"
+}

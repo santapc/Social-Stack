@@ -1,0 +1,63 @@
+{
+  "scheme_id": "67c97b371dc65aa2df406529",
+  "slug": "fpdbocwwb",
+  "scheme_name": "Family Pension (DBOCWWB)",
+  "scheme_short_title": "FPDBOCWWB",
+  "state": "Delhi",
+  "level": "State/ UT",
+  "nodal_department": "Labour Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Pension"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Construction",
+    "Worker",
+    "Pension",
+    "Family",
+    "Labour"
+  ],
+  "brief_description": "The scheme \"Family Pension\" was launched by the Delhi Building and Other Construction Workers Welfare Board. In this scheme, upon the death of the pensioner, the surviving spouse is provided 50% of the pension amount or \u20b91500/-, whichever is higher.",
+  "detailed_description": "The &quot;Family Pension&quot; scheme was launched by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi. In this scheme, upon the death of the pensioner, the surviving spouse is provided 50% of the pension amount or \u20b91,500/-, whichever is higher.",
+  "benefits": [
+    "50% of the pension or \u20b91,500/-, whichever is higher."
+  ],
+  "eligibility_criteria": "The deceased should have been a pensioner of the Board. The applicant should be a family member or a dependent of the deceased.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should take a print of the prescribed format of the application form.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the Labour Incharge of the Board.",
+        "Helpline Number (24x7): 011-41236600",
+        "DBOCWWB Department Number (Office Hours: 9:30AM - 6:00PM) : 011-23813846"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://bocw.delhi.gov.in/bocw/welfare-schemes"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://dbocwwb.delhi.gov.in/welfareschemedboc.html"
+    },
+    {
+      "title": "Amendments",
+      "url": "https://bocw.delhi.gov.in/sites/default/files/bocw/circulars-orders/delhi_gazette_notification_of_delhi_building_and_other_construction_workers_welfare_board_on_04-03-2016.pdf"
+    },
+    {
+      "title": "Application Status",
+      "url": "https://dbocwwb.delhi.gov.in/"
+    }
+  ],
+  "documents_required": "Copy of Aadhaar Card of Spouse. Address Proof of the Spouse. Copy of First Page of Bank Passbook/ Cancelled Cheque of the Spouse. Original Death Certificate of the Pensioner (duly issued by a Municipal/ Government Authority)."
+}

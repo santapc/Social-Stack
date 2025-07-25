@@ -1,0 +1,50 @@
+{
+  "scheme_id": "673f15b5d8e1de79ec0128e2",
+  "slug": "wbtwssah",
+  "scheme_name": "West Bengal Transport Workers' Social Security Scheme: Assistance on Hospitalization",
+  "scheme_short_title": "WBTWSSAH",
+  "state": "West Bengal",
+  "level": "State/ UT",
+  "nodal_department": "Labour Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Health & Wellness"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Social Security",
+    "Transport Worker",
+    "Hospitalization",
+    "Medical Assistance"
+  ],
+  "brief_description": "The scheme provides financial assistance to transport workers who are hospitalized for 5 or more days due to an accident.",
+  "detailed_description": "The \"West Bengal Transport Workers' Social Security Scheme: Assistance on Hospitalization\" by the Labour Department, offers assistance to transport workers who are hospitalized for five or more days due to an accident. Benefits are directly transferred to the beneficiaries&amp;#39; bank accounts through Direct Benefit Transfer (DBT). &lt;br&gt;",
+  "benefits": [
+    "Assistance for Hospitalization: \u20b9400/- per day for the first 5 days of hospitalization due to an accident. Extended Financial Support: \u20b9200/- per day for the remaining period of hospitalization after the first five days. Maximum Benefit: Up to a total of \u20b910,000/- for the entire hospitalization period. "
+  ],
+  "eligibility_criteria": "The applicant must be between 18 and 60 years of age at the time of enrolment. The applicant must be an unorganized worker employed in the operation of commercial vehicles, such as cars, taxis, luxury taxis, light commercial vehicles, vans, auto-rickshaws, tempos, lorries, trucks, or buses. The applicant's vehicle must be used for commercial purposes and not solely for personal or family use.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Visit the \" eDistrict 2.0 \" portal. Click on Log In/Sign Up. Step 2: In the User Login window, scroll down to the bottom and click on \"Register\". Step 3: Fill in all the details carefully, enter a username, and click on \"Register\". Step 4: Upon entering the One Time Password received on your mobile, you will be successfully registered. Step 5: Now in the User Login window, enter your Username or email and captcha and click on \"Sign In\". Step 6: Enter the received O.T.P and click on \"Submit\". Step 7: Upon successful Login, You will be redirected to the \"Dashboard\". From the right side menu apply for the concerned scheme. "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://wblc.gov.in/sites/default/files/ckfinder/userfiles/images/WBTWSSS_at_a_glance.pdf"
+    },
+    {
+      "title": "Online Application",
+      "url": "https://edistrict.wb.gov.in/portal/home"
+    }
+  ],
+  "documents_required": "For New Registration: Certification by Prescribed Authority in the Prescribed format, Passport Size Photo (self and for each dependent member). Age Proof Document. Driving Licence in case of Drivers. EPIC/ AADHAR Card. For the Application of the Welfare Scheme: Medical Certificate. "
+}

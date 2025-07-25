@@ -1,0 +1,50 @@
+{
+  "scheme_id": "67fe3e198e880c6849231d39",
+  "slug": "fctuk",
+  "scheme_name": "Free Computer Training",
+  "scheme_short_title": "FCTUK",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "State Sainik Board",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Education and training grants, fellowship, stipend"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Education",
+    "Soldiers",
+    "Widows",
+    "Dependant",
+    "Ex-servicemen",
+    "Computer Training"
+  ],
+  "brief_description": "\"Free Computer Training\" is a social security scheme that provides free of cost computer training to widows, dependents of the ex-servicemen and soldiers.",
+  "detailed_description": "\"Free Computer Training\" is a social security scheme by the State Sainik Board, Government of Uttarakhand. Under this scheme, free of cost computer training is provided to widows, dependents of the ex-servicemen, and soldiers. <br>",
+  "benefits": [
+    "The following training is currently being imparted in all the districts of Uttarakhand :",
+    "Diploma in Computer Application and Programming (Duration - 1 year). Diploma in Professional Accounting Duration (Duration - 1 year)."
+  ],
+  "eligibility_criteria": "The beneficiary should be a widow/ dependent of the ex-servicemen and soldiers. The beneficiary's educational qualification should be 12th pass.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: Applications for the course are first invited through publicity by the Office of the Director of Sainik Welfare. Step 2: Fill out the form properly and attach all the documents (attested, if required). Step 3: Submit the form to the Office of the Director of Sainik Welfare."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Aadhaar Card. Ex-Servicemen Identity Card. Discharge Book. 12th Pass Certificate (For the widow/ dependent)."
+}

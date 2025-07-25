@@ -1,0 +1,49 @@
+{
+  "scheme_id": "67f62f4e13ec05eecbbc2162",
+  "slug": "mngryu",
+  "scheme_name": "Mukhyamantri Nishulk Gas Refill Yojana",
+  "scheme_short_title": "MNGRYU",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "Department Of Food & Civil Supplies",
+  "dbt_scheme": true,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Citizen empowerment"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Gas Refill",
+    "Social Welfare",
+    "Antyodaya"
+  ],
+  "brief_description": "\"Mukhyamantri Nishulk Gas Refill Yojana\" is a social welfare scheme implemented by the Department Of Food, Civil Supplies & Consumer Affairs, Government of Uttarakhand, that provides 3 free gas refills in 1 year to the Antyodaya families.",
+  "detailed_description": "&amp;quot;Mukhyamantri Nishulk Gas Refill Yojana&amp;quot; is a social welfare scheme implemented by the Department Of Food, Civil Supplies &amp;amp; Consumer Affairs, Government of Uttarakhand. Under this scheme, Antyodaya cardholders (Pink Card Holder) of the state will be given the benefit of 3 free gas refills in 1 year. <br>",
+  "benefits": [
+    "3 free gas refills in 1 year to the Antyodaya families. "
+  ],
+  "eligibility_criteria": "Applicant should be a permanent resident of Uttarakhand. Applicant should have a Valid Gas Connection. Applicant should have an Antyodaya Card (Pink Card).",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: Antyodaya card holders need to link their ration card details, Aadhaar Card/Bank Details in the nearest gas agency Step 2: To receive the refill, the beneficiary must first pay the full cost of the gas cylinder to the agency. After verification, the subsidy amount is reimbursed directly to the beneficiary's account through DBT (Direct Benefit Transfer)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Page No. 61)",
+      "url": "https://cdnbbsr.s3waas.gov.in/s30fe473396242072e84af286632d3f0ff/uploads/2025/02/20250227396322764.pdf"
+    },
+    {
+      "title": "Details",
+      "url": "https://uttarainformation.gov.in/news.php?id=39572"
+    }
+  ],
+  "documents_required": "Antyodaya Card (Pink Card). Aadhaar Card/Bank Details. Mobile Number."
+}

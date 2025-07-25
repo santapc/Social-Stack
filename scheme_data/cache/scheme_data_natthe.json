@@ -1,0 +1,79 @@
+{
+  "scheme_id": "65d432cced4030e118e05695",
+  "slug": "natthe",
+  "scheme_name": "National Awards To Teachers (Higher Education)",
+  "scheme_short_title": "NATTHE",
+  "level": "Central",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Universities and higher education"
+  ],
+  "target_beneficiaries": [
+    "University / Institution",
+    "Individual"
+  ],
+  "tags": [
+    "Teacher",
+    "Educational",
+    "Awards",
+    "National"
+  ],
+  "brief_description": "The purpose of National Awards to Teachers is to celebrate the unique contribution of some of the finest teachers in the country and to honor those teachers who through their commitment and industry have not only improved the quality of school education but also enriched the lives of their students.",
+  "detailed_description": "The purpose of the National Award to Teachers under the Department of Higher Educational Institutions is to recognize the distinctive contributions of some of the finest faculty members in the country and honor them for their dedication and hard work, which have not only improved the quality of higher education but also enriched the lives of their students. The Award seeks to recognize and honor faculty members&#39; unique and path-breaking achievements in teaching, research, institutional service, community outreach, and novelty of work in higher education. <br> > **No. of Awardees** - Fifty Awards (25 in Category II and 25 in Category III) shall be conferred annually. <br> > **Selection Process :****** The selection procedure for NTA-2023 will follow a two-step process. - Preliminary Search cum Screening Committee for initial shortlisting of candidates. - Committee of \u2018Jury' for the final section of awardees from the shortlisted candidates. <br> > **Ceremony Details** - The ceremony is held on 5th September every year. <br> > **Nominations for the award can be made by any of the following:** 1. Vice-Chancellor/Director/Principal of the institution. 1. A colleague or former faculty member of the same institution. 1. Self-nomination is not allowed. 1. Former Vice-Chancellor/Director/Principal may apply if currently teaching full-time. 1. Search committee members can nominate outstanding faculty. 1. Award Jury members cannot nominate.",
+  "benefits": [
+    "A medal. A certificate. Cash Prize of \u20b9 50,000/-"
+  ],
+  "eligibility_criteria": "The award is open to all the faculty members of colleges/universities/higher educational institutions in India, satisfying the following conditions:\nShould be a regular faculty member. Should have at least five years of full-time teaching experience at the Undergraduate and/or Post-graduate level. Should not be above 55 years of age as of the last date of receiving an application for the awards. Vice-Chancellor/ Director/Principal (regular or officiating) are NOT eligible to apply.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration:",
+        "Step-1: Visit the official website .",
+        "Step-2: Click on the Registration button.",
+        "Step-3: Choose type Individual or Organization.",
+        "Step-4.1: Under Individual category provide the following details.",
+        "- Name as per Aadhaar/Valid Identity Proof.",
+        "- Date of Birth.",
+        "- Nominator/Applicant Type.",
+        "- Mobile No.",
+        "- Email ID.",
+        "- Aadhaar Number.",
+        "Step-4.2: Under Organization category provide the following details.",
+        "- Type of Organization.",
+        "- Name of the Authorized Person as per Aadhaar/Valid Identity Proof",
+        "- Date of Birth.",
+        "- Brief Description about the Organization (100 Words)",
+        "- Designation",
+        "- Mobile No.",
+        "- Email ID.",
+        "- Aadhaar Number.",
+        "Step-5: Submit.",
+        "Apply:",
+        "Step-1: Visit the official website .",
+        "Step-2: Click on l ogin button on portal and login using the credentials.",
+        "Step-3: From the list of awards, select scheme name, then click \"Nominate / Apply Now\".",
+        "Step-4: On the next page, fill in all the mandatory fields in the online application form, and then click \"Submit\"."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://awards.gov.in/Home/AwardLibrary"
+    },
+    {
+      "title": "National Award To Teachers Portal",
+      "url": "https://nat.aicte-india.org/"
+    },
+    {
+      "title": "Registration",
+      "url": "https://awards.gov.in/Registration/SignUp"
+    }
+  ],
+  "exclusions": "Self-nomination is NOT allowed. Award Jury are NOT eligible to make a nomination for this award. Nominations received after the due date shall not be considered.",
+  "documents_required": "Nomination Form. Curriculum Vitae (CV) of the nominee. Detailed description of the nominee's contribution. Supporting documents (research papers, patents, awards certificates, testimonials, letters of recommendation, etc., depending on the specific nomination). Aadhaar Card. Photograph"
+}

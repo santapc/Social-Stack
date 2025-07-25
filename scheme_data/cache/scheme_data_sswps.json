@@ -1,0 +1,51 @@
+{
+  "scheme_id": "685a7f2a55fcecc791ebe882",
+  "slug": "sswps",
+  "scheme_name": "Solar Water Pumping System",
+  "scheme_short_title": "SSWPS",
+  "state": "Haryana",
+  "level": "State/ UT",
+  "nodal_department": "Renewable Energy Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Mechanization- solar power, farming systems"
+  ],
+  "target_beneficiaries": [
+    "Family",
+    "Individual",
+    "Registered Societies",
+    "Government Organisation"
+  ],
+  "tags": [
+    "Renewable Energy",
+    "Solar Water Pump",
+    "Solar Irrigation",
+    "Micro Irrigation"
+  ],
+  "brief_description": "The scheme \"Solar Water Pumping System\" by the Renewable Energy Department, Government of Haryana aims to encourage the adoption of renewable energy for irrigation. Through this scheme, solar water pumps are provided at a 75% subsidy to eligible farmers and institutions for irrigation need",
+  "detailed_description": "The scheme &amp;quot;Solar Water Pumping System&amp;quot; by the Renewable Energy Department, Government of Haryana, aims to encourage farmers and agriculture-based community groups to adopt clean and sustainable energy for irrigation by offering subsidized solar water pumping systems. It helps in improving agricultural productivity, reducing dependency on grid electricity or diesel, and promoting water-use efficiency through integration with micro-irrigation systems. Beneficiaries are eligible for a 75% subsidy on the installation of solar pumps. <br>",
+  "benefits": [
+    "Subsidy Amount: A 75% subsidy is provided on the cost of solar water pumps."
+  ],
+  "eligibility_criteria": "Any Haryana Resident family with Pariwar Pahichan Patra (PPP). Farmers of Haryana with no electric agricultural connection in his/her name. Water User Associations, Gaushalas, and community/cluster-based irrigation systems.\n",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process on Antyodaya-SARAL Portal:",
+        "Step 1: Visit the Official Portal: Antyodaya-SARAL Portal.  Step 2: For registration, click on \"New User/Register Here\" and fill in all the mandatory details i.e. Name, Email ID, Mobile Number & password. Click on \u2018Submit'. Step 3: Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile.  Login to Apply for the Scheme: Step 1: Visit the Official Portal: Antyodaya-SARAL Portal.  Step 2: The \"Sign in here\" option is available on the right side of the screen. Fill in the required credentials and click on the \u2018Login' button. Step 3: In the opened window, click on \"Scheme/Services list\", and a list of schemes will appear on the screen. Step 4: Now, select the scheme and click on \"Apply for Service/Scheme\". Step 5: Fill in all the details in the online application form and click on \"Submit\".  Track Your Service Online: Track Application/Appeal: Click here . Track Ticket: Click here .  Track Your Service Through SMS: Registered Mobile Number: Type SARAL and send to 9954699899 to track your application. Other Mobile Number: Type SARAL<space><Application ID/Ticket No.> and send to 9954699899 to track your application/ticket.  Contact Us: Helpline: 0172-3968400 Email: saral.haryana@gov.in  Note: Govt. Charges: No Fee Service Charges: \u20b910/- Atal Seva Kendra Service Charges: \u20b910/-"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=h8CmKfu5auuAcQ2i8H6QkA=="
+    }
+  ],
+  "exclusions": "The applicant who has already availed benefits under any previous solar pump scheme is not eligible.\n\n",
+  "documents_required": "Parivar Pehchan Patra. Zamabandi of the Agriculture land. Details of Micro irrigation / underground pipeline (UGPL) system installed/undertaking to install micro-irrigation system/UGPL before installation of the pump."
+}

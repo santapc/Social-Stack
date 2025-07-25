@@ -1,0 +1,56 @@
+{
+  "scheme_id": "6584223b6093f0fa3305d4af",
+  "slug": "vetls",
+  "scheme_name": "Vocational Education and Training Loan Scheme",
+  "scheme_short_title": "VETLS",
+  "level": "Central",
+  "dbt_scheme": false,
+  "categories": [
+    "Banking,Financial Services and Insurance",
+    "Education & Learning",
+    "Skills & Employment"
+  ],
+  "sub_categories": [
+    "Loan",
+    "Voctional education"
+  ],
+  "target_beneficiaries": [
+    "Family"
+  ],
+  "tags": [
+    "Education",
+    "Training",
+    "Loan",
+    "Skill"
+  ],
+  "brief_description": "The Vocational Education and Training Loan Scheme provides financial assistance to youth of the target group to enhance their skills & employability.",
+  "detailed_description": "The Vocational Education and Training Loan Scheme provides financial assistance to the youth of the target group to enhance their skills and employability. <br> > **Expenses to be Considered for Vocational Education and Training Course** 1. Admission/Tuition fee 1. Examination, Library, and Laboratory Fee 1. Caution Deposit 1. Purchase of Books, Equipment, and Instruments 1. Boarding and Lodging 1. Insurance for loan amount 1. Any other reasonable expenses found necessary for the completion of the course certified by the vocational education and training institute.",
+  "benefits": [
+    "Quantum of loan",
+    "Need-based finance to meet up to 90% of expenses shall be considered subject to the following Ceilings:",
+    "For courses of duration up to 2 years: up to Rs. 4,00,000/-",
+    "Note: In case of cost over-run, it shall be borne by the beneficiary.",
+    "Interest",
+    "National Safai Karamcharis Finance & Development Corporation (NSKFDC) shall charge interest @ 1% per annum from the Channelizing Agency which, in turn, shall charge 4% per annum from the beneficiaries. In the case of women, an interest rebate of 0.5% shall be provided. ",
+    "Repayment: Up to 7 years."
+  ],
+  "eligibility_criteria": "Eligibility Criteria\nThe person should be from the target group of NSKFDC. The person should have secured admission in a course run or supported by a Ministry, Department, or Organization of the Government or a company, society, or organization supported by the National Skill Development Corporation or State Skill Missions/State Skill Corporations, preferably leading to a Certificate/Diploma/Degree etc. Issued by a Government Organization or an Organization recognized/authorized by the Government to do so.\nCourse Eligibility \nVocational Education and training courses of the duration of a minimum 6 months and up to 2 years run or supported by a Ministry/Department/Organization of the Government or a Company/Society/Organization supported by a National Skill Development Corporation or State Skills/Mission/State Skill Corporations.\nAge Eligibility \nThe candidate should attain a minimum age of 18 years on completion of the course. The upper age limit is up to 50 years.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Visit the official website .",
+        "Step 2: Click on How to Apply . Tap on the Loan application form.",
+        "Step 3: Click on Loan application form.   ",
+        "Step 4: Fill in all the details and tap Save to save the application form."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://nskfdc.nic.in/en/content/vocational-education-and-training-loan-scheme"
+    }
+  ],
+  "documents_required": "Aadhaar Card Driving License Bank Details Caste Certificate Income Certificate Domicile Certificate"
+}

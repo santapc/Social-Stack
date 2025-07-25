@@ -1,0 +1,55 @@
+{
+  "scheme_id": "676be6c8d82a9cd9aa412bdc",
+  "slug": "pmsfbcs",
+  "scheme_name": "Pre-Matric Scholarship for Backward Class Students",
+  "scheme_short_title": "PMSFBCS",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Backward Classes and Minorities Welfare Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Backward Class",
+    "Student",
+    "Education",
+    "School"
+  ],
+  "brief_description": "The scheme \"Pre-Matric Scholarship for Backward Class Students\" aims to provide financial assistance to backward class students studying at the pre-matriculation level in India. Monthly scholarships of varying amounts are provided to eligible students.",
+  "detailed_description": "The scheme &quot;Pre-Matric Scholarship for Backward Class Students&quot; by the Backward Classes and Minorities Welfare Department, Government of Madhya Pradesh aims to provide financial assistance to backward class students studying at the pre-matriculation level in India. Through this scheme, monthly scholarships of varying amounts are provided to eligible students to help them complete their education. The applications for this scheme are processed through educational institutions. The scheme is implemented across the entire state of Madhya Pradesh.",
+  "benefits": [
+    "Classes 6th to 8th",
+    "Boys: \u20b920/- per month Girls: \u20b930/- per month",
+    "Classes 9th to 10th",
+    "Boys: \u20b930/- per month Girls: \u20b940/- per month",
+    "NOTE:  The scheme is individual in nature, covering all of Madhya Pradesh. Scholarships are awarded for 10 months annually and paid in one installment on 30th September."
+  ],
+  "eligibility_criteria": "The applicant should be a student of classes 6th to 10th. The parents/guardians of the applicant should not be income taxpayers. The parents/guardians of the applicant should not own more than 10 acres of land.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit the Head of the Educational Institution and request the hard copy of the prescribed format of the application form.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the concerned authority.",
+        "Step 4: Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE: Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://bcwelfare.mp.nic.in/Public/OBC/PreMatric.aspx"
+    }
+  ],
+  "documents_required": "Caste Certificate Income Certificate Land Ownership Proof (Showing Less Than 10 Acres of Land) Bank Account Details Application Form in the Prescribed Format Bonafide Certificate or Proof of Admission in School Proof of Age or Date of Birth (e.g., Birth Certificate or School Records) Academic Records (If Applicable)"
+}

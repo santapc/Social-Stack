@@ -1,0 +1,52 @@
+{
+  "scheme_id": "67b6e10fd6a94de2eee3e14a",
+  "slug": "saps",
+  "scheme_name": "Vishesh Yogyajan Palanhar Yojana",
+  "scheme_short_title": "VYPY",
+  "state": "Rajasthan",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Empowerment Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Financial assistance",
+    "Resources for schools"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Differently Abled Person",
+    "Education",
+    "Children",
+    "PwD"
+  ],
+  "brief_description": "Under this scheme, children receive monthly financial support based on their age to ensure their well-being and education. To be eligible for assistance, the child must attend an Anganwadi/school between the ages of two to five years and study in school after the age of 6 years.",
+  "detailed_description": "The scheme &quot;Vishesh Yogyajan Palanhar Yojana&quot; was implemented by the Social Justice and Empowerment Department, Government of Rajasthan, aims to provide financial assistance for the upbringing and education of children of specially-abled parents. Under this scheme, children receive monthly financial support based on their age to ensure their well-being and education. To be eligible for assistance, the child must attend an Anganwadi/school between the ages of two to five years and study in school after the age of 6 years.",
+  "benefits": [
+    "Financial assistance of \u20b9500/- per month for children aged 0-6 years. Financial assistance of \u20b91,000/- per month for children aged 6-18 years."
+  ],
+  "eligibility_criteria": "The applicant must be a resident of Rajasthan. Only children aged 0 to 18 years of specially-abled parents are eligible for assistance. The child must be between 2 to 5 years of age and enrolled in an Anganwadi or school. Children above the age of 6 must be studying in a recognized educational institution. The family's annual income should not exceed \u20b91,20,000/-.",
+  "application_process": [
+    {
+      "mode": "Online - via CSC",
+      "steps": [
+        "Step 1: The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.",
+        "Step 2: The applicant should visit the nearest E-mitra Center and complete the Biometric Verification Process.",
+        "Step 3: The applicant should ensure that the E-mitra Center agent completes all mandatory fields in the application form and uploads copies of all required documents.",
+        "Step 4: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sje.rajasthan.gov.in/sap_welfare_schemes.pdf"
+    }
+  ],
+  "documents_required": "Disability Certificate Domicile Certificate Income Certificate Education Certificate Proof of age Any other documents as required"
+}

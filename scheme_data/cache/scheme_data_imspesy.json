@@ -1,0 +1,81 @@
+{
+  "scheme_id": "65d31dcdcd96dc5e07590140",
+  "slug": "imspesy",
+  "scheme_name": "Indira Mahila Shakti Udyam Protsahan Yojana",
+  "scheme_short_title": "IMSUPYR",
+  "state": "Rajasthan",
+  "level": "State/ UT",
+  "nodal_department": "Women and Child Development Department",
+  "categories": [
+    "Women and Child"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Women",
+    "Empowerment",
+    "Development",
+    "Motivaction"
+  ],
+  "brief_description": "This scheme launched by the Rajasthan government to empower women by providing them with loans and other financial assistance to start or expand their businesses",
+  "detailed_description": "The Indira Mahila Shakti Udyam Protsahan Yojana (IMSUPY) is a scheme launched by the Rajasthan government to empower women entrepreneurs by providing them with financial assistance and support. The main objective of the scheme is to ecourage women to start their own businesses and become financially independent. Promote self-employment and reduce unemployment among women in Rajasthan. Support the growth of micro, small, and medium enterprises (MSMEs) led by women.",
+  "benefits": [
+    "Loan Limit",
+    "Loan amount of \u20b9 50,00,000/- to individual women. Loan amount of Rs 1,00,00,000/- to self-help groups.",
+    "Margin Money",
+    "A margin money of 25% of the sanctioned loan amount will be provided under the scheme. For women belonging to Scheduled Castes/Tribes, Scheduled Castes, widows, abandoned women, victims of violence and disabled women, the margin money will be 30% of the sanctioned loan amount.",
+    "Note :",
+    "The maximum limit of margin money will be \u20b9 15,00,000/-. The applicant's own contribution (5% / 10% of the project proposal) will be considered for margin money. Land value will not be included in the project proposal. The maximum limit of loan amount payable for construction of workshop/building will be up to 20% of the sanctioned amount of the project proposal. The maximum limit of loan for business will be Rs. 10 lakh. Business refers to wholesale or retail purchase-sale of commercial products.",
+    "Promotion of collateral security free loans:",
+    "As per the guidelines of the Reserve Bank of India, collateral security will not be required for loans up to Rs. 10 lakh. Loans above Rs. 10 lakh can be linked with the Credit Guarantee Trust Fund for Micro and Small Enterprises (CGTMSE). The fee amount will be borne by the beneficiary. If the applicant voluntarily wants to give collateral security on the loan, they can do so."
+  ],
+  "eligibility_criteria": "The applicant's age should be 18 years or more. The applicant should be a permanent resident of Rajasthan. The women's self-help group or group of these groups (cluster/ federation) must be registered under any department of the state government and in case of cluster/federation of groups, it will be necessary to be registered under the Cooperative Act as per the rules. ",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration",
+        "Step-1: Applicant have to visit the official portal .",
+        "Step-2: Click on the option \" Register \".",
+        "Step-3: Then you will be redirected to the SSO registration page. The registration page will appear with the following options.",
+        "Citizen",
+        "Step-4: Choose the either one option from the Jan Aadhaar Or Google to process further.",
+        "Jan Aadhaar : Enter the Jan Aadhaar number, click on the \u2018Next' button, Select your name, the name of the head of the family and all the other members and Click on the \u2018Send OTP' button. Enter the \u2018OTP' and Click on the \u2018Verify OTP' button to Complete the registration.",
+        "Google : Enter the Gmail ID, click on the \u2018Next' button, Enter the password. A new link appear on screen, now click on new SSO link. SSO id will appear on screen, now create the password. Enter Mobile number, click on registration.",
+        "Step-5: Complete the registration process.",
+        "Apply",
+        "Step-1: Applicant have to visit the official portal .",
+        "Step-2: Read the instruction carefullly and click on \" Apply \".",
+        "Step-3: Click on an \"Alert\" button and page will redirected to SSO portal.",
+        "Step-4: Now login with credentials.",
+        "Step-5: Now click on \"Apply for Scheme\" on screen.",
+        "Step-6: Now on the new page you will have to fill out the application form in 7 steps.",
+        "- Such as a general description",
+        "- Applicant details",
+        "- Details of applicant and workplace",
+        "- Description of the proposed project",
+        "- Details of proposed financial institution",
+        "- basis of ranking",
+        "- Document Upload and Declaration",
+        "Step-7: After filling in all the details in the application form, submit the application form."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "http://slbcrajasthan.in/assets/docs/pdf/govtschemes/Mahila.pdf"
+    },
+    {
+      "title": "Apply",
+      "url": "https://ssoapps.rajasthan.gov.in/imsupy/Introduction.aspx"
+    },
+    {
+      "title": "Registration",
+      "url": "https://sso.rajasthan.gov.in/register"
+    }
+  ],
+  "exclusions": "Such applicants whose family members have benefited from any other central/state employment-oriented, grant program/ scheme in the last 5 years. Applicants in whose family any member is a defaulter or defaulter of any financial institution/bank. Note:-Family means husband, wife and minor children. The following activities will be ineligible under the scheme:- Manufacture and sale of products made from meat, liquor, and intoxicants. Explosive substance. Transport vehicle, the on-road price of which is Rs 10 lakh. be more than Non-recyclable polythene and environmentally harmful plastic products. Products/activities banned by the Government of India/State Government from time to time.",
+  "documents_required": "Aadhar card. Address proof. Bank account statement. Passport size photo. Mobile number."
+}

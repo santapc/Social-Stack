@@ -1,0 +1,70 @@
+{
+  "scheme_id": "65b66026ebb318a5b537b2cc",
+  "slug": "fampscb",
+  "scheme_name": "Financial Assistance for Marriage of Poor Scheduled Caste Brides",
+  "scheme_short_title": "FAMPSCB",
+  "state": "Puducherry",
+  "level": "State/ UT",
+  "nodal_department": "Adi Dravidar Welfare Department, Puducherry",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Marriage",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Bride",
+    "Marriage",
+    "Financial Assistance",
+    "Scheduled Caste",
+    "SC"
+  ],
+  "brief_description": "The scheme \"Financial Assistance for Marriage of Poor Scheduled Caste Brides\" was introduced by the Adi Dravidar Welfare Dept, Govt of Puducherry. The objective of the scheme is to provide financial assistance to poor parents from Scheduled Castes for performing the marriage of their daughters.",
+  "detailed_description": "The scheme \"Financial Assistance for Marriage of Poor Scheduled Caste Brides\" was introduced by the Adi Dravidar Welfare Department, Government of Puducherry. The objective of the scheme is to provide financial assistance to poor parents from Scheduled Castes for performing the marriage of their daughters. The financial assistance is given at the rate of \u20b915,000/- in each case for the marriage of their two daughters.",
+  "benefits": [
+    "Financial Assistance of \u20b915,000/- in each case for the marriage of their two daughters."
+  ],
+  "eligibility_criteria": "The Parent/Guardian of the bride should be a citizen of India. The Parent/Guardian of the bride should be from a Scheduled Caste. The Parent/Guardian of the bride should be a native of Puducherry. The assistance is provided for the first marriage alone. The marriage should be registered. The assistance is available only for two daughters in a family. The application should be submitted 30 days prior to the date of marriage. The annual income of the parent/guardian should not exceed \u20b92,00,000. The applicant should not be receiving financial assistance from other sources. The marriage should be performed in accordance with the law. The bride should have attained the age of 18 years. The bridegroom should have attained the age of 21 years.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Visit the Official Website of the e-District Portal of the Government of Puducherry.",
+        "Step 2: At the top right corner of the home page, click \" Login \". In the login screen, click \" Register a New Membership \".",
+        "Step 3: On the Registration Page, fill in all the mandatory fields: Username, Password, Confirm Password, Personal Details (Full Name, First Name, Email Address, Address, Current Address, Gender, Date of Birth, Mobile Number). Agree to the declaration. Fill in the Captcha Code, and click \"Signup\".",
+        "Step 4: Visit the Official Website of the e-District Portal of the Government of Puducherry.",
+        "Step 5: At the top right corner of the home page, click \" Login \". In the login screen, provide your Username and Password, fill in the Captcha Code, and click \"Sign In\".",
+        "Step 6: On the next screen, a list of schemes by the Government of Puducherry will be displayed Department-wise.",
+        "Step 7: Click on the scheme you wish to apply for. You will be taken to its online application form.",
+        "Step 8: In the application form, fill in all the mandatory fields (marked with a red asterisk) and upload all the mandatory documents (self-attest if required).",
+        "Step 9: Tick the declaration stating \"I hereby declare that the above-mentioned details are true and correct as per the best of my Knowledge\". Submit the application and note the application number for tracking your application . The application number will also be received on your Registered Mobile Number / Registered Email ID.",
+        "*Track Your Application  here ",
+        "* Access the User Manual for Online Application  here "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://adwelfare.py.gov.in/financial-assistance-marriage-poor-sc-brides"
+    },
+    {
+      "title": "Citizen's Charter",
+      "url": "https://py.gov.in/sites/default/files/citizencharter-adidravidar.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://adwelfare.py.gov.in/contact-us"
+    },
+    {
+      "title": "Track Your Application",
+      "url": "https://edistrict.py.gov.in/User/TrackApplication.aspx"
+    }
+  ],
+  "documents_required": "Residence-cum-nativity Certificate. Aadhaar Card. Birth Certificate or TC of the Bride. Birth Certificate or TC of the Bridegroom. Caste Certificate. Income Certificate. Marriage Invitation. Marriage Registration. Ration Card. Recent passport-size photograph of the Bride. Recent passport-size photograph of the Bridegroom. Voter Card. First-time Marriage Certificate obtained from MP/MLA/Commissioner of Municipality/Commune Panchayat. Bank Account details of the applicant."
+}

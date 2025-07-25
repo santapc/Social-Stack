@@ -1,0 +1,54 @@
+{
+  "scheme_id": "682d6d19223eab369007793e",
+  "slug": "pduayebc",
+  "scheme_name": "Pandit Dindayal Upadhyay Awas Yojana (Developing Caste Welfare) (EBC)",
+  "scheme_short_title": "PDUAYEBC",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Empowerment Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Housing & Shelter"
+  ],
+  "sub_categories": [
+    "Housing"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Housing",
+    "Economically Weaker Section",
+    "Social Welfare",
+    "Shelter",
+    "Home",
+    "EWS"
+  ],
+  "brief_description": "The scheme aims to support Economically Weaker Sections (EWS) by offering financial aid up to \u20b91,20,000/- for house construction. This scheme also ensures that Economically Weaker Sections receive support in securing shelter.",
+  "detailed_description": "The scheme &amp;quot;Pandit Dindayal Upadhyay Awas Yojana (Developing Caste Welfare) (EBC)&amp;quot; is a housing scheme by the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to support Economically Weaker Sections (EWS) by offering financial aid up to \u20b91,20,000/- for house construction. This scheme also ensures that the Economically Weaker Sections receive support in securing shelter.",
+  "benefits": [
+    "Financial Assistance of up to \u20b91,20,000/- for house construction."
+  ],
+  "eligibility_criteria": "Applicant must belong to the Economically Backward Class (EBC). Applicant must be a resident of Gujarat. Applicant's family income should not exceed \u20b96,00,000/- per annum. Applicant must own land or have been allotted land/house under a government poverty housing scheme.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration",
+        "Step 1: Visit the Official Website of eSamajkalyan . Step 2: In the right pane of the home page, click \" New User? Please Register Here! \". You will be taken to the Registration Form. Step 3: In the form, provide all the mandatory fields, fill in the captcha code, and click \"Submit\" to complete the registration process. A popup will appear acknowledging successful registration and displaying your User ID for Login.  Application Step 1: Visit the Official Website of eSamajkalyan . Step 2: In the \"Citizen Login\" section provided in the right pane of the home page, provide your User ID and Password, fill in the Captcha Code, then click \"Login\". Step 3: In the ribbon provided at the top of the website, click the \"Corporation\" menu, then click on \"Pandit Dindayal Upadhyay Awas Yojana (Developing Caste Welfare) (EBC)\". Step 4: You will be taken to the online application form of the scheme. In the form, provide all the mandatory fields and upload all the mandatory documents in the specified format and size. Step 5: Carefully review all the information provided and the documents uploaded. Make corrections, if any. Step 6: Click \"Submit\" to submit your application. You'll receive a confirmation message. Note down your Application Number for future reference. You can also take a printout of the submitted application form.  Track Application Status Step 1: Visit the Official Website of eSamajkalyan . Step 2: Navigate to the bottom of the home page, and click \" Your Application Status \". Step 3: In the next page, provide your Application Number, Date of Birth, and click \"View Status\". The current status of your application will be displayed."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Scheme No. 408)",
+      "url": "https://mariyojana.gujarat.gov.in/MoreDetails.aspx"
+    },
+    {
+      "title": "User Manual",
+      "url": "https://esamajkalyan.gujarat.gov.in/HelpManual/Citizen-HelpManual.pdf"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Aadhaar Card. Bank Passbook/Cancelled Cheque. Caste Certificate. Income Certificate. Land Ownership Aadhaar. Land Ownership Acknowledgment Form. Title Deed/Sanad Deed (as applicable). Map of land signed by Talati-cum-Mantri. Allotment order of land/house (if received under a poverty scheme). Permission letter for building construction. Certificate from the Circle Inspector for housing assistance. Certificate from City or Gram Panchayat Talati-cum-Mantri."
+}

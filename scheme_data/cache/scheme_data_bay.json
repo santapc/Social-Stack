@@ -1,0 +1,45 @@
+{
+  "scheme_id": "678f6c30de7a5d4c4bef6b03",
+  "slug": "bay",
+  "scheme_name": "Banglar Awaas Yojana (BAY)",
+  "scheme_short_title": "BAY",
+  "state": "West Bengal",
+  "level": "State/ UT",
+  "nodal_department": "Housing Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Housing & Shelter"
+  ],
+  "sub_categories": [
+    "Housing"
+  ],
+  "target_beneficiaries": [
+    "Family"
+  ],
+  "tags": [
+    "Housing",
+    "Citizen Empowerment"
+  ],
+  "brief_description": "\"Banglar Awaas Yojana (BAY)\" provides financial assistance to houseless households and those living in kutcha or dilapidated houses, helping them build pucca houses with essential amenities. The scheme offers financial assistance with additional support for toilets and unskilled workdays.",
+  "detailed_description": "Banglar Awaas Yojana (BAY) is a housing scheme aimed at providing a pucca house (minimum 25 sq mt floor area) to houseless households and those residing in kutcha or dilapidated houses. Launched by the Ministry of Rural Development (MoRD), GOI in FY 2016-17, the scheme offers assistance of \u20b9130,000/- per house, distributed in three installments. The Central and State Government share the cost in a 60:40 ratio. Eligible beneficiaries also receive wages for unskilled labor and assistance for constructing toilets under &amp;quot;Mission Nirmal Bangla Prakalpa&amp;quot;. The assistance is credited directly to the bank account of the beneficiary.",
+  "benefits": [
+    "Financial Assistance: Beneficiaries receive \u20b91,30,000/- per house, credited in three installments (1st installment: \u20b960,000/-; 2nd installment: \u20b960,000/-; 3rd installment: \u20b910,000/-). Wage Support: Beneficiaries are entitled to 95 unskilled mandays of wages under the Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS). Assistance for Toilet Construction: Eligible beneficiaries enlisted in the BLS 2012 receive additional support for constructing toilets under \"Mission Nirmal Bangla Prakalpa\"."
+  ],
+  "eligibility_criteria": "The applicant must be an Indian citizen. The applicant must be enlisted in the Permanent Waiting List (PWL) based on SECC 2011 data. The applicant must be from a houseless household or living in a kutcha or dilapidated house.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: Visit the website of Pradhan Mantri Awaas Yojana-Gramin (PMAY-G) to check the Permanent Waiting List (PWL) which has been prepared by the Ministry of Rural Development (MoRD), GOI, based on SECC 2011 data. Step 2: Select the concerned District, Block, Panchayat name and verify the captcha to check the list. Step 3: Beneficiaries whose names are already enlisted in the PWL do not need to submit any additional application. Step 4: The government sanctions houses every financial year based on the priority list and category-wise allocation of houses. Step 5: If the applicant's name is included in the PWL, they will be automatically considered for assistance under the scheme. Step 6: Eligible beneficiaries will be informed about the sanctioning process and receive financial assistance directly in their registered bank accounts in installments."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://paschimmedinipur.gov.in/scheme/scheme-title-1-will-appear-here/"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Proof of Residence. Bank Account Details. ANy other documents (if required)."
+}

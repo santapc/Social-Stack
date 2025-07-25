@@ -1,0 +1,67 @@
+{
+  "scheme_id": "68383061b0d5cc1154aa7c61",
+  "slug": "sfeame",
+  "scheme_name": "Scholarship for Engineering and Medical Education",
+  "scheme_short_title": "SEME",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "State Sainik Board",
+  "dbt_scheme": true,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Universities and higher education",
+    "Scholarships and student finance",
+    "Education and training grants, fellowship, stipend"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Scholarship",
+    "Higher Education",
+    "Student",
+    "Medical Course",
+    "Engineering Course",
+    "Ex-servicemen"
+  ],
+  "brief_description": "The scheme aims to support the higher education of dependents of ex-servicemen by providing financial assistance for pursuing engineering, medical, and PhD courses. Under this scheme, annual scholarships are awarded to beneficiaries based on their course of study.",
+  "detailed_description": "The scheme &amp;quot;Scholarship for Engineering and Medical Education&amp;quot; was introduced by the Department of Sainik Welfare, Government of Uttarakhand. The scheme aims to support the higher education of dependents of ex-servicemen by providing financial assistance for pursuing engineering, medical, and PhD courses. Under this scheme, annual scholarships are awarded to beneficiaries based on their course of study.",
+  "benefits": [
+    "Scholarship:",
+    "\u20b912,000/- per year for Engineering students \u20b915,000/- per year for Medical students \u20b910,000/- per year for PhD students",
+    "Mode of Disbursement:",
+    "Direct Benefit Transfer (DBT) to the bank account annually.",
+    "Note:",
+    "The disbursement is done via Direct Benefit Transfer (DBT) from the Kargil Shaheed Pariwar Mukhyamantri Sahayata Kosh."
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Uttarakhand. The applicant should be a dependent of an ex-serviceman. The applicant should be pursuing a course in Engineering, Medical, or Ph.D. from a recognized institution. The applicant's name should be correctly recorded in the ex-serviceman's discharge book. Note: It is mandatory that the applicant's correct name is mentioned both in the bank account and the discharge book.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Application Process:",
+        "Visit the official website: www.sainikkalyan.org  Click on the relevant scholarship application link. Fill in the form with accurate personal and academic information. Upload scanned copies of all mandatory documents. Submit the application online.",
+        "Verification & Approval:",
+        "Applications are verified at the District Sainik Kalyan Office and Directorate level. Upon approval, the amount is credited directly to the applicant's bank account."
+      ]
+    },
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the District Soldier Welfare Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2: In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attested, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents to the District Soldier Welfare Office."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines (Page No. 29)",
+      "url": "https://cdnbbsr.s3waas.gov.in/s339e6f67916920d9419b3d92cf1e9a958/uploads/2025/03/202503051772421971.pdf"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Aadhaar Card of the Applicant Bank Account Details Ex-serviceman Identity Card Discharge Book of the ex-serviceman Current Course Enrollment Certificate"
+}

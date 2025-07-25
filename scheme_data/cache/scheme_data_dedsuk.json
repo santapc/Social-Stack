@@ -1,0 +1,73 @@
+{
+  "scheme_id": "68449e99ed4abe56e74553bd",
+  "slug": "dedsuk",
+  "scheme_name": "Chief Minister State Livestock Mission: Dairy Entrepreneurship Development Scheme",
+  "scheme_short_title": "CMSLMDUK",
+  "state": "Uttarakhand",
+  "level": "State/ UT",
+  "nodal_department": "Department Of Animal Husbandry",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment",
+    "Business & Entrepreneurship"
+  ],
+  "sub_categories": [
+    "Animal husbandry",
+    "Setting up / start-up / entrepreneurship"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Cow",
+    "Buffalo",
+    "Livestock",
+    "Self-employment",
+    "Subsidy",
+    "Loan",
+    "Dairy"
+  ],
+  "brief_description": "The scheme aims to promote self-employment at the local level by offering interest subsidies on bank loans for setting up various livestock units. Under this scheme, residents of Uttarakhand are eligible for a 90% interest subsidy on loans taken for the purchase of livestock.",
+  "detailed_description": "The \"Dairy Entrepreneurship Development Scheme\" is a scheme under the Chief Minister State Livestock Mission, introduced by the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to promote self-employment at the local level by offering interest subsidies on bank loans (up to three years) for setting up various livestock units. Under this scheme, residents of Uttarakhand are eligible for a 90% interest subsidy on loans taken for setting up cow or buffalo rearing units. The scheme supports the establishment of dairy units such as 5-cow units, 10-cow units, 2-buffalo units, and 5-buffalo units, thereby encouraging sustainable livelihood through dairy farming.",
+  "benefits": [
+    "The State Government provides a 90% interest subsidy on bank loans availed by applicants for setting up specified dairy units:",
+    "Sl. No. | Description |  5 Cow Units  |  10 Cow Units  |  2 Buffalo Units  |  5 Buffalo Units \n1 | Cost of five milch animals including transportation and livestock insurance | \u20b93,75,000/- (\u20b975,000/- per milch animal) | \u20b97,50,000/- (\u20b975,000/- per milch animal) | \u20b93,75,000/- (\u20b975,000/- per milch animal) | \u20b97,50,000/- (\u20b975,000/- per milch animal)\n2 | Margin Money @ 10% of Project Cost | \u20b937,500/- | \u20b975,000/- | \u20b937,500/- | \u20b975,000/-\n3 | Bank Loan Amount | \u20b93,37,500/- | \u20b96,75,000/- | \u20b93,37,500/- | \u20b96,75,000/-\n4 | Estimated Interest Rate | 11 % per annum | 11 % per annum | 11 % per annum | 11 % per annum\n5 | Loan Repayment Period | 3 years | 3 years | 3 years | 3 years"
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Uttarakhand.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "To apply, interested individuals can contact the nearest government veterinary hospital/animal service centers and submit their application in the prescribed format.",
+        "Note: The applicant should visit the nearest local veterinary hospital along with the consent letter for loan approval from the bank."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://ahd.uk.gov.in/scheme/chief-minister-state-livestock-mission/"
+    },
+    {
+      "title": "Dairy-5-Cows",
+      "url": "https://cdnbbsr.s3waas.gov.in/s31fb2a1c37b18aa4611c3949d6148d0f8/uploads/2018/08/202503191554085766.pdf"
+    },
+    {
+      "title": "Dairy-10-Cows",
+      "url": "https://cdnbbsr.s3waas.gov.in/s31fb2a1c37b18aa4611c3949d6148d0f8/uploads/2018/08/20250319992051500.pdf"
+    },
+    {
+      "title": "Dairy-2-Buffaloes",
+      "url": "https://cdnbbsr.s3waas.gov.in/s31fb2a1c37b18aa4611c3949d6148d0f8/uploads/2018/08/20250319787528016.pdf"
+    },
+    {
+      "title": "Dairy-5-Buffaloes",
+      "url": "https://cdnbbsr.s3waas.gov.in/s31fb2a1c37b18aa4611c3949d6148d0f8/uploads/2018/08/202503192093113271.pdf"
+    },
+    {
+      "title": "Notification",
+      "url": "https://cdn.s3waas.gov.in/s32421fcb1263b9530df88f7f002e78ea5/uploads/2025/01/2025010123.pdf"
+    }
+  ],
+  "documents_required": "Identity proof Proof of residence Consent Letter for loan approval from the bank Bank account details Any other documents as required"
+}

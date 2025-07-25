@@ -1,0 +1,70 @@
+{
+  "scheme_id": "66c9fc57bfeff774c3943b50",
+  "slug": "igndpschh",
+  "scheme_name": "Indira Gandhi National Disability Pension Scheme- Chhattisgarh",
+  "scheme_short_title": "IGNDPSCHH",
+  "state": "Chhattisgarh",
+  "level": "State/ UT",
+  "nodal_department": "Social Welfare Department",
+  "implementing_agency": "Social Welfare Department, Government Of Chhattisgarh",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Pension"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Indira Gandhi",
+    "Disability",
+    "Pension",
+    "BPL",
+    "PWD"
+  ],
+  "brief_description": "Under this scheme, a monthly pension of \u20b9500/- is provided to severely disabled (with a disability of 80% and above) and multi-disabled individuals aged 18 to 79 years who are living below the poverty line (BPL) to support them in living a respectful life.",
+  "detailed_description": "The scheme &amp;quot;Indira Gandhi National Disability Pension Scheme&amp;quot; is implemented by the Social Welfare Department, Government of Chhattisgarh. Under this scheme, financial assistance is provided to severely disabled (with a disability of 80% and above) and multi-disabled individuals aged 18 to 79 years who are living below the poverty line (BPL) to support them in living a respectful life. This scheme is centrally sponsored.",
+  "benefits": [
+    "Under this scheme, eligible beneficiaries will receive a monthly pension of \u20b9500/-, (Central contribution- \u20b9300/-, State Contribution- \u20b9200/-)."
+  ],
+  "eligibility_criteria": "The applicant should be a native of Chhattisgarh. The applicant should be a person with multiple disabilities. The applicant should have severe disabilities (with a disability percentage of 80% or above). The applicant's age should be between 18 and 79 years. The applicant's name should be included in the list of families living Below Poverty Line. The applicant should not be receiving pension benefits from any other Central or State Government pension scheme. Note 1: Severe disability means any one type of disability which is more than 80%. Note 2: Multiple disabilities means more than one type of disability.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process: Step 1: Go to the  eDistrict Chhattisgarh Portal .  Step 2: Click on \" Citizen Login \". Step 3: If you are a new user, select \" New Registration \". Step 4: Enter your registration details and click \"Submit\". Step 5: Your Registration Summary will be displayed, and you will receive your password on your registered mobile number. Application Process: Step 1: Go to the eDistrict Chhattisgarh Portal . Step 2: Click on \u2018Login' or \" Citizen Login \". Step 3: Enter your username and password, and then click \u2018Login'. Step 4: After logging in, click on \"My Service\" and search for the scheme to apply for. Step 5: Click on \u2018Apply Online' and fill in all required details, upload necessary documents, and click \u2018Submit.'"
+      ]
+    },
+    {
+      "mode": "Offline",
+      "steps": [
+        "In Rural Areas: Step 1: The applicant, who fulfills the eligibility criteria, may visit the office of the Gram Panchayat and collect the application form , which is available free of cost. Step 2: Fill out the application form and submit it to the Gram Panchayat. You will receive an acknowledgment receipt from the Gram Panchayat. Step 3: The Gram Panchayat will review and recommend the application and then forward it to the District Panchayat within 07 days. In Urban Areas: Step 1: Eligible applicants should visit the office of the concerned Municipal Corporation, Municipality, Nagar Panchayat, or Panchayat Raj institution to collect the application form , which is available free of cost. Step 2: Fill out the application form and submit it to the respective office (Municipality/Municipal Corporation/Nagar Panchayat). You will receive an acknowledgment receipt from the office. Note 1: The concerned urban body/District Panchayat has the authority to approve or reject the applications. Note 2: If a printed application form is not available, you may submit your application on plain paper."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://sw.cg.gov.in/en/indira-gandhi-national-disability-pension-scheme"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://sw.cg.gov.in/sites/default/files/pensionscheme.pdf"
+    },
+    {
+      "title": "Notification-1",
+      "url": "https://sw.cg.gov.in/sites/default/files/igdps-updates.pdf"
+    },
+    {
+      "title": "Notification-2",
+      "url": "https://sw.cg.gov.in/sites/default/files/ssp.pdf"
+    },
+    {
+      "title": "Online Application Portal",
+      "url": "https://edistrict.cgstate.gov.in/PACE/instructionPageHome.do?serviceId=32&OWASP_CSRFTOKEN=MBBG-XSU7-1ZCP-7YL4-QQYO-TPAR-YY9U-0URK"
+    }
+  ],
+  "documents_required": "Aadhaar card of the applicant Passport-size photograph Identity proof Domicile certificate of Chhattisgarh (Issued by a Gazetted Officer, Sarpanch or Councillor) Disability certificate issued as per the provision of Persons with Disabilities Act-1995 Proof of age (Doctor's certificate, Birth Certificate, Certificate issued by an Administrator, Sarpanch, or Mayor, school certificate, etc.) Below Poverty Line (BPL) Card/related documents Address proof Bank Passbook/Post Office Account Passbook Any other documents as required"
+}

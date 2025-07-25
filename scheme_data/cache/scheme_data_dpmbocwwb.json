@@ -1,0 +1,87 @@
+{
+  "scheme_id": "65e6bdd8da55878ebe11f2b4",
+  "slug": "dpmbocwwb",
+  "scheme_name": "Disability Pension (MBOCWWB)",
+  "scheme_short_title": "DP(MBOCWWB)",
+  "state": "Meghalaya",
+  "level": "State/ UT",
+  "nodal_department": "Labour and Employment Department",
+  "implementing_agency": "Meghalaya Building & Other Construction Workers Welfare Board",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Pension"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Disability",
+    "Pension",
+    "Construction Worker",
+    "Building Worker",
+    "Labour"
+  ],
+  "brief_description": "Under the scheme, the Board shall provide disability pension to a beneficiary who is permanently disabled due to paralysis, leprosy, T.B., accidents,etc. Additionally, workers will be eligible for an exgratia payment based on percentage of disability & subject to condition as may fixed by the Board.",
+  "detailed_description": "The scheme \"Disability Pension\" is a social security scheme, implemented by the Meghalaya Building and Other Construction Workers Welfare Board (MBOCWWB), Labour Department, Government of Meghalaya. Under the scheme, the Board shall provide financial assistance in the form of a disability pension to a beneficiary who is permanently disabled due to paralysis, leprosy, tuberculosis (T.B.), accidents, etc. Additionally, the worker will be eligible for an ex-gratia payment based on the percentage of disability and subject to conditions as may fixed by the Board.",
+  "benefits": [
+    "The financial assistance of \u20b9150/- per month as disability pension shall be given to a beneficiary who is permanently disabled due to paralysis, leprosy, tuberculosis (T.B.), accidents, etc. In addition to this pension, the worker will also be eligible for an exgratia payment of not more than \u20b95,000/- depending upon the percentage of disability and subject to such conditions as may fixed by the Board."
+  ],
+  "eligibility_criteria": "The beneficiary should be a resident of Meghalaya. The beneficiary should be engaged in a building or other construction work. The beneficiary should be registered under the Meghalaya Building & Other Construction Workers Welfare Board. The beneficiary should have an active membership of the Board. Registered construction workers who have become permanently disabled due to conditions such as paralysis, leprosy, tuberculosis (T.B.), accidents, etc., are eligible to avail of the benefits under the scheme.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Online Worker Registration Process (Portal): Step 01: The applicants may visit the online Portal: https://megbocwwb.gov.in/bocw_services/login.htm  Step 02: The applicant can register by creating a new account, on the home page click on the \u2018Worker' button and enter all the mandatory information. Step 03: After filling in all the details, click on \u2018Register'. Step 04: After successful registration, the applicant will see the message \"Registered Successfully\". Application Process for New Registration under the MBOCWWB: Step 01: Visit the online Portal: https://megbocwwb.gov.in/bocw_services/login.htm  Step 02: Enter your User ID (Registered Mobile Number), Password, and Enter Security Code. Click on Login. Step 03: After successful login, click on \u2018Apply for New Registration' from the menu. Step 04: Fill in all the required details in the Registration Form i.e. Personal Details, Service/Work Details, Bank Details, and Demographic Details, etc. Step 05: Click on 'Submit'. Step 06: After successful registration, you will be directed to another page to manage all the Family & Nominee Details. Click on \u2018Add New' to add Family members and Nominee Details. Step 07: After adding all the Family & Nominee Details, click on Proceed. Step 08: Now upload all the required enclosures i.e. Photograph, ID Proof, Employer Certificate/Self Certification, Bank Passbook of the Worker. Step 09: Click on the \u2018Complete' Button to complete the registration process. Step 10: Once your application has been processed and verified by Block/District LDA, Block/District Labour Inspector, and approved District Labour Commissioner (DLC), Registration Certificate will be generated. Application Process for Disability Pension: Step 01: Visit the online Portal: https://megbocwwb.gov.in/bocw_services/login.htm  Step 02: Enter your User ID (Registered Mobile Number), Password, and Enter Security Code. Click on Login. Step 03: After successful login, click on the \"Disability Pension\" scheme from the Dashboard. Step 04: Fill in all the required information and necessary enclosures. Step 05: Click Submit to apply for benefits. Application Process to Track/Update: Step 01: Visit the online Portal: https://megbocwwb.gov.in/bocw_services/login.htm  Step 02: Enter your User ID (Registered Mobile Number), Password, and Enter Security Code. Click on Login. Step 03: From the menu, click on \u2018Track Application Status'. Step 04: Click on \u2018View Details' to view your application. Step 05: Click on \u2018Application History' to view the application history. Step 06: Click on \u2018Update' to update your application. Note: Once your application is under process or processed, you cannot update it. (Worker's User Manual )"
+      ]
+    },
+    {
+      "mode": "Offline",
+      "steps": [
+        "Process for New Registration:",
+        "Step 01: The complete application form along with the required documents is required to be submitted before the Registering Officer of the area. Step 02: The Registering Officer, after satisfying himself/herself with all the details, may register the worker as a beneficiary under the Act and issue an identity card affixing the photograph of the worker. Process to apply for Scheme Benefit: Step 01: A copy of the prescribed application form duly signed by the applicant shall be submitted to the concerned employer. Step 02: The employer is required to countersign the complete application and submit it to the Building & Other Construction Workers' Welfare Board for consideration."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://megbocwwb.gov.in/enrollment"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://megbocwwb.gov.in/schemes_disability_pension"
+    },
+    {
+      "title": "Online Application Portal",
+      "url": "https://megbocwwb.gov.in/bocw_services/login.htm"
+    },
+    {
+      "title": "Registration Form",
+      "url": "https://megbocwwb.gov.in/forms/registration-form/Registration%20Form.pdf"
+    },
+    {
+      "title": "Application Form For Disability Pension",
+      "url": "https://megbocwwb.gov.in/forms/benefit/disability_pension_form.pdf"
+    },
+    {
+      "title": "Nomination Form",
+      "url": "https://megbocwwb.gov.in/forms/registration-form/NominationForm.pdf"
+    },
+    {
+      "title": "Family Members Form",
+      "url": "https://megbocwwb.gov.in/forms/registration-form/Familymembers.pdf"
+    },
+    {
+      "title": "SDO Certificate",
+      "url": "https://megbocwwb.gov.in/forms/registration-form/SDOCertificate.pdf"
+    },
+    {
+      "title": "Employer Certificate",
+      "url": "https://megbocwwb.gov.in/forms/registration-form/EmployersCertificate.pdf"
+    }
+  ],
+  "documents_required": "Enclosures required for New Registration under MBOCWWB: Photograph of the worker ID Proof of worker (Electoral Card, Ration Card, Driver's License, Aadhaar Card, Passport are acceptable) Employer Certificate/Self Certification (Issued Either by the Labour Inspector or the Employer or SDO/AEE of Works Department) Bank Passbook of the worker eShram ID card, if any Age proof of concerned building worker/applicant i.e. School certificate, Certificate from the Registrar of Birth and Deaths, Certificate from the Medical Officer not below the rank of an Assistant Surgeon in Government Service, Electoral Photo Identity Card Nomination Form duly signed by the applicant Self-declaration towards non-enrolment as a member of any other welfare fund/ board SC/ST Certificate (if applicable) Any other documents as required Enclosures required for application of Disability Pension: MBOCWWB ID Card of the concerned worker Medical Certificate Disability Certificate Medical Bills (In case Applicant is admitted into Hospital) Discharge Slip (In case Applicant is admitted into Hospital) Bank account details/Bank Passbook Any other documents as required"
+}

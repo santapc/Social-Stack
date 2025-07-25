@@ -1,0 +1,50 @@
+{
+  "scheme_id": "645b3a6e4358152a4789f84d",
+  "slug": "sara",
+  "scheme_name": "Disability Relief Allowance Scheme",
+  "scheme_short_title": "DRAS",
+  "state": "Himachal Pradesh",
+  "level": "State",
+  "nodal_department": "Department of Social Justice and Empowerment",
+  "dbt_scheme": true,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Pension"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Monthly Pension",
+    "Disability Relief Allowances"
+  ],
+  "brief_description": "The Disability Relief Allowance Scheme under the Department of Social Justice, Government of Himachal Pradesh provides financial assistance to individuals with disabilities to help them manage their living costs and improve their quality of life.",
+  "detailed_description": "**The Disability Relief Allowance Scheme** under the Department of Social Justice, Government of Himachal Pradesh provides financial assistance to individuals with disabilities to help them manage their living costs and improve their quality of life. **Features:** 1. **Monthly Allowance:** Eligible individuals receive a monthly financial allowance. The amount may vary based on the severity of the disability and other factors. 1. **Purpose:** The allowance is intended to help with day-to-day expenses and medical costs related to the disability. The scheme is for Persons with Disabilities who have been issued a permanent disability certificate of 40% or more from a Medical Board constituted as per the Rights of Persons with Disabilities Act, 2016, do not have any adult children, and whose income does not exceed \u20b935,000/- p.a from all sources. The Disability Percentage Certificate issued by the Medical Authority is valid for sanction of Disability Relief Allowance even if the multi-disability is certified at 40% or more as per the guidelines issued by the Ministry of Social Justice and Empowerment, Government of India for assessment and certification of various types of disabilities. Mentally retarded persons and persons with 70% or more disability are provided pensions without any income limit.",
+  "benefits": [
+    "Following is the assistance provided: Pensioners with 40-69% disability \u20b91150/- per month Pensioners with 70% disability or more \u20b91700/- per month Pensioners with disability aged 70 years or more \u20b91500/- per month"
+  ],
+  "eligibility_criteria": "The applicant must be a resident of Himachal Pradesh. The applicant must have a minimum of 40% disability. The applicant must not receive any other pension or allowance from the state or central government. ",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "The eligible candidates with the filled application form , and documents enclosed can apply for the scheme by visiting the nearest block development office or district welfare office. The applicant will receive a receipt after submitting the application form. The department may review the application form and as per the guidelines issued by the department, the allowance may be released."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "http://esomsa.hp.gov.in/?q=hi/%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%9C%E0%A4%BF%E0%A4%95-%E0%A4%B8%E0%A5%81%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE-%E0%A4%AA%E0%A5%88%E0%A4%82%E0%A4%B6%E0%A4%A8"
+    },
+    {
+      "title": "Notification",
+      "url": "http://esomsa.hp.gov.in/sites/default/files/Notification_SSP_0.pdf"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Domicile proof. Disability Certificate. Income Certificate. Recommendation from the concerned Gram Panchayat. Copy of the Parivar Register. Aadhaar Card. Bank Account. Note: Income Certificate and Gram Sabha Recommendation are not required for persons with 70% or more disability or 40% or more mental disability."
+}

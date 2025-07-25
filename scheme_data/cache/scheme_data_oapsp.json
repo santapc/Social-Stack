@@ -1,0 +1,71 @@
+{
+  "scheme_id": "64eb2f9b031061909aee089b",
+  "slug": "oapsp",
+  "scheme_name": "Old Age Pension Scheme - Punjab",
+  "scheme_short_title": "Oapsp",
+  "state": "Punjab",
+  "level": "State",
+  "nodal_department": "Department of Social Security and Development of Women and Children",
+  "dbt_scheme": true,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Pension"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Welfare",
+    "Pension"
+  ],
+  "brief_description": "Punjab State Government started a pension for old age person of the state people.",
+  "detailed_description": "Punjab State Government started a pension for old age person of the state people. The main objective is to provide financial security to those sections of society who doesn&#39;t have any stable source of income. its a DBT scheme so pension amount will directly transferred in the bank account of beneficiary. <br>",
+  "benefits": [
+    "Amount : \u20b9 1,500/- per month"
+  ],
+  "eligibility_criteria": "Beneficiary should be a Permanent Resident of Punjab. The Annual Income of Beneficiary should not be more than Rs. 60,000/- per year. The Age of Beneficiary should be :- Men: 65 Years or Above. Women :58 Years or Above. Beneficiary should own any of the below mentioned amount of land :- Maximum 2.5 Acre Nehri or Chahi Land, OR Maximum 5 Acre Barani Land, OR Waterlogged 5 Acre Land.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step-1: Applicants have to visit the official website. ",
+        "Step-2 : Click on the \"Click to apply services\".",
+        "Step-3 : Now login on Digital Punjab portal with Email/Phone number and password. If does have any account then register here ",
+        "Step-4: Fill out the application form.",
+        "Step-5 : Attach the required documents",
+        "Step-6 : Submit."
+      ]
+    },
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step-1: Applicants have to visit the official website and download the application form. ",
+        "Step-2 : Beneficiary can get the Offline Application Form of Punjab Old Age Pension Scheme free of cost from any of the following Offices or Centre :-",
+        "Office of District Social Security Officer. Office of Child Development Project Officer. Panchayat and B.D.P.O Office. SDM Office. Anganwadi Centre. Sewa Kendra",
+        "Step-3 : Fill out the application form.",
+        "Step-4 : Attach required documents.",
+        "Step-5 : Submit the Application Form of Punjab Old Age Pension Scheme along with all the documents in the same office or",
+        "centre from where it was collected."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://upload.indiacode.nic.in/showfile?actid=AC_PB_82_985_00002_00002_1553492693909&type=rule&filename=notification_pdf_13.6.2017_in_eng.pdf"
+    },
+    {
+      "title": "Portal",
+      "url": "https://connect.punjab.gov.in/service/citizenservice/108"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://punjab.gov.in/wp-content/uploads/2023/08/OldAgePension-1_merged.pdf"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Proof of Identity. Proof of Address of Beneficiary. First page of Passbook. Proof of date of birth of Beneficiary. Self-declaration. Rural Area: Land Report from Patwari. Urban Area: Property verification from EOMC."
+}

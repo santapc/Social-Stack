@@ -1,0 +1,72 @@
+{
+  "scheme_id": "676149f0d3ff44f8f1b7ea8d",
+  "slug": "cmbocwhrs",
+  "scheme_name": "Chief Minister's Building and Other Construction Workers Housing (Rural) Scheme",
+  "scheme_short_title": "CMBOCWHRS",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Labour Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Housing & Shelter"
+  ],
+  "sub_categories": [
+    "Shelter, integrated support and assistance",
+    "Housing"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Worker",
+    "Construction",
+    "Financial Assistance",
+    "Housing",
+    "Labour"
+  ],
+  "brief_description": "Launched in 2013, the \"Chief Minister's Building and Other Construction Workers Housing (Rural) Scheme\" provides permanent houses to registered construction workers in rural areas of Madhya Pradesh.",
+  "detailed_description": "Launched in 2013, the scheme &quot;Chief Minister&#39;s Building and Other Construction Workers Housing (Rural) Scheme&quot; aims to provide permanent houses to registered construction workers in the rural areas of Madhya Pradesh who are homeless or living in kutcha/semi-pucca houses. This scheme is applicable in all rural areas of the state (excluding urban and Nazul outer areas).",
+  "benefits": [
+    "The Board reimburses a minimum loan grant of \u20b950,000 to the beneficiary. The Banks may approve an additional loan of up to \u20b930,000 based on repayment capacity, with no role for the State Government. The grant is limited to \u20b950,000 per case.",
+    "NOTE:  The Board provides the grant to District Labour Offices, which distribute it to banks based on approved loan cases."
+  ],
+  "eligibility_criteria": "For Registration:\nThe applicant should be a resident of Madhya Pradesh. The applicant should be a Building/ Construction Worker. The applicant should be between 18 and 60 years. The applicant should have engaged in any building or other construction work for at least 90 days during the preceding 12 months. The registration of the applicant should be renewed annually.\nFor Application:\nThe applicant should not fulfil the eligibility criteria for housing grants under Indira Awas Yojana or Chief Minister Antyodaya Awas Yojana. The applicant should have a family with a maximum of three hectares of agricultural land. The applicant's family's maximum income from all sources should be up to \u20b93 lakh per annum. The applicant should have sufficient land available for house construction, as mentioned in clause 6 above. The applicant should be eligible to receive land for housing from the government. The applicant should be willing to construct a house on agricultural land owned by them. The applicant should be eligible to obtain a landholder certificate in the village population. The applicant should agree to obtain a bank loan for constructing a house with a 225 sq. ft. plinth area in the prescribed layout and provide their own contribution in the form of labour/material/inclusion.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the Chief Executive Officer District Panchayat and request the hard copy of the prescribed format of the application form from the concerned authority.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the authority.",
+        "Step 4: Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE 1: Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    },
+    {
+      "mode": "Online",
+      "steps": [
+        "For Registration",
+        "Step 1: Go to the Shram Seva Portal (MPBOCWWB) official website. ",
+        "Step 2: On the homepage, find and click on \"Registration of Construction Worker.\"",
+        "Step 3: Select the option \" Apply online for registration as a beneficiary.\"",
+        "Step 4: Enter your Composite Member ID and Samagra Family ID, then click Get Details.",
+        "Step 5: Your family or beneficiary details will be displayed on the screen.",
+        "Step 8: Complete the form by entering all required details (marked with *).",
+        "Step 9: Upload all necessary documents, such as ID proof and other relevant certificates.",
+        "Step 10: After completing the form and uploading the documents, click Submit and pay the application fee online.",
+        "Step 11: You will receive a registration number after successful payment and submission."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://labour.mp.gov.in/Public/Pages/Schemes/MukhyamantriBhavanAvasYojna.aspx"
+    },
+    {
+      "title": "Labour Registration",
+      "url": "https://labour.mp.gov.in/Public/Registration/BeneficiaryRegistrationRequest.aspx"
+    }
+  ],
+  "documents_required": "Identity Proof (e.g., Aadhaar Card) Passport-size Photograph Proof of Residence (e.g., Utility bill, Voter ID, etc.) Ration Card (optional) Bank Account Details (e.g., Copy of Bank Passbook) Caste Certificate (if applicable) Undertaking/Declaration Age Certificate Valid Identity Cards Employment Certificate Signature Any other documents as required"
+}

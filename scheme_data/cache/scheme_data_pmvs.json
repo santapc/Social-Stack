@@ -1,0 +1,94 @@
+{
+  "scheme_id": "67eb7e5fbf2b20c52ae50e76",
+  "slug": "pmvs",
+  "scheme_name": "Pradhan Mantri Vidyalaxmi (PM-Vidyalaxmi) Scheme",
+  "scheme_short_title": "PMVS",
+  "level": "Central",
+  "nodal_department": "Department Of Higher Education",
+  "dbt_scheme": false,
+  "categories": [
+    "Banking,Financial Services and Insurance",
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Personal finance",
+    "Loan",
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Education",
+    "Student",
+    "College",
+    "Merit",
+    "Loan"
+  ],
+  "brief_description": "The \"Pradhan Mantri Vidyalaxmi (Pm-vidyalaxmi) Scheme\" aims to provide financial support for higher education through education loans. Under this scheme, financial assistance of up to \u20b910,00,000/- is provided to meritorious students seeking admission to domestic institutions.",
+  "detailed_description": "The scheme &quot;Pradhan Mantri Vidyalaxmi (PM-Vidyalaxmi)&quot; by the Department of Higher Education, Ministry of Education, Government of India, aims to provide financial support to meritorious students so that financial constraints do not prevent any youth of India from pursuing quality higher education. The scheme provides collateral-free, guarantor-free education loans through a simple, transparent, student-friendly and entirely digital application process, with 3% interest subvention for students from families with annual income up to \u20b98,00,000. To be eligible, the applicant must get admission on their own merit to one of the 860 designated Quality Higher Educational Institutions (QHEIs) in India. The scheme is implemented by the Department of Higher Education in coordination with Canara Bank as the nodal bank. The applications for this scheme are accepted Online.",
+  "benefits": [
+    "A special loan product of collateral-free and guarantor-free education loans for students admitted to QHEIs.",
+    "The loan amount depends on the course fee and other associated expenses (mess, hostel fee, refundable and non-refundable fees, laptop, living expenses) with no upper limit. 75% credit guarantee by the Government of India for loan amounts up to \u20b97,50,000, irrespective of family income. 3% interest subvention on loans up to \u20b910,00,000 for students with annual family income up to \u20b98,00,000 during the moratorium period (course period plus one year). Full interest subvention is already offered to students with up to \u20b94,50,000 annual family income under PM-USP CSIS for technical/professional courses. Interest rate capped at individual bank's Externally Benchmarked Lending Rate (EBLR) + 0.5%. Up to 1% additional interest concession if interest is serviced during the study period and the moratorium period. Repayment period up to 15 years, excluding moratorium period. The interest subvention amount will be credited to PM-VIDYALAXMI DIGITAL RUPEE APP (CBDC WALLET) of the beneficiary and on redemption on the app by the beneficiary, the amount will be transferred to the beneficiary loan account."
+  ],
+  "eligibility_criteria": "For Students\nThe applicant must be an Indian citizen. The applicant must get merit-based admission to one of the 860 designated Quality Higher Educational Institutions (QHEIs) in India. The applicant must not be admitted through the management quota or a similar quota. The applicant must have an annual family income of up to \u20b98,00,000 to qualify for 3% interest subvention. The applicant must not be receiving any other Central/State Government Scholarship or interest subvention scheme or fee reimbursement. The applicant must not discontinue the course midstream or be expelled from the institution on disciplinary or academic grounds. The applicant must maintain satisfactory academic performance to receive interest subvention from the 2nd year onwards. The applicant can avail interest subvention and credit guarantee benefits only once, either for an undergraduate or postgraduate or integrated course.\nFor Quality Higher Education Institutions (QHEIs)\nThe following institutions are eligible -\nTop 100 ranked HEIs in the overall/category-specific and/or domainspecific rankings in latest list of NIRF published by the Ministry of Education. Top 200 ranked HEIs under the governance of state/UT governments in the latest list of NIRF published by the Ministry of Education. All remaining HEIs under the governance of the Government of India.\n*Indian campuses of foreign education institutions, foreign campuses of Indian education institutions and foreign education institutions will not be covered.\n\n",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "REGISTRATION",
+        "Step 1: Visit the Official Website of the \"Pradhan Mantri Vidyalaxmi (PM-vidyalaxmi) Scheme\"",
+        "Step 2: In the top ribbon, click \"Login\" > \"Student Login\". On the next screen, click \"Create an Account\", you will be taken to the \"Student Registration\" page.",
+        "Step 3: Student to register through AADHAAR for availing benefits under the PM-Vidyalaxmi Scheme, which includes education loan, interest subvention, and credit guarantee coverage and can apply for Interest Subvention, if eligible.",
+        "Step 4: In the registration form, provide the following mandatory details - Applicant Name, Mobile Number, Email ID. Verify the Mobile Number and the Email ID via OTP. Create a password. It must contain at least 8 characters. A combination of uppercase and lowercase letters, numbers and special characters.",
+        "Step 5: Confirm the password, fill in the Captcha code, agree to the \"Terms & Privacy\", and click \"Submit\" to register. Upon registration, you will receive a confirmation message on SMS/Email/WhatsApp.",
+        "APPLICATION",
+        "Step 1: Visit the Official Website of the \"Pradhan Mantri Vidyalaxmi (PM-vidyalaxmi) Scheme\"",
+        "Step 2: In the top ribbon, click \"Login\" > \"Student Login\". On the next screen, provide your Login Details, i.e. the User ID and the Password. Your Registered Email will be your User ID.",
+        "Step 3: Fill in the Captcha code, agree to the \"Terms & Privacy\", and click \"Login\". Provide the OTP received on your Mobile Number / Email ID.",
+        "Step 4: In the \"Student's Homepage\", click \"Apply for Education Loan\", you will be taken to the online application form of the scheme.",
+        "Step 5: In the application form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size.",
+        "Step 6: Choose the preferred bank and branch from the dropdown. Carefully review all the information provided and the documents uploaded. Make any necessary corrections.",
+        "Step 7: Acknowledge and agree to the terms and conditions and privacy policy (if any). Click \"Final Submit\" to submit your application. You'll receive a confirmation message.",
+        "TRACK LOAN APPLICATION STATUS",
+        "Step 1: After logging into your PM-Vidyalaxmi account. In the \"Student's Homepage\", click on the \"Track Loan Application\" section from the menu.",
+        "Step 2: Select your Loan Application Number from the dropdown list.",
+        "Step 3: The current status of your application (e.g., \"Under Review,\" \"Approved,\" \"Disbursed\") will be displayed. To download a copy of your application, click \"Download Application PDF\".",
+        "APPLY FOR INTEREST SUBVENTION",
+        "Step 1: Once your education loan has been sanctioned and disbursed by the bank, log in to the \"PM-vidyalaxmi\" website.",
+        "Step 2: In the \"Student's Homepage\", select \"Apply for Interest Subvention\" from the menu.",
+        "Step 3: Click \"Claim Interest Subvention\" and fill in the required details.",
+        "Step 4: Upload the Income Certificate (issued by a public authority) or Annexure 6 (provided by your institute).",
+        "Step 5: Submit the form. You will receive confirmation via SMS/Email/WhatsApp.",
+        "RAISE A GRIEVANCE",
+        "Step 1: Navigate to the \"Initiate Grievance\" section from the menu. Click \"Register New Complaint\".",
+        "Step 2: Provide your Loan Application Number. Choose the Grievance Type and Subtype. Select the Bank involved.",
+        "Step 3: Describe the issue in detail and upload supporting documents (PDF/JPEG/PNG, max 200KB). Submit the grievance.",
+        "A Grievance ID will be generated for tracking. Check the status under \"View Reply\" and re-raise the complaint if unresolved.",
+        "GRIEVANCE REDRESSAL",
+        "For grievances, one can write to the Canara Bank at -",
+        "Toll-free No.: 1800 1031 and Tele: 080- 22533876",
+        "Email: hoel@canarabank.com, hogps@canarabank.com, support@pmvidyalaxmi.co.in."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.education.gov.in/sites/upload_files/mhrd/files/document-reports/PM_Vidyalaxmi_Scheme_Guidelines.pdf"
+    },
+    {
+      "title": "Other Information",
+      "url": "https://www.education.gov.in/scholarships-education-loan-4"
+    },
+    {
+      "title": "User Manual For Application",
+      "url": "https://pmvidyalaxmi.co.in/img/UserManual-Student.pdf?csrt=17538697394644098652"
+    },
+    {
+      "title": "List Of 860 Quality Higher Education Institutions",
+      "url": "https://dashboard.aishe.gov.in/"
+    }
+  ],
+  "documents_required": "Aadhaar Card PAN Card Address Proof Previous Qualifying Marksheets (Self-attested) Entrance Exam Result Offer Letter (from the Institution, along with the fee structure) Income Certificate (from the designated public authority of the state)\n*If the QHEI has already accepted some of these documents at the time of admission, the student should submit a certificate from the QHEI regarding the same ( proforma given in Annexure 6 ). Only the remaining documents will have to be submitted by the students to the bank/portal."
+}

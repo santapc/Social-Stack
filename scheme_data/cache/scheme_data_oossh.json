@@ -1,0 +1,53 @@
+{
+  "scheme_id": "677655c58aa510ca3714008b",
+  "slug": "oossh",
+  "scheme_name": "Operation of SC Senior Hostel",
+  "scheme_short_title": "OOSSH",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Tribal Welfare and Scheduled Caste (SC) Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Housing & Shelter"
+  ],
+  "sub_categories": [
+    "Hostel service"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Hostel",
+    "Scheduled Caste",
+    "College",
+    "Student"
+  ],
+  "brief_description": "The scheme \"Operation of SC Senior Hostel\" provides accommodations and a conducive learning environment for Scheduled Caste students. Through this scheme, separate junior, senior, and college hostels with free boarding and lodging facilities are provided to both boys and girls.",
+  "detailed_description": "The scheme &quot;Operation of SC Senior Hostel&quot; by the Scheduled Caste Welfare Department, Government of Madhya Pradesh aims to provide accommodations and a conducive learning environment for Scheduled Caste students. Through this scheme, separate junior, senior, and college hostels with free boarding and lodging facilities are provided to both boys and girls. The applications for this scheme must be submitted within one month after the fixed date for school admissions. The scheme is implemented at the state level through Divisional District Officers.",
+  "benefits": [
+    "Accommodation",
+    "Free boarding facilities Free lodging facilities Separate hostels for boys and girls Junior, senior, and college-level accommodations",
+    "Additional Facilities",
+    "Sports equipment Toilet kits Library facilities Scholarship (90% paid to joint account of Hostel Superintendent and Mess Secretary, 10% to student's account)"
+  ],
+  "eligibility_criteria": "The applicant must belong to the Scheduled Caste category. The applicant must be a native of Madhya Pradesh. The applicant must be a regular student of a recognized institution. There is no income limit for senior hostels.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the Head of the Institution and request the hard copy of the prescribed format of the application form from the concerned authority.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the authority.",
+        "Step 4: Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE: Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=611"
+    }
+  ],
+  "documents_required": "Passport-size Photograph Aadhaar card Domicile certificate of Madhya Pradesh Caste certificate Previous Class Passing Certificate/ Marksheet Samagra ID Bank account details/Bank Passbook Other necessary documents if required Guardian's Consent Letter"
+}

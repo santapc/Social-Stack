@@ -1,0 +1,56 @@
+{
+  "scheme_id": "6592703ea733b1d73271ef14",
+  "slug": "ms",
+  "scheme_name": "Manabik Scheme",
+  "scheme_short_title": "MS",
+  "state": "West Bengal",
+  "level": "State/ UT",
+  "nodal_department": "Women and Child Development and Social Welfare Department",
+  "dbt_scheme": true,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Pension"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Differently Abled",
+    "Pension",
+    "Social Welfare"
+  ],
+  "brief_description": "The Manabik Pension Scheme is a financial assistance program launched in 2018 to provide monthly pensions to individuals with disabilities in West Bengal.",
+  "detailed_description": "&quot;Manabik&quot; Scheme was launched by the Department of Women &amp; Child Development and Social Welfare, Government of West Bengal. This scheme is designed to provide financial support to individuals who are unable to work due to a disability. The aim is to assist individuals in maintaining a reasonable standard of living despite their inability to engage in gainful employment. <br>",
+  "benefits": [
+    "Sanctioned Pensioner will be supported by Rs \u20b91,000/- per Month through DBT mode at Pensioners Bank Account. "
+  ],
+  "eligibility_criteria": "Applicant must be a disable person with 50% of disability. Applicant must be a resident of the state namely West Bengal for not less than 10 Years on the date of making application for Pension. Family income of the beneficiary should not exceed \u20b91,00,000/- (One thousand) per month. The differently abled person should be declared unsuitable for physical work by the respective Medical officer.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Application Form for Pension may be obtained free of cost from following offices namely. Office of the Block Development Officer or the Executive Officer of the concerned Panchayat Samity (For Rural areas). Office of the Sub-Divisional Officer (For Municipal areas). Office of the Controller of Vagrancy, West Bengal situated at Purta Bhawan, Bidhan Nagar, Kolkata 700091( For areas under Kolkata Municipal Corporation). Fill out the application form with required details and have to be submitted at To the Duare Sarkar Camps. To the office of Block Development Officer (BDO) in rural area. To the office of Sub-divisional Officer (SDO) in urban area. To the office of the Controller of Vagrancy in Kolkata Municipal Corporation (KMC) area. Submit the required documents",
+        "Self attested copies of Disability Certificate from Appropriate Authority. Aadhaar card. Digital Ration Card/ /EPIC card. Copy of front page of Bank Pass Book. Color passport size photograph. "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Scheme SOP",
+      "url": "https://ds.wb.gov.in/DDPS/Page/DDPS_Admin_View_Document.aspx"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://cdn.s3waas.gov.in/s3aff1621254f7c1be92f64550478c56e6/uploads/2021/06/2021061861.pdf"
+    },
+    {
+      "title": "Guidelines",
+      "url": "http://alipurduar1block.com/wp-content/uploads/2019/06/Departmental-Order-for-Implementation-of-Manabik.pdf"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Self attested copies of Disability Certificate from Appropriate Authority. Aadhaar card. Digital Ration Card/ /EPIC card. Copy of front page of Bank Pass Book. Color passport size photograph. "
+}

@@ -1,0 +1,55 @@
+{
+  "scheme_id": "670cfd490b69a7abdf74d470",
+  "slug": "psslp",
+  "scheme_name": "Prize Schemes to the Students (State Level Prizes)",
+  "scheme_short_title": "PSSLP",
+  "state": "Tamil Nadu",
+  "level": "State/ UT",
+  "nodal_department": "Backward Classes Most Backward Classes and Minorities Welfare Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Minority Welfare",
+    "Scholarship",
+    "Education",
+    "Financial Assistance"
+  ],
+  "brief_description": "The scheme awards students from Backward Classes (BC), Most Backward Classes (MBC), and Denotified Communities (DNC) for their excellent performance in academic exams studying in Government/Government Aided and Private Schools.",
+  "detailed_description": "The &amp;quot;Prize Schemes to the Students (State Level Prizes)&amp;quot; launched by the Backward Classes, Most Backward Classes and Minorities Welfare Department, Tamil Nadu, aimed at supporting students from Backward Classes (BC), Most Backward Classes (MBC), and Denotified Communities (DNC). The prizes are distributed to students from both Government/Government Aided and Private Schools who have studied Tamil as their first language. Awards are given in various categories, with no income limit.",
+  "benefits": [
+    "First Prize: \u20b950,000/- (boys from BC), \u20b925,000/- (girls from BC) Second Prize: \u20b930,000/- (boys from BC), \u20b920,000/- (girls from BC) Third Prize: \u20b920,000/- (boys from BC), \u20b915,000/- (girls from BC)"
+  ],
+  "eligibility_criteria": "The beneficiary should be a student. The beneficiary should be a resident of Tamil Nadu. The beneficiary should belong to the Backward Classes (BC)/ Most Backward Classes (MBC)/ Denotified Communities (DNC). The beneficiary should be studying in a Government/ Government Aided/ Private School. The beneficiary must have studied Tamil as the first language. Note: If more than one student secures the same marks, awards are granted to all students. ",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step-1: The interested applicant should collect the application form from their concerned educational institution. Step-2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required). Step-3: Submit the duly filled and signed application form along with the documents to the institution. Step-4: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.tn.gov.in/scheme/data_view/27495"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://cms.tn.gov.in/sites/default/files/schemes/bcmbcmw_2.pdf"
+    },
+    {
+      "title": "Community List",
+      "url": "https://bcmbcmw.tn.gov.in/community_list.pdf"
+    }
+  ],
+  "exclusions": "State Level Topper students who are awarded prizes by the Education Department are not eligible.",
+  "documents_required": "Proof of identity (Aadhar card or any other document as directed by the authority). Caste certificate (BC/MBC/DNC). Admission letter or proof of enrollment. Proof of language studied (Tamil as first language). Any other documents (if required)."
+}

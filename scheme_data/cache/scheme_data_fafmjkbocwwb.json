@@ -1,0 +1,76 @@
+{
+  "scheme_id": "670e10aceb7b25fc85cdc6cb",
+  "slug": "fafmjkbocwwb",
+  "scheme_name": "Financial Assistance for Medical (JKBOCWWB)",
+  "scheme_short_title": "FAFMJKBOCWWB",
+  "state": "Jammu and Kashmir",
+  "level": "State/ UT",
+  "nodal_department": "Department of Labour and Employment",
+  "dbt_scheme": false,
+  "categories": [
+    "Health & Wellness"
+  ],
+  "sub_categories": [
+    "Disease and conditions",
+    "Medicine and health products",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Worker",
+    "Construction",
+    "Labour",
+    "Medical",
+    "Financial Assistance"
+  ],
+  "brief_description": "The \"Financial Assistance for Medical\" scheme by the JKBOCW Welfare Board, Labour Department, Jammu & Kashmir, provides financial support for medical expenses, including injury treatment, temporary and permanent disability, and the treatment of chronic diseases.",
+  "detailed_description": "The scheme &quot;Financial Assistance for Medical&quot; is a scheme by the Building and Other Construction Workers Welfare Board, Labour Department, Jammu &amp; Kashmir. The scheme provides financial aid to registered workers&#39; children for various medical needs, provided the worker has been engaged in building or construction work for at least 90 days in the preceding 12 months. Under this scheme, workers can receive \u20b95,000/- for injury treatment, \u20b910,000/- for temporary disability, \u20b975,000/- for permanent disability, and up to \u20b91,00,000/- for the treatment of chronic diseases.",
+  "benefits": [
+    "Financial Assistance in the Case of Injury: \u20b95,000/- Financial Assistance in the Case of Temporary Disability: \u20b910,000/- Financial Assistance in the Case of Permanent Disability: \u20b975,000/- Financial Assistancein the Case of Treatment of Chronic Diseases: \u20b91,00,000/-"
+  ],
+  "eligibility_criteria": "For Registration as a Building/ Construction Worker -\nThe applicant should be a resident of Jammu & Kashmir. The applicant should be a Building/ Construction Worker. The applicant should be between 18 and 60 years. The applicant should have engaged in any building or other construction work for at least 90 days during the preceding 12 months. The applicant should be registration is renewed annually.\nFor Application to this Scheme -\nThe applicant must be a registered member of the Building and Other Construction Workers Welfare Board of Jammu & Kashmir. The applicant should be suffering from an injury, a disability, or from a chronic disease.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration -",
+        "Step 1: Go to the J&K Building and Other Construction Workers Welfare Board (JKBOCWWB) official website. ",
+        "Step 2: On the homepage, find and click the \" Labour Registration\" link.",
+        "Step 3: If you're a new user, click on \"Apply for New Registration.\"",
+        "Step 4: Complete the registration form with your details, submit the form, and send the OTP to your registered mobile number. Enter the OTP and click \"Verify OTP & Submit.\"",
+        "Step 5: After the OTP is verified, a confirmation message with your Login ID and password will be sent to your registered mobile number.",
+        "Step 6: Use the Login ID, password, and captcha to log in (remember, the username and password are case-sensitive). filled are case-sensitive). Read all the instructions carefully and Click to continue",
+        "Step 7: Once logged in, choose the \"Construction Worker's Registration\" option and click on \"Registration Form.\"",
+        "Step 8: A dashboard will appear. Complete the form by entering all required details (marked with *).",
+        "Step 9: Upload all the important documents, such as ID proof and other relevant certificates.",
+        "Step 10: Once the form is completed and documents uploaded, click \"Submit\" and pay the application fee online. You will receive a registration number after successful payment and submission.",
+        "Application -",
+        "Step 1: Go to the official website of the Jammu & Kashmir Building and Other Construction Workers Welfare Board.",
+        "Step 2: Click on \"Login,\" enter your details, and sign in to your account.",
+        "Step 3: After logging in, click on \"Scheme Registration\" and select \"Apply for Scheme.\"",
+        "Step 4: Choose the scheme you wish to apply for in order to avail the benefits.",
+        "Step 5: Enter all required information and upload the necessary documents as prompted.",
+        "Step 6: Finally, click on \"Submit Application\" to complete the process.",
+        "Status Tracking -",
+        "Applicant can track their application status online through the official website of the Jammu & Kashmir Building and Other Construction Workers Welfare Board. Relevant updates will be sent to the registered mobile number."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.jkbocw.gov.in/StaticPages/SchemeInformation.aspx"
+    },
+    {
+      "title": "Website",
+      "url": "https://www.jkbocw.gov.in/Index.aspx"
+    },
+    {
+      "title": "Worker Registration",
+      "url": "https://portal.jkbocw.gov.in/LoginGuest.aspx"
+    }
+  ],
+  "documents_required": "For Registration Identity proof i.e. Aadhaar Card, Voter Card Passport-size photograph Attested work experience document Proof of residence Ration Card Bank account details Caste Certificate (If applicable) Proof of age Any other documents as required For Application Identity proof/ID Card of Worker Undertaking by applicant Certificate of Medical Officer of Government or Private Empanelled hospital Original Bill of expenditure on the treatment Any other documents as required"
+}

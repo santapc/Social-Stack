@@ -1,0 +1,69 @@
+{
+  "scheme_id": "66d06854df3cd884951dc63b",
+  "slug": "ssws",
+  "scheme_name": "Shramashakthi Special Women's Scheme",
+  "scheme_short_title": "SSWS",
+  "state": "Karnataka",
+  "level": "State/ UT",
+  "nodal_department": "Minorities Welfare Department",
+  "implementing_agency": "Karnataka Minorities Development Corporation",
+  "dbt_scheme": false,
+  "categories": [
+    "Women and Child",
+    "Social welfare & Empowerment",
+    "Business & Entrepreneurship"
+  ],
+  "sub_categories": [
+    "Loan",
+    "Setting up / start-up / entrepreneurship",
+    "Citizen empowerment"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Loan",
+    "Economic Empowerment",
+    "Women",
+    "Minority Community"
+  ],
+  "brief_description": "The \"Shramashakthi Special Women's Scheme\" is a special scheme for the economic empowerment of widowed, divorced, unmarried women of the minority community.",
+  "detailed_description": "The &quot;Shramashakthi Special Women&#39;s Scheme&quot; was launched by the Minorities Welfare Department, Government of Karnataka, and implemented by the Karnataka Minorities Development Corporation. This is a special scheme for the economic empowerment of widowed, divorced, unmarried women of the minority community. Under this scheme, \u20b925,000/- loan and \u20b925,000/- subsidy will be provided to undertake various economic activities.",
+  "benefits": [
+    "Financial Assistance: ",
+    "A total of \u20b950,000/- is provided, comprising \u20b925,000/- as a loan and \u20b925,000/- as a subsidy."
+  ],
+  "eligibility_criteria": "The applicant should be a female. The applicant should be a widowed, divorced, unmarried woman. The applicant should belong to a religious minority community as defined in the Government Order. The applicant should be a permanent resident of Karnataka. The applicant's age should be between 18 to 55 years. The annual family income of the applicant from all sources should be below \u20b93,50,000/-. The applicant's family member should not be a State/Central Government employee. The applicant or family members should not have availed of benefits under any other scheme (Excluding the Arivu Scheme) of the KMDCL in the last 5 years.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step-01: Applicant need to visits the Karnataka Minorities Development Corporation official website .",
+        "Step-02: Click \" Apply Online \" and Enter \"Mobile Number\" and \"Submit\".",
+        "Step-03: Enter \"Aadhaar Number\" Fill in the \"Captcha\" and Select \"Next\".",
+        "Step-04: Applicant will get OTP in his/her Aadhaar Linked Mobile Number.",
+        "Step-05: Enter \"OTP\" and select \"Continue\", After that Allow the official notice.",
+        "Step-06: After verifying the Aadhaar again fill in the \"OTP\" and Submit.",
+        "Step-07: Select the scheme \"Sikhligar's Community Development Scheme\" and fill in the basic details father's name, gender, qualification detail",
+        "Step-08: Select \"Next\" Fill in the address detail and again select \"Next\".",
+        "Step-09: Upload the required document passport-size photo, educational document, income certificate, etc.",
+        "Step-10: Click \"Proceed\" and Select \"Submit Application\" and get an Application ID."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://kmdconline.karnataka.gov.in/Portal/home"
+    },
+    {
+      "title": "Login & Apply",
+      "url": "https://kmdconline.karnataka.gov.in/Portal/login"
+    },
+    {
+      "title": "Track Application",
+      "url": "https://kmdconline.karnataka.gov.in/Portal/track"
+    }
+  ],
+  "documents_required": "Project Report. Caste/Minority Certificate (issued by the competent authority). Income Certificate (issued by the competent authority). Copy of Aadhaar as Residential Proof. Copy of Bank Passbook.  Self-Declaration Form from Surety.   Self-Declaration Form.  "
+}

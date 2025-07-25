@@ -1,0 +1,54 @@
+{
+  "scheme_id": "676fee82807d47d0cae4ab90",
+  "slug": "pandps",
+  "scheme_name": "Pay & Play Scheme",
+  "scheme_short_title": "P&PS",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Department of Sports & Youth Affairs",
+  "dbt_scheme": false,
+  "categories": [
+    "Sports & Culture"
+  ],
+  "sub_categories": [
+    "Sports"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Sports",
+    "Training",
+    "Opportunities"
+  ],
+  "brief_description": "The \"Pay & Play Scheme\" aims to provide state-level players with training and practice opportunities at the Mega Sports Complex, Hotwar, Ranchi.",
+  "detailed_description": "The \"Pay &amp; Play Scheme\" was launched by the Department of Sports &amp; Youth Affairs, Government of Jharkhand. The scheme aims to provide state-level players with training and practice opportunities at the Mega Sports Complex, Hotwar, Ranchi. The scheme includes 11 sports disciplines: athletics, badminton, lawn tennis, table tennis, shooting, gymnastics, basketball, taekwondo, volleyball, wrestling, and swimming.",
+  "benefits": [
+    "Training in 11 diverse sports disciplines: athletics, badminton, lawn tennis, table tennis, shooting, gymnastics, basketball, taekwondo, volleyball, wrestling, and swimming under professional supervision. Free registration and membership for school students (up to Class 10 th ) with the principal's recommendation. Free registration and membership for international/national participants and medalists. Athletics players enjoy 15 days of free access (non-repetitive)."
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Jharkhand. The applicant should be a sportsperson. The applicant should actively participate in state-level sports. The students up to class 10 th with a recommendation from the school principal and National/international participants or medalists are eligible to apply.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The applicant downloads the application form the official website.",
+        "Step 2: Fill out the form with accurate details and attach the required documents.",
+        "Step 3: Submit the form at the Jharkhand State Sports Promotion Society office.",
+        "Step 4: Pay the registration fee (\u20b950) and the relevant membership fee, if applicable.",
+        "NOTE: ",
+        "Other athletes are willing to pay registration and membership fees. Fee Table (https://sports.jharkhand.gov.in/documents/Pay-and-Play.pdf)"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://sports.jharkhand.gov.in/"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://sports.jharkhand.gov.in/documents/Pay-and-Play.pdf"
+    }
+  ],
+  "documents_required": "Two Passport-size Photo Identity Proof Birth Certificate Proof Indicates (that the applicant is not suffering from any contagious disease) Demand Draft for Fee"
+}

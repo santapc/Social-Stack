@@ -1,0 +1,56 @@
+{
+  "scheme_id": "67cddb824f0bd5e698d60d32",
+  "slug": "sdvay",
+  "scheme_name": "Vishesh Yogyajan Sukhad Dampatya Jeevan Yojana",
+  "scheme_short_title": "VYSDJY",
+  "state": "Rajasthan",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Empowerment Department",
+  "implementing_agency": "Directorate Of Specially Abled Person, Government Of Rajasthan",
+  "dbt_scheme": true,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance",
+    "Marriage"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Marriage Assistance",
+    "Differently Abled Person",
+    "Marriage Grant",
+    "Marriage Grant"
+  ],
+  "brief_description": "The scheme aims to provide financial assistance to specially-abled individuals to support a happy married life after marriage. Under this scheme, financial assistance of \u20b950,000/- per couple is provided.",
+  "detailed_description": "The scheme &amp;quot;Vishesh Yogyajan Sukhad Dampatya Jeevan Yojana&amp;quot; was launched by the Social Justice &amp;amp; Empowerment Department, Government of Rajasthan, in 1997. The scheme aims to provide financial assistance to specially-abled individuals to support a happy married life after marriage. Under this scheme, financial assistance of \u20b950,000/- per couple is provided. Additionally, \u20b920,000/- is given as event expenses to organizations that organize marriage events for specially-abled individuals. The scheme is implemented by the Directorate of Specially-Abled Persons in the state.",
+  "benefits": [
+    "Financial assistance of \u20b950,000/- per couple is provided."
+  ],
+  "eligibility_criteria": "The applicant should be a native of Rajasthan. The applicant should be a specially-abled individual (male or female). The applicant should possess a disability certificate with 40% or more disability, issued by a Medical Officer or Medical Board. The groom should be at least 21 years old, and the bride should be at least 18 years old. The applicant's family income from all sources should not exceed \u20b92,50,000/- per year.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit the office of the Block Social Security Officer or District Social Welfare Officer and request a copy of the application form from the staff exclusively entrusted to issue and collect filled-in applications. Step 2: In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest, if required). Step 3: Submit the duly filled and signed application form along with the documents to the concerned office. Step 4: Request a receipt or acknowledgment from the concerned office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable). Note: To avail of the benefits, specially-abled individuals should submit their application for assistance within six months from the date of marriage, along with the required documents, to the office of the Block Social Security Officer or District Social Welfare Officer."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sje.rajasthan.gov.in/sap_welfare_schemes.pdf"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://dsap.rajasthan.gov.in/scheme/detail/233"
+    },
+    {
+      "title": "Scheme Details (Page No. 4)",
+      "url": "https://cag.gov.in/uploads/download_audit_report/2023/9.-Appendices-064b7cfeec1ad47.97127516.pdf"
+    }
+  ],
+  "documents_required": "Identity Proof Domicile Certificate Disability Certificate (issued by the competent medical board) Proof of age/Birth certificate Marriage Registration Certificate Income Certificate Wedding Card Bank account details/Bank Passbook Any other documents if required"
+}

@@ -1,0 +1,51 @@
+{
+  "scheme_id": "66daa72e150e9fd26bc35fdf",
+  "slug": "gstn",
+  "scheme_name": "Generator Subsidy-Tamil Nadu",
+  "scheme_short_title": "GSTN",
+  "state": "Tamil Nadu",
+  "level": "State/ UT",
+  "nodal_department": "Agriculture Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Business Entity"
+  ],
+  "tags": [
+    "Agriculture",
+    "Generator",
+    "Subsidy",
+    "Manufacture"
+  ],
+  "brief_description": "The \"Generator Subsidy\" scheme provides a 25% subsidy on the cost of generator sets up to 125 KVA capacity for manufacturers in Tamil Nadu.",
+  "detailed_description": "The \"Generator Subsidy\" scheme provides a 25% subsidy or maximum \u20b91,50,000/- on the cost of generator sets up to 125 KVA capacity for manufacturers in Tamil Nadu. The subsidy must be claimed within six months from the date of purchase or installation of the generator. &lt;br&gt;",
+  "benefits": [
+    "Quantum of Assistance: 25% subsidy or maximum \u20b91,50,000/- on the cost of generator sets (up to 125 KVA capacity). "
+  ],
+  "eligibility_criteria": "Beneficiaries must be new and existing Micro, Small and Medium Manufacturing Enterprises. The generator set must have a capacity of up to 125 KVA. Subsidy claims must be made within six months from the date of purchase or installation.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Collect and submit the application form to the below-mentioned office address: Regional Joint Director of Industries and Commerce Industrial Estate, Chennai-600 032 Telephone: 044-22501622/22501625 E-mail address: rjdchn@gmail.com Website address: http://www.rjdchn.in/ "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.tn.gov.in/scheme/data_view/19674"
+    },
+    {
+      "title": "Guidelines (Refer Page No. 10)",
+      "url": "https://cms.tn.gov.in/sites/default/files/schemes/msme_14.pdf"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Proof of purchase or installation of the generator set. Invoice and receipt of the generator. Proof of enterprise registration (MSME registration certificate). Bank account details for subsidy transfer. Installation certificate from a certified technician. Any other documents (if required)."
+}

@@ -1,0 +1,61 @@
+{
+  "scheme_id": "65b6269c66a1d73a2187afed",
+  "slug": "gmgmach",
+  "scheme_name": "Grant of Mahatma Gandhi Memorial Award for Clean Houses",
+  "scheme_short_title": "GMGMACH",
+  "state": "Puducherry",
+  "level": "State/ UT",
+  "nodal_department": "Adi Dravidar Welfare Department, Puducherry",
+  "dbt_scheme": false,
+  "categories": [
+    "Utility & Sanitation",
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Sanitation / Sewage",
+    "Solid waste management",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Family"
+  ],
+  "tags": [
+    "House",
+    "Grant",
+    "Clean",
+    "Sanitation",
+    "Waste"
+  ],
+  "brief_description": "\"Grant of Mahatma Gandhi Memorial Award for Clean Houses\" was introduced by the Adi Dravidar Welfare Dept, Govt of Puducherry. The objective of the scheme is to motivate the Scheduled Caste people to keep their houses neat and tidy. Incentives are in the form of household articles worth \u20b9500/-.",
+  "detailed_description": "The scheme \"Grant of Mahatma Gandhi Memorial Award for Clean Houses\" was introduced by the Adi Dravidar Welfare Department, Government of Puducherry. The objective of the scheme is to motivate the Scheduled Caste people to keep their houses neat and tidy. Incentives in the form of household articles worth \u20b9500/- for each selected beneficiary is being given.",
+  "benefits": [
+    "Incentives worth \u20b9500/- in the form of household articles."
+  ],
+  "eligibility_criteria": "The applicant should be a citizen of India. The applicant should belong to the Union Territory of Pondicherry by virtue of birth or continuous residence of not less than 3 years. The applicant should be from Scheduled Caste.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the Office/ Sub-Office of the Adi Dravidar Welfare and Scheduled Tribes Welfare Department, and request the hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents to the concerned authority.",
+        "Step 4: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://py.gov.in/sites/default/files/adwgrant-mahatma-gandhi-memorial-award-clean-houses.pdf"
+    },
+    {
+      "title": "Citizen's Charter",
+      "url": "https://py.gov.in/sites/default/files/citizencharter-adidravidar.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://adwelfare.py.gov.in/contact-us"
+    }
+  ],
+  "documents_required": "Residence-cum-nativity Certificate. Aadhaar Card. Bank Passbook. Caste Certificate. Recent passport-size photograph."
+}

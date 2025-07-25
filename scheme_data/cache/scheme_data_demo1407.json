@@ -1,0 +1,44 @@
+{
+  "scheme_id": "6874e10222ea80edd556b428",
+  "slug": "demo1407",
+  "scheme_name": "demo7",
+  "scheme_short_title": "DEMO1407",
+  "state": "Haryana",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Empowerment Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Fishing and hunting"
+  ],
+  "target_beneficiaries": [
+    "All"
+  ],
+  "tags": [
+    "Abc"
+  ],
+  "brief_description": "test",
+  "detailed_description": "test <br>",
+  "benefits": [
+    "test"
+  ],
+  "eligibility_criteria": "test\n",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "test"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Test",
+      "url": "google.com"
+    }
+  ],
+  "exclusions": "test\n",
+  "documents_required": "https://forms.myscheme.gov.in/social-justice-and-empowerment-department/dashboard#"
+}

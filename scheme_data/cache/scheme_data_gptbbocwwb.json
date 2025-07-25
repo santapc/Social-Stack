@@ -1,0 +1,68 @@
+{
+  "scheme_id": "66e69aaae1a5cd261e245cfb",
+  "slug": "gptbbocwwb",
+  "scheme_name": "Grant for Purchase of Tools (BBOCWWB)",
+  "scheme_short_title": "GPTBBOCWWB",
+  "state": "Bihar",
+  "level": "State/ UT",
+  "nodal_department": "Labour Resources Department",
+  "implementing_agency": "Bihar Building & Other Construction Workers Welfare Board",
+  "dbt_scheme": false,
+  "categories": [
+    "Skills & Employment"
+  ],
+  "sub_categories": [
+    "Training and Skill Up-gradation"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Tools",
+    "Construction Worker",
+    "Financial Assistance",
+    "Building Worker",
+    "Labour",
+    "Unorganized Workers"
+  ],
+  "brief_description": "The scheme is implemented by the Bihar Building & Other Construction Workers Welfare Board. Under this scheme, registered construction workers who have completed skill upgradation training are provided financial assistance of upto \u20b915,000/- for purchasing trade-related tools.",
+  "detailed_description": "The &amp;quot;Grant for Purchase of Tools&amp;quot; scheme is implemented by the Bihar Building &amp;amp; Other Construction Workers Welfare Board (BBOCWWB), Labour Resources Department, Government of Bihar. Under this scheme, registered construction workers who have completed skill upgradation training are provided financial assistance of upto \u20b915,000/- for purchasing trade-related tools.",
+  "benefits": [
+    "Under this scheme, financial assistance of upto \u20b915,000/- is provided to registered construction workers for purchasing trade-related tools upon completing skill upgradation training."
+  ],
+  "eligibility_criteria": "The worker should be engaged in building or construction work. The worker should be registered with the Bihar Building & Other Construction Workers Welfare Board. The worker's membership with the Welfare Board should be active at the time of application. Only registered workers who have completed any skill upgradation training are eligible to avail benefits under the scheme.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration of a Construction Worker under BBOCWWB: Step 1: Visit the Official Website of the Bihar Building and Other Construction Workers Welfare Board. Step 2: On the homepage, click on \" Labour Registration \". Step 3: Enter your Aadhar card number and name, then click \"Authenticate\". Step 4: A dashboard will appear. Enter all required details, ensuring that all fields marked with an asterisk (*) are filled in correctly. Step 5: Click on \"Submit\" and proceed to pay the application fee online. Step 6: You will receive your construction worker registration number upon successful registration. Apply for Scheme Benefits: Step 1: Visit the Official Website of the Bihar Building and Other Construction Workers Welfare Board. Step 2: Click on \"Login\" and select \"Labour\". Step 3: Enter your registration number & year of Birth, click \"Show\" to view your details. Step 4: Select the scheme you wish to apply for to avail the benefits. Step 5: Enter all required information and upload the necessary documents. Step 6: Click on \"Submit Application\" to complete the process. Application Tracking: Applicant can track their application status online through the official website of the Bihar Building and Other Construction Workers Welfare Board. Relevant updates will be sent to the registered mobile number."
+      ]
+    },
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the concerned Labour Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications. Step 2: In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attested, if required). Step 3: Submit the duly filled and signed application form along with the documents to concerned Labour Office."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://bocwscheme.bihar.gov.in/bihar/assets/images/scheme.pdf"
+    },
+    {
+      "title": "Labour Registration",
+      "url": "https://bocwscheme.bihar.gov.in/worker_reg"
+    },
+    {
+      "title": "Scheme Application",
+      "url": "https://bocwscheme.bihar.gov.in/worker_login"
+    },
+    {
+      "title": "Check Scheme Application Status",
+      "url": "https://bocwscheme.bihar.gov.in/home"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "1. Identity proof worker i.e. Aadhaar Card 2. Passport-size photograph 3. Skill-upgradation training certificate 4. Proof of residence 5. Ration card 6. Bank account details/copy of bank passbook 7. Caste Certificate (If applicable) 8. Undertaking/declaration 9. Any other documents as required"
+}

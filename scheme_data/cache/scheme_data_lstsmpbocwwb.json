@@ -1,0 +1,80 @@
+{
+  "scheme_id": "67456463805235502a7b6750",
+  "slug": "lstsmpbocwwb",
+  "scheme_name": "Labour Skill Training Scheme (MPBOCWWB)",
+  "scheme_short_title": "LSTSMPBOCWWB",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Labour Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Financial assistance",
+    "Citizen empowerment",
+    "Education and training grants, fellowship, stipend"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Building Worker",
+    "Construction Worker",
+    "Education",
+    "Skill Training"
+  ],
+  "brief_description": "Launched on 1st August 2018, the scheme \"Labour Skill Training Scheme\" is a skill development initiative by the Building and Other Construction Workers Board, Govt of MP. It offers free skill training to construction workers aged 18-45 years and their dependents aged 16-45",
+  "detailed_description": "Launched on 1st August 2018, the &quot;Labour Skill Training Scheme&quot; is a skill development initiative by the Building and Other Construction Workers Board, Government of Madhya Pradesh. The scheme offers free skill training to construction workers aged 18-45 years and their dependents aged 16-45 years, with eligibility based on age criteria for both workers and their dependents.",
+  "benefits": [
+    "The scheme provides free skill training to construction workers and their dependents."
+  ],
+  "eligibility_criteria": "For Registration as a Building/ Construction Worker:\nThe applicant should be a resident of Madhya Pradesh. The applicant should be a Building/ Construction Worker. The applicant should be between 18 and 60 years. The applicant should have engaged in any building or other construction work for at least 90 days during the preceding 12 months. The applicant should be registration is renewed annually.\nFor the Application of the Welfare Scheme:\nThe applicant should be registered Under the Building and Other Construction Workers Welfare Board of Madhya Pradesh. The applicants construction workers aged 18 to 45 years and their dependents aged 16 to 45 years. The worker membership with the Welfare Board must be active at the time of application.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration of a Construction Worker under MPBOCWWB:",
+        "Step 1: Go to the Shram Seva Portal (MPBOCWWB) official website. ",
+        "Step 2: On the homepage, find and click on \"Registration of Construction Worker.\"",
+        "Step 3:Select the option \" Apply online for registration as a beneficiary.\"",
+        "Step 4: Enter your Composite Member ID and Samagra Family ID, then click Get Details.",
+        "Step 5: Your family or beneficiary details will be displayed on the screen.",
+        "Step 8: Complete the form by entering all required details (marked with *).",
+        "Step 9: Upload all necessary documents, such as ID proof and other relevant certificates.",
+        "Step 10:After completing the form and uploading the documents, click Submit and pay the application fee online.",
+        "Step11 : You will receive a registration number after successful payment and submission.",
+        "Steps to Apply for Scheme Benefits:",
+        "Step1: Go to the Shram Seva Portal (MPBOCWWB) official website.  Step2: On the homepage, find and click on Planning Application, then register the applications of registered workers for the benefits of schemes . Step 3: Enter your Labor Registration Number (Portal Code) and the code displayed in the image, then click View Details. Step4: Choose the scheme you wish to apply for in order to avail the benefits. Step5: Enter all required information and upload the necessary documents as prompted. Step6: Finally, click on Submit Application to complete the process."
+      ]
+    },
+    {
+      "mode": "Offline",
+      "steps": [
+        "Steps to Apply for Scheme Benefits:",
+        "Step 1: The interested applicant should visit (during office hours) the Regional Officer Public Relation Officer, Contribution Recovery Officer, Welfare Officer, Welfare Supervisor, Welfare Inspector and request the hard copy of the prescribed format of the application form from the concerned authority.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the authority.",
+        "Step 4: Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE 1: Ensure that the application is submitted within the prescribed period, if any.",
+        "NOTE 2: The deadline for applying under the scheme is within 30 days from the publication of the application invitation."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Website",
+      "url": "https://labour.mp.gov.in/Default.aspx"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=339"
+    },
+    {
+      "title": "Labour Registration",
+      "url": "https://labour.mp.gov.in/Public/Registration/BeneficiaryRegistrationRequest.aspx"
+    }
+  ],
+  "documents_required": "Documents Required for Registration as a Building/Construction Worker:\nIdentity Proof (e.g., Aadhaar Card) Passport-size Photograph Skill-upgradation Training Certificate Proof of Residence (e.g., Utility bill, Voter ID, etc.) Ration Card (optional) Bank Account Details (e.g., Copy of Bank Passbook) Caste Certificate (if applicable) Undertaking/Declaration Age Certificate (any of the following): School Certificate Registrar of Birth Certificate Employment Certificate Signature Any other documents as required\nDocuments Required for Application of a Welfare Scheme:\nIdentity Card of the registered member (parent) Student ID Card Student's Photograph Student's Marksheet Birth Certificate of the student"
+}

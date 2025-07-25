@@ -1,0 +1,55 @@
+{
+  "scheme_id": "67a1b634c03a80a1ad0c5eaf",
+  "slug": "ifs",
+  "scheme_name": "Integrated Fisheries Scheme",
+  "scheme_short_title": "IFS",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Department of Agriculture, Animal Husbandry & Co-operative",
+  "dbt_scheme": true,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Fishing and hunting",
+    "Land and water resources",
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Fish Farmer",
+    "Scheduled Tribes",
+    "Scheduled Castes",
+    "Women"
+  ],
+  "brief_description": "The \"Integrated Fisheries Scheme\" by the Fisheries Division, Government of Jharkhand, aims to promote fish-duck farming and increase fish farmers' income. The scheme provides financial assistance of up to 80% for eligible SC/ST/women beneficiaries and 70% for others.",
+  "detailed_description": "The &quot;Integrated Fisheries Scheme&quot; by the Fisheries Division, Department of Agriculture, Animal Husbandry &amp; Cooperation, Government of Jharkhand, aims to promote fish-duck farming and enhance the income of fish farmers. Under this scheme, financial assistance covering up to 80% of the project cost is provided to Scheduled Tribes, Scheduled Castes, and women beneficiaries, while other categories receive up to 70% assistance. <br> ***Objective:*** - Support for constructing duck houses and procuring ducklings. - Preference is given to one-acre or larger water bodies. - Encouragement for cluster-based implementation to enhance productivity. - Special priority for previously selected beneficiaries from 2022-23 who couldn&#39;t receive grants due to unforeseen reasons.",
+  "benefits": [
+    "Financial assistance of up to \u20b91,22,680 for SC/ST/women beneficiaries. Financial assistance of \u20b91,07,345 for other beneficiaries. Financial assistance is provided in three installments:",
+    "The first installment is released after approval. The second after verification of project setup. The third upon successful implementation and monitoring of the fish-duck farming unit.",
+    "NOTE: Financial assistance is disbursed in three installments via Direct Benefit Transfer (DBT)."
+  ],
+  "eligibility_criteria": "The applicant should be a fish farmer. The proposed site should be near a population center. The applicant should own or lease a pond (minimum one acre) for at least three years. Preference is given to applicants closer to district headquarters for better monitoring. The applicant near RFF (Resource Fisheries Facilities) should have an active bank account and be part of a functional beneficiary group. Applicants who were selected in 2022-23 but did not receive grants will be prioritized.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Apply after the advertisement is published:",
+        "Step 1: The interested applicant should visit (during office hours) the District Secured Deposit Determination Committee and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step 2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents to the Secured Deposit Determination Committee.",
+        "Step 4: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://jharkhandfisheries.org/orders/2023/Rajyadesh-letter-no.-04-RA-(VI)-dated-08.05.2023.pdf"
+    }
+  ],
+  "documents_required": "Land Ownership or Lease Agreement (minimum three years) Bank Account Details Caste Certificate (if applicable) Residence Certificate Declaration of cluster-based project implementation (if applicable)"
+}

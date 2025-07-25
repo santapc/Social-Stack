@@ -1,0 +1,83 @@
+{
+  "scheme_id": "67f252ca8e7fcdf4bf2ff670",
+  "slug": "desfg",
+  "scheme_name": "Distance Education Scheme for Girls",
+  "scheme_short_title": "DESG",
+  "state": "Rajasthan",
+  "level": "State/ UT",
+  "nodal_department": "Higher Education Department",
+  "dbt_scheme": true,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance",
+    "Universities and higher education",
+    "Education and training grants, fellowship, stipend"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Fee Reimbursement",
+    "Girl Student",
+    "Post-Graduation",
+    "Diploma",
+    "Undergraduate",
+    "Distance Education"
+  ],
+  "brief_description": "The scheme aims to support girls' higher education through distance learning by reimbursing their course fees for UG, PG, Diploma, Certificate, and PG Diploma undertaken by girls through distance education in Rajasthan.",
+  "detailed_description": "The &amp;quot;Distance Education Scheme for Girls&amp;quot; scheme was launched by the Higher Education Department, Government of Rajasthan in 2022. It aims to provide distance education opportunities to girls and women who are unable to attend college or university regularly due to family or other reasons. Under this scheme, the fees for undergraduate, postgraduate, diploma, and certificate courses are reimbursed for girls from Rajasthan pursuing distance education. ***Objectives:*** - To support education of girl child in UG, PG, Diploma, Certificate courses under ODL (open and distance learning) by reimbursing fee. - To improve Gross Enrollment Ratio (GER) as well as the ratio of female and male proportional representation in higher education that is, Gender Parity Index (GPI). ***Target Group:*** - Girl students of Rajasthan who are admitted in courses under distance education mode in the state funded Universities/ State Government Institutes including IGNOU. - State funded Universities of Rajasthan included under section 2(f) &amp;amp; and 12(B) of UGC Act and IGNOU are only allowed in the scheme.",
+  "benefits": [
+    "Reimbursement of full course fees for distance Education in:",
+    "Undergraduate (UG) courses Postgraduate (PG) courses Diploma courses Certificate and PG Diploma courses",
+    "Note: No other additional grant will be payable.",
+    "Duration of Fee Disbursement:",
+    "After selection, the candidate's fee will be reimbursed on Direct Benefit Transfer (DBT) mode on annual basis on satisfactory academic performance of the student. The fee reimbursement would be awarded from the date of joining the course as certified by the University/Institution."
+  ],
+  "eligibility_criteria": "The applicant should be a girl student. The applicant should be a native of Rajasthan. The applicant should be enrolled in UG, PG, Diploma, Certificate or PG Diploma courses under distance education mode. The applicant should be studying in a state-funded university or government institution in Rajasthan, including IGNOU (Indira Gandhi National Open University). The applicant who is availing of other fee reimbursement in State Government Schemes during the same tenure is not eligible in this scheme. But these students will get reimbursement of difference amount of \"Existing Scholarship\" and \"Distance Education Scheme for Girls\". Students holding prize/incentive scholarships are not excluded from applying for this scheme. Note: The student who is eligible for distance education course in Post Matric/Other Scheme of Social Justice Department, Govt. of Rajasthan will get fee reimbursement from the existing process of fee reimbursement under Social Justice Department/ Other Department. The student will not get fee reimbursement from SJE portal under the category \"DE-HE\".",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration",
+        "Step 1: Applicant have to visit the official portal .",
+        "Step 2: Click on the option \" Register \".",
+        "Step 3: Then you will be redirected to the SSO registration page. The registration page will appear with the following options.",
+        "Citizen",
+        "Step 4: Choose the either one option from the Jan Aadhaar Or Google to process further.",
+        "Jan Aadhaar : Enter the Jan Aadhaar number, click on the \u2018Next' button, Select your name, the name of the head of the family and all the other members and Click on the \u2018Send OTP' button. Enter the \u2018OTP' and Click on the \u2018Verify OTP' button to Complete the registration.",
+        "Google : Enter the Gmail ID, click on the \u2018Next' button, Enter the password. A new link appear on screen, now click on new SSO link. SSO id will appear on screen, now create the password. Enter Mobile number, click on registration.",
+        "Apply",
+        "Step 1: Applicant have to visit the official portal .",
+        "Step 2: After login, dashboard will open.",
+        "Step 3: Click on \"DE-HE\" option.",
+        "Step 4: Select \"Continue to RajSSP\".",
+        "Step 5: Now click on \"Apply for Scheme\" on screen.",
+        "Step 6: In this new page, will get a list of names of all the schemes, and click on the name of \"SCHOLARSHIP (SJE)\"",
+        "Step 7: Fill out all relevant details.",
+        "Step 8: Submit.",
+        "Renewal Process:",
+        "Submit renewal application through the same portal after the academic year ends. Students not promoted to the next level will lose eligibility for further reimbursement. Changing courses will forfeit fee reimbursement from the date of the change."
+      ]
+    },
+    {
+      "mode": "Online - via CSC",
+      "steps": [
+        "Step 1: The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.",
+        "Step 2: The applicant should visit the nearest E-Mitra Center and complete the Biometric Verification Process.",
+        "Step 3: The applicant should ensure that the E-Mitra Center agent completes all mandatory fields in the application form and uploads copies of all required documents.",
+        "Step 4: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "Renewal Process:",
+        "Submit the renewal application through the same portal after the academic year ends. Students not promoted to the next level will lose eligibility for further reimbursement. Changing courses will forfeit fee reimbursement from the date of the change."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://hte.rajasthan.gov.in/files/uploads/sch_1429-2-4.pdf"
+    }
+  ],
+  "documents_required": "Identity proof Educational Qualification Certificate Jan Aadhaar Card Proof of Admission Fee Receipt Bank Account Details Passport-sized Photograph Income Certificate Caste Certificate, If applicable Domicile Certificate/Proof of residence in Rajasthan Non-judicial stamp of 100 Rupees (Not receiving any other scholarship from another department) Any Other Document if Required"
+}

@@ -1,0 +1,52 @@
+{
+  "scheme_id": "638afadd8d1c81f96de25bf8",
+  "slug": "bhsstg",
+  "scheme_name": "Boarding House Stipend Scheme (Tripura Govt.)",
+  "scheme_short_title": "BHSS(TG)",
+  "state": "Tripura",
+  "level": "State",
+  "nodal_department": "Directorate Of Social Welfare & Social Education",
+  "categories": [
+    "Social welfare & Empowerment",
+    "Housing & Shelter"
+  ],
+  "sub_categories": [
+    "Shelter",
+    "Shelter, integrated support and assistance",
+    "Hostel service"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Stipend",
+    "Student",
+    "Shelter"
+  ],
+  "brief_description": "The scheme of \"Boarding House Stipend\" was introduced by the Tribal Welfare Department, Directorate of Tribal Welfare, Govt. of Tripura to improve educational scenario among Scheduled Tribes people.",
+  "detailed_description": "The scheme of &quot;Boarding House Stipend&quot; was introduced by the Tribal Welfare Department, Directorate of Tribal Welfare, Govt. of Tripura to improve educational scenario among Scheduled Tribes people. <br> Objectives: i. To provide accommodation to the ST boys and girls in the hostels hailing from remote areas. ii. To provide residential facilities to the ST student whose resident is beyond 3km of the School. iii. To reduce the dropout rate.",
+  "benefits": [
+    "Boarding House Stipend @ Rs. 65/- per day per student (including LPG subsidy, sweeping, cleaning Rs.1/- per day per student) is provided for 322 days (10 months) in an academic year to the students from Class-I to Class-XII who are given accommodation in Govt. run hostel and approved NGO run Boarding Houses.",
+    "Types of Hostels under the Tribal Welfare Department:",
+    "1. State Govt. run ST Hostels: 161 (Boys: 100 & Girls: 61)",
+    "2. TTAADC run ST Hostels: 43",
+    "3. TTWREIS run ST Hostels: 8",
+    "4. NGO-run ST Hostels: 143"
+  ],
+  "eligibility_criteria": "ST boarders studying in Class 1st to 12th whose residence is beyond 3km from the school.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "The concerned DM/SDM will collect the list of students from the Govt. run hostel and approved NGO-run Boarding Houses and send the list to the Directorate of Tribal Welfare."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://twd.tripura.gov.in/scheme"
+    }
+  ],
+  "documents_required": "Caste certificate Ration Number Aadhaar Number Parent's Mobile Number School admission Document / School ID Card Income Certificate."
+}

@@ -1,0 +1,54 @@
+{
+  "scheme_id": "64e460df9a06d82f412c1865",
+  "slug": "ksych",
+  "scheme_name": "Kisan Samriddhi Yojana - Chhattisgarh",
+  "scheme_short_title": "Ksych",
+  "state": "Chhattisgarh",
+  "level": "State",
+  "nodal_department": "Agriculture Development and Farmer Welfare and Bio-Technology Department",
+  "dbt_scheme": true,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Farmers",
+    "Agriculture",
+    "Pump Installation"
+  ],
+  "brief_description": "Chhattisgarh State Government started a scheme \"Kisan Samriddhi Yojana\" for farmer.",
+  "detailed_description": "This scheme provide grant to farmers on tube well mining and pump installation. The main objective of the scheme is to increase the productivity and crop intensity by making proper use of available ground water through tube wells and providing irrigation facilities to the crops.",
+  "benefits": [
+    "Mining Grant:",
+    "S. No. | Farmer Category | Grant Eligibility\n1 | General | Actual Cost of mining (Including casing pipe) or Rs. 10,000/- whichever is less\n2 | SC/ST | Actual Cost of mining (Including casing pipe) or Rs. 18,000/- whichever is less",
+    "Subsidy on pump installation:",
+    "S. No. | Farmer Category | Grant Eligibility\n1 | General | Cost of pump and accessories or Rs. 20,000/- whichever is less.\n2 | SC/ST | Cost of pump and accessories or Rs. 25,000/- whichever is less."
+  ],
+  "eligibility_criteria": "Farmers of all categories of districts will be benefited. Preference will be given to small and marginal farmers The farmers who have received the benefit of tube well mining grant in the past under any other scheme run by the department or under this scheme will not be eligible.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Applicant farmer need to approach panchayat first. The selection of farmers will be done with the approval of the three-tier panchayat."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines-1",
+      "url": "https://agriportal.cg.nic.in/agridept/StateScheme/2%20kisansamriddhi.pdf"
+    },
+    {
+      "title": "Guidelines-2",
+      "url": "https://agriportal.cg.nic.in/agridept/StateScheme/2.%20amnd-kisansamriddhi.pdf"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Aadhaar Card. Land paper. Photograph. Bill Invoice."
+}

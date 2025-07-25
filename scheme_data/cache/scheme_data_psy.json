@@ -1,0 +1,74 @@
+{
+  "scheme_id": "65d6ef77938a0b13cc8ce874",
+  "slug": "psy",
+  "scheme_name": "Prasuti Sahayata Yojana",
+  "scheme_short_title": "PSY",
+  "state": "Rajasthan",
+  "level": "State/ UT",
+  "nodal_department": "Labour Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Pregnancy Care",
+    "Childcare",
+    "Financial Assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Women",
+    "Children",
+    "Delivery",
+    "Care",
+    "Pregnancy"
+  ],
+  "brief_description": "The Rajasthan Prasuti Sahayata Yojana is a scheme launched by the Government of Rajasthan to provide financial assistance to pregnant women from registered construction worker families in the state",
+  "detailed_description": "The Rajasthan Prasuti Sahayata Yojana offers a lifeline to pregnant women from registered construction worker families in the state. Launched by the government, the scheme provides crucial financial support at a critical juncture, aiming to improve the well-being of both mother and child. This assistance empowers women to prioritize their health throughout pregnancy and ensure proper care for their newborns.",
+  "benefits": [
+    "The birth of a daughter: \u20b9 21,000/- The birth of a son : \u20b9 20,000/- In case of not receiving cash benefits under Janani Suraksha Yojana, \u20b91,000/- additional assistance will be payable."
+  ],
+  "eligibility_criteria": "The female worker must be holding a beneficiary identity card under Section 13 of the Maternity Benefit Act. The age of the female beneficiary should not be less than 20 years at the time of delivery. Maternity benefits will be payable for a maximum of two deliveries only. If the beneficiary has two or more children before registration, assistance will not be provided. In case of having one child before registration, assistance will be provided for only one delivery. Construction worker beneficiaries who fail to make their monthly contributions to the Board's fund will not be eligible for the Maternity Assistance Scheme. If the beneficiary rectifies the default by making the required monthly payments, they will become eligible for the Maternity Assistance Scheme. Maternity benefits under the scheme will be provided only for institutional deliveries.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration",
+        "Step-1: Applicant have to visit the official portal .",
+        "Step-2: Click on the option \" Register \".",
+        "Step-3: Then you will be redirected to the SSO registration page. The registration page will appear with the following options.",
+        "Citizen",
+        "Step-4: Choose the either one option from the Jan Aadhaar Or Google to process further.",
+        "Jan Aadhaar : Enter the Jan Aadhaar number, click on the \u2018Next' button, Select your name, the name of the head of the family and all the other members and Click on the \u2018Send OTP' button. Enter the \u2018OTP' and Click on the \u2018Verify OTP' button to Complete the registration.",
+        "Google : Enter the Gmail ID, click on the \u2018Next' button, Enter the password. A new link appear on screen, now click on new SSO link. SSO id will appear on screen, now create the password. Enter Mobile number, click on registration.",
+        "Apply",
+        "Step-1: Applicant have to visit the official portal .",
+        "Step-2: After login, dashboard will open.",
+        "Step-3: Click on \"LDMS\" option.",
+        "Step-4: In LDMS, select \"Welfare Schemes\" from the side menu and select BOCW Welfare Board.",
+        "Step-5: Now click on \"Apply for Scheme\" on screen.",
+        "Step-6: In this new page, will get a list of names of all the schemes of Rajasthan Shramik Card, out of which click on the name of \"Shubhshakti Yojana\"",
+        "Step-7: Fill out the all relevant detail.",
+        "Step-8: Submit."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "file:///C:/Users/ruchi/Downloads/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A4%BF%E0%A4%B8%E0%A4%B9%E0%A4%BE%E0%A4%AF%E0%A4%A4%E0%A4%BE%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE.pdf"
+    },
+    {
+      "title": "Registration",
+      "url": "https://sso.rajasthan.gov.in/signin"
+    },
+    {
+      "title": "Login",
+      "url": "https://sso.rajasthan.gov.in/signin"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Aadhar card copy. Jan Aadhar/Bhamashah card copy. Birth certificate copy: Proof of age of the beneficiary. Certificate of institutional delivery. Other documents: Declaration form regarding the number of living children."
+}

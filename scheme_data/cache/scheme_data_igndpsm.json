@@ -1,0 +1,56 @@
+{
+  "scheme_id": "6719d12c4d83876c61b96904",
+  "slug": "igndpsm",
+  "scheme_name": "Indira Gandhi National Disability Pension Scheme (Maharashtra)",
+  "scheme_short_title": "IGNDPSM",
+  "state": "Maharashtra",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Special Assistance Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Pension",
+    "Financial assistance",
+    "Citizen empowerment"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Disability",
+    "Pension",
+    "PwD",
+    "Handicapped"
+  ],
+  "brief_description": "The \"Indira Gandhi National Disability Pension Scheme (Maharashtra)\" is implemented by the Social Justice & Special Assistance Dept., Govt. of Maharashtra. The differently-abled individuals aged 18 to 65 years with a disability of 80% and above are eligible to receive a pension of \u20b9600/- per month.",
+  "detailed_description": "The &amp;quot;Indira Gandhi National Disability Pension Scheme (Maharashtra)&amp;quot; is implemented by the Social Justice &amp;amp; Special Assistance Department, Government of Maharashtra. Under this scheme, differently-abled individuals aged 18 to 65 years with a disability of 80% and above are eligible to receive a pension of \u20b9600/- per month.",
+  "benefits": [
+    "A monthly pension of \u20b9600/-."
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Maharashtra. The applicant should be a person with a disability. The percentage of the disability should be 80% or more. The applicant's age should be between 18 and 65 years. The applicant should not be receiving pension benefits under any other social security scheme.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the Collector Office/Tahsildar/Talathi of your district, and request the hard copy of the prescribed format of the application form from the concerned authority.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the concerned authority.",
+        "Step 4: Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "NOTE: Ensure that the application is submitted within the prescribed period, if any."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sjsa.maharashtra.gov.in/en/scheme-category/special-assistance"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://pune.gov.in/scheme/indira-gandhi-national-disability-pension-scheme/"
+    }
+  ],
+  "documents_required": "Aadhaar Card Passport-size Photograph Identity Proof i.e. Voter ID Card, Driving License Disability Certificate Proof of Age Caste Certificate, if Applicable Address Proof Bank Passbook/Bank Account Details Any Other Documents as Required"
+}

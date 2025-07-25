@@ -1,0 +1,57 @@
+{
+  "scheme_id": "628b2e6bc9b440ca7f31fbd5",
+  "slug": "sag",
+  "scheme_name": "Scheme For Adolescent Girls",
+  "scheme_short_title": "SAG",
+  "level": "Central",
+  "implementing_agency": "Anganwadi Centres (AWCs) Under Integrated Child Development Scheme (ICDS)",
+  "dbt_scheme": false,
+  "categories": [
+    "Health & Wellness",
+    "Social welfare & Empowerment",
+    "Women and Child"
+  ],
+  "sub_categories": [
+    "Children\u2019s health and immunization",
+    "Health promotion",
+    "Medicine and health products",
+    "Citizen empowerment"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Female",
+    "Health",
+    "Medicine",
+    "Free Meal",
+    "Nutrition",
+    "Youth",
+    "Empowerment"
+  ],
+  "brief_description": "A support scheme by Ministry of Women & Child Development enabling self-development and empowerment of out-of-school adolescent girls, and improving their nutritional, health & hygiene status. All out-of-school adolescent girls in the 11 to 14 years age group are eligible for this scheme.",
+  "detailed_description": "A support scheme by Ministry of Women &amp; Child Development enabling self-development and empowerment of out-of-school adolescent girls, and improving their nutritional, health &amp; hygiene status. <br> The scheme aims at supporting out of school AGs to successfully transition back to formal schooling or bridge learning / skill training. Upgrade their home-based skills and life skills. Provide information/guidance about existing public services such as Primary Health Centers, Rural Hospitals/CHCs, Post Office, Bank, Police Station, etc. <br> Scheme for Adolescent Girls - SAG is implemented using the platform of Anganwadi Services of Umbrella ICDS Scheme through Anganwadi Centers (AWCs).",
+  "benefits": [
+    "Nutrition Component:",
+    "Take Home Ration or Hot Cooked Meal for out of school girls - Nutrition Provision \u20b9 9.50 per day (600 calories; 18\u201020 gram of protein and recommended daily intake of micronutrients per day for 300 days in a year.). The financial norms will be \u20b9 9.5/- per beneficiary per day for 300 days in a year. This would be inclusive of the cost of micronutrient fortification.",
+    "Non Nutrition Component:",
+    "IFA supplementation. Health check\u2010up and Referral services. Nutrition & Health Education (NHE). Counseling / Guidance on family welfare, ARSH, child care practices. Life Skill Education and accessing public services."
+  ],
+  "eligibility_criteria": "The applicant must be a FEMALE . The age of the applicant must be between 11 and 14 years .",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "The out-of-school adolescent girls (11 - 14 years age) are identified by the State / UT through a Base Line Survey, a one-time activity carried out by the Anganwadi Workers (AWW) who should go from house to house to meet every family in the area covered by her AWC, and gather information about the details of such girls. Such girls are provided the benefits through the Anganwadi Centre (AWC)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://wcd.nic.in/sites/default/files/Letter%203rd%20on%2031%20August%202018%20.pdf"
+    }
+  ],
+  "exclusions": "NA",
+  "documents_required": "Aadhaar Proof of Age / DOB "
+}

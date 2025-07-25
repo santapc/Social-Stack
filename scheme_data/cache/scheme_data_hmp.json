@@ -1,0 +1,61 @@
+{
+  "scheme_id": "686379ce363c479ab46e6e66",
+  "slug": "hmp",
+  "scheme_name": "Handicraft Mela Participation",
+  "scheme_short_title": "HMP",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Industries and Mines Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Business & Entrepreneurship"
+  ],
+  "sub_categories": [
+    "Exhibitions/Trade fairs/Buyer-seller meet, market development",
+    "Setting up / start-up / entrepreneurship"
+  ],
+  "target_beneficiaries": [
+    "Individual",
+    "Self Help Groups (SHGS)"
+  ],
+  "tags": [
+    "Handicraft",
+    "Exhibition",
+    "Artisan",
+    "SHG",
+    "Embroidery",
+    "Pottery"
+  ],
+  "brief_description": "The scheme enables artisans and handicraft organizations to participate in government-sponsored melas across Gujarat and other states, fostering market access and preserving traditional crafts. Benefits include subsidized stall fees, promotional support, sales opportunities for handmade products.",
+  "detailed_description": "The scheme &quot;Handicraft Mela Participation&quot; by the Industrial Extension Cottage (iNDEXT-C), Industries &amp; Mines Department, Government of Gujarat, aims to promote traditional handicrafts by providing artisans and organizations with platforms to showcase and sell their products at state and national-level fairs. The scheme facilitates participation in designated melas (fairs) by covering logistical support and stall allocations. Eligible applicants include individual artisans, self-help groups (SHGs), and registered handicraft organizations. The scheme is implemented by Indext-C (Industrial Extension Bureau, Gujarat), and applications are accepted offline through district offices or the Indext-C portal.",
+  "benefits": [
+    "Stall Allocation: Free or subsidized stalls at designated melas.",
+    "Promotional Support: Marketing and branding assistance for participants.",
+    "Sales Platform: Direct access to customers and bulk buyers.",
+    "Logistical Aid: Basic infrastructure (tables, signage) provided at mela venues.",
+    "Financial Incentives: Priority for artisans from SC/ST/SEBC/EWS categories."
+  ],
+  "eligibility_criteria": "For Individual Artisans\nThe applicant must be a resident of Gujarat. The applicant must possess a valid Artisan ID Card issued by Indext-C or a recognized authority. The applicant must specialize in a traditional handicraft listed under the scheme (e.g., embroidery, pottery, woodwork).\n\nFor Organizations/SHGs\nThe applicant must be a registered cluster/cooperative society/NGO. The applicant must have a minimum of 10 artisans affiliated with the organization. The applicant must submit audit reports and registration certificates.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should take a printout of the prescribed format of the application form from the Indext-C website.",
+        "Step 2: In the application form, fill in all the mandatory fields ( personal/organization details, artisan ID, and handicraft category, etc), and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application form, along with the documents, either to your nearest District Industries Office or to the following address: Indext-C Headquarters, Industrial Extension Cottage, Block No. 7, 1st Floor, Udyog Bhavan, Sector-11, Gandhinagar - 382 011.",
+        "The Indext-C will review the applications and notify the selected participants via SMS/email."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines And Application Form",
+      "url": "https://craftofgujarat.gujarat.gov.in/Documents/SubDeal__2025-2-13_96.pdf"
+    },
+    {
+      "title": "Schedule For The Year 2025-26",
+      "url": "https://craftofgujarat.gujarat.gov.in/Documents/SubDeal__2025-4-25_734.pdf"
+    }
+  ],
+  "documents_required": "Artisan ID Card (for Individuals). Aadhaar Card (Proof of Residence). Caste Certificate (if applying under SC/ST/SEBC/EWS Quota). Organization Registration Proof (for SHGs/Clusters). Bank Account Details (for Disbursements). Recent Passport-Sized Photograph. Handicraft Samples (Photographs or Physical Samples, if requested). Audit Reports (for Organizations)."
+}

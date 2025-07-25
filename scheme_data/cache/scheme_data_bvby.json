@@ -1,0 +1,50 @@
+{
+  "scheme_id": "67d59df65ba8cb935dd90966",
+  "slug": "bvby",
+  "scheme_name": "Bhavantar Bharpai Yojana",
+  "scheme_short_title": "BVBY",
+  "state": "Haryana",
+  "level": "State/ UT",
+  "nodal_department": "Horticulture Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Agriculture,Rural & Environment"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Horticulture",
+    "Farmer",
+    "Agriculture",
+    "Vegetable Grower",
+    "Fruits",
+    "Vegetables",
+    "Incentive"
+  ],
+  "brief_description": "The scheme is implemented by the Department of Horticulture, Government of Haryana, aims to protect horticultural farmers from market price fluctuations and compensate them if they receive low prices for their produce in the market.",
+  "detailed_description": "The scheme \"Bhavantar Bharpai Yojana\", implemented by the Department of Horticulture, Government of Haryana, aims to protect horticultural farmers from market price fluctuations and compensate them if they receive low prices for their produce in the market. ***Objectives:*** - To reduce the financial risk for farmers during periods of low market prices for vegetables and fruits by ensuring a protected price. - To encourage diversification in agriculture by supporting horticultural farmers. ***Crops covered under the scheme:*** - 21 Crops: Ladyfinger, Chilli, Bottle Gourd, Bitter Gourd, Cabbage, Radish, Tomato, Onion, Potato, Cauliflower, Carrot, Peas, Capsicum, Brinjal, Turmeric, Garlic, Mango, Kinnow, Guava, Litchi, Plum",
+  "benefits": [
+    "To make vegetable growers risk free. To fix protected price for the crops (Ladyfinger, Chilli, Bottle Gourd, Bitter Gourd, Cabbage, Radish, Tomato, Onion, Potato, Cauliflower, Carrot, Peas, Capsicum, Brinjal, Turmeric, Garlic, Mango, Kinnow, Guava, Litchi, Plum) In case of selling of fruits/vegetables at lower prices in the market within the prescribed period, the difference in price upto the protected price will be compensated by the Government to the registered farmers. Note: The incentive amount will be released into the Aadhar linked bank account of the farmer."
+  ],
+  "eligibility_criteria": "The applicant should be a landowner, lessee, or tenant farmer in Haryana. The farmer should cultivate one of the 21 listed crops. Note 1: Registration on the Meri Fasal, Mera Byora portal during the sowing period is mandatory. Note 2: The land and crop details must be certified by the Horticulture Department.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Farmers should register themselves on the Meri Fasal, Mera Byora Portal during the sowing period. It is mandatory for the farmer to avail the benefits under this scheme. Step 2: On the homepage, click the link for \"Farmer Registration (Kisan Panjikaran).\" Step 3: Go through the guidelines and click on \"Proceed for Registration.\" Step 4: Complete the form by entering all the required details accurately. Step 5: After verifying the entered details, click on \"Submit for Registration.\" Upon successful registration, the farmer will receive a username and password for portal access. Note 1: Free registration of producer. Note 2: Registration will be open only during the stipulated period. Note 3: Registration facility will be available at Sarva Seva Kendra/e-Disha Kendra/ Marketing Board/Horticulture Department/ Agriculture Department and Internet Kiosk. Steps to Make Claims and Check Status: Login to e-Kharid Portal: Visit the e-Kharid login page, enter your username, password, and the captcha code. Access the Dashboard: Once logged in, farmers can make claims and track the status of their applications or complaints. J-Form - Sale Voucher: To receive compensation under the scheme: Sale on J-Form will be mandatory for Incentive. The \"J-Form,\" a sale voucher, must be obtained upon selling the produce. After sale on J-Form, the sales details will be uploaded on BBY e-portal ( http://www.bby.hortharyana.gov.in/ ), for which facility will be available in the office of each concerned Market Committee. Incentives will be payable on sale at J-Farm and the determined production per acre (whichever is less) as per the scheme guidelines. Incentive will be payable by multiplying the difference in price. The average daily wholesale price will be determined based on the daily prices of the Mandis identified by the Mandi Board as per the standards and guidelines of the scheme."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "http://www.bby.hortharyana.gov.in/"
+    },
+    {
+      "title": "Farmer Registration Portal",
+      "url": "https://fasal.haryana.gov.in/home/login"
+    }
+  ],
+  "documents_required": "Identity Proof i.e. Aadhaar Card Proof of land ownership or lease agreement (for tenant farmers) Registration proof from the Meri Fasal, Mera Byora portal J-Form for the sale of produce Bank account details linked with Aadhaar Any other documents if required"
+}

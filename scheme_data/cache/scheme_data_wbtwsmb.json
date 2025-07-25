@@ -1,0 +1,49 @@
+{
+  "scheme_id": "675574f0ba7b6826d75797cd",
+  "slug": "wbtwsmb",
+  "scheme_name": "West Bengal Transport Workers' Social Security Scheme: Maternity Benefit",
+  "scheme_short_title": "WBTWSMB",
+  "state": "West Bengal",
+  "level": "State/ UT",
+  "nodal_department": "Labour Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Women and Child",
+    "Health & Wellness"
+  ],
+  "sub_categories": [
+    "Pregnancy Care"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Social Security",
+    "Transport Worker",
+    "Health & Wellness",
+    "Maternity Benefit",
+    "Medical Benefit",
+    "Pregnant Women"
+  ],
+  "brief_description": "This scheme provides financial assistance to a beneficiary on successful delivery of a child or miscarriage by such beneficiary or his wife.",
+  "detailed_description": "The \"West Bengal Transport Workers' Social Security Scheme: Maternity Benefit\" by the Labour Department, West Bengal, provides financial assistance to a beneficiary on successful delivery of a child or miscarriage by such beneficiary or his wife. The benefit is limited to two instances per beneficiary to promote maternal health and provide support during critical times. <br>",
+  "benefits": [
+    "Financial Assistance: \u20b96,000/-."
+  ],
+  "eligibility_criteria": "The applicant must be between 18 and 60 years of age at the time of enrolment. The applicant must be an unorganized worker employed in the operation of commercial vehicles, such as cars, taxis, luxury taxis, light commercial vehicles, vans, auto-rickshaws, tempos, lorries, trucks, or buses. The applicant's vehicle must be used for commercial purposes and not solely for personal or family use.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Visit the \" eDistrict 2.0 \" portal. Click on Log In/Sign Up. Step 2: In the User Login window, scroll down to the bottom and click on \"Register\". Step 3: Fill in all the details carefully, enter a username, and click on \"Register\". Step 4: Upon entering the One Time Password received on your mobile, you will be successfully registered. Step 5: Now in the User Login window, enter your Username or email and captcha and click on \"Sign In\". Step 6: Enter the received O.T.P and click on \"Submit\". Step 7: Upon successful Login, You will be redirected to the \"Dashboard\". From the right side menu apply for the concerned scheme."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://employmentbankwb.gov.in/social_security_scheme.php#ans8"
+    }
+  ],
+  "documents_required": "For New Registration: Certification by Prescribed Authority in the Prescribed format, Passport Size Photo (self and for each dependent member). Age Proof Document. Driving Licence in case of Drivers. EPIC/ AADHAR Card. For the Application of the Welfare Scheme: Certificate from a registered Medical Practitioner. Any other documents (if required)."
+}

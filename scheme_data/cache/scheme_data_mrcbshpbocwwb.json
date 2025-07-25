@@ -1,0 +1,89 @@
+{
+  "scheme_id": "67a194a0c422e791f9c5017b",
+  "slug": "mrcbshpbocwwb",
+  "scheme_name": "Mentally Retarded Children Benefit Scheme (HPBOCWWB)",
+  "scheme_short_title": "MRCBSHPBOCWWB",
+  "state": "Himachal Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Labour and Employment Department, Himachal Pradesh",
+  "dbt_scheme": false,
+  "categories": [
+    "Women and Child",
+    "Health & Wellness"
+  ],
+  "sub_categories": [
+    "Childcare",
+    "Financial Assistance",
+    "Health care providers and access"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Construction",
+    "Building",
+    "Labour",
+    "Child",
+    "Financial Assistance",
+    "Worker",
+    "Disability"
+  ],
+  "brief_description": "In the scheme \"Mentally Retarded Children Benefit\" by the Himachal Pradesh Building and Other Construction Workers Welfare Board, an amount of \u20b920,000/- per annum is provided to the registered workers to take care of their mentally retarded/disabled children.",
+  "detailed_description": "In the scheme &quot;Mentally Retarded Children Benefit&quot; by the Himachal Pradesh Building and Other Construction Workers Welfare Board, Government of Himachal Pradesh, an amount of \u20b920,000/- per annum is provided to the registered workers to take care of their mentally retarded/disabled children.",
+  "benefits": [
+    "\u20b920,000/- per annum"
+  ],
+  "eligibility_criteria": "For Registration\nThe applicant should be a resident of Himachal Pradesh. The applicant should be a Building or Construction Worker. The age of the applicant should be between 18 and 60 years. The applicant should have worked in building or construction activities for at least 90 days in the preceding 12 months.\n*The registration should be renewed annually.\nFor Application\nThe worker should be engaged in building or construction work under the Himachal Pradesh Building and Other Construction Workers Welfare Board. The worker should be registered with the Himachal Pradesh Building and Other Construction Workers Welfare Board. The worker's membership with the Himachal Pradesh Building and Other Construction Workers Welfare Board must be active. The child of the worker should be mentally retarded/disabled and dependent on the registered worker.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Registration",
+        "Step 1: Take the print of the prescribed format of the registration form.",
+        "Step 2:  In the form, fill in all the mandatory fields, paste a passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attested, if required).",
+        "Step 3:  Submit the duly filled and signed registration form to the Labour Officer.",
+        "* A one-time registration fee must be paid at the office, and it will be valid for three years.",
+        "* After three years, the worker must visit the office to pay a renewal fee and submit proof of 90 days of work each year to maintain eligibility for benefits.",
+        "Application",
+        "Step 1: Take the print of the prescribed format of the application form.",
+        "Step 2:  In the application form, fill in all the mandatory fields, paste a passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attested, if required).",
+        "Step 3:  Submit the duly filled and signed application form to the Labour Officer."
+      ]
+    },
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration",
+        "Step 1:  Visit the official website of the Himachal Pradesh Building and Other Construction Workers Welfare Board.",
+        "Step 2:  In the \"Menu Ribbon\", click \"Worker Services > Registration > New \".",
+        "Step 3:  Navigate to the registration form. In the form, fill in all the mandatory fields (marked with an asterisk *). Carefully review all the information provided. Make any necessary corrections.",
+        "Step 5: Click \"Save\" to submit your application for registration.",
+        "*The Registration Status can be checked by providing your Beneficiary ID and your Date of Birth.",
+        "Application",
+        "Step 1:  Visit the official website of the Himachal Pradesh Building and Other Construction Workers Welfare Board.",
+        "Step 2:  In the \"Menu Ribbon\", click \"Worker Services > Apply for Benefits \". On the next screen, provide your Beneficiary ID, and Date Of Birth, and click \"Search\". A list of schemes will be displayed. Click on the scheme you intend to apply for. You will be taken to the online application form of the scheme.",
+        "Step 3:  In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size. Carefully review all the information provided and the documents uploaded. Make any necessary corrections.",
+        "Step 4: Finally, click \"Submit\" to complete the process."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://bocw.hp.nic.in/pdf/Kalyanikariyojana2021_Ab1.pdf"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://bocw.hp.nic.in/PublicPages/schemedetails.aspx"
+    },
+    {
+      "title": "Website",
+      "url": "https://bocw.hp.nic.in/index.aspx"
+    },
+    {
+      "title": "Labour Registration",
+      "url": "https://bocw.hp.nic.in/PublicPages/AddBeneficiary.aspx"
+    }
+  ],
+  "documents_required": "Identity Proof I.e. Aadhaar Card, Voter Card Bank Account Details/ Copy of Bank Passbook Labour Card ID Proof of the Worker Issued by the Board"
+}

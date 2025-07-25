@@ -1,0 +1,59 @@
+{
+  "scheme_id": "685e6d5dd4a46d800434cfd6",
+  "slug": "fafoahr",
+  "scheme_name": "Financial Assistance for funeral and other activities in case of death of a worker's - Haryana Labour Welfare Board",
+  "scheme_short_title": "FAFOAHR",
+  "state": "Haryana",
+  "level": "State/ UT",
+  "nodal_department": "Labour Department",
+  "implementing_agency": "Haryana Labour Welfare Board (HLWB)",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Family"
+  ],
+  "tags": [
+    "Death",
+    "Worker",
+    "Labour",
+    "Funeral",
+    "Financial Assistance"
+  ],
+  "brief_description": "The scheme aims to provide financial support to the family or dependent of a deceased worker to cover funeral and related expenses. Under this scheme, an assistance amount of \u20b915,000/- is provided to the dependent/family of the deceased worker.",
+  "detailed_description": "The scheme &amp;quot;Financial Assistance for Funeral and Other Activities in Case of Death of a Worker&amp;quot; is implemented by the Haryana Labour Welfare Board (HLWB) under the Labour Department, Government of Haryana. The scheme aims to provide financial support to the family or dependent of a deceased worker to cover funeral and related expenses. Under this scheme, an assistance amount of \u20b915,000/- is provided to the dependent/family of the deceased worker.",
+  "benefits": [
+    "Financial assistance of \u20b915,000/-."
+  ],
+  "eligibility_criteria": "The applicant should be fully dependent on the deceased worker. The deceased worker should have been registered with the Haryana Labour Welfare Board. The deceased worker should have had an active membership under the Haryana Labour Welfare Board at the time of death. The applicant should not have previously availed benefits under this scheme. There is no minimum service period or ceiling required under this scheme. The application should be submitted within two years from the date of the worker's death.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process on Antyodaya-SARAL Portal:",
+        "Step 1: Visit the Official Portal: Antyodaya-SARAL Portal.  Step 2: For registration, click on \"New User/Register Here\" and fill in all the mandatory details i.e. Name, Email ID, Mobile Number & password. Click on \u2018Submit'. Step 3: Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile. Login to Apply for the Scheme: Step 1: Visit the Official Portal: Antyodaya-SARAL Portal.  Step 2: The \"Sign in here\" option is available on the right side of the screen. Fill in the required credentials and click on the \u2018Login' button. Step 3: In the opened window, click on \"Scheme/Services list\", and a list of schemes will appear on the screen. Step 4: Now, select the scheme and click on \"Apply for Service/Scheme\". Step 5: Fill in all the details in the online application form and click on \"Submit\". Track Your Service Online: Track Application/Appeal: Click here . Track Ticket: Click here . Track Your Service Through SMS: Registered Mobile Number: Type SARAL and send to 9954699899 to track your application. Other Mobile Number: Type SARAL<space><Application ID/Ticket No.> and send to 9954699899 to track your application/ticket. Contact Us: Helpline: 0172-3968400 Email: saral.haryana@gov.in Note: Govt. Charges: No Fee Service Charges: \u20b9 10 Atal Seva Kendra Service Charges: \u20b9 10"
+      ]
+    },
+    {
+      "mode": "Online - via CSC",
+      "steps": [
+        "The eligible applicant may visit the nearest Atal Seva Kendra with all the required documents to apply for the scheme."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=yC+jK2Ks/HzUCGSq8jBy9w=="
+    },
+    {
+      "title": "Official Website",
+      "url": "https://hrylabour.gov.in/"
+    }
+  ],
+  "documents_required": "Identity Proof Employer Certificate Employee Wages Slip (Previous Month) Death Certificate Affidavit (fully dependent upon the deceased worker, and earlier he/she has not availed of the said scheme) Bank account details Any other documents as required"
+}

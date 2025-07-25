@@ -1,0 +1,48 @@
+{
+  "scheme_id": "6773745c5fe21d75995b0ff9",
+  "slug": "mgawb",
+  "scheme_name": "Mukhyamantri Gramin Awas Yojana",
+  "scheme_short_title": "MGAWB",
+  "state": "Bihar",
+  "level": "State/ UT",
+  "nodal_department": "Rural Development Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Housing & Shelter"
+  ],
+  "sub_categories": [
+    "Housing"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Housing",
+    "Social Welfare",
+    "Scheduled Castes",
+    "Scheduled Tribes",
+    "Extremely Backward Classes",
+    "Financial Assistance"
+  ],
+  "brief_description": "This scheme aims to provide safe housing for Scheduled Castes, Scheduled Tribes, and Extremely Backward Classes whose existing group housing under previous schemes has become broken down.",
+  "detailed_description": "The &amp;quot;Mukhyamantri Gramin Awas Yojana&amp;quot; was introduced by the Rural Development Department, Bihar, to address the housing needs of beneficiaries belonging to Scheduled Castes, Scheduled Tribes, and Extremely Backward Classes whose cluster housing, built under previous schemes before January 1996, has deteriorated. As these families are ineligible for the Pradhan Mantri Awas Yojana due to prior benefits, this scheme provides financial assistance in three installments directly to the beneficiaries&amp;#39; accounts for reconstructing their homes. &lt;br&gt; &lt;br&gt;",
+  "benefits": [
+    "Financial Assistance: \u20b91,20,000/- (Provided in three installments: \u20b940,000/- each through Direct Benefit Transfer or DBT)."
+  ],
+  "eligibility_criteria": "The applicant must belong to rural area. The applicant must belong to the Scheduled Caste, Scheduled Tribe, or Extremely Backward Class category. The applicant must reside in a cluster housing scheme built under previous government programs before January 1996. The applicant must have a house that is currently in a dilapidated condition.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: Applicants must visit the Block Development Officer (BDO) office in their respective area. Step 2: Collect the Mukhyamantri Gramin Awas Yojana application form from the office and fill properly. Step 3: Submit the filled form along with the required documents at the BDO office. Ensure you obtain an acknowledgment receipt for your submission. Note: Field officers may visit the site to inspect the condition of the existing house. Upon successful verification, the application is approved, and the financial assistance is sanctioned."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cdnbbsr.s3waas.gov.in/s31943102704f8f8f3302c2b730728e023/uploads/2022/07/2022072358.pdf"
+    }
+  ],
+  "documents_required": "Aadhaar card of the applicant. Caste certificate (for SC/ST/Extremely Backward Classes). Bank account details. Proof of ownership of damaged/broken house (if applicable). Recent passport-sized photograph. Address proof."
+}

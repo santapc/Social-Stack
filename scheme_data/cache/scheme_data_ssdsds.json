@@ -1,0 +1,45 @@
+{
+  "scheme_id": "6787c5e26fc4765b7e164373",
+  "slug": "ssdsds",
+  "scheme_name": "Sona Sobaran Dhoti Saree Distribution Scheme",
+  "scheme_short_title": "SSDSDS",
+  "state": "Jharkhand",
+  "level": "State/ UT",
+  "nodal_department": "Food, Public Distribution and Consumer affairs Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Food Security / Public Distribution System"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Clothes",
+    "Saree",
+    "Subsidized Rate"
+  ],
+  "brief_description": "The \"Sona Sobaran Dhoti Saree Distribution Scheme\" by the Department of Food, Public Distribution and Consumer Affairs, Government of Jharkhand, provides one dhoti/lungi and one saree at a subsidized rate to NFSA and JSFSS beneficiaries to ensure clothing accessibility for low-income families",
+  "detailed_description": "The &quot;Sona Sobaran Dhoti Saree Distribution Scheme&quot; by the Department of Food, Public Distribution and Consumer Affairs, Government of Jharkhand, aims to provide essential clothing to eligible households. Through this scheme, one dhoti/lungi and one saree are offered at a subsidized rate to families covered under the National Food Security Act (NFSA), 2013, and the Jharkhand State Food Security Scheme (JSFSS).",
+  "benefits": [
+    "One dhoti or lungi and one saree are provided to eligible families. Items are distributed at subsidized rates to ensure affordability. Benefits are provided annually to NFSA and JSFSS beneficiaries."
+  ],
+  "eligibility_criteria": "The applicant must be a resident of Jharkhand. The applicant should have a valid Antyodaya Anna Yojana (AAY) or Priority Household (PHH) card under NFSA, 2013. Green Card holders under the Jharkhand State Food Security Scheme (JSFSS) are eligible. The applicant must possess or apply for an Aadhaar number.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Visit the nearest distribution center or designated enrollment center with the required documents. If Aadhaar is not available, apply for Aadhaar enrollment at an authorized center. Submit the Aadhaar number or Aadhaar Enrolment Identification Slip during registration. Verify the eligibility and documents with the designated officer. Collect the clothes from the distribution center as per the schedule."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.jharkhand.gov.in/Home/ViewDoc?id=D009DO003SD00625102023010425300"
+    }
+  ],
+  "documents_required": "Aadhaar Card or Aadhaar Enrolment Identification Slip. Bank/Post Office Passbook with Photo. Permanent Account Number (PAN) Card. Passport. Ration Card. Voter Identity Card. MGNREGA Card. Kisan Photo Passbook. Driving License. Certificate of Identity issued by a Gazetted Officer or Tehsildar."
+}

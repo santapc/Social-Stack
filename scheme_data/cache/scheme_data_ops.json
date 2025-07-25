@@ -1,0 +1,53 @@
+{
+  "scheme_id": "645b4bb267a7ca7da847dce8",
+  "slug": "ops",
+  "scheme_name": "Old-Age Pension Scheme",
+  "scheme_short_title": "OPS",
+  "state": "Himachal Pradesh",
+  "level": "State",
+  "nodal_department": "Department of Social Justice and Empowerment",
+  "dbt_scheme": true,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Social Security",
+    "Financial Assistance",
+    "DBT",
+    "Retirement Pension"
+  ],
+  "brief_description": "The Himachal Pradesh government offers an Old Age pension scheme to support elderly citizens who have no means of livelihood. The scheme offers financial assistance to eligible citizens based on their age and income level.",
+  "detailed_description": "The Government of Himachal Pradesh, Department of Social Justice &amp; Empowerment has launched Old Age Pension Scheme with the aim to provide social security to destitute elderly people of the state. In this scheme, a financial assistance of \u20b9 850/- per month to pensioners aged between 60 years to 69 years and \u20b9 1500/- per month to pensioners aged 70 years and above is provided.",
+  "benefits": [
+    "\u20b9 850/- per month to pensioners aged between 60 years to 69 years. \u20b9 1500/- per month to pensioners aged 70 years and above."
+  ],
+  "eligibility_criteria": "The applicants must be a resident of Himachal Pradesh state. Such elderly persons whose age is 60 years or more and who do not have proper means of care/upbringing and who have minor children and whose family annual income from all sources does not exceed \u20b9 35,000/- Or; Such elderly persons whose annual family income from all sources does not exceed \u20b9 35000/- are eligible for the scheme.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: Download the Social Security Pension Application Form .",
+        "Step 2: Fill in all the mandatory fields, paste the recent passport-sized photograph (signed across), and attach copies of all the mandatory documents (self-attested).",
+        "Step 3: Submit the duly filled and signed application form along with the documents to the concerned authority at:",
+        "Office of Panchayat",
+        "Tehsil Welfare Officer",
+        "District Welfare Officer."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "http://esomsa.hp.gov.in/?q=hi/%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%9C%E0%A4%BF%E0%A4%95-%E0%A4%B8%E0%A5%81%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE-%E0%A4%AA%E0%A5%88%E0%A4%82%E0%A4%B6%E0%A4%A8"
+    },
+    {
+      "title": "Offline Application Form",
+      "url": "http://esomsa.hp.gov.in/sites/default/files/scan0001-44250128_0.pdf"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "Following are the documents required to apply for the Scheme:\nPassport Size Photographs Age proof Income Certificate Aadhaar Card Bank Account/passbook copy Any other documents as asked during the application process."
+}

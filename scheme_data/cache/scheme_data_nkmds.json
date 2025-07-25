@@ -1,0 +1,83 @@
+{
+  "scheme_id": "65ba27facd96dc5e0739d94a",
+  "slug": "nkmds",
+  "scheme_name": "Nirmaan Kamgar Mrtyu Va Divyangta Sahayta Yojana",
+  "scheme_short_title": "NKMDS",
+  "state": "Uttar Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Labour Department, Uttar Pradesh",
+  "dbt_scheme": false,
+  "categories": [
+    "Health & Wellness"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Social Welfare",
+    "Health & Wellness"
+  ],
+  "brief_description": "The \"Nirman Kamgar Mrtyu Va Divyangta Sahayta Yojana \" is a scheme by the government of Uttar Pradesh, to provide financial assistance to registered construction workers.",
+  "detailed_description": "The Nirman Kamgar Mrtyu Va Divyangta Sahayata Yojana Uttar Pradesh is a crucial scheme launched by the Uttar Pradesh government for the welfare of registered construction workers in the state. It provides financial assistance to the families of construction workers in case of death or disability due to accident or illness.",
+  "benefits": [
+    "Death Benefits for register construction worker who die due to an accident:",
+    "Total amount will be \u20b95,25,000/-.",
+    "To dependents of a registered construction worker who dies due to an accident : \u20b95,00,000/- as approximately \u20b9 9,395/- per month for 5 years (as per interest rate). For funeral expenses: \u20b925,000/- lump sum.",
+    "Death Benefits for register construction worker who die due to natural causes:",
+    "Total amount will be \u20b92,25,000/-.",
+    "To dependents of a registered construction worker who dies due to an accident : \u20b92,00,000/- as approximately \u20b9 8,736/- per month for 2 years (as per interest rate). For funeral expenses: \u20b925,000/- lump sum.",
+    "Death Benefits for register construction worker who die due at the work place:",
+    "Total amount: \u20b91,00,000/- lump sum.",
+    "Disability Benefits for register construction worker who suffer 100% permanent disability due to an accident or illness",
+    "Total amount will be \u20b94,00,000/-.",
+    "Beneficiary will get approximately \u20b9 9,172/- per month for 4 years (as per interest rate).",
+    "Disability Benefits for registered construction workers with permanent disabilities between 50% and 99% due to accidents or illness.",
+    "Total amount will be \u20b93,00,000/-.",
+    "Beneficiary will get approximately \u20b9 8,953/- per month for 3 years (as per interest rate).",
+    "Disability Benefits for registered construction workers with permanent disabilities between 26% and 49% due to accidents or illness.",
+    "Total amount will be \u20b92,00,000/-.",
+    "Beneficiary will get approximately \u20b9 8,736/- per month for 2 years (as per interest rate)."
+  ],
+  "eligibility_criteria": "Applicant/Beneficiary must be registered with labor department. Only family member will able to get the death benefits: Depended parents. Spouse (Husband/Wife). Daughter. Son ( Only If below 21 years old) Death benefit will not be applicable in the case of suicide. Deaths due to murder, snakebite, lightning, childbirth and other natural calamities will be considered as normal deaths and benefits will be admissible accordingly. In death benefit claim of a construction worker, Aadhaar authentication of the dependent will be required if the dependent applies.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "How to get register",
+        "Applicant must visit the official web portal.  Provide the required details Enter Aadhaar Number. Choose Circle. Choose District. Mobile Number. Submit the registration request.",
+        "How to submit the application",
+        "Applicant must visit the official web portal . Provide the required details Choose Circle. Choose Scheme name. Enter Registered Aadhaar Number. Enter Registered Mobile Number. Click on \"Open Application form\". Provide the required details in application form. Applicant/Worker details Child details Bank Account Details Submit the required documents Submit the application request."
+      ]
+    },
+    {
+      "mode": "Offline",
+      "steps": [
+        "How to get register and apply for the scheme",
+        "Applicant must visit the below offices Nearest labor office. Tehsildar of the concerned tehsil. Block Development Officer of the concerned development block. Get the application form and fill out the completely. Attach required documents in the prescribed format. Submit the application form in the same office."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.upbocw.in/pdf/schemes/mrityu_viklangta_2022.pdf"
+    },
+    {
+      "title": "Details",
+      "url": "https://www.upbocw.in/StaticPages/schemes.aspx#tab11"
+    },
+    {
+      "title": "Registration",
+      "url": "https://www.uplmis.in/Guest/frm_createlogin_forlabs.aspx"
+    },
+    {
+      "title": "Online Apply",
+      "url": "https://www.uplmis.in/Guest/frm_CreateLogin.aspx?type=2"
+    }
+  ],
+  "documents_required": "Death certificate: A copy of the online death certificate. Bank account photocopy: A photocopy of the applicant's Aadhaar-linked bank account passbook. ID card photocopy : A photocopy of the applicant's Aadhaar card. Accident reports: Registered worker: For registered workers, both the Primary Information Report/Panchnama and the Post Mortem Report are required. Unregistered worker: If the deceased worker was unregistered, provide evidence of the accident, such as the Primary Information Report or a workplace accident report. Disability documentation: Certificate and report: In case of disability, submit a disability certificate and a First Information Report or medical certificate issued by the Chief Medical Officer. Self-declaration: All registered workers/applicants must submit a self-declaration confirming they haven't received benefits from similar state or central government schemes."
+}

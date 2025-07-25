@@ -1,0 +1,56 @@
+{
+  "scheme_id": "6728ea2a07ebeb8df56d1ec2",
+  "slug": "hssm",
+  "scheme_name": "Handicapped Students Stipend Mizoram",
+  "scheme_short_title": "HSSM",
+  "state": "Mizoram",
+  "level": "State/ UT",
+  "nodal_department": "Social Welfare Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment",
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Financial assistance",
+    "Education and training grants, fellowship, stipend",
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Handicapped",
+    "Student",
+    "Stipend"
+  ],
+  "brief_description": "Under this scheme, provide financial support to differently-abled students for purchasing essential items like books and uniforms. Students enrolled in both government and private schools are eligible to receive a monthly stipend.",
+  "detailed_description": "The Handicapped Students Stipend scheme was launched by the Social Welfare &amp; Tribal Affairs Department, Government of Mizoram. Under this scheme, provide financial support to differently-abled students for purchasing essential items like books and uniforms. Students enrolled in both government and private schools are eligible to receive a monthly stipend.",
+  "benefits": [
+    "Upto Class 4th - \u20b930/- per month per student (360/- per annum) Class 5th to Class 7th - \u20b940/- per month per student (480/- per annum) Class 8th to Class 12th - \u20b985/- per month per student (1020/- per annum)"
+  ],
+  "eligibility_criteria": "The applicant should be a resident of Mizoram. The applicant should be a disabled person. The applicant should be a student enrolled in government or private school. The applicant should be from the Below Poverty Line (BPL) family.\n\n",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The applicant writes the application on plain paper.",
+        "Step 2: In the application form attach copies of all the mandatory documents (self-attest, if required).",
+        "Step 3: Submit the duly filled and signed application along with the documents to the District Social Welfare Office",
+        "Step 4: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://socialwelfare.mizoram.gov.in/page/handicapped-students-stipend"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://socialwelfare.mizoram.gov.in/page/welcome-to-directorate-of-social-welfare"
+    }
+  ],
+  "documents_required": "Passport-size Photograph UDID/Disability Certificate Proof of BPL Status (Family Ration Card) Photocopy of Bank Passbook (first page showing account holder's name and account number) Qualification Document"
+}

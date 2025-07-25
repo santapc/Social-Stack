@@ -1,0 +1,52 @@
+{
+  "scheme_id": "67b1b896d6a94de2eedd6d17",
+  "slug": "dgyr",
+  "scheme_name": "Devnarayan Gurukul Yojana",
+  "scheme_short_title": "DGYR",
+  "state": "Rajasthan",
+  "level": "State/ UT",
+  "nodal_department": "Social Justice and Empowerment Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Student",
+    "Special Backward Classes",
+    "Free Book",
+    "Free Education",
+    "Free Uniform"
+  ],
+  "brief_description": "The scheme aims to provide free residential education to students from Special Backward Classes. Under this scheme, selected students receive free education, accommodation, meals, uniforms, books, and study materials in government-approved schools.",
+  "detailed_description": "The scheme &amp;quot;Devnarayan Gurukul Yojana&amp;quot; was launched by the Social Justice and Empowerment Department, Government of Rajasthan, aims to provide free residential education to students from Special Backward Classes (SBC) i.e. Banjara, Baldia, Labana, Gadia-Lohar, Gadolia, Gujar, Gurjar, Raika, Rebari (Debasi), and Gadaria (Gadari, Gayari). Under this scheme, selected students admitted to Class 6 in government-approved schools receive free education, accommodation, meals, uniforms, textbooks, and writing materials.",
+  "benefits": [
+    "Under this scheme, eligible students receive free education, accommodation, meals, uniforms, text books and study materials in government-approved schools."
+  ],
+  "eligibility_criteria": "The applicant should be a native resident of Rajasthan. The applicant's family should not be a taxpayer. The applicant must be a regular student in a government or non-government school. The applicant must have passed class 5 th with a minimum of 50% or above marks. The applicant should belong to one of the following Special Backward Class (SBC) communities:\nBanjara, Baldia, Labana Gadiya Lohar, Gadolia Gujar, Gurjar Raika, Rebari (Debasi) Gadaria (Gadri, Gyari)\nNote 1: Only students who qualify on merit after clearing the pre-admission examination will be admitted to the 59 schools selected by the department. Note 2: Students will be given admission in Class 6 as per their merit based on marks obtained in Class 5.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: The interested applicant should visit (during office hours) the District Education Officer (Secondary) and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications. Step 2: In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest, if required). Step 3: Submit the duly filled and signed application form along with the documents to the principal of the District Education Officer (Secondary) Step 4: Request a receipt or acknowledgment from the District Education Officer (Secondary) to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission and a unique identification number (if applicable). Note: Students will be admitted to class 6 th based on their class 5 th merit."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sje.rajasthan.gov.in/Default.aspx?PageID=87"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://jansoochna.rajasthan.gov.in/CMS/EligiblityRules"
+    },
+    {
+      "title": "Online Portal",
+      "url": "https://rajshaladarpan.nic.in/SD3/VPMS/ScholarshipApply.aspx"
+    }
+  ],
+  "documents_required": "Domicile Certificate Educational certificate (Marks Certificate of Class 5) Income Certificate Caste Certificate Jan Aadhaar Card Receipt of School Fees Any other documents as required"
+}

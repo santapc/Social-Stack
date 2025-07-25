@@ -1,0 +1,86 @@
+{
+  "scheme_id": "65e8480eda55878ebe145949",
+  "slug": "fbmbocwwb",
+  "scheme_name": "Funeral Benefit (MBOCWWB)",
+  "scheme_short_title": "FB(MBOCWWB)",
+  "state": "Meghalaya",
+  "level": "State/ UT",
+  "nodal_department": "Labour and Employment Department",
+  "implementing_agency": "Meghalaya Building & Other Construction Workers Welfare Board",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance"
+  ],
+  "target_beneficiaries": [
+    "Family"
+  ],
+  "tags": [
+    "Funeral",
+    "Death",
+    "Construction Worker",
+    "Building Worker",
+    "Labour",
+    "Financial Assistance"
+  ],
+  "brief_description": "Under the scheme, financial assistance of \u20b95,000/- shall be provided to nominees or dependents of deceased registered construction workers, towards funeral expenses.",
+  "detailed_description": "The scheme \"Funeral Benefit\" is a social security scheme, implemented by the Meghalaya Building and Other Construction Workers Welfare Board (MBOCWWB), Labour Department, Government of Meghalaya. Under the scheme, financial assistance shall be provided to nominees or dependents of deceased registered construction workers, towards funeral expenses.",
+  "benefits": [
+    "Under the scheme, financial assistance of \u20b95,000/- shall be given to nominees or dependents of deceased registered construction workers, towards funeral expenses."
+  ],
+  "eligibility_criteria": "The applicant should be a legal nominee or dependent of deceased worker. The deceased worker should have been a resident of Meghalaya. The deceased worker should have been engaged in any building or other construction work. The deceased worker should have been registered under the Meghalaya Building & Other Construction Workers Welfare Board. The financial assistance shall be given to nominees or dependents of deceased registered workers, towards funeral expenses.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Online Worker Registration Process (Portal):",
+        "Step 01: The applicants may visit the online Portal: https://megbocwwb.gov.in/bocw_services/login.htm ",
+        "Step 02: The applicant can register by creating a new account, on the home page click on the \u2018Worker' button and enter all the mandatory information.",
+        "Step 03: After filling in all the details, click on \u2018Register'.",
+        "Step 04: After successful registration, the applicant will see the message \"Registered Successfully\".",
+        "Application Process for Funeral Benefit:",
+        "Step 01: Visit the online Portal: https://megbocwwb.gov.in/bocw_services/login.htm ",
+        "Step 02: Enter your User ID (Registered Mobile Number), Password, and Enter Security Code. Click on Login.",
+        "Step 03: After successful login, click on the \"Funeral Benefit\" scheme from the Dashboard.",
+        "Step 04: Fill in all the required information and necessary enclosures.",
+        "Step 05: Click \u2018Submit' to apply for benefits.",
+        "Application Process to Track/Update:",
+        "Step 01: Visit the online Portal: https://megbocwwb.gov.in/bocw_services/login.htm ",
+        "Step 02: Enter your User ID (Registered Mobile Number), Password, and Enter Security Code. Click on Login.",
+        "Step 03: From the menu, click on \u2018Track Application Status'.",
+        "Step 04: Click on \u2018View Details' to view your application.",
+        "Step 05: Click on \u2018Application History' to view the application history.",
+        "Step 06: Click on \u2018Update' to update your application.",
+        "Note: Once your application is under process or processed, you cannot update it.",
+        "(Worker's User Manual )"
+      ]
+    },
+    {
+      "mode": "Offline",
+      "steps": [
+        "A copy of the prescribed application form duly signed by the applicant shall be submitted to the concerned office of the Building & Other Construction Workers Welfare Board."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://megbocwwb.gov.in/schemes_funeral"
+    },
+    {
+      "title": "Amendment Notification",
+      "url": "https://meglc.gov.in/acts/MBOCW%20Amendment%20Rules%202017.pdf"
+    },
+    {
+      "title": "Online Application Portal",
+      "url": "https://megbocwwb.gov.in/bocw_services/login.htm"
+    },
+    {
+      "title": "Application Form For Funeral Benefit",
+      "url": "https://megbocwwb.gov.in/forms/benefit/funeralBenefit.pdf"
+    }
+  ],
+  "documents_required": "MBOCWWB ID Card of worker Death Certificate Challan/Receipt of the Monthly Subscription paid Nominee's ID Proof may be Voter ID, Licence or others Bank Passbook Applicant Address Proof Succession Certificate Nominee's Consent Letters Guardian Certificate (in case Applicant is Minor) Any other documents as required"
+}

@@ -1,0 +1,47 @@
+{
+  "scheme_id": "675a864f9179d18db5f07953",
+  "slug": "wbtwsam",
+  "scheme_name": "West Bengal Transport Workers' Social Security Scheme: Assistance for Marriage",
+  "scheme_short_title": "WBTWSAM",
+  "state": "West Bengal",
+  "level": "State/ UT",
+  "nodal_department": "Labour Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Marriage"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Social Security",
+    "Transport Worker",
+    "Marriage Assistance",
+    "Women"
+  ],
+  "brief_description": "The scheme provides financial aid for the marriage of eligible beneficiaries or their dependent sons/daughters (up to two marriages).",
+  "detailed_description": "The \"West Bengal Transport Workers' Social Security Scheme: Assistance for Marriage\" by the Labour Department, West Bengal, aims to provide financial support to individuals or families for marriage expenses. The scheme offers \u20b910,000/- for the marriage of the beneficiary or their dependent children, with a maximum of two beneficiaries per family. &lt;br&gt;",
+  "benefits": [
+    "For beneficiary: \u20b910,000/-. For dependent sons/ daughters (up to a maximum of two): \u20b910,000/- "
+  ],
+  "eligibility_criteria": "The applicant must be between 18 and 60 years of age at the time of enrolment. The applicant must be an unorganized worker employed in the operation of commercial vehicles, such as cars, taxis, luxury taxis, light commercial vehicles, vans, auto-rickshaws, tempos, lorries, trucks, or buses. The applicant's vehicle must be used for commercial purposes and not solely for personal or family use. ",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Step 1: Visit the \" eDistrict 2.0 \" portal. Click on Log In/Sign Up. Step 2: In the User Login window, scroll down to the bottom and click on \"Register\". Step 3: Fill in all the details carefully, enter a username, and click on \"Register\". Step 4: Upon entering the One Time Password received on your mobile, you will be successfully registered. Step 5: Now in the User Login window, enter your Username or email and captcha and click on \"Sign In\". Step 6: Enter the received O.T.P and click on \"Submit\". Step 7: Upon successful Login, You will be redirected to the \"Dashboard\". From the right side menu apply for the concerned scheme."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://employmentbankwb.gov.in/social_security_scheme.php#ans8"
+    }
+  ],
+  "exclusions": "<br>",
+  "documents_required": "For New Registration: Certification by Prescribed Authority in the Prescribed format, Passport Size Photo (self and for each dependent member). Age Proof Document. Driving Licence in case of Drivers. EPIC/ AADHAR Card. For the Application of the Welfare Scheme: Dependent's Marriage certificate or affidavit confirming the marriage event. Proof of relationship. Any other documents (if required)."
+}

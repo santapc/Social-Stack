@@ -1,0 +1,53 @@
+{
+  "scheme_id": "670161a2338425904c34e44d",
+  "slug": "manbocwwb",
+  "scheme_name": "Medical Assistance (NBOCWWB)",
+  "scheme_short_title": "MANBOCWWB",
+  "state": "Nagaland",
+  "level": "State/ UT",
+  "nodal_department": "Labour and Employment Department, Nagaland",
+  "dbt_scheme": false,
+  "categories": [
+    "Health & Wellness"
+  ],
+  "sub_categories": [
+    "Financial assistance",
+    "Emergency medical assistance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Financial Assistance",
+    "Medical Treatment",
+    "Construction Worker"
+  ],
+  "brief_description": "The \"Medical Assistance\" scheme by the Nagaland Building and Other Construction Workers' Welfare Board provides financial assistance to registered beneficiaries and their family members for hospitalization.",
+  "detailed_description": "The &quot;Medical Assistance&quot; scheme launched by the Nagaland Building and Other Construction Workers&#39; Welfare Board provides financial assistance to registered beneficiaries and their family members for hospitalization. \u20b91,000/- per day is provided for the first five days of hospitalization, followed by \u20b9500/- per day for up to 10 more days.",
+  "benefits": [
+    "\u20b91,000/- per day for the first five days of hospitalization. \u20b9500/- per day for the next 10 days (up to 15 days total)."
+  ],
+  "eligibility_criteria": "The construction worker should be registered under the Nagaland Building and Other Construction Workers' Welfare Board. The spouse and children of the construction worker are also eligible for financial assistance. The applicant should be hospitalized for at least five continuous days for assistance.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step-1: The interested applicant should visit (during office hours) the Nagaland Building and Other Construction Workers' Welfare Board and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "Step-2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).",
+        "Step-3: Submit the duly filled and signed application form along with the documents to the Assistant Labour Commissioner.",
+        "Step-4: Request a receipt or acknowledgement from the Assistant Labour Commissioner to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://nbocw.nagaland.gov.in/schemes"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://nbocw.nagaland.gov.in/home"
+    }
+  ],
+  "documents_required": "Registration Card under the NBOCWWB. Aadhaar Card of the applicant. Admission and Discharge Summary (issued by the Medical Officer of the Hospital). Bank Account Pass Book. Any Other Documents if required."
+}

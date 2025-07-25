@@ -1,0 +1,97 @@
+{
+  "scheme_id": "679b5037c4ea5da14d02b12e",
+  "slug": "fafmhpbocwwb",
+  "scheme_name": "Financial Assistance for Marriage (HPBOCWWB)",
+  "scheme_short_title": "FAFMHPBOCWWB",
+  "state": "Himachal Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Labour and Employment Department, Himachal Pradesh",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Financial assistance",
+    "Marriage"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Construction Workers",
+    "Building Worker",
+    "Labour",
+    "Marriage",
+    "Financial Support"
+  ],
+  "brief_description": "The Financial Assistance for Marriage scheme under the Himachal Pradesh Building and Other Construction Workers Welfare Board provides \u20b951,000/- for the marriage of a registered unmarried beneficiary and \u20b951,000/- per child for the marriage of up to two children of a married beneficiary.",
+  "detailed_description": "The &quot;Financial Assistance for Marriage&quot; scheme, introduced by the Himachal Pradesh Building and Other Construction Workers Welfare Board (HPBOCWWB), provides \u20b951,000/- for the marriage of a registered unmarried beneficiary and \u20b951,000/- per child for the marriage of up to two children of a married beneficiary, offering essential financial support to construction workers and their families.",
+  "benefits": [
+    "\u20b951,000/- for a registered unmarried beneficiary's marriage.",
+    "\u20b951,000/- per child for up to two children of a registered married beneficiary."
+  ],
+  "eligibility_criteria": "For Registration as a Building/Construction Worker:\nThe applicant should be a resident of Himachal Pradesh. The applicant should be a Building or Construction Worker. The age of the applicant should be between 18 and 60 years. The applicant should have worked in building or construction activities for at least 90 days in the preceding 12 months. The registration should be renewed annually.\n\nEligibility Criteria for Scheme:\nThe worker's membership with the Welfare Board must be active at the time of application. The worker should be unmarried at the time of applying for the financial assistance. The worker should have at least a two month subscription. The benefit is provided for the marriage of up to two children of a registered married worker.\n",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "The Registration Process for Building and Other Construction Workers is as follows:",
+        "Step 1: The interested applicant should visit the Labor Welfare Office (during office hours) and request a hard copy of the prescribed application form from the concerned authority.",
+        "Step 2: In the application form, fill in all the mandatory fields, paste a passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attested, if required).",
+        "Step 3: Submit the duly filled and signed application form along with a wage slip or appointment letter from the employer, verifying 90 days of construction work. If unavailable, a certificate from a local authority (such as a councilor, executive officer, or Panchayat Secretary) can be submitted to verify employment.",
+        "Step 4: After submitting the documents and payment, the worker will receive an acknowledgment receipt confirming their registration.",
+        "NOTE 1: Ensure that the application is submitted within the prescribed period, if any.",
+        "NOTE 2: After three years, the worker must visit the office to pay a renewal fee and submit proof of 90 days of work each year to maintain eligibility for benefits.",
+        "NOTE 3: A one-time registration fee must be paid at the office, and it will be valid for three years."
+      ]
+    },
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration Process for Building and Other Construction Workers:",
+        "Step 1: The applicant must visit the official website of the Himachal Pradesh Building and Other Construction Workers Welfare Board.",
+        "Step 2: If you are a new user then click worker services , click on \" New Registration .\"",
+        "Step 3: Once the dashboard appears, locate and complete the form by entering all required details. Mandatory fields are marked with an asterisk (*), ensuring that all essential information is provided.",
+        "Step 4: Attach all necessary documents, including ID proof and any other relevant certificates, as specified. Ensure the documents are clear and meet the format requirements.",
+        "Step 5: After completing the form and uploading the documents, click on the \"Submit\" button. You will be directed to the payment gateway to pay the application fee online.",
+        "Step 6: Upon successful payment and submission, a registration number will be generated. This number serves as confirmation of your application and can be used for future reference.",
+        "Scheme Application Process:",
+        "Step 1: The applicant must visit the official website of the Himachal Pradesh Building and Other Construction Workers Welfare Board.",
+        "Step 2: Click on the option \" Apply for Benefits. \"",
+        "Step 3: Enter your beneficiary details and date of birth, then click \"Search\" to view your information.",
+        "Step 4: Select the scheme you wish to apply for to avail of the benefits.",
+        "Step 5: Enter all required information and upload the necessary documents as prompted.",
+        "Step 6: Finally, click on \"Submit Application\" to complete the process.",
+        "Application Tracking:",
+        "Applicants can track their application status online through the official website of the Himachal Pradesh Building and Other Construction Workers Welfare Board. Relevant updates will be sent to the registered mobile number."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://bocw.hp.nic.in/PublicPages/schemedetails.aspx"
+    },
+    {
+      "title": "Website",
+      "url": "https://bocw.hp.nic.in/index.aspx"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://bocw.hp.nic.in/pdf/Kalyanikariyojana2021_Ab1.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://bocw.hp.nic.in/pdf/form44Marriage_A1b.pdf"
+    },
+    {
+      "title": "Online Registration",
+      "url": "https://bocw.hp.nic.in/PublicPages/AddBeneficiary.aspx"
+    },
+    {
+      "title": "Application Forms",
+      "url": "https://bocw.hp.nic.in/Publicpages/Downloads.aspx"
+    }
+  ],
+  "documents_required": "Identity proof i.e. Aadhaar Card, Voter Card A copy Work Slip Proof of residence Bank account details/copy of bank passbook Age proof Labour Card Marriage Certificate Any other documents as required "
+}

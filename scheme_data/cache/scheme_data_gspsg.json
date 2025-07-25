@@ -1,0 +1,49 @@
+{
+  "scheme_id": "6776234209be7bb7df9edb4f",
+  "slug": "gspsg",
+  "scheme_name": "Ganga Swarupa Pension Scheme",
+  "scheme_short_title": "GSPSG",
+  "state": "Gujarat",
+  "level": "State/ UT",
+  "nodal_department": "Women and Child Development Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Pension"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Widow Pension",
+    "Women Empowerment",
+    "Monthly Assistance"
+  ],
+  "brief_description": "The scheme provides financial assistance to widowed women, ensuring self-reliance through monthly pensions.",
+  "detailed_description": "The &amp;quot;Ganga Swarupa Pension Scheme&amp;quot; launched by the Women and Child Development Department, Gujarat, aims to empower widowed women by offering financial support, ensuring they achieve self-reliance and dignity. Eligible beneficiaries receive a monthly pension directly deposited into their Post Office accounts. The scheme is managed by the Women and Child Development Office and implemented at the district level by the Mamlatdar.",
+  "benefits": [
+    "Monthly Pension: Monthly financial assistance of \u20b91,250/-."
+  ],
+  "eligibility_criteria": "The applicant must be a resident of Gujarat. The applicant must be a widowed woman. The applicant must be aged 18 years or above. The applicant's annual income must not exceed \u20b91,20,000/- in rural areas and \u20b91,50,000/- in urban areas.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "Step 1: Obtain the application form from Taluka Mamlatdar's office. Step 2: Fill out the form with accurate details and attach the required documents. Step 3: Submit the form to the Taluka Mamlatdar. Step 4: The Mamlatdar will verify the details and approve the assistance if all criteria are met. Helpdesk: Contact Details. "
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines 1",
+      "url": "https://wcd.gujarat.gov.in/initiativedetails?id=231"
+    },
+    {
+      "title": "Guidelines 2",
+      "url": "https://wcd.gujarat.gov.in/posts?id=328"
+    }
+  ],
+  "documents_required": "Photo of the applicant (widowed woman). Copy of ration card. School leaving certificate. Income proof. Husband's death certificate. Election card or Aadhaar card. Electricity bill. Birth certificate. Proof of being a widow."
+}

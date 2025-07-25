@@ -1,0 +1,64 @@
+{
+  "scheme_id": "6788900bd667626b5f0a911b",
+  "slug": "glpsc1",
+  "scheme_name": "Girls Literacy Promotion Scheme for Class 11th",
+  "scheme_short_title": "GLPSC1",
+  "state": "Madhya Pradesh",
+  "level": "State/ UT",
+  "nodal_department": "Department of De-notified, Nomadic and Semi-nomadic Welfare Department",
+  "dbt_scheme": false,
+  "categories": [
+    "Education & Learning"
+  ],
+  "sub_categories": [
+    "Scholarships and student finance"
+  ],
+  "target_beneficiaries": [
+    "Individual"
+  ],
+  "tags": [
+    "Education",
+    "Student",
+    "Girl",
+    "Financial",
+    "Female",
+    "School",
+    "Pre Matric"
+  ],
+  "brief_description": "The \"Girls Literacy Promotion Scheme Class 11th\" by the Madhya Pradesh Government encourages girls from De-notified, Nomadic, and Semi-Nomadic communities to study. Girls enrolling in Class 11 for the first time receive \u20b93,000/-",
+  "detailed_description": "The &quot;Girls Literacy Promotion Scheme Class 11th&quot; by the Department of De-notified, Nomadic, and Semi-Nomadic Welfare, Government of Madhya Pradesh, aims to encourage girls from De-notified, Nomadic, and Semi-Nomadic communities to pursue education. Under this scheme, an incentive amount of \u20b93,000 is provided to girls enrolling in Class 11 for the first time. The scholarship distribution is managed through the Directorate of Public Distribution, Government of Madhya Pradesh.",
+  "benefits": [
+    "An incentive of \u20b93,000/-."
+  ],
+  "eligibility_criteria": "The applicant should be from Denotified, Nomadic, or Semi-Nomadic Community. The applicant should be a girl. The applicant should be enrolled in the 11th Standard. The applicant should be studying in a recognized institution. The applicant should have studied continuously without any academic breaks.",
+  "application_process": [
+    {
+      "mode": "Online",
+      "steps": [
+        "Registration",
+        "Step 1: Visit the \" Samarth Portal \".",
+        "Step 2: Navigate to the top right corner of the homepage and click \" Registration\". ",
+        "Step 3: On the registration page, provide the mandatory details. (the fields marked with * are mandatory). If required, verify your Mobile Number and/or Email ID via OTP. Finally, click \"Register\".",
+        "Application",
+        "Step 1: Visit the \" Samarth Portal \".  ",
+        "Step 2:  Use the credentials you created during registration to log in.",
+        "Step 3:  Navigate to the online application form of the scheme you intend to apply for.",
+        "Step 4:  In the application form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size.",
+        "Step 5:  Carefully review all the information provided. Make any necessary corrections.",
+        "Step 6:  Acknowledge and agree to the terms and conditions, declaration, and privacy policy (if any).",
+        "Step 7:  Click the \"Submit\" to submit your application."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://samarth.mp.gov.in/Public/Pages/SchemeDetail?ID=1"
+    },
+    {
+      "title": "Registration",
+      "url": "https://samarth.mp.gov.in/Registration/Default.aspx"
+    }
+  ],
+  "documents_required": "Passport-size Photograph Aadhaar Card Domicile Certificate Caste Certificate Samagra ID Bank Account Details Previous Year Marksheets Proof of Enrollment into 11th Standard Bonafide Certificate of a Recognised Institution"
+}

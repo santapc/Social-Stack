@@ -1,0 +1,60 @@
+{
+  "scheme_id": "65af8b3aebb318a5b532a4be",
+  "slug": "fsrpp",
+  "scheme_name": "Free Supply of Rice to the Poor People",
+  "scheme_short_title": "FSRPP",
+  "state": "Puducherry",
+  "level": "State/ UT",
+  "nodal_department": "Women and Child Development Department, Puducherry",
+  "dbt_scheme": false,
+  "categories": [
+    "Social welfare & Empowerment"
+  ],
+  "sub_categories": [
+    "Food Security / Public Distribution System"
+  ],
+  "target_beneficiaries": [
+    "Individual",
+    "Family"
+  ],
+  "tags": [
+    "Food",
+    "Ration",
+    "BPL",
+    "Social Welfare"
+  ],
+  "brief_description": "In this scheme, 10 kg of free rice is supplied to poor people through fair-price shops during natural calamities and on two important festive occasions every year. The beneficiaries are identified based on the data from the Civil Supplies and Consumer Affairs Department in Puducherry.",
+  "detailed_description": "The scheme \"Free Supply of Rice to the Poor People\" by the Department of Women &amp; Child Development, Government of Pondicherry, was introduced to provide 10 kg of free rice through fair-price shops during natural calamities and on two important festive occasions every year. The beneficiaries are identified based on the data from the Civil Supplies and Consumer Affairs Department in Puducherry, utilizing the cross-referencing functionality in UDH.",
+  "benefits": [
+    "10 kg of free rice is supplied through fair-price shops during natural calamities and on two important festive occasions every year."
+  ],
+  "eligibility_criteria": "The applicant should be a citizen of India. The applicant should be a native of the Union Territory of Pondicherry by birth or continuous residence for not less than 5 years. The applicant should belong to the 'Below Poverty Line' category.",
+  "application_process": [
+    {
+      "mode": "Offline",
+      "steps": [
+        "No separate application is required. As a part of the proactive governance and timely benefits delivery, the beneficiaries are identified based on the data from the Civil Supplies and Consumer Affairs Department in Puducherry, utilizing the cross-referencing functionality in UDH. The supply will be made to the holders of red ration card who have registered with the area Anganwadi."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://py.gov.in/sites/default/files/womenrtimanual.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://wcd.py.gov.in/contact-us"
+    },
+    {
+      "title": "Office Locations",
+      "url": "https://wcd.py.gov.in/office-locations"
+    },
+    {
+      "title": "Grievance Redressal",
+      "url": "https://wcd.py.gov.in/ta/central-public-grievance-redress-and-monitoring-system"
+    }
+  ],
+  "exclusions": "Fishermen are not eligible.",
+  "documents_required": "BPL Ration Card by the Civil Supplies Department, Pondicherry."
+}
