@@ -19,7 +19,7 @@ from pydub import AudioSegment
 import io
 import time
 import hashlib
-from components.config import LLM_MODELS,groq_models,gpt_models,offline_models
+from components.config import LLM_MODELS,GROQ_MODELS,OPENAI_MODELS,OFFLINE_MODELS
 from components.utils import validate_bhashini_setup, initialize_session_state
 
 try:
@@ -565,7 +565,7 @@ async def main():
     
     if "llm" not in st.session_state or st.session_state.llm_model != st.session_state.get("active_llm_model"):
         try:
-            if st.session_state.llm_model in groq_models:
+            if st.session_state.llm_model in GROQ_MODELS:
                 st.session_state.llm = ChatGroq(
                     model=st.session_state.llm_model,
                     temperature=0,
@@ -573,13 +573,14 @@ async def main():
                     timeout=None,
                     max_retries=2,
                 )
-            elif st.session_state.llm_model in offline_models:
+            elif st.session_state.llm_model in OFFLINE_MODELS:
                 st.session_state.llm = get_hpc_llm(model=st.session_state.llm_model)
-            elif st.session_state.llm_model in gpt_models:
+            elif st.session_state.llm_model in OPENAI_MODELS:
                 st.session_state.llm = get_hpc_llm_openai(model=st.session_state.llm_model)
             st.session_state.active_llm_model = st.session_state.llm_model
         except Exception as e:
-            st.error(f"Error initializing LLM: {str(e)}")
+            st.error(f"Error initializing LLM: Please check your API keys and model configuration.")
+            st.exception(e)
             st.stop()
 
     if (
@@ -681,7 +682,7 @@ async def main():
     with st.sidebar.expander("🤖 Advanced LLM Settings"):
         llm_model = st.selectbox(
             "LLM Model",
-            groq_models + gpt_models,
+            LLM_MODELS,
             index=LLM_MODELS.index(st.session_state.llm_model),
         )
         st.session_state.llm_model = llm_model
@@ -1050,9 +1051,11 @@ async def main():
                                                 st.audio(base64.b64decode(audio_base64), format="audio/wav")
                                         except Exception as e:
                                             st.error(f"Error processing response: {e}")
+                                            st.exception(e)
                                         st.session_state.chat_history.append(("assistant", full_response))
             except Exception as e:
-                st.error(f"Error processing audio: {str(e)}")
+                st.error(f"An unexpected error occurred during audio processing. Please try again or check your Bhashini API setup.")
+                st.exception(e)
                 update_performance_stats(success=False, response_time=0, language=source_language[0])
             finally:
                 if tmp_path and os.path.exists(tmp_path):

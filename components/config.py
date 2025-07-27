@@ -2,12 +2,25 @@
 Central configuration for Digital-MoSJE project.
 """
 
-# Model names
+import ollama
+import os
 
-groq_models=["llama-3.3-70b-versatile", "meta-llama/llama-4-scout-17b-16e-instruct", "meta-llama/llama-4-maverick-17b-128e-instruct", "deepseek-r1-distill-llama-70b", "qwen/qwen3-32b"]
-gpt_models=["gpt-4.1-mini", "gpt-4.1-nano", "gpt-4o-mini"]
-offline_models=["gemma3:27b","qwq:32b","mistral-small3.1:24b","deepseek-r1:32b","deepseek-r1:8b"]
-LLM_MODELS = groq_models + gpt_models + offline_models
+LLM_MODELS = []
+
+GROQ_MODELS = []
+OPENAI_MODELS = []
+
+offline_models_list = ollama.list()
+OFFLINE_MODELS = [model['model'] for model in offline_models_list['models']]
+
+if 'OPENAI_API_KEY' in os.environ:
+    OPENAI_MODELS.extend(["gpt-4.1-mini", "gpt-4.1-nano", "gpt-4o-mini"])
+if 'GROQ_API_KEY' in os.environ:
+    GROQ_MODELS.extend(["llama-3.3-70b-versatile", "meta-llama/llama-4-scout-17b-16e-instruct", "meta-llama/llama-4-maverick-17b-128e-instruct", "deepseek-r1-distill-llama-70b", "qwen/qwen3-32b"])
+
+LLM_MODELS.extend(GROQ_MODELS)
+LLM_MODELS.extend(OPENAI_MODELS)
+LLM_MODELS.extend(OFFLINE_MODELS)
 
 # Dataset names
 DATASET_NAMES = [
@@ -18,6 +31,5 @@ DATASET_NAMES = [
 ]
 
 # External tool paths (override with env vars if set)
-import os
 TESSERACT_PATH = os.getenv('TESSERACT_PATH', r"C:\\Program Files\\Tesseract-OCR\\tesseract.exe")
 POPPLER_PATH = os.getenv('POPPLER_PATH', r"C:\\poppler-24.08.0\\Library\\bin") 
