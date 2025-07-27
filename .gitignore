@@ -237,8 +237,8 @@ requirements.txt.bak
 .idea/
 
 # dotenv
-.env
-*.env
+# .env
+# *.env
 
 # Streamlit cache
 .streamlit/
