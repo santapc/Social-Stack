@@ -1,6 +1,6 @@
-# User Guide for Digital-MoSJE Public Repository
+# Social Stack: Transforming Welfare Delivery
 
-This guide provides instructions on how to set up and use the Digital-MoSJE application.
+This guide provides instructions on how to set up and use the Social Stack application.
 
 ## 1. Setup
 
@@ -20,8 +20,8 @@ Before running the application, ensure you have the following installed:
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Himank-Khatri/Digital-MoSJE-Public.git
-    cd Digital-MoSJE
+    git clone https://github.com/Himank-Khatri/Social-Stack.git
+    cd Social-Stack
     ```
 
 2.  **Install dependencies:**
@@ -43,6 +43,13 @@ Open the `.env` file and add the following lines, replacing `YOUR_CHATGPT_API_KE
 OPENAI_API_KEY = "YOUR_CHATGPT_API_KEY"
 GROQ_API_KEY = "YOUR_GROQ_API_KEY"
 ```
+
+**How to get Groq API Key:**
+1. Visit the [Groq Console](https://console.groq.com/).
+2. Sign up or log in to your account.
+3. Navigate to the API Keys section.
+4. Generate a new API key and copy it.
+5. Paste the copied key into your `.env` file as `GROQ_API_KEY`.
 
 **Bhashini API Keys:**
 If you plan to use Bhashini functionalities, you will need to register for [Bhashini](https://bhashini.gov.in/ulca) and obtain the necessary API keys. Add the following to your `.env` file:
