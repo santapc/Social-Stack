@@ -11,7 +11,7 @@ Before running the application, ensure you have the following installed:
 *   Python 3.8 or higher
 *   pip (Python package installer)
 *   **Tesseract OCR:** Required for Optical Character Recognition (OCR) on images and PDFs. Download and install it from [Tesseract OCR GitHub](https://tesseract-ocr.github.io/tessdoc/Installation.html).
-*   **Poppler:** Required for PDF processing. On Windows, you can download pre-built binaries from [Poppler for Windows](http://blog.alivate.com.au/poppler-windows/). On Linux, install via your package manager (e.g., `sudo apt-get install poppler-utils`). Ensure Poppler's `bin` directory is added to your system's PATH.
+*   **Poppler:** Required for PDF processing. On Windows, you can download pre-built binaries from [Poppler for Windows](https://github.com/oschwartz10612/poppler-windows). On Linux, install via your package manager (e.g., `sudo apt-get install poppler-utils`). Ensure Poppler's `bin` directory is added to your system's PATH.
 
 ### Installation
 
