@@ -22,11 +22,7 @@ import hashlib
 from components.config import LLM_MODELS,GROQ_MODELS,OPENAI_MODELS,OFFLINE_MODELS
 from components.utils import validate_bhashini_setup, initialize_session_state
 
-try:
-    from components.bhashini import BhashiniVoiceAgent
-except ImportError:
-    st.error("Could not import BhashiniVoiceAgent. Make sure the components folder and bhashini.py exist.")
-    st.stop()
+# Bhashini import will be done when needed in the mic click handler
 
 st.set_page_config(
     page_title="Social Stack",
@@ -557,9 +553,7 @@ async def main():
     st.title("Social Stack: Transforming Welfare Delivery")
     # st.markdown("*Ask about government schemes in your preferred Indic language*")
     
-    if not validate_bhashini_setup():
-        st.error("Please configure your Bhashini credentials to continue.")
-        st.stop()
+    # Bhashini setup is now optional and will be validated only when mic is used
     
     embeddings = get_embeddings()
     
@@ -950,7 +944,7 @@ async def main():
                     #         except Exception as e:
                     #             st.error(f"Error converting to speech: {e}")
 
-    if mic_audio:
+    if mic_audio and mic_audio.get('bytes'):
         audio_hash = hashlib.md5(mic_audio['bytes']).hexdigest()
         if st.session_state.get('last_processed_audio_hash') != audio_hash:
             if (st.session_state.last_llm_model != st.session_state.llm_model or 
@@ -960,10 +954,28 @@ async def main():
                 st.session_state.last_source_language = source_language[0]
                 return
             
+            # Initialize Bhashini only when needed
+            try:
+                from components.bhashini import BhashiniVoiceAgent
+                agent = BhashiniVoiceAgent(
+                    api_key=BHASHINI_API_KEY,
+                    user_id=BHASHINI_USER_ID,
+                    inference_api_key=BHASHINI_INFERENCE_API_KEY
+                )
+            except ImportError as e:
+                st.error("Failed to load Bhashini voice processing. Please check your Bhashini setup.")
+                logger.error(f"Bhashini import error: {str(e)}")
+                return
+            except Exception as e:
+                st.error("Failed to initialize Bhashini. Please check your API keys and internet connection.")
+                logger.error(f"Bhashini initialization error: {str(e)}")
+                return
+            
             converted_audio = convert_audio_to_required_format(mic_audio['bytes'])
             if not converted_audio:
                 st.error("Failed to convert audio. Please record a clear audio clip (at least 2 seconds) and try again. Ensure your microphone is working.")
                 return
+                
             if not validate_audio(converted_audio):
                 st.error("Converted audio is invalid. Please record a clear audio clip (at least 2 seconds) in WAV format (16-bit, mono, 16kHz).")
                 return
@@ -973,11 +985,6 @@ async def main():
                 with tempfile.NamedTemporaryFile(delete=False, suffix=".wav") as tmp:
                     tmp.write(converted_audio)
                     tmp_path = tmp.name
-                agent = BhashiniVoiceAgent(
-                    api_key=BHASHINI_API_KEY,
-                    user_id=BHASHINI_USER_ID,
-                    inference_api_key=BHASHINI_INFERENCE_API_KEY
-                )
                 with st.spinner("Processing your voice input..."):
                     start_time = time.time()
                     result = agent.process_audio_pipeline(
