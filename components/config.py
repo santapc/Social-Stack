@@ -16,8 +16,9 @@ LLM_MODELS = []
 GROQ_MODELS = []
 OPENAI_MODELS = []
 
-offline_models_list = ollama.list()
-OFFLINE_MODELS = [model['model'] for model in offline_models_list['models']]
+#temp removal due to ollama error. nways, would not be using this as its for HPC-server
+#offline_models_list = ollama.list()
+#OFFLINE_MODELS = [model['model'] for model in offline_models_list['models']]
 
 if 'OPENAI_API_KEY' in os.environ:
     OPENAI_MODELS.extend([
@@ -34,7 +35,7 @@ if 'GROQ_API_KEY' in os.environ:
 
 LLM_MODELS.extend(GROQ_MODELS)
 LLM_MODELS.extend(OPENAI_MODELS)
-LLM_MODELS.extend(OFFLINE_MODELS)
+#LLM_MODELS.extend(OFFLINE_MODELS)
 
 # ─── External Tool Paths ───
 TESSERACT_PATH = os.getenv('TESSERACT_PATH', r"C:\\Program Files\\Tesseract-OCR\\tesseract.exe")
