@@ -19,7 +19,8 @@ from pydub import AudioSegment
 import io
 import time
 import hashlib
-from components.config import LLM_MODELS,GROQ_MODELS,OPENAI_MODELS,OFFLINE_MODELS
+#from components.config import LLM_MODELS,GROQ_MODELS,OPENAI_MODELS,OFFLINE_MODELS
+from components.config import LLM_MODELS,GROQ_MODELS,OPENAI_MODELS
 from components.utils import validate_bhashini_setup, initialize_session_state
 
 try:
@@ -573,8 +574,9 @@ async def main():
                     timeout=None,
                     max_retries=2,
                 )
-            elif st.session_state.llm_model in OFFLINE_MODELS:
-                st.session_state.llm = get_hpc_llm(model=st.session_state.llm_model)
+# removed offline models                
+#            elif st.session_state.llm_model in OFFLINE_MODELS:
+#                st.session_state.llm = get_hpc_llm(model=st.session_state.llm_model)
             elif st.session_state.llm_model in OPENAI_MODELS:
                 st.session_state.llm = get_hpc_llm_openai(model=st.session_state.llm_model)
             st.session_state.active_llm_model = st.session_state.llm_model
