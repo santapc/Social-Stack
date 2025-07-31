@@ -32,19 +32,42 @@ st.set_page_config(
 
 load_dotenv()
 
-BHASHINI_API_KEY = os.getenv("BHASHINI_API_KEY")
-BHASHINI_USER_ID = os.getenv("BHASHINI_USER_ID")
-BHASHINI_INFERENCE_API_KEY = os.getenv("BHASHINI_INFERENCE_API_KEY")
-BHASHINI_MEITY_PIPELINE_ID = os.getenv('BHASHINI_MEITY_PIPELINE_ID')
-BHASHINI_AI4BHARAT_PIPELINE_ID = os.getenv('BHASHINI_AI4BHARAT_PIPELINE_ID')
-
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-BHASHINI_PIPELINE_IDS = {
-    'MEITY': BHASHINI_MEITY_PIPELINE_ID,
-    'AI4BHARAT': BHASHINI_AI4BHARAT_PIPELINE_ID,
-}
+def get_bhashini_config():
+    """
+    Load and validate Bhashini configuration.
+    
+    Returns:
+        tuple: (config, error) where config is a dict with all Bhashini settings
+               and error is None if successful, otherwise contains the error message.
+    """
+    try:
+        config = {
+            'BHASHINI_API_KEY': os.getenv("BHASHINI_API_KEY"),
+            'BHASHINI_USER_ID': os.getenv("BHASHINI_USER_ID"),
+            'BHASHINI_INFERENCE_API_KEY': os.getenv("BHASHINI_INFERENCE_API_KEY"),
+            'BHASHINI_MEITY_PIPELINE_ID': os.getenv('BHASHINI_MEITY_PIPELINE_ID'),
+            'BHASHINI_AI4BHARAT_PIPELINE_ID': os.getenv('BHASHINI_AI4BHARAT_PIPELINE_ID')
+        }
+        
+        # Check for any missing values
+        missing = [k for k, v in config.items() if not v]
+        if missing:
+            raise ValueError(f"Missing Bhashini environment variables: {', '.join(missing)}")
+            
+        # Add pipeline IDs dict
+        config['BHASHINI_PIPELINE_IDS'] = {
+            'MEITY': config['BHASHINI_MEITY_PIPELINE_ID'],
+            'AI4BHARAT': config['BHASHINI_AI4BHARAT_PIPELINE_ID']
+        }
+        
+        return config, None
+        
+    except Exception as e:
+        logger.warning("Bhashini configuration not available: %s", str(e))
+        return None, str(e)
 
 def pickle_read(filename):
     """
@@ -129,21 +152,32 @@ def test_bhashini_connection():
 
     Returns:
         dict: Status and message indicating the health of the Bhashini connection.
-
-    Raises:
-        Exception: If the API call fails, returns an error message in the status dict.
+              Returns 'unavailable' status if Bhashini is not configured.
     """
     try:
+        # Load Bhashini configuration
+        config, error = get_bhashini_config()
+        if error:
+            return {
+                "status": "unavailable",
+                "message": f"Bhashini is not configured: {error} Voice features will be disabled."
+            }
+            
+        # Only import Bhashini when needed
+        from components.bhashini import BhashiniVoiceAgent
+        
         agent = BhashiniVoiceAgent(
-            api_key=BHASHINI_API_KEY,
-            user_id=BHASHINI_USER_ID,
-            inference_api_key=BHASHINI_INFERENCE_API_KEY
+            api_key=config['BHASHINI_API_KEY'],
+            user_id=config['BHASHINI_USER_ID'],
+            inference_api_key=config['BHASHINI_INFERENCE_API_KEY']
         )
+        
         with tempfile.NamedTemporaryFile(delete=False, suffix=".wav") as tmp:
             audio = AudioSegment.silent(duration=1000, frame_rate=16000)
             audio = audio.set_channels(1).set_sample_width(2)
             audio.export(tmp.name, format="wav")
             audio_b64 = agent.encode_audio(tmp.name)
+            
         test_payload = {
             "pipelineTasks": [
                 {
@@ -156,33 +190,60 @@ def test_bhashini_connection():
                 }
             ],
             "inputData": {
-                "audio": [{"audioContent": audio_b64}]
+                "audio": [
+                    {
+                        "audioContent": audio_b64
+                    }
+                ]
             }
         }
+        
+        start_time = time.time()
         response = agent.call_pipeline(test_payload)
-        os.unlink(tmp.name)
-        return {"status": "healthy", "message": "Bhashini connection successful"}
+        response_time = time.time() - start_time
+        update_performance_stats(success=True, response_time=response_time, language="hi")
+        
+        return {
+            "status": "healthy",
+            "message": "Bhashini API is working correctly.",
+            "response_time": response_time
+        }
+        
+    except ImportError as e:
+        error_msg = "Bhashini module is not available. Voice features will be disabled."
+        logger.warning(error_msg)
+        return {"status": "unavailable", "message": error_msg}
+        
     except Exception as e:
-        error_msg = str(e)
-        logger.error(f"Connection test failed: {error_msg}")
-        if hasattr(e, 'response') and e.response is not None:
-            logger.error(f"Server response: {e.response.status_code} - {e.response.text}")
+        error_msg = f"Bhashini API connection failed: {str(e)}"
+        logger.error(error_msg, exc_info=True)
+        update_performance_stats(success=False, response_time=0, language="hi")
         return {"status": "unhealthy", "message": error_msg}
 
 def show_bhashini_status():
     """
     Displays the status of the Bhashini API connection in the Streamlit UI.
+    Returns silently if Bhashini is not configured.
 
     Returns:
-        bool: True if the connection is healthy or in fallback mode, False otherwise.
-
-    Side Effects:
-        Displays status messages in the Streamlit app.
+        bool: True if the connection is healthy or in fallback mode, 
+              False if there's an issue, 
+              None if Bhashini is not configured
     """
+    # Don't show anything if Bhashini is not configured
+    if not all([BHASHINI_API_KEY, BHASHINI_USER_ID, BHASHINI_INFERENCE_API_KEY]):
+        return None
+        
     if 'bhashini_status' not in st.session_state:
         with st.spinner("Testing Bhashini connection..."):
             st.session_state.bhashini_status = test_bhashini_connection()
+            
     status = st.session_state.bhashini_status
+    
+    # If status is unavailable, don't show any message
+    if status.get("status") == "unavailable":
+        return None
+        
     if status["status"] == "healthy":
         st.success(f"{status['message']}")
         return True
@@ -204,17 +265,20 @@ def show_bhashini_status():
 def detect_language(text):
     """
     Detects the language of the input text using Bhashini API.
+    If Bhashini is not available, assumes the text is in English.
 
     Args:
         text (str): Text to analyze for language detection.
 
     Returns:
-        bool: True if the detected language is English, False otherwise.
-
-    Raises:
-        Exception: If language detection fails, logs the error and returns True (assumes English).
+        bool: True if the detected language is English or if Bhashini is not available.
     """
+    # If Bhashini is not configured, assume English
+    if not all([BHASHINI_API_KEY, BHASHINI_USER_ID, BHASHINI_INFERENCE_API_KEY]):
+        return True
+        
     try:
+        from components.bhashini import BhashiniVoiceAgent
         agent = BhashiniVoiceAgent(
             api_key=BHASHINI_API_KEY,
             user_id=BHASHINI_USER_ID,
@@ -222,6 +286,9 @@ def detect_language(text):
         )
         lang = agent.detect_language(text)
         return lang == "en"
+    except ImportError:
+        logger.info("Bhashini not available, assuming English text")
+        return True
     except Exception as e:
         logger.error(f"Language detection failed: {e}")
         return True
@@ -229,18 +296,21 @@ def detect_language(text):
 def translate_to_english(text, source_lang):
     """
     Translates text to English using Bhashini API.
+    If Bhashini is not available, returns the original text.
 
     Args:
         text (str): Text to translate.
         source_lang (str): Source language code (e.g., 'hi' for Hindi).
 
     Returns:
-        str: Translated text in English, or original text if translation fails.
-
-    Raises:
-        Exception: If translation fails, logs the error and returns the original text.
+        str: Translated text in English, or original text if translation fails or Bhashini is not available.
     """
+    # If Bhashini is not configured or source is already English, return original text
+    if not all([BHASHINI_API_KEY, BHASHINI_USER_ID, BHASHINI_INFERENCE_API_KEY]) or source_lang == 'en':
+        return text
+        
     try:
+        from components.bhashini import BhashiniVoiceAgent
         agent = BhashiniVoiceAgent(
             api_key=BHASHINI_API_KEY,
             user_id=BHASHINI_USER_ID,
@@ -265,6 +335,9 @@ def translate_to_english(text, source_lang):
         translated = agent.call_pipeline(translation_payload)
         result = translated["pipelineResponse"][0]["output"][0]["target"]
         return result
+    except ImportError:
+        logger.info("Bhashini not available, returning original text")
+        return text
     except Exception as e:
         logger.error(f"Translation failed: {e}")
         return text
@@ -272,6 +345,7 @@ def translate_to_english(text, source_lang):
 def preserve_urls_during_translation(text, source_lang, target_lang):
     """
     Translates text while preserving URLs and markdown links.
+    If Bhashini is not available, returns the original text.
 
     Args:
         text (str): Text containing URLs or markdown links to translate.
@@ -279,13 +353,15 @@ def preserve_urls_during_translation(text, source_lang, target_lang):
         target_lang (str): Target language code.
 
     Returns:
-        str: Translated text with URLs preserved, or original text if translation fails.
-
-    Raises:
-        Exception: If translation fails, logs the error and returns the original text.
+        str: Translated text with URLs preserved, or original text if translation fails or Bhashini is not available.
     """
+    # If Bhashini is not configured or source is already target language, return original text
+    if not all([BHASHINI_API_KEY, BHASHINI_USER_ID, BHASHINI_INFERENCE_API_KEY]) or source_lang == target_lang:
+        return text
+
     url_pattern = r'\[([^\]]+)\]\(([^)]+)\)|(https?://[^\s\)]+)'
     urls = []
+    
     def replace_url(match):
         if match.group(1) and match.group(2):
             urls.append(('markdown', match.group(1), match.group(2)))
@@ -293,8 +369,11 @@ def preserve_urls_during_translation(text, source_lang, target_lang):
         else:
             urls.append(('plain', None, match.group(3)))
             return f"URL_PLACEHOLDER_{len(urls)-1}"
+            
     text_with_placeholders = re.sub(url_pattern, replace_url, text)
+    
     try:
+        from components.bhashini import BhashiniVoiceAgent
         agent = BhashiniVoiceAgent(
             api_key=BHASHINI_API_KEY,
             user_id=BHASHINI_USER_ID,
@@ -318,6 +397,8 @@ def preserve_urls_during_translation(text, source_lang, target_lang):
         }
         translated = agent.call_pipeline(translation_payload)
         translated_text = translated["pipelineResponse"][0]["output"][0]["target"]
+        
+        # Restore URLs
         for i, (url_type, text, url) in enumerate(urls):
             placeholder = f"URL_PLACEHOLDER_{i}"
             if url_type == 'markdown':
@@ -326,10 +407,16 @@ def preserve_urls_during_translation(text, source_lang, target_lang):
                 translated_text = re.sub(r'\s*\)\s*', ')', translated_text)
             else:
                 translated_text = translated_text.replace(placeholder, url)
+                
+        # Clean up formatting
         translated_text = re.sub(r'\s*-\s*', '-', translated_text)
         translated_text = re.sub(r'\s*,\s*', ', ', translated_text)
         translated_text = re.sub(r'\s*\.\s*', '. ', translated_text)
         return translated_text
+        
+    except ImportError:
+        logger.info("Bhashini not available, returning original text with preserved URLs")
+        return text
     except Exception as e:
         logger.error(f"Translation failed: {e}")
         return text
