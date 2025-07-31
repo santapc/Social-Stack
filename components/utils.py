@@ -32,10 +32,12 @@ def validate_bhashini_setup():
         return False
     api_key = required_vars['BHASHINI_API_KEY']
     if len(api_key) < 30 or '-' not in api_key:
-        st.warning("API key format seems incorrect. Please verify from Bhashini dashboard.")
+        # st.warning("Bhashini API key format seems incorrect. Please verify from Bhashini dashboard.")
+        pass
     user_id = required_vars['BHASHINI_USER_ID']
     if len(user_id) < 30:
-        st.warning("User ID format seems incorrect. Please verify from Bhashini dashboard.")
+        # st.warning("Bhashini User ID format seems incorrect. Please verify from Bhashini dashboard.")
+        pass
     return True
 
 def initialize_session_state():
