@@ -237,8 +237,8 @@ requirements.txt.bak
 .idea/
 
 # dotenv
-# .env
-# *.env
+.env
+*.env
 
 # Streamlit cache
 .streamlit/
@@ -266,3 +266,4 @@ pipreqs.log
 
 # OS/system files
 Thumbs.db
+.env
