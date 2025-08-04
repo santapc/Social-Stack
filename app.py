@@ -555,7 +555,8 @@ async def main():
     """
     initialize_session_state()
 
-    st.title("Social Stack: Transforming Welfare Delivery")
+    st.title("Social Stack")
+    st.markdown("Transforming Welfare Delivery")
     # st.markdown("*Ask about government schemes in your preferred Indic language*")
     
     if not validate_bhashini_setup():
