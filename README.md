@@ -83,3 +83,8 @@ streamlit run app.py
 ```
 
 This will open the application in your default web browser.
+
+## 4. Concept Paper & Demo
+
+https://youtu.be/DqQs5YrIsOc - Link to the Demo video from July, 2025 with Bhashini Integration
+
