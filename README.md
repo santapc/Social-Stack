@@ -87,5 +87,6 @@ This will open the application in your default web browser.
 ## 4. Concept Paper & Demo
 
 Link to the Demo video from July, 2025 with Bhashini Integration: https://youtu.be/DqQs5YrIsOc
+
 Link to concept Paper: https://github.com/santapc/Social-Stack/blob/main/Social%20Stack%20-%20Transforming%20Welfare%20Delivery.pdf
 
