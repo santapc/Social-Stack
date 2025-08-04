@@ -1,26 +1,26 @@
 # Social Stack: Transforming Welfare Delivery
 
-This guide provides instructions on how to set up and use the Social Stack application.
+The concept proposes the "Social Stack", a new public infrastructure for welfare delivery in India. Instead of citizens seeking and applying for benefits, welfare should proactively find eligible individuals through an interoperable, consent-driven system. The Social Stack aims to address current issues of fragmentation, access barriers, and inefficiency by unifying schemes, enabling data empowerment, and ensuring multilingual access. Ultimately, this approach seeks to make welfare delivery more inclusive, efficient, and dignified for all citizens. https://github.com/santapc/Social-Stack/blob/main/Social%20Stack%20-%20Transforming%20Welfare%20Delivery.pdf 
+
+This guide provides instructions on how to set up and use the initial protoptype for Social Stack.
 
 ## 1. Setup
 
 ### Prerequisites
+**Note:** The application will run without Tesseract OCR and Poppler, functionalities related to Optical Character Recognition (OCR) on images and PDF processing will not work correctly or at all without these prerequisites.
 
 Before running the application, ensure you have the following installed:
-
 *   Python 3.8 or higher
 *   pip (Python package installer)
 *   **Tesseract OCR:** Required for Optical Character Recognition (OCR) on images and PDFs. Download and install it from [Tesseract OCR GitHub](https://tesseract-ocr.github.io/tessdoc/Installation.html).
 *   **Poppler:** Required for PDF processing. On Windows, you can download pre-built binaries from [Poppler for Windows](https://github.com/oschwartz10612/poppler-windows). On Linux, install via your package manager (e.g., `sudo apt-get install poppler-utils`). Ensure Poppler's `bin` directory is added to your system's PATH.
-
-**Note:** While the application may run without Tesseract OCR and Poppler, functionalities related to Optical Character Recognition (OCR) on images and PDF processing will not work correctly or at all without these prerequisites.
 
 ### Installation
 
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Himank-Khatri/Social-Stack.git
+    git clone https://github.com/santapc/Social-Stack.git
     cd Social-Stack
     ```
 
@@ -86,5 +86,6 @@ This will open the application in your default web browser.
 
 ## 4. Concept Paper & Demo
 
-https://youtu.be/DqQs5YrIsOc - Link to the Demo video from July, 2025 with Bhashini Integration
+Link to the Demo video from July, 2025 with Bhashini Integration: https://youtu.be/DqQs5YrIsOc
+Link to concept Paper: https://github.com/santapc/Social-Stack/blob/main/Social%20Stack%20-%20Transforming%20Welfare%20Delivery.pdf
 
