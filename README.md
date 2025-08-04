@@ -90,5 +90,7 @@ Link to the Demo video from July, 2025 with Bhashini Integration: https://youtu.
 
 Link to concept Paper: https://github.com/santapc/Social-Stack/blob/main/Social%20Stack%20-%20Transforming%20Welfare%20Delivery.pdf
 
+Link to Technical Documentation: https://github.com/santapc/Social-Stack/blob/main/TECHNICAL_DOCUMENTATION.md
+
 Link to the live application: https://social-stack.streamlit.app/
 
