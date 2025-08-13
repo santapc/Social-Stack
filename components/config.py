@@ -11,6 +11,10 @@ from qdrant_client.models import VectorParams, Distance
 # ─── Load environment variables ───
 load_dotenv()
 
+# Debugging: Print environment variable values
+print(f"OPENAI_API_KEY: {os.getenv('OPENAI_API_KEY')}")
+print(f"GROQ_API_KEY: {os.getenv('GROQ_API_KEY')}")
+
 # ─── LLM Models Setup ───
 LLM_MODELS = []
 GROQ_MODELS = []
@@ -22,11 +26,11 @@ try:
 except:
     OFFLINE_MODELS = []
 
-if 'OPENAI_API_KEY' in os.environ:
+if os.getenv('OPENAI_API_KEY'):
     OPENAI_MODELS.extend([
         "gpt-4.1-mini", "gpt-4.1-nano", "gpt-4o-mini"
     ])
-if 'GROQ_API_KEY' in os.environ:
+if os.getenv('GROQ_API_KEY'):
     GROQ_MODELS.extend([
         "llama-3.3-70b-versatile",
         "meta-llama/llama-4-scout-17b-16e-instruct",

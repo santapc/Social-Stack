@@ -19,6 +19,8 @@ import asyncio
 from enum import Enum
 
 from pydantic import ValidationError,BaseModel
+import openai
+from langchain_core.exceptions import OutputParserException
 
 from components.prompts import (
     get_discovery_prompt_template,
@@ -206,10 +208,19 @@ class SimpleRetriever:
         logging.debug(f"LLM prompt: {prompt_str}")
         prompt = prompt_str
 
-
-        async for chunk in self.llm.astream(prompt):
-            chunk_content = chunk.content if hasattr(chunk, 'content') else chunk
-            yield chunk_content
+        try:
+            async for chunk in self.llm.astream(prompt):
+                chunk_content = chunk.content if hasattr(chunk, 'content') else chunk
+                yield chunk_content
+        except openai.AuthenticationError as e:
+            logging.error(f"OpenAI Authentication Error: {e}")
+            yield "An OpenAI authentication error occurred. Please check your OPENAI_API_KEY in the .env file."
+        except OutputParserException as e:
+            logging.error(f"Output Parser Exception: {e}")
+            yield "An error occurred while parsing the LLM's output. This might be due to an invalid model response or configuration."
+        except Exception as e:
+            logging.error(f"An unexpected LLM error occurred: {e}")
+            yield f"An unexpected error occurred with the LLM: {e}. Please try again or check your LLM configuration."
 
         
     async def generate_streaming(
