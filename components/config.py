@@ -16,9 +16,11 @@ LLM_MODELS = []
 GROQ_MODELS = []
 OPENAI_MODELS = []
 
-#temp removal due to ollama error. nways, would not be using this as its for HPC-server
-#offline_models_list = ollama.list()
-#OFFLINE_MODELS = [model['model'] for model in offline_models_list['models']]
+try:
+    offline_models_list = ollama.list()
+    OFFLINE_MODELS = [model['model'] for model in offline_models_list['models']]
+except:
+    OFFLINE_MODELS = []
 
 if 'OPENAI_API_KEY' in os.environ:
     OPENAI_MODELS.extend([

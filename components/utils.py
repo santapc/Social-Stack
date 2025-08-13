@@ -1,6 +1,7 @@
 import os
 import streamlit as st
 import pickle
+from components.config import LLM_MODELS
 
 BHASHINI_API_KEY = os.getenv('BHASHINI_API_KEY')
 BHASHINI_USER_ID = os.getenv('BHASHINI_USER_ID')
@@ -72,7 +73,8 @@ def initialize_session_state():
     if 'dataset' not in st.session_state:
         st.session_state.dataset = "all_myschemes_simple_v1"
     if 'llm_model' not in st.session_state:
-        st.session_state.llm_model = "llama-3.3-70b-versatile"
+        # Set default LLM model to the first available model, or None if no models are available
+        st.session_state.llm_model = LLM_MODELS[0] if LLM_MODELS else None
     if 'discovery_top_n' not in st.session_state:
         st.session_state.discovery_top_n = 5
     if 'use_multi_query' not in st.session_state:

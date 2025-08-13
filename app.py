@@ -646,6 +646,9 @@ async def main():
     embeddings = get_embeddings()
     
     if "llm" not in st.session_state or st.session_state.llm_model != st.session_state.get("active_llm_model"):
+        if st.session_state.llm_model is None:
+            st.error("No LLM models are available. Please ensure at least one API key (GROQ_API_KEY or OPENAI_API_KEY) is configured in your .env file.")
+            st.stop()
         try:
             if st.session_state.llm_model in GROQ_MODELS:
                 st.session_state.llm = ChatGroq(
@@ -655,9 +658,6 @@ async def main():
                     timeout=None,
                     max_retries=2,
                 )
-# removed offline models                
-#            elif st.session_state.llm_model in OFFLINE_MODELS:
-#                st.session_state.llm = get_hpc_llm(model=st.session_state.llm_model)
             elif st.session_state.llm_model in OPENAI_MODELS:
                 st.session_state.llm = get_hpc_llm_openai(model=st.session_state.llm_model)
             st.session_state.active_llm_model = st.session_state.llm_model
