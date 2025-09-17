@@ -19,10 +19,8 @@ import asyncio
 from enum import Enum
 
 from pydantic import ValidationError,BaseModel
-import openai
-from langchain_core.exceptions import OutputParserException
 
-from components.prompts import (
+from src.components.prompts import (
     get_discovery_prompt_template,
     get_detailed_prompt_template,
     get_multi_query_prompt_template,
@@ -81,7 +79,7 @@ class SimpleRetriever:
 
     def initialize_qdrant_client(self) -> QdrantClient:
         qdrant_url = os.getenv("qdrant_link")
-        qdrant_api_key = os.getenv("qdrant_api")
+        qdrant_api_key = os.getenv("QDRANT_API")
         if not qdrant_url or not qdrant_api_key:
             raise ValueError("QDRANT_LINK and QDRANT_API must be set.")
         return QdrantClient(url=qdrant_url, api_key=qdrant_api_key)
@@ -208,19 +206,10 @@ class SimpleRetriever:
         logging.debug(f"LLM prompt: {prompt_str}")
         prompt = prompt_str
 
-        try:
-            async for chunk in self.llm.astream(prompt):
-                chunk_content = chunk.content if hasattr(chunk, 'content') else chunk
-                yield chunk_content
-        except openai.AuthenticationError as e:
-            logging.error(f"OpenAI Authentication Error: {e}")
-            yield "An OpenAI authentication error occurred. Please check your OPENAI_API_KEY in the .env file."
-        except OutputParserException as e:
-            logging.error(f"Output Parser Exception: {e}")
-            yield "An error occurred while parsing the LLM's output. This might be due to an invalid model response or configuration."
-        except Exception as e:
-            logging.error(f"An unexpected LLM error occurred: {e}")
-            yield f"An unexpected error occurred with the LLM: {e}. Please try again or check your LLM configuration."
+
+        async for chunk in self.llm.astream(prompt):
+            chunk_content = chunk.content if hasattr(chunk, 'content') else chunk
+            yield chunk_content
 
         
     async def generate_streaming(

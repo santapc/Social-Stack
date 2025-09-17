@@ -6,7 +6,7 @@ from PIL import Image
 from difflib import SequenceMatcher
 from pdf2image import convert_from_bytes
 from datetime import date, datetime
-from components.config import TESSERACT_PATH, POPPLER_PATH
+from src.config import TESSERACT_PATH, POPPLER_PATH
 
 # Set up paths (adjust these based on your environment)
 pytesseract.pytesseract.tesseract_cmd = TESSERACT_PATH

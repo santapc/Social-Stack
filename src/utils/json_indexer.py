@@ -6,7 +6,7 @@ JsonIndexer: Indexes all JSON files in a directory into a Qdrant vectorstore.
 Usage:
     from components.json_indexer import JsonIndexer
     indexer = JsonIndexer(collection_name="my_collection", embeddings=my_embeddings)
-    indexer.process_json_files("scheme_data/cache")
+    indexer.process_json_files("src\assets\scheme_data\cache")
     indexer.create_vectorstore()
 """
 from langchain_huggingface.embeddings import HuggingFaceEmbeddings
@@ -24,8 +24,8 @@ import pickle
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 load_dotenv()
 
-qdrant_link = os.environ.get("qdrant_link")
-qdrant_api = os.environ.get("qdrant_api")
+QDRANT_LINK = os.environ.get("QDRANT_LINK")
+qdrant_api = os.environ.get("QDRANT_API")
 
 def load_bin_list(path):
     try:
@@ -82,7 +82,7 @@ def extract_category_and_type(data: dict) -> (str, str):
 
 class JsonIndexer:
     def __init__(self, collection_name: str, embeddings):
-        self.qdrant_url = qdrant_link
+        self.qdrant_url = QDRANT_LINK
         self.qdrant_api_key = qdrant_api
         self.collection_name = collection_name
         self.embeddings = embeddings
@@ -107,6 +107,7 @@ class JsonIndexer:
         for filename in os.listdir(folder_path):
             if filename.endswith(".json"):
                 file_path = os.path.join(folder_path, filename)
+                print(f"Processing file: {file_path}")
                 with open(file_path, "r", encoding="utf-8") as f:
                     try:
                         data = json.load(f)
@@ -258,11 +259,8 @@ class JsonIndexer:
 
 if __name__ == "__main__":
     indexer = JsonIndexer(
-        collection_name="mosje_schemes",
+        collection_name="mosje_schemes_batch2",
         embeddings=HuggingFaceEmbeddings(model_name="sentence-transformers/all-mpnet-base-v2")
     )
-    indexer.process_json_files("scheme_data/cache")
+    indexer.process_json_files(r"src\assets\scheme_data\cache")
     indexer.create_vectorstore()
-    # indexer.delete_vectorstore()
-    # Example usage for writing to JSON:
-    # indexer.write_documents_to_json("exported_schemes.json")

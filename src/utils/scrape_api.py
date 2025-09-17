@@ -22,7 +22,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Environment variables with relative paths
-BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'scheme_data'))
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'assets\scheme_data'))
 CACHE_DIR = os.path.join(BASE_DIR, "cache")
 SEARCH_DIR = os.path.join(BASE_DIR, "search")
 ERROR_DIR = os.path.join(BASE_DIR, "errors")
@@ -33,7 +33,7 @@ os.makedirs(ERROR_DIR, exist_ok=True)
 
 # API configuration
 API_HEADERS = {
-    "x-api-key": "tYTy5eEhlu9rFjyxuCr7ra7ACp4dv1RH8gWuHTDc",
+    "x-api-key": os.getenv("MYSCHEMES_BROWSER_API_KEY"),
     "accept": "application/json, text/plain, */*",
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "accept-encoding": "gzip, deflate, br, zstd",
@@ -412,4 +412,5 @@ def main():
         exit(1)
 
 if __name__ == "__main__":
+
     main()

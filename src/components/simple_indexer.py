@@ -13,12 +13,12 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-qdrant_link = os.environ.get("qdrant_link")
-qdrant_api = os.environ.get("qdrant_api")
+QDRANT_LINK = os.environ.get("QDRANT_LINK")
+QDRANT_API = os.environ.get("QDRANT_API")
 
 class SimpleIndexer:
     def __init__(self, collection_name, embeddings):
-        self.qdrant_url = qdrant_link
+        self.qdrant_url = QDRANT_LINK
         self.qdrant_api_key = qdrant_api
         self.collection_name = collection_name
         self.embeddings = embeddings

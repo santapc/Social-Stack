@@ -1,0 +1,18 @@
+[models]
+groq_models = ["llama-3.3-70b-versatile", "meta-llama/llama-4-scout-17b-16e-instruct", "meta-llama/llama-4-maverick-17b-128e-instruct", "deepseek-r1-distill-llama-70b", "qwen/qwen3-32b"]
+gpt_models = ["gpt-4.1-mini", "gpt-4.1-nano", "gpt-4o-mini"]
+ollama_models = ["gemma3:27b", "qwq:32b", "mistral-small3.1:24b", "deepseek-r1:32b", "deepseek-r1:8b"]
+
+[datasets]
+names = [
+    'my_test1_collection',
+    'indexing_endpoint_test_v1', # test colelction for indexing
+
+]
+
+[paths]
+tesseract = "C:\\Program Files\\Tesseract-OCR\\tesseract.exe"
+poppler = "C:\\poppler-24.08.0\\Library\\bin"
+
+[Digilocker]
+redirect_uri = "https://social-stack.streamlit.app/"

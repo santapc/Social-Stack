@@ -1,656 +1,109 @@
 import streamlit as st
-import tempfile
-import base64
 import os
 import asyncio
 from dotenv import load_dotenv
 import streamlit_mic_recorder as mic
 import logging
-import pickle
-from components.advanced_retriever import SimpleRetriever
-from langchain_huggingface import HuggingFaceEmbeddings
-from langchain_groq import ChatGroq
-from components.llms import get_hpc_llm, get_hpc_llm_openai
-from components.aadhaar_extractor import AadhaarExtractor
 import datetime
 from datetime import date
 import re
-from pydub import AudioSegment
-import io
-import time
+import tempfile
+import base64
 import hashlib
-#from components.config import LLM_MODELS,GROQ_MODELS,OPENAI_MODELS,OFFLINE_MODELS
-from components.config import LLM_MODELS,GROQ_MODELS,OPENAI_MODELS
-from components.utils import validate_bhashini_setup, initialize_session_state
+import time # Re-adding this import
 
-# Bhashini import will be done when needed in the mic click handler
+from langchain_groq import ChatGroq # Re-adding this import
 
+
+
+
+from src.components.advanced_retriever import SimpleRetriever
+from src.services.llms import get_hpc_llm, get_hpc_llm_openai
+from src.services.aadhaar_extractor import AadhaarExtractor
+from src.config import LLM_MODELS, groq_models, gpt_models, ollama_models
+from src.utils.utils import validate_bhashini_setup, initialize_session_state, debug_log, monitor_api_performance, update_performance_stats, pickle_read
+from src.utils.helper_functions import get_embeddings
+from src.services.bhashini import BhashiniVoiceAgent, show_bhashini_status as bhashini_show_status_service
+from src.services.digilocker import DigilockerClient
+from src.config import REDIRECT_URL
 st.set_page_config(
     page_title="Social Stack",
     layout="wide",
     initial_sidebar_state="expanded"
 )
 
+
+
 load_dotenv()
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-def get_bhashini_config():
-    """
-    Load and validate Bhashini configuration.
-    
-    Returns:
-        tuple: (config, error) where config is a dict with all Bhashini settings
-               and error is None if successful, otherwise contains the error message.
-    """
-    try:
-        config = {
-            'BHASHINI_API_KEY': os.getenv("BHASHINI_API_KEY"),
-            'BHASHINI_USER_ID': os.getenv("BHASHINI_USER_ID"),
-            'BHASHINI_INFERENCE_API_KEY': os.getenv("BHASHINI_INFERENCE_API_KEY"),
-            'BHASHINI_MEITY_PIPELINE_ID': os.getenv('BHASHINI_MEITY_PIPELINE_ID'),
-            'BHASHINI_AI4BHARAT_PIPELINE_ID': os.getenv('BHASHINI_AI4BHARAT_PIPELINE_ID')
-        }
-        
-        # Check for any missing values
-        missing = [k for k, v in config.items() if not v]
-        if missing:
-            raise ValueError(f"Missing Bhashini environment variables: {', '.join(missing)}")
-            
-        # Add pipeline IDs dict
-        config['BHASHINI_PIPELINE_IDS'] = {
-            'MEITY': config['BHASHINI_MEITY_PIPELINE_ID'],
-            'AI4BHARAT': config['BHASHINI_AI4BHARAT_PIPELINE_ID']
-        }
-        
-        return config, None
-        
-    except Exception as e:
-        logger.warning("Bhashini configuration not available: %s", str(e))
-        return None, str(e)
 
-def pickle_read(filename):
-    """
-    Reads a pickled file and returns its contents.
-
-    Args:
-        filename (str): Path to the pickled file.
-
-    Returns:
-        object: The deserialized object from the file.
-
-    Raises:
-        FileNotFoundError: If the specified file does not exist.
-        pickle.UnpicklingError: If the file cannot be unpickled.
-    """
-    with open(filename, 'rb') as f:
-        return pickle.load(f)
-
-@st.cache_resource
-def get_embeddings():
-    """
-    Retrieves HuggingFace embeddings model, cached for performance.
-
-    Returns:
-        HuggingFaceEmbeddings: The embeddings model instance.
-    """
-    return HuggingFaceEmbeddings(model_name="sentence-transformers/all-mpnet-base-v2")
-
-def debug_log(msg):
-    """
-    Logs a debug message to session state and console if debug mode is enabled.
-
-    Args:
-        msg (str): The message to log.
-
-    Side Effects:
-        Appends the message to st.session_state.debug_logs and logs to console if debug_mode is True.
-    """
-    if st.session_state.debug_mode:
-        st.session_state.debug_logs.append(msg)
-        logger.info(f"Debug log: {msg}")
-
-def monitor_api_performance():
-    """
-    Returns the current Bhashini API performance statistics.
-
-    Returns:
-        dict: Statistics including total requests, successful requests, failed requests,
-              average response time, and language usage.
-    """
-    return st.session_state.bhashini_stats
-
-def update_performance_stats(success=True, response_time=0, language=None):
-    """
-    Updates Bhashini API performance statistics.
-
-    Args:
-        success (bool): Whether the API call was successful.
-        response_time (float): Time taken for the API call in seconds.
-        language (str, optional): Language used in the API call.
-
-    Side Effects:
-        Updates st.session_state.bhashini_stats with new statistics.
-    """
-    stats = st.session_state.bhashini_stats
-    stats['total_requests'] += 1
-    if success:
-        stats['successful_requests'] += 1
-    else:
-        stats['failed_requests'] += 1
-    if stats['total_requests'] > 0:
-        stats['avg_response_time'] = (
-            (stats['avg_response_time'] * (stats['total_requests'] - 1) + response_time) 
-            / stats['total_requests']
-        )
-    if language:
-        stats['language_usage'][language] = stats['language_usage'].get(language, 0) + 1
-
-def test_bhashini_connection():
-    """
-    Tests the connection to the Bhashini API using a silent audio sample.
-
-    Returns:
-        dict: Status and message indicating the health of the Bhashini connection.
-              Returns 'unavailable' status if Bhashini is not configured.
-    """
-    try:
-        # Load Bhashini configuration
-        config, error = get_bhashini_config()
-        if error:
-            return {
-                "status": "unavailable",
-                "message": f"Bhashini is not configured: {error} Voice features will be disabled."
-            }
-            
-        # Only import Bhashini when needed
-        from components.bhashini import BhashiniVoiceAgent
-        
-        agent = BhashiniVoiceAgent(
-            api_key=config['BHASHINI_API_KEY'],
-            user_id=config['BHASHINI_USER_ID'],
-            inference_api_key=config['BHASHINI_INFERENCE_API_KEY']
-        )
-        
-        with tempfile.NamedTemporaryFile(delete=False, suffix=".wav") as tmp:
-            audio = AudioSegment.silent(duration=1000, frame_rate=16000)
-            audio = audio.set_channels(1).set_sample_width(2)
-            audio.export(tmp.name, format="wav")
-            audio_b64 = agent.encode_audio(tmp.name)
-            
-        test_payload = {
-            "pipelineTasks": [
-                {
-                    "taskType": "asr",
-                    "config": {
-                        "language": {
-                            "sourceLanguage": "hi"
-                        }
-                    }
-                }
-            ],
-            "inputData": {
-                "audio": [
-                    {
-                        "audioContent": audio_b64
-                    }
-                ]
-            }
-        }
-        
-        start_time = time.time()
-        response = agent.call_pipeline(test_payload)
-        response_time = time.time() - start_time
-        update_performance_stats(success=True, response_time=response_time, language="hi")
-        
-        return {
-            "status": "healthy",
-            "message": "Bhashini API is working correctly.",
-            "response_time": response_time
-        }
-        
-    except ImportError as e:
-        error_msg = "Bhashini module is not available. Voice features will be disabled."
-        logger.warning(error_msg)
-        return {"status": "unavailable", "message": error_msg}
-        
-    except Exception as e:
-        error_msg = f"Bhashini API connection failed: {str(e)}"
-        logger.error(error_msg, exc_info=True)
-        update_performance_stats(success=False, response_time=0, language="hi")
-        return {"status": "unhealthy", "message": error_msg}
-
-def show_bhashini_status():
-    """
-    Displays the status of the Bhashini API connection in the Streamlit UI.
-    Returns silently if Bhashini is not configured.
-
-    Returns:
-        bool: True if the connection is healthy or in fallback mode, 
-              False if there's an issue, 
-              None if Bhashini is not configured
-    """
-    # Don't show anything if Bhashini is not configured
-    if not all([BHASHINI_API_KEY, BHASHINI_USER_ID, BHASHINI_INFERENCE_API_KEY]):
-        return None
-        
-    if 'bhashini_status' not in st.session_state:
-        with st.spinner("Testing Bhashini connection..."):
-            st.session_state.bhashini_status = test_bhashini_connection()
-            
-    status = st.session_state.bhashini_status
-    
-    # If status is unavailable, don't show any message
-    if status.get("status") == "unavailable":
-        return None
-        
-    if status["status"] == "healthy":
-        st.success(f"{status['message']}")
-        return True
-    elif status["status"] == "circuit_open":
-        st.warning("Service temporarily unavailable")
-        st.info("The service is in fallback mode. Basic functionality available.")
-        return True
-    elif status["status"] == "rate_limited":
-        st.warning(f"{status['message']}")
-        st.info("Please wait a few minutes before trying again.")
-        return False
-    elif status["status"] == "unhealthy":
-        st.error(f"{status['message']}")
-        return False
-    else:
-        st.warning(f"{status['message']}")
-        return False
-
-def detect_language(text):
-    """
-    Detects the language of the input text using Bhashini API.
-    If Bhashini is not available, assumes the text is in English.
-
-    Args:
-        text (str): Text to analyze for language detection.
-
-    Returns:
-        bool: True if the detected language is English or if Bhashini is not available.
-    """
-    # If Bhashini is not configured, assume English
-    if not all([BHASHINI_API_KEY, BHASHINI_USER_ID, BHASHINI_INFERENCE_API_KEY]):
-        return True
-        
-    try:
-        from components.bhashini import BhashiniVoiceAgent
-        agent = BhashiniVoiceAgent(
-            api_key=BHASHINI_API_KEY,
-            user_id=BHASHINI_USER_ID,
-            inference_api_key=BHASHINI_INFERENCE_API_KEY
-        )
-        lang = agent.detect_language(text)
-        return lang == "en"
-    except ImportError:
-        logger.info("Bhashini not available, assuming English text")
-        return True
-    except Exception as e:
-        logger.error(f"Language detection failed: {e}")
-        return True
-
-def translate_to_english(text, source_lang):
-    """
-    Translates text to English using Bhashini API.
-    If Bhashini is not available, returns the original text.
-
-    Args:
-        text (str): Text to translate.
-        source_lang (str): Source language code (e.g., 'hi' for Hindi).
-
-    Returns:
-        str: Translated text in English, or original text if translation fails or Bhashini is not available.
-    """
-    # If Bhashini is not configured or source is already English, return original text
-    if not all([BHASHINI_API_KEY, BHASHINI_USER_ID, BHASHINI_INFERENCE_API_KEY]) or source_lang == 'en':
-        return text
-        
-    try:
-        from components.bhashini import BhashiniVoiceAgent
-        agent = BhashiniVoiceAgent(
-            api_key=BHASHINI_API_KEY,
-            user_id=BHASHINI_USER_ID,
-            inference_api_key=BHASHINI_INFERENCE_API_KEY
-        )
-        translation_payload = {
-            "pipelineTasks": [
-                {
-                    "taskType": "translation",
-                    "config": {
-                        "language": {
-                            "sourceLanguage": source_lang,
-                            "targetLanguage": "en"
-                        }
-                    }
-                }
-            ],
-            "inputData": {
-                "input": [{"source": text}]
-            }
-        }
-        translated = agent.call_pipeline(translation_payload)
-        result = translated["pipelineResponse"][0]["output"][0]["target"]
-        return result
-    except ImportError:
-        logger.info("Bhashini not available, returning original text")
-        return text
-    except Exception as e:
-        logger.error(f"Translation failed: {e}")
-        return text
-
-def preserve_urls_during_translation(text, source_lang, target_lang):
-    """
-    Translates text while preserving URLs and markdown links.
-    If Bhashini is not available, returns the original text.
-
-    Args:
-        text (str): Text containing URLs or markdown links to translate.
-        source_lang (str): Source language code.
-        target_lang (str): Target language code.
-
-    Returns:
-        str: Translated text with URLs preserved, or original text if translation fails or Bhashini is not available.
-    """
-    # If Bhashini is not configured or source is already target language, return original text
-    if not all([BHASHINI_API_KEY, BHASHINI_USER_ID, BHASHINI_INFERENCE_API_KEY]) or source_lang == target_lang:
-        return text
-
-    url_pattern = r'\[([^\]]+)\]\(([^)]+)\)|(https?://[^\s\)]+)'
-    urls = []
-    
-    def replace_url(match):
-        if match.group(1) and match.group(2):
-            urls.append(('markdown', match.group(1), match.group(2)))
-            return f"URL_PLACEHOLDER_{len(urls)-1}"
-        else:
-            urls.append(('plain', None, match.group(3)))
-            return f"URL_PLACEHOLDER_{len(urls)-1}"
-            
-    text_with_placeholders = re.sub(url_pattern, replace_url, text)
-    
-    try:
-        from components.bhashini import BhashiniVoiceAgent
-        agent = BhashiniVoiceAgent(
-            api_key=BHASHINI_API_KEY,
-            user_id=BHASHINI_USER_ID,
-            inference_api_key=BHASHINI_INFERENCE_API_KEY
-        )
-        translation_payload = {
-            "pipelineTasks": [
-                {
-                    "taskType": "translation",
-                    "config": {
-                        "language": {
-                            "sourceLanguage": source_lang,
-                            "targetLanguage": target_lang
-                        }
-                    }
-                }
-            ],
-            "inputData": {
-                "input": [{"source": text_with_placeholders}]
-            }
-        }
-        translated = agent.call_pipeline(translation_payload)
-        translated_text = translated["pipelineResponse"][0]["output"][0]["target"]
-        
-        # Restore URLs
-        for i, (url_type, text, url) in enumerate(urls):
-            placeholder = f"URL_PLACEHOLDER_{i}"
-            if url_type == 'markdown':
-                translated_text = translated_text.replace(placeholder, f"[{text}]({url})")
-                translated_text = re.sub(r'\s*\]\s*\(\s*', '](', translated_text)
-                translated_text = re.sub(r'\s*\)\s*', ')', translated_text)
-            else:
-                translated_text = translated_text.replace(placeholder, url)
-                
-        # Clean up formatting
-        translated_text = re.sub(r'\s*-\s*', '-', translated_text)
-        translated_text = re.sub(r'\s*,\s*', ', ', translated_text)
-        translated_text = re.sub(r'\s*\.\s*', '. ', translated_text)
-        return translated_text
-        
-    except ImportError:
-        logger.info("Bhashini not available, returning original text with preserved URLs")
-        return text
-    except Exception as e:
-        logger.error(f"Translation failed: {e}")
-        return text
-
-def format_markdown_links(text):
-    """
-    Formats markdown links to ensure consistent spacing.
-
-    Args:
-        text (str): Text containing markdown links.
-
-    Returns:
-        str: Text with formatted markdown links.
-    """
-    link_pattern = r'\[([^\]]+)\]\(([^)]+)\)'
-    def format_link(match):
-        text = match.group(1).strip()
-        url = match.group(2).strip()
-        return f"[{text}]({url})"
-    result = re.sub(link_pattern, format_link, text)
-    return result
-
-def translate_preserving_structure(text, source_lang, target_lang):
-    parts = []
-    current_pos = 0
-    link_pattern = r'\[([^\]]+)\]\(([^)]+)\)'
-
-    # Split text into parts (text and links)
-    for match in re.finditer(link_pattern, text):
-        if match.start() > current_pos:
-            parts.append(('text', text[current_pos:match.start()]))
-        link_text = match.group(1)
-        url = match.group(2)
-        parts.append(('link', link_text, url))
-        current_pos = match.end()
-
-    if current_pos < len(text):
-        parts.append(('text', text[current_pos:]))
-
-    translated_parts = []
-
-    agent = BhashiniVoiceAgent(
-        api_key=BHASHINI_API_KEY,
-        user_id=BHASHINI_USER_ID,
-        inference_api_key=BHASHINI_INFERENCE_API_KEY
-    )
-
-    for part in parts:
-        if part[0] == 'text':
-            lines = part[1].split('\n')
-            to_translate = []
-            line_types = []  # To track if line is a scheme name or detail
-            
-            for line in lines:
-                if line.strip():
-                    # Identify scheme names (lines starting with '-' at beginning of line)
-                    if line.lstrip() == line and line.startswith('-'):
-                        line_types.append('name')
-                    else:
-                        line_types.append('detail')
-                    to_translate.append(line)
-                else:
-                    line_types.append('empty')
-
-            translated_map = {}
-            if to_translate:
-                translation_payload = {
-                    "pipelineTasks": [
-                        {
-                            "taskType": "translation",
-                            "config": {
-                                "language": {
-                                    "sourceLanguage": source_lang,
-                                    "targetLanguage": target_lang
-                                }
-                            }
-                        }
-                    ],
-                    "inputData": {
-                        "input": [{"source": line} for line in to_translate]
-                    }
-                }
-                translated = agent.call_pipeline(translation_payload)
-                results = [item["target"] for item in translated["pipelineResponse"][0]["output"]]
-                translated_map = dict(zip(to_translate, results))
-
-            # Rebuild lines with proper formatting
-            final_lines = []
-            trans_index = 0
-            for i, line in enumerate(lines):
-                if not line.strip():
-                    final_lines.append('')
-                    continue
-                    
-                translated_line = translated_map.get(line, line)
-                if line_types[i] == 'name':
-                    # Remove bullet point from scheme name and add extra newline
-                    final_lines.append('\n' + translated_line.lstrip('-').strip())
-                else:
-                    # Ensure details start with bullet points
-                    if not translated_line.lstrip().startswith('-'):
-                        translated_line = '- ' + translated_line.lstrip()
-                    final_lines.append(translated_line)
-                
-                trans_index += 1
-
-            translated_parts.append(('text', '\n'.join(final_lines)))
-
-        elif part[0] == 'link':
-            link_text = part[1]
-            url = part[2]
-
-            translation_payload = {
-                "pipelineTasks": [
-                    {
-                        "taskType": "translation",
-                        "config": {
-                            "language": {
-                                "sourceLanguage": source_lang,
-                                "targetLanguage": target_lang
-                            }
-                        }
-                    }
-                ],
-                "inputData": {
-                    "input": [{"source": link_text}]
-                }
-            }
-            translated = agent.call_pipeline(translation_payload)
-            translated_name = translated["pipelineResponse"][0]["output"][0]["target"]
-            translated_parts.append(('link', f"[{translated_name}]({url})"))
-
-    # Combine all parts with proper formatting
-    result = []
-    for part in translated_parts:
-        if part[0] == 'link':
-            result.append(part[1])
-        else:
-            # Add content with proper spacing
-            content = part[1].strip()
-            if content:
-                result.append(content)
-
-    # Join with double newlines to ensure proper spacing
-    return '\n\n'.join(result)
-
-def validate_audio(audio_bytes):
-    """
-    Validates the format of audio bytes for Bhashini processing.
-
-    Args:
-        audio_bytes (bytes): Audio data in WAV format.
-
-    Returns:
-        bool: True if the audio format is valid, False otherwise.
-
-    Raises:
-        ValueError: If audio format is invalid (wrong sample rate, channels, or sample width).
-    """
-    try:
-        audio = AudioSegment.from_file(io.BytesIO(audio_bytes), format="wav")
-        logger.info(f"Validated audio: Sample rate={audio.frame_rate}, Channels={audio.channels}, Sample width={audio.sample_width}, Duration={len(audio)/1000}s")
-        if audio.frame_rate not in [8000, 16000]:
-            raise ValueError(f"Unsupported sample rate: {audio.frame_rate}. Expected 8kHz or 16kHz.")
-        if audio.sample_width != 2:
-            raise ValueError(f"Unsupported sample width: {audio.sample_width}. Expected 16-bit.")
-        if audio.channels != 1:
-            raise ValueError(f"Unsupported channels: {audio.channels}. Expected mono.")
-        logger.info("Audio format is valid.")
-        return True
-    except Exception as e:
-        logger.error(f"Invalid audio file: {str(e)}")
-        return False
-
-def convert_audio_to_required_format(audio_bytes):
-    """
-    Converts audio to the required format for Bhashini (16-bit, mono, 16kHz WAV).
-
-    Args:
-        audio_bytes (bytes): Raw audio data.
-
-    Returns:
-        bytes: Converted audio bytes, or None if conversion fails.
-
-    Raises:
-        ValueError: If the audio data is invalid or too short.
-    """
-    try:
-        debug_path = os.path.join(tempfile.gettempdir(), f"raw_audio_{int(time.time())}.wav")
-        with open(debug_path, "wb") as f:
-            f.write(audio_bytes)
-        logger.info(f"Saved raw audio for debugging at: {debug_path}")
-        if len(audio_bytes) < 44:
-            raise ValueError("Audio data too short to contain a valid WAV header.")
-        if not audio_bytes.startswith(b'RIFF'):
-            raise ValueError("Invalid WAV file: Missing RIFF header.")
-        audio = AudioSegment.from_file(io.BytesIO(audio_bytes), format="wav")
-        logger.info(f"Original audio: Sample rate={audio.frame_rate}, Channels={audio.channels}, Sample width={audio.sample_width}, Duration={len(audio)/1000}s")
-        audio = audio.set_channels(1).set_sample_width(2).set_frame_rate(16000)
-        output = io.BytesIO()
-        audio.export(output, format="wav")
-        converted_bytes = output.getvalue()
-        logger.info(f"Converted audio size: {len(converted_bytes)} bytes")
-        return converted_bytes
-    except Exception as e:
-        logger.error(f"Audio conversion failed: {str(e)}")
-        logger.error(f"Debug audio saved at: {debug_path}")
-        return None
 
 async def main():
-    """
-    Main function to run the Streamlit application for the MOSJE Voice Assistant.
-
-    Handles UI setup, user input processing, LLM interactions, and audio processing.
-
-    Side Effects:
-        Initializes session state, sets up UI, processes user inputs, and updates chat history.
-    """
     initialize_session_state()
-
     st.title("Social Stack: Transforming Welfare Delivery")
-    # st.markdown("*Ask about government schemes in your preferred Indic language*")
+    query_params = st.query_params
+    try:
+        if os.environ["DIGILOCKER_CLIENT_ID"] and os.environ["DIGILOCKER_CLIENT_SECRET"] and os.environ["DIGILOCKER_CODE_VERIFIER"] and os.environ["DIGILOCKER_NSSO_URL"]:
+            
+            if 'user_info' not in st.session_state:
+                st.session_state.user_info = None
+
+            if 'code' in query_params:
+                st.sidebar.success("You are logged in with DigiLocker!")
+                st.sidebar.link_button("Logout", REDIRECT_URL)
+
+                if not st.session_state.user_info:
+                    digi = DigilockerClient(
+                        client_id=os.environ["DIGILOCKER_CLIENT_ID"],
+                        client_secret=os.environ["DIGILOCKER_CLIENT_SECRET"],
+                        redirect_uri=REDIRECT_URL,
+                        code_verifier=os.environ["DIGILOCKER_CODE_VERIFIER"]
+                    )
+                    
+                    access_token = digi.get_access_token(query_params['code'])
+                    user_info = digi.get_eaadhaar_info()
+                    st.session_state.user_info = user_info
+                else:
+                    user_info = st.session_state.user_info
+            else:
+                user_info = st.session_state.user_info
+                if st.sidebar.button("Login with DigiLocker"):
+                    st.markdown(
+                        f"""
+                        <meta http-equiv="refresh" content="0; url={os.environ['DIGILOCKER_NSSO_URL']}">
+                        """,
+                        unsafe_allow_html=True,
+                    )
+    except KeyError:
+        debug_log("DigiLocker environment variables not set. Skipping DigiLocker login.")
     
-    # Bhashini setup is now optional and will be validated only when mic is used
+
+
+
+
+
     
+    bhashini_flag=validate_bhashini_setup()
+    source_language=[]
     embeddings = get_embeddings()
-    
-    if "llm" not in st.session_state or st.session_state.llm_model != st.session_state.get("active_llm_model"):
-        if st.session_state.llm_model is None:
-            st.error("No LLM models are available. Please ensure at least one API key (GROQ_API_KEY or OPENAI_API_KEY) is configured in your .env file.")
-            st.stop()
+    if bhashini_flag:
         try:
-            if st.session_state.llm_model in GROQ_MODELS:
+            bhashini_agent = BhashiniVoiceAgent(
+                api_key=os.getenv('BHASHINI_API_KEY'),
+                user_id=os.getenv('BHASHINI_USER_ID'),
+                inference_api_key=os.getenv("BHASHINI_INFERENCE_API_KEY")
+            )
+        except KeyError:
+            debug_log("Bhashini environment variables not set. Please configure them to use Bhashini services.")
+    else:
+        source_language.append("en")
+        
+    if "llm" not in st.session_state or st.session_state.llm_model != st.session_state.get("active_llm_model"):
+        try:
+            if st.session_state.llm_model in groq_models:
                 st.session_state.llm = ChatGroq(
                     model=st.session_state.llm_model,
                     temperature=0,
@@ -658,12 +111,16 @@ async def main():
                     timeout=None,
                     max_retries=2,
                 )
-            elif st.session_state.llm_model in OPENAI_MODELS:
+            elif st.session_state.llm_model in ollama_models:
+                st.session_state.llm = get_hpc_llm(model=st.session_state.llm_model)
+            elif st.session_state.llm_model in gpt_models:
                 st.session_state.llm = get_hpc_llm_openai(model=st.session_state.llm_model)
             st.session_state.active_llm_model = st.session_state.llm_model
         except Exception as e:
-            st.error(f"Error initializing LLM: Please check your API keys and model configuration.")
-            st.exception(e)
+            if "AuthenticationError" in str(e):
+                st.error("Authentication Error: Please check your OpenAI API key in the .env file.")
+            else:
+                st.error(f"Error initializing LLM: {str(e)}")
             st.stop()
 
     if (
@@ -678,9 +135,7 @@ async def main():
     else:
         st.session_state.retriever.llm = st.session_state.llm
 
-    
-
-    st.sidebar.header("🔧 Configuration")
+    st.sidebar.header("Configuration")
     dataset_options = ["All", "Central", "State"]
     dataset_type_index = dataset_options.index(st.session_state.dataset_type) if st.session_state.dataset_type in dataset_options else 0
     dataset_type = st.sidebar.radio(
@@ -759,28 +214,49 @@ async def main():
             else:
                 st.warning("No state extracted from Aadhaar.")
 
+
+    try:
+        if os.environ["DIGILOCKER_CLIENT_ID"] and os.environ["DIGILOCKER_CLIENT_SECRET"] and os.environ["DIGILOCKER_CODE_VERIFIER"] and os.environ["DIGILOCKER_NSSO_URL"]:
+            with st.sidebar.expander("Profile", expanded=False):
+                if st.session_state.user_info:
+                    st.markdown("### User Info")
+                    for k, v in st.session_state.user_info.items():
+                        st.markdown(f"- **{k.capitalize()}**: {v}")
+
+                    if st.sidebar.button("Sync with Aadhaar", key="sync_aadhaar_button_unique"):
+                        aadhaar_state = st.session_state.user_info.get("state")
+                        if aadhaar_state and aadhaar_state in st.session_state.states_list:
+                            st.session_state.dataset_type = "State"
+                            st.session_state['state_selection_unique'] = [aadhaar_state]
+                            st.session_state['sync_aadhaar'] = True
+                            st.session_state.aadhaar_state = aadhaar_state
+                        else:
+                            st.error("Aadhaar state not found in available states.")
+                            st.session_state['sync_aadhaar'] = False
+                else:
+                    st.info("No user info available. Please log in with DigiLocker.")
+    except KeyError:
+        debug_log("DigiLocker environment variables not set. Skipping DigiLocker info display.")
+        st.sidebar.info("DigiLocker environment variables not set.")
+
     st.sidebar.markdown("---")
-    st.sidebar.header("🎛️ Advanced Settings")
+    st.sidebar.header("Advanced Settings")
     
-    with st.sidebar.expander("🤖 Advanced LLM Settings"):
+    with st.sidebar.expander("Advanced LLM Settings"):
         llm_model = st.selectbox(
             "LLM Model",
-            LLM_MODELS,
+            groq_models + gpt_models,
             index=LLM_MODELS.index(st.session_state.llm_model),
         )
         st.session_state.llm_model = llm_model
         st.session_state.discovery_top_n = st.slider("Default No. of Schemes", min_value=1, max_value=12, value=5)
         st.session_state.conversation_memory_size = st.slider("Conversation Memory Size", min_value=0, max_value=10, value=5)
-        # st.session_state.use_multi_query = st.checkbox("Enable Multi Query", value=st.session_state.use_multi_query)
-        # if st.session_state.use_multi_query:
-        #     st.session_state.multi_query_n = st.number_input("Multi Query N", 1, 10, st.session_state.multi_query_n)
-        #     st.session_state.multi_query_ret_n = st.number_input("Multi Query Retrieval N", 1, 10, st.session_state.multi_query_ret_n)
 
-    with st.sidebar.expander("🔧 Advanced Audio Settings"):
+    with st.sidebar.expander("Advanced Audio Settings"):
         voice_gender = st.selectbox("Voice Gender for TTS", ["female", "male"], index=0)
 
-    st.session_state.debug_mode = st.sidebar.checkbox("Enable Debug Mode", value=st.session_state.debug_mode)
-    
+    st.session_state.debug_mode = st.sidebar.checkbox("Multilingual Debug Mode", value=st.session_state.debug_mode)
+
 
     chat_container = st.container()
     chat_placeholder = st.empty()
@@ -799,57 +275,19 @@ async def main():
             Processes uploaded files, extracts Aadhaar info, and updates session state.
         """
         aadhaar_info_list = []
-        upload_type = st.selectbox("Select Upload Type", ["Image", "PDF"], key="upload_type_unique")
-        if upload_type == "Image":
-            aadhaar_files_img = st.file_uploader("Upload Aadhaar Images (Max 2)", type=["png", "jpg", "jpeg"], accept_multiple_files=True, key="aadhaar_image_uploader")
-            if len(aadhaar_files_img) == 2:
-                try:
-                    with tempfile.NamedTemporaryFile(delete=False, suffix=".png") as temp_file1:
-                        temp_file1.write(aadhaar_files_img[0].read())
-                        temp_path1 = temp_file1.name
-                    with tempfile.NamedTemporaryFile(delete=False, suffix=".png") as temp_file2:
-                        temp_file2.write(aadhaar_files_img[1].read())
-                        temp_path2 = temp_file2.name
-                    output_pdf_path = os.path.join(tempfile.gettempdir(), "combined_aadhaar.pdf")
-                    aadhaar_extractor = AadhaarExtractor()
-                    aadhaar_extractor.combine_images_preserve_size(temp_path1, temp_path2, output_pdf_path)
-                    with open(output_pdf_path, 'rb') as f:
-                        pdf_bytes = f.read()
-                        info = aadhaar_extractor.extract_from_pdf(pdf_bytes)
-                        if info:
-                            aadhaar_info_list.append(info)
-                    os.unlink(temp_path1)
-                    os.unlink(temp_path2)
-                    if os.path.exists(output_pdf_path):
-                        os.unlink(output_pdf_path)
-                    st.success("Combined Aadhaar images processed.")
-                except Exception as e:
-                    st.warning(f"Error combining images: {e}")
-            else:
-                for img_file in aadhaar_files_img[:1]:
-                    try:
-                        img_file.seek(0)
-                        image_bytes = img_file.read()
-                        aadhaar_extractor = AadhaarExtractor()
-                        info = aadhaar_extractor.extract_from_image(image_bytes)
-                        if info:
-                            aadhaar_info_list.append(info)
-                    except Exception as e:
-                        st.warning(f"Error processing image: {e}")
-        elif upload_type == "PDF":
-            aadhaar_file_pdf = st.file_uploader("Upload Aadhaar PDF", type=["pdf"], key="aadhaar_pdf_uploader")
-            if aadhaar_file_pdf:
-                try:
-                    pdf_bytes = aadhaar_file_pdf.read()
-                    aadhaar_extractor = AadhaarExtractor()
-                    info = aadhaar_extractor.extract_from_pdf(pdf_bytes)
-                    if info:
-                        aadhaar_info_list.append(info)
-                    else:
-                        logger.warning("No Aadhaar info extracted from PDF")
-                        st.warning("No Aadhaar info extracted from PDF")
-                except Exception as e:
-                    st.warning(f"Error processing PDF: {e}")
+        aadhaar_file_pdf = st.file_uploader("Upload Aadhaar PDF", type=["pdf"], key="aadhaar_pdf_uploader")
+        if aadhaar_file_pdf:
+            try:
+                pdf_bytes = aadhaar_file_pdf.read()
+                aadhaar_extractor = AadhaarExtractor()
+                info = aadhaar_extractor.extract_from_pdf(pdf_bytes)
+                if info:
+                    aadhaar_info_list.append(info)
+                else:
+                    logger.warning("No Aadhaar info extracted from PDF")
+                    st.warning("No Aadhaar info extracted from PDF")
+            except Exception as e:
+                st.warning(f"Error processing PDF: {e}")
         if aadhaar_info_list:
             st.markdown("### Confirm and Edit Aadhaar Details")
             info = aadhaar_info_list[0]
@@ -910,37 +348,38 @@ async def main():
                 aadhaar_upload_dialog()
         with col_input:
             query = st.chat_input("Ask anything about government schemes...", key="chat_input")
-        with col_lang:
-            source_language = st.selectbox(
-                "Language",
-                options=[
-                    ('en', 'English - English'),
-                    ('hi', 'Hindi - हिंदी'),
-                    ('bn', 'Bengali - বাংলা'), 
-                    ('te', 'Telugu - తెలుగు'),
-                    ('mr', 'Marathi - मराठी'),
-                    ('ta', 'Tamil - தமிழ்'),
-                    ('gu', 'Gujarati - ગુજરાતી'),
-                    ('kn', 'Kannada - ಕನ್ನಡ'),
-                    ('ml', 'Malayalam - മലയാളം'),
-                    ('pa', 'Punjabi - ਪੰਜਾਬੀ'),
-                    ('ur', 'Urdu - اردو'),
-                    ('or', 'Odia - ଓଡ଼ିଆ'),
-                    ('as', 'Assamese - অসমীয়া'),
-                ],
-                index=0,
-                format_func=lambda x: x[1],
-                key="source_language"
-            )
-        with col_voice:
-            mic_audio = mic.mic_recorder(
-                start_prompt="🎤 Record", 
-                stop_prompt="⏹️ Stop", 
-                key="voice_recorder",
-                just_once=False,
-                use_container_width=True,
-                format="wav"
-            )
+        if bhashini_flag:
+            with col_lang:
+                source_language = st.selectbox(
+                    "Language",
+                    options=[
+                        ('en', 'English - English'),
+                        ('hi', 'Hindi - हिंदी'),
+                        ('bn', 'Bengali - বাংলা'), 
+                        ('te', 'Telugu - తెలుగు'),
+                        ('mr', 'Marathi - मराठी'),
+                        ('ta', 'Tamil - தமிழ்'),
+                        ('gu', 'Gujarati - ગુજરાતી'),
+                        ('kn', 'Kannada - ಕನ್ನಡ'),
+                        ('ml', 'Malayalam - മലയാളം'),
+                        ('pa', 'Punjabi - ਪੰਜਾਬੀ'),
+                        ('ur', 'Urdu - اردو'),
+                        ('or', 'Odia - ଓଡ଼ିଆ'),
+                        ('as', 'Assamese - অসমীয়া'),
+                    ],
+                    index=0,
+                    format_func=lambda x: x[1],
+                    key="source_language"
+                )
+            with col_voice:
+                mic_audio = mic.mic_recorder(
+                    start_prompt="🎤", 
+                    stop_prompt="⏹️ Stop", 
+                    key="voice_recorder",
+                    just_once=False,
+                    use_container_width=True,
+                    format="wav"
+                )
 
     if query:
         if (st.session_state.last_llm_model != st.session_state.llm_model or 
@@ -959,16 +398,17 @@ async def main():
                     output_box = st.empty()
                     response_parts = []
                     english_query = query
-                    if source_language[0] != 'en':
-                        try:
-                            english_query = translate_preserving_structure(
-                                query,
-                                source_language[0],
-                                "en"
-                            )
-                            debug_log(f"English Query: {english_query}")
-                        except Exception as e:
-                            st.error(f"Translation failed: {e}")
+                    if bhashini_flag:
+                        if source_language[0] != 'en':
+                            try:
+                                english_query = bhashini_agent.translate_preserving_structure(
+                                    query,
+                                    source_language[0],
+                                    "en"
+                                )
+                                debug_log(f"English Query: {english_query}")
+                            except Exception as e:
+                                st.error(f"Translation failed: {e}")
                     selections = None
                     if dataset_type == 'State':
                         selections = st.session_state['state_selection_unique']
@@ -977,25 +417,35 @@ async def main():
                     async def get_response():
                         history_size = st.session_state.conversation_memory_size * 2
                         history = st.session_state.chat_history[-history_size:]
-                        async for chunk in st.session_state.retriever.generate_streaming(
-                            query=english_query,
-                            llm=st.session_state.llm,
-                            filter_con=selections,
-                            discovery_top_n=st.session_state.discovery_top_n,
-                            use_multi_query=st.session_state.use_multi_query,
-                            multi_query_n=st.session_state.multi_query_n if st.session_state.use_multi_query else None,
-                            multi_query_ret_n=st.session_state.multi_query_ret_n if st.session_state.use_multi_query else None,
-                            chat_history=history
-                        ):
-                            response_parts.append(chunk)
-                            output_box.markdown("".join(response_parts))
+                        try:
+                            async for chunk in st.session_state.retriever.generate_streaming(
+                                query=english_query,
+                                llm=st.session_state.llm,
+                                filter_con=selections,
+                                discovery_top_n=st.session_state.discovery_top_n,
+                                use_multi_query=st.session_state.use_multi_query,
+                                multi_query_n=st.session_state.multi_query_n if st.session_state.use_multi_query else None,
+                                multi_query_ret_n=st.session_state.multi_query_ret_n if st.session_state.use_multi_query else None,
+                                chat_history=history
+                            ):
+                                response_parts.append(chunk)
+                                output_box.markdown("".join(response_parts))
+                        except Exception as e:
+                            error_message = str(e).lower()
+                            if "api key" in error_message or "authentication" in error_message or "401" in error_message:
+                                st.error("Error: LLM API key is incorrect or missing. Please check your API key configuration.")
+                            else:
+                                st.error(f"An unexpected error occurred: {e}")
+                            return # Exit if an error occurs
                     await get_response()
                     full_response = "".join(response_parts)
+                    if not full_response: # If an error occurred and no response was generated
+                        return
                     debug_log(f"English Response: {full_response}")
                     if source_language[0] != 'en':
                         try:
                             with st.spinner():
-                                full_response = translate_preserving_structure(
+                                full_response = bhashini_agent.translate_preserving_structure(
                                     full_response,
                                     "en",
                                     source_language[0]
@@ -1004,164 +454,108 @@ async def main():
                         except Exception as e:
                             st.error(f"Error translating response: {e}")
                     st.session_state.chat_history.append(("assistant", full_response))
-                    # if st.button("🔊 Dictate Response", key=f"dictate_text_{len(st.session_state.chat_history)}"):
-                    #     with st.spinner("Converting response to speech..."):
-                    #         try:
-                    #             agent = BhashiniVoiceAgent(
-                    #                 api_key=BHASHINI_API_KEY,
-                    #                 user_id=BHASHINI_USER_ID,
-                    #                 inference_api_key=BHASHINI_INFERENCE_API_KEY
-                    #             )
-                    #             tts_payload = {
-                    #                 "pipelineTasks": [
-                    #                     {
-                    #                         "taskType": "tts",
-                    #                         "config": {
-                    #                             "language": {"sourceLanguage": source_language[0]},
-                    #                             "gender": voice_gender,
-                    #                             "samplingRate": 8000
-                    #                         }
-                    #                     }
-                    #                 ],
-                    #                 "inputData": {
-                    #                     "input": [{"source": full_response}]
-                    #                 }
-                    #             }
-                    #             tts_result = agent.call_pipeline(tts_payload)
-                    #             audio_base64 = tts_result["pipelineResponse"][0]["audio"][0]["audioContent"]
-                    #             st.audio(base64.b64decode(audio_base64), format="audio/wav")
-                    #         except Exception as e:
-                    #             st.error(f"Error converting to speech: {e}")
-
-    if mic_audio and mic_audio.get('bytes'):
-        audio_hash = hashlib.md5(mic_audio['bytes']).hexdigest()
-        if st.session_state.get('last_processed_audio_hash') != audio_hash:
-            if (st.session_state.last_llm_model != st.session_state.llm_model or 
-                (st.session_state.last_source_language and 
-                st.session_state.last_source_language != source_language[0])):
-                st.session_state.last_llm_model = st.session_state.llm_model
-                st.session_state.last_source_language = source_language[0]
-                return
-            
-            # Initialize Bhashini only when needed
-            try:
-                from components.bhashini import BhashiniVoiceAgent
-                agent = BhashiniVoiceAgent(
-                    api_key=BHASHINI_API_KEY,
-                    user_id=BHASHINI_USER_ID,
-                    inference_api_key=BHASHINI_INFERENCE_API_KEY
-                )
-            except ImportError as e:
-                st.error("Failed to load Bhashini voice processing. Please check your Bhashini setup.")
-                logger.error(f"Bhashini import error: {str(e)}")
-                return
-            except Exception as e:
-                st.error("Failed to initialize Bhashini. Please check your API keys and internet connection.")
-                logger.error(f"Bhashini initialization error: {str(e)}")
-                return
-            
-            converted_audio = convert_audio_to_required_format(mic_audio['bytes'])
-            if not converted_audio:
-                st.error("Failed to convert audio. Please record a clear audio clip (at least 2 seconds) and try again. Ensure your microphone is working.")
-                return
+    if bhashini_flag:                
+        if mic_audio:
+            audio_hash = hashlib.md5(mic_audio['bytes']).hexdigest()
+            if st.session_state.get('last_processed_audio_hash') != audio_hash:
+                if (st.session_state.last_llm_model != st.session_state.llm_model or 
+                    (st.session_state.last_source_language and 
+                    st.session_state.last_source_language != source_language[0])):
+                    st.session_state.last_llm_model = st.session_state.llm_model
+                    st.session_state.last_source_language = source_language[0]
+                    return
                 
-            if not validate_audio(converted_audio):
-                st.error("Converted audio is invalid. Please record a clear audio clip (at least 2 seconds) in WAV format (16-bit, mono, 16kHz).")
-                return
-            
-            tmp_path = None
-            try:
-                with tempfile.NamedTemporaryFile(delete=False, suffix=".wav") as tmp:
-                    tmp.write(converted_audio)
-                    tmp_path = tmp.name
-                with st.spinner("Processing your voice input..."):
-                    start_time = time.time()
-                    result = agent.process_audio_pipeline(
-                        audio_path=tmp_path,
-                        source_lang=source_language[0]
-                    )
-                    response_time = time.time() - start_time
-                    update_performance_stats(success=True, response_time=response_time, language=source_language[0])
-                    if not result or not result.get('asr_text'):
-                        st.error("Failed to transcribe audio. Please try again.")
-                    elif result['asr_text'].strip():
-                        st.session_state.chat_history.append(("user", result['asr_text']))
-                        with chat_placeholder.container():
-                            with chat_container:
-                                with st.chat_message("user"):
-                                    st.markdown(result['asr_text'])
-                                with st.chat_message("assistant", avatar="🧠"):
-                                    output_box = st.empty()
-                                    response_parts = []
-                                    selections = None
-                                    if dataset_type == 'State':
-                                        selections = st.session_state['state_selection_unique']
-                                    elif dataset_type == 'Central':
-                                        selections = st.session_state['central_selection_unique']
-                                    with st.spinner("Getting response from LLM..."):
-                                        async def get_voice_response():
-                                            history_size = st.session_state.conversation_memory_size * 2
-                                            history = st.session_state.chat_history[-history_size:]
-                                            async for chunk in st.session_state.retriever.generate_streaming(
-                                                query=result['english_query'],
-                                                llm=st.session_state.llm,
-                                                filter_con=selections,
-                                                discovery_top_n=st.session_state.discovery_top_n,
-                                                use_multi_query=st.session_state.use_multi_query,
-                                                multi_query_n=st.session_state.multi_query_n if st.session_state.use_multi_query else None,
-                                                multi_query_ret_n=st.session_state.multi_query_ret_n if st.session_state.use_multi_query else None,
-                                                chat_history=history
-                                            ):
-                                                response_parts.append(chunk)
-                                                output_box.markdown("".join(response_parts))
-                                        await get_voice_response()
-                                        full_response = "".join(response_parts)
-                                        debug_log(f"English Query: {result['english_query']}")
-                                        debug_log(f"English Response: {full_response}")
-                                        try:
-                                            if source_language[0] != 'en':
-                                                full_response = translate_preserving_structure(
-                                                    full_response,
-                                                    "en",
-                                                    source_language[0]
-                                                )
-                                            output_box.markdown(full_response)
-                                            with st.spinner("Converting response to speech..."):
-                                                tts_payload = {
-                                                    "pipelineTasks": [
-                                                        {
-                                                            "taskType": "tts",
-                                                            "config": {
-                                                                "language": {"sourceLanguage": source_language[0]},
-                                                                "gender": voice_gender,
-                                                                "samplingRate": 8000
+                try:
+                    with st.spinner("Processing your voice input..."):
+                        start_time = time.time()
+                        result = bhashini_agent.process_audio_pipeline(
+                            audio_bytes=mic_audio['bytes'],
+                            source_lang=source_language[0]
+                        )
+                        response_time = time.time() - start_time
+                        update_performance_stats(success=True, response_time=response_time, language=source_language[0])
+                        if not result or not result.get('asr_text'):
+                            st.error("Failed to transcribe audio. Please try again.")
+                        elif result['asr_text'].strip():
+                            st.session_state.chat_history.append(("user", result['asr_text']))
+                            with chat_placeholder.container():
+                                with chat_container:
+                                    with st.chat_message("user"):
+                                        st.markdown(result['asr_text'])
+                                    with st.chat_message("assistant", avatar="🧠"):
+                                        output_box = st.empty()
+                                        response_parts = []
+                                        selections = None
+                                        if dataset_type == 'State':
+                                            selections = st.session_state['state_selection_unique']
+                                        elif dataset_type == 'Central':
+                                            selections = st.session_state['central_selection_unique']
+                                        with st.spinner("Getting response from LLM..."):
+                                            async def get_voice_response():
+                                                history_size = st.session_state.conversation_memory_size * 2
+                                                history = st.session_state.chat_history[-history_size:]
+                                                try:
+                                                    async for chunk in st.session_state.retriever.generate_streaming(
+                                                        query=result['english_query'],
+                                                        llm=st.session_state.llm,
+                                                        filter_con=selections,
+                                                        discovery_top_n=st.session_state.discovery_top_n,
+                                                        use_multi_query=st.session_state.use_multi_query,
+                                                        multi_query_n=st.session_state.multi_query_n if st.session_state.use_multi_query else None,
+                                                        multi_query_ret_n=st.session_state.multi_query_ret_n if st.session_state.use_multi_query else None,
+                                                        chat_history=history
+                                                    ):
+                                                        response_parts.append(chunk)
+                                                        output_box.markdown("".join(response_parts))
+                                                except Exception as e:
+                                                    error_message = str(e).lower()
+                                                    if "api key" in error_message or "authentication" in error_message or "401" in error_message:
+                                                        st.error("Error: LLM API key is incorrect or missing. Please check your API key configuration.")
+                                                    else:
+                                                        st.error(f"An unexpected error occurred: {e}")
+                                                    return # Exit if an error occurs
+                                            await get_voice_response()
+                                            full_response = "".join(response_parts)
+                                            if not full_response: # If an error occurred and no response was generated
+                                                return
+                                            debug_log(f"English Query: {result['english_query']}")
+                                            debug_log(f"English Response: {full_response}")
+                                            try:
+                                                if source_language[0] != 'en':
+                                                    full_response = bhashini_agent.translate_preserving_structure(
+                                                        full_response,
+                                                        "en",
+                                                        source_language[0]
+                                                    )
+                                                output_box.markdown(full_response)
+                                                with st.spinner("Converting response to speech..."):
+                                                    tts_payload = {
+                                                        "pipelineTasks": [
+                                                            {
+                                                                "taskType": "tts",
+                                                                "config": {
+                                                                    "language": {"sourceLanguage": source_language[0]},
+                                                                    "gender": voice_gender,
+                                                                    "samplingRate": 8000
+                                                                }
                                                             }
+                                                        ],
+                                                        "inputData": {
+                                                            "input": [{"source": full_response}]
                                                         }
-                                                    ],
-                                                    "inputData": {
-                                                        "input": [{"source": full_response}]
                                                     }
-                                                }
-                                                tts_result = agent.call_pipeline(tts_payload)
-                                                audio_base64 = tts_result["pipelineResponse"][0]["audio"][0]["audioContent"]
-                                                st.audio(base64.b64decode(audio_base64), format="audio/wav")
-                                        except Exception as e:
-                                            st.error(f"Error processing response: {e}")
-                                            st.exception(e)
-                                        st.session_state.chat_history.append(("assistant", full_response))
-            except Exception as e:
-                st.error(f"An unexpected error occurred during audio processing. Please try again or check your Bhashini API setup.")
-                st.exception(e)
-                update_performance_stats(success=False, response_time=0, language=source_language[0])
-            finally:
-                if tmp_path and os.path.exists(tmp_path):
-                    try:
-                        os.unlink(tmp_path)
-                    except Exception as e:
-                        logger.error(f"Error cleaning up temporary file: {e}")
-                
-        st.session_state.last_processed_audio_hash = audio_hash
-    
+                                                    tts_result = bhashini_agent.call_pipeline(tts_payload)
+                                                    audio_base64 = tts_result["pipelineResponse"][0]["audio"][0]["audioContent"]
+                                                    st.audio(base64.b64decode(audio_base64), format="audio/wav")
+                                            except Exception as e:
+                                                st.error(f"Error processing response: {e}")
+                                            st.session_state.chat_history.append(("assistant", full_response))
+                except Exception as e:
+                    st.error(f"Error processing audio: {str(e)}")
+                    update_performance_stats(success=False, response_time=0, language=source_language[0])
+                    
+            st.session_state.last_processed_audio_hash = audio_hash
+    # if bhashini_flag:
     if st.session_state.last_source_language != source_language[0]:
         st.session_state.last_source_language = source_language[0]
     if st.session_state.last_llm_model != llm_model:

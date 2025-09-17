@@ -5,12 +5,12 @@ import logging
 from langchain_core.documents import Document
 from langchain_huggingface.embeddings import HuggingFaceEmbeddings
 from langchain_qdrant import QdrantVectorStore
-from components.indexing_agent import Agent
+from src.components.indexing_agent import Agent
 import pickle
-from components.llms import get_hpc_llm
+from src.services.llms import get_hpc_llm
 from langchain_groq import ChatGroq
-from components.config import LLM_MODELS, DATASET_NAMES
-from components.scrape_api import extract_slug_from_url, fetch_scheme_data
+from src.config import LLM_MODELS, DATASET_NAMES
+from src.utils.scrape_api import extract_slug_from_url, fetch_scheme_data
 
 
 st.set_page_config(layout='wide', page_title="Indexing Endpoint")
@@ -91,7 +91,7 @@ st.title("Indexing Endpoint")
 st.markdown("Add new schemes or documents to the dataset with ease.")
 
 # Env check
-if 'qdrant_link' not in os.environ or 'qdrant_api' not in os.environ:
+if 'QDRANT_LINK' not in os.environ or 'QDRANT_API' not in os.environ:
     st.error("Missing Qdrant configuration. Please check environment variables.")
     st.stop()
 
@@ -436,8 +436,8 @@ with st.container():
                     vectorstore = QdrantVectorStore.from_existing_collection(
                         embedding=st.session_state.embeddings,
                         collection_name=collection_name,
-                        url=os.environ['qdrant_link'],
-                        api_key=os.environ['qdrant_api']
+                        url=os.environ['QDRANT_LINK'],
+                        api_key=os.environ['QDRANT_API']
                     )
                     vectorstore.add_documents([doc])
                     st.session_state.show_success = True

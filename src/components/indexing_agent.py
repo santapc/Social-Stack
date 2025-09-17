@@ -10,8 +10,8 @@ from PyPDF2 import PdfReader
 from typing import List, Dict, Tuple
 import pytesseract
 from pdf2image import convert_from_path
-from components.llms import get_hpc_llm
-from components.prompts import get_scheme_extraction_prompt_template
+from src.services.llms import get_hpc_llm
+from src.components.prompts import get_scheme_extraction_prompt_template
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)

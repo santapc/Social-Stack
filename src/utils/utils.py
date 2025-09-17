@@ -1,7 +1,7 @@
 import os
 import streamlit as st
 import pickle
-from components.config import LLM_MODELS
+from src.config import LLM_MODELS, DATASET_NAMES
 
 BHASHINI_API_KEY = os.getenv('BHASHINI_API_KEY')
 BHASHINI_USER_ID = os.getenv('BHASHINI_USER_ID')
@@ -22,24 +22,76 @@ def validate_bhashini_setup():
     }
     missing_vars = [key for key, value in required_vars.items() if not value]
     if missing_vars:
-        st.error(f"Missing environment variables: {', '.join(missing_vars)}")
-        st.info("Please create a .env file with your Bhashini credentials")
-        st.code("""
-            # Create .env file in your project root:
-            BHASHINI_API_KEY=your_api_key_here
-            BHASHINI_USER_ID=your_user_id_here
-            BHASHINI_INFERENCE_API_KEY=your_inference_key_here
-        """)
         return False
-    api_key = required_vars['BHASHINI_API_KEY']
-    if len(api_key) < 30 or '-' not in api_key:
-        # st.warning("Bhashini API key format seems incorrect. Please verify from Bhashini dashboard.")
-        pass
-    user_id = required_vars['BHASHINI_USER_ID']
-    if len(user_id) < 30:
-        # st.warning("Bhashini User ID format seems incorrect. Please verify from Bhashini dashboard.")
-        pass
-    return True
+    else:
+        return True
+
+def debug_log(msg):
+    """
+    Logs a debug message to session state and console if debug mode is enabled.
+
+    Args:
+        msg (str): The message to log.
+
+    Side Effects:
+        Appends the message to st.session_state.debug_logs and logs to console if debug_mode is True.
+    """
+    if st.session_state.debug_mode:
+        st.session_state.debug_logs.append(msg)
+        # logger.info(f"Debug log: {msg}") # logger is not defined here
+
+def monitor_api_performance():
+    """
+    Returns the current Bhashini API performance statistics.
+
+    Returns:
+        dict: Statistics including total requests, successful requests, failed requests,
+              average response time, and language usage.
+    """
+    return st.session_state.bhashini_stats
+
+def update_performance_stats(success=True, response_time=0, language=None):
+    """
+    Updates Bhashini API performance statistics.
+
+    Args:
+        success (bool): Whether the API call was successful.
+        response_time (float): Time taken for the API call in seconds.
+        language (str, optional): Language used in the API call.
+
+    Side Effects:
+        Updates st.session_state.bhashini_stats with new statistics.
+    """
+    stats = st.session_state.bhashini_stats
+    stats['total_requests'] += 1
+    if success:
+        stats['successful_requests'] += 1
+    else:
+        stats['failed_requests'] += 1
+    if stats['total_requests'] > 0:
+        stats['avg_response_time'] = (
+            (stats['avg_response_time'] * (stats['total_requests'] - 1) + response_time) 
+            / stats['total_requests']
+        )
+    if language:
+        stats['language_usage'][language] = stats['language_usage'].get(language, 0) + 1
+
+def pickle_read(filename):
+    """
+    Reads a pickled file and returns its contents.
+
+    Args:
+        filename (str): Path to the pickled file.
+
+    Returns:
+        object: The deserialized object from the file.
+
+    Raises:
+        FileNotFoundError: If the specified file does not exist.
+        pickle.UnpicklingError: If the file cannot be unpickled.
+    """
+    with open(filename, 'rb') as f:
+        return pickle.load(f)
 
 def initialize_session_state():
     """
@@ -71,10 +123,9 @@ def initialize_session_state():
     if 'last_response_text' not in st.session_state:
         st.session_state.last_response_text = ""
     if 'dataset' not in st.session_state:
-        st.session_state.dataset = "all_myschemes_simple_v1"
+        st.session_state.dataset = DATASET_NAMES[0] if DATASET_NAMES else "default_dataset"
     if 'llm_model' not in st.session_state:
-        # Set default LLM model to the first available model, or None if no models are available
-        st.session_state.llm_model = LLM_MODELS[0] if LLM_MODELS else None
+        st.session_state.llm_model = LLM_MODELS[0] if LLM_MODELS else "default_llm_model"
     if 'discovery_top_n' not in st.session_state:
         st.session_state.discovery_top_n = 5
     if 'use_multi_query' not in st.session_state:
@@ -84,9 +135,9 @@ def initialize_session_state():
     if 'multi_query_ret_n' not in st.session_state:
         st.session_state.multi_query_ret_n = 3
     if 'states_list' not in st.session_state:
-        st.session_state.states_list = pickle_read("assets/all_states.bin")
+        st.session_state.states_list = pickle_read("src/assets/all_states.bin")
     if 'ministries_list' not in st.session_state:
-        st.session_state.ministries_list = pickle_read("assets/all_ministries.bin")
+        st.session_state.ministries_list = pickle_read("src/assets/all_ministries.bin")
     if 'last_llm_model' not in st.session_state:
         st.session_state.last_llm_model = st.session_state.llm_model
     if 'last_source_language' not in st.session_state:
@@ -101,7 +152,13 @@ def initialize_session_state():
         st.session_state.sync_aadhaar = False
     if 'dataset_type' not in st.session_state:
         st.session_state.dataset_type = "All"
-
-def pickle_read(filename):
-    with open(filename, 'rb') as f:
-        return pickle.load(f)
+    if 'user_info' not in st.session_state:
+        st.session_state.user_info = None
+    if "aadhaar_info_list" not in st.session_state:
+        st.session_state.aadhaar_info_list = []
+    if "aadhaar_state" not in st.session_state:
+        st.session_state.aadhaar_state = None
+    if "aadhaar_filter_enabled" not in st.session_state:
+        st.session_state.aadhaar_filter_enabled = False
+    if "sync_aadhaar" not in st.session_state:
+        st.session_state.sync_aadhaar = False
