@@ -32,5 +32,5 @@ TESSERACT_PATH = os.getenv('TESSERACT_PATH', config["paths"]["tesseract"])
 POPPLER_PATH = os.getenv('POPPLER_PATH', config["paths"]["poppler"])
 
 # Digilocker configuration
-REDIRECT_URL = config["digilocker"]["redirect_url"]
-
+REDIRECT_URL = config["digilocker"]["redirect_uri"]
+redirect_uri = config["digilocker"]["redirect_uri"]
